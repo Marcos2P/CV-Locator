@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T16:15:03.750Z",
+  "updatedAt": "2026-11-11T16:48:48.389Z",
   "jobs": [
     {
       "searchId": "lager",
@@ -105,6 +105,43 @@
         ],
         "language": "Deutsch A2 oder Englisch B1"
       }
+    },
+    {
+      "searchId": "lager",
+      "title": "Teamleiter:in Logistik 100%",
+      "titleEs": "Jefe/a de equipo de Logística 100 %",
+      "company": "Woodpecker Group AG",
+      "location": "Frauenfeld",
+      "postedAt": "2026-11-06",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/f3f253c6-647e-4b1e-9ed3-7edd6abe37fe",
+      "summary": "Jefatura operativa de un equipo de almacén de 6 personas en Frauenfeld, con un 70 % de trabajo práctico.",
+      "description": "Dirigir el equipo de almacén, coordinar entrada de mercancía, almacenaje, picking y carga, asegurar que los pedidos se tramiten a tiempo y planificar personal y medios.",
+      "requirements": [
+        "Formación de Logistiker EFZ o similar con experiencia",
+        "Varios años de experiencia en logística",
+        "Mínimo 2 años de experiencia como líder",
+        "Carnet de carretillero SUVA (mín. R2)"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán muy bueno",
+      "de": {
+        "title": "Teamleiter:in Logistik 100%",
+        "summary": "Operative Leitung eines sechsköpfigen Lagerteams in Frauenfeld mit ca. 70 % operativer Tätigkeit.",
+        "description": "Lagerteam führen, Wareneingang, Lagerung, Kommissionierung und Verladung koordinieren, termingerechte Auftragsabwicklung sicherstellen sowie Personal- und Geräteeinsatz planen.",
+        "requirements": [
+          "Ausbildung als Logistiker EFZ oder vergleichbar mit Erfahrung",
+          "Mehrjährige Berufserfahrung in der Logistik",
+          "Mindestens 2 Jahre Führungserfahrung",
+          "SUVA-anerkannter Staplerausweis (mind. R2)"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Sehr gute Deutschkenntnisse"
+      },
+      "id": "20d8c347f662",
+      "foundAt": "2026-11-11T16:48:48.389Z"
     },
     {
       "searchId": "frontend-react",
