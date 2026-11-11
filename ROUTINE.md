@@ -6,12 +6,34 @@ Si quieres cambiar cómo se busca, cambia este archivo: la tarea lo lee en cada 
 ## Pasos
 
 1. Lee `public/data/searches.json`. Usa solo las búsquedas con `"active": true`.
-2. Para cada búsqueda, busca en la web ofertas **publicadas en los últimos 7 días** que encajen con
-   `title` y `keywords`, en `location` (± `radiusKm`). Fuentes por orden de preferencia:
-   - jobs.ch, jobup.ch, jobscout24.ch, indeed.ch, linkedin.com/jobs, job-room.ch (RAV), stepstone.ch
-   - páginas de empleo de las propias empresas (Migros, Coop, Denner, Hornbach, Flughafen Zürich, etc.)
-3. Abre cada oferta candidata para comprobar que **existe, sigue abierta** y tiene fecha de publicación.
-   Descarta las que no tengan fecha fiable, estén cerradas o sean de fuera de la zona.
+2. Para cada búsqueda, busca ofertas **publicadas en los últimos 7 días** que encajen con
+   `title` y `keywords`, en `location` (± `radiusKm`).
+
+   **No te fíes solo del buscador web**: suele devolver anuncios viejos que ya dan 404/410.
+   Empieza abriendo con WebFetch las **páginas de resultados de los portales**, ordenadas por fecha,
+   y saca de ahí título, empresa, lugar, fecha y enlace de cada oferta:
+
+   - **jobs.ch** (la fuente principal): `https://www.jobs.ch/de/stellenangebote/?term=<TÉRMINO>&location=<LUGAR>&sort-by=date`
+     Cada resultado trae fecha de publicación y lugar. Prueba también páginas 2–3 (`&page=2`).
+   - **LinkedIn** (empleos públicos, filtro de 7 días): `https://www.linkedin.com/jobs/search/?keywords=<TÉRMINO>&location=<LUGAR>&f_TPR=r604800`
+   - **jobscout24.ch**: `https://www.jobscout24.ch/de/jobs/<TÉRMINO>/<LUGAR>/`
+   - Webs de empleo de empresas de la zona cuando encajen (Migros, Coop, Denner, Hornbach, Flughafen Zürich,
+     Swissport, Gate Group, ISS, etc.).
+   - El buscador web (WebSearch) solo como complemento, para descubrir empresas o portales.
+
+   Usa varios términos por búsqueda (el `title` y cada una de las `keywords`) y varios lugares de la zona
+   (para Sirnach TG con radio 30–60 km: Sirnach, Wil SG, Frauenfeld, Winterthur, Münchwilen, Uzwil,
+   St. Gallen y Zürich si entran en el radio).
+
+   **Mínimo de esfuerzo:** antes de concluir que una búsqueda no tiene ofertas nuevas, revisa al menos
+   **3 páginas de resultados de portales** y al menos **10 ofertas candidatas** para esa búsqueda.
+   Si un portal falla (404, 403, bloqueo), pasa al siguiente; no te rindas tras los primeros errores.
+   No intentes saltarte bloqueos de los portales (nada de cambiar el user-agent ni usar proxies).
+
+3. Comprueba cada oferta candidata: debe tener **fecha de publicación de los últimos 7 días** (de la página
+   de resultados o de la propia oferta) y seguir publicada. Si la página de la oferta no se puede abrir pero
+   el portal la lista hoy con fecha reciente, vale: usa los datos de la lista y escribe un `summary` corto
+   basado solo en lo que sabes (puesto, empresa, lugar, pensum). Descarta las de fuera de la zona.
 4. Lee `public/data/jobs.json` y no vuelvas a añadir ofertas que ya estén (misma URL o mismo puesto + empresa).
 5. Escribe las ofertas nuevas en `/tmp/candidatas.json` como array JSON con este formato:
 
