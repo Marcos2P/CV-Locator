@@ -6,6 +6,7 @@ Si quieres cambiar cómo se busca, cambia este archivo: la tarea lo lee en cada 
 ## Pasos
 
 1. Lee `public/data/searches.json`. Usa solo las búsquedas con `"active": true`.
+   (`labels` es solo el nombre que enseña la app; para buscar usa `title` y `keywords`.)
 2. Para cada búsqueda, busca ofertas **publicadas en los últimos 7 días** que encajen con
    `title` y `keywords`, en `location` (± `radiusKm`).
 
@@ -51,14 +52,17 @@ Si quieres cambiar cómo se busca, cambia este archivo: la tarea lo lee en cada 
      "description": "Párrafo en español con las tareas principales.",
      "requirements": ["Requisito 1", "Requisito 2"],
      "workload": "80–100 %",
-     "employmentType": "Festanstellung",
+     "employmentType": "Contrato fijo",
      "salary": "CHF 80'000–95'000",
-     "language": "Deutsch B2, Englisch",
+     "language": "Alemán B2, inglés",
      "de": {
        "title": "Junior Frontend Entwickler (React)",
        "summary": "Dieselbe Zusammenfassung auf Deutsch.",
        "description": "Derselbe Absatz auf Deutsch.",
-       "requirements": ["Anforderung 1", "Anforderung 2"]
+       "requirements": ["Anforderung 1", "Anforderung 2"],
+       "workload": "80–100 %",
+       "employmentType": "Festanstellung",
+       "language": "Deutsch B2, Englisch"
      }
    }
    ```
@@ -68,7 +72,8 @@ Si quieres cambiar cómo se busca, cambia este archivo: la tarea lo lee en cada 
 
    Obligatorios: `searchId`, `title`, `company`, `location`, `postedAt` (YYYY-MM-DD), `source`, `url`, `summary`.
    El resto solo si aparece en la oferta. **No inventes datos.** `title` y `company` tal cual aparecen en la oferta;
-   `summary`, `description` y `requirements` en español, y los mismos tres campos en alemán dentro de `de`
+   `summary`, `description`, `requirements`, `workload`, `employmentType` y `language` **en español** (nada de
+   mezclar idiomas), y los mismos campos en alemán dentro de `de`
    (la app tiene selector ES/DE). Si la oferta original está en alemán, para `de` usa su propio texto resumido.
 
 6. Ejecuta `node scripts/update-jobs.mjs /tmp/candidatas.json`. El script valida, quita duplicados,

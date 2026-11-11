@@ -18,8 +18,8 @@
         "Resistencia física, apto para trabajo en frío"
       ],
       "workload": "80–100 %",
-      "employmentType": "Festanstellung",
-      "language": "Deutsch (gute Kenntnisse requeridos)",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán (buen nivel)",
       "id": "f3ad965b39e4",
       "foundAt": "2026-11-11T15:58:35.846Z",
       "titleEs": "Preparador/a de pedidos 80–100 %",
@@ -32,7 +32,10 @@
           "SUVA-anerkannter Staplerausweis",
           "Kenntnisse von Lagerverwaltungssystemen",
           "Körperlich belastbar, kältetauglich"
-        ]
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Festanstellung",
+        "language": "Gute Deutschkenntnisse"
       }
     },
     {
@@ -52,7 +55,7 @@
         "Permiso C o B con autorización de trabajo"
       ],
       "workload": "20–32 h/semana",
-      "language": "Deutsch A2 oder Englisch B1",
+      "language": "Alemán A2 o inglés B1",
       "id": "51fa8f1aa794",
       "foundAt": "2026-11-11T15:58:35.846Z",
       "titleEs": "Limpiador/a de aviones y acompañante de camión",
@@ -65,7 +68,9 @@
           "Keine Vorstrafen (nötig für den Flughafenausweis)",
           "Gute körperliche Verfassung und Zuverlässigkeit",
           "Bewilligung C oder B mit Arbeitserlaubnis"
-        ]
+        ],
+        "workload": "20–32 Std./Woche",
+        "language": "Deutsch A2 oder Englisch B1"
       }
     },
     {
@@ -84,7 +89,7 @@
         "Buena condición física y fiabilidad",
         "Permiso C o B con autorización de trabajo"
       ],
-      "language": "Deutsch A2 oder Englisch B1",
+      "language": "Alemán A2 o inglés B1",
       "id": "8c24e473a9da",
       "foundAt": "2026-11-11T15:58:35.846Z",
       "titleEs": "Limpiador/a de aviones",
@@ -97,7 +102,8 @@
           "Keine Vorstrafen",
           "Gute körperliche Verfassung und Zuverlässigkeit",
           "Bewilligung C oder B mit Arbeitserlaubnis"
-        ]
+        ],
+        "language": "Deutsch A2 oder Englisch B1"
       }
     },
     {
@@ -116,8 +122,8 @@
         "Conocimientos de micro-frontends y accesibilidad"
       ],
       "workload": "80–100 %",
-      "employmentType": "Festanstellung",
-      "language": "Deutsch fliessend, Englisch fortgeschritten",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán fluido, inglés avanzado",
       "id": "2ad53405872e",
       "foundAt": "2026-11-11T15:58:35.846Z",
       "titleEs": "Ingeniero/a Frontend jefe (Lead)",
@@ -129,7 +135,10 @@
           "Umfassende Erfahrung mit React, TypeScript und SSR (Next.js/Remix)",
           "Mindestens 10 Jahre Erfahrung, davon 2 in Führungs- oder Architekturrolle",
           "Kenntnisse in Micro-Frontends und Barrierefreiheit"
-        ]
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch fliessend, Englisch fortgeschritten"
       }
     }
   ]

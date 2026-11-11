@@ -11,7 +11,7 @@ interface Props {
 
 /** Chips con tus búsquedas activas; al pulsar una se filtran las tarjetas */
 function SearchFilter({ searches, selected, onSelect }: Props) {
-  const { t } = useLanguage()
+  const { t, lang } = useLanguage()
   const active = searches.filter((s) => s.active)
   if (active.length === 0) return null
 
@@ -32,7 +32,7 @@ function SearchFilter({ searches, selected, onSelect }: Props) {
           onClick={() => onSelect(s.id)}
           title={t.keywords(s.keywords.join(', '))}
         >
-          {s.title} <span className={styles.loc}>· {s.location}</span>
+          {s.labels?.[lang] ?? s.title} <span className={styles.loc}>· {s.location}</span>
         </button>
       ))}
     </div>

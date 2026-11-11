@@ -2,7 +2,17 @@
   {
     "id": "frontend-react",
     "title": "Frontend Developer",
-    "keywords": ["React", "TypeScript", "Frontend", "Junior", "Web Developer"],
+    "labels": {
+      "es": "Desarrollador Frontend",
+      "de": "Frontend-Entwickler"
+    },
+    "keywords": [
+      "React",
+      "TypeScript",
+      "Frontend",
+      "Junior",
+      "Web Developer"
+    ],
     "location": "Sirnach TG",
     "radiusKm": 60,
     "active": true
@@ -10,7 +20,16 @@
   {
     "id": "lager",
     "title": "Lagermitarbeiter",
-    "keywords": ["Lager", "Logistik", "Warenausgang", "Kommissionierer"],
+    "labels": {
+      "es": "Almacén",
+      "de": "Lagermitarbeiter"
+    },
+    "keywords": [
+      "Lager",
+      "Logistik",
+      "Warenausgang",
+      "Kommissionierer"
+    ],
     "location": "Sirnach TG",
     "radiusKm": 30,
     "active": true
@@ -18,7 +37,16 @@
   {
     "id": "reinigung-flughafen",
     "title": "Reinigung Flughafen",
-    "keywords": ["Reinigung", "Flugzeugreinigung", "Kabinenreinigung", "Flughafen"],
+    "labels": {
+      "es": "Limpieza aeropuerto",
+      "de": "Reinigung Flughafen"
+    },
+    "keywords": [
+      "Reinigung",
+      "Flugzeugreinigung",
+      "Kabinenreinigung",
+      "Flughafen"
+    ],
     "location": "Zürich Flughafen",
     "radiusKm": 15,
     "active": true

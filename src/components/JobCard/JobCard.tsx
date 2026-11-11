@@ -30,7 +30,7 @@ function JobCard({ job, onOpen, appliedAt }: Props) {
 
       <ul className={styles.meta}>
         <li>📍 {job.location}</li>
-        {job.workload && <li>⏱ {job.workload}</li>}
+        {texts.workload && <li>⏱ {texts.workload}</li>}
         <li>🗓 {relativeDay(job.postedAt, t)}</li>
       </ul>
 

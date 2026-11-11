@@ -64,16 +64,16 @@ function JobDetail({ job, appliedAt, onClose, onMarkApplied, onUnmarkApplied }: 
               <dt>{t.fieldLocation}</dt>
               <dd>{job.location}</dd>
             </div>
-            {job.workload && (
+            {texts.workload && (
               <div>
                 <dt>{t.fieldWorkload}</dt>
-                <dd>{job.workload}</dd>
+                <dd>{texts.workload}</dd>
               </div>
             )}
-            {job.employmentType && (
+            {texts.employmentType && (
               <div>
                 <dt>{t.fieldContract}</dt>
-                <dd>{job.employmentType}</dd>
+                <dd>{texts.employmentType}</dd>
               </div>
             )}
             {job.salary && (
@@ -82,10 +82,10 @@ function JobDetail({ job, appliedAt, onClose, onMarkApplied, onUnmarkApplied }: 
                 <dd>{job.salary}</dd>
               </div>
             )}
-            {job.language && (
+            {texts.language && (
               <div>
                 <dt>{t.fieldLanguage}</dt>
-                <dd>{job.language}</dd>
+                <dd>{texts.language}</dd>
               </div>
             )}
             <div>

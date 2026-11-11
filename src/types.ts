@@ -1,8 +1,10 @@
 /** Una búsqueda guardada en public/data/searches.json */
 export interface Search {
   id: string
-  /** Puesto que buscas, p. ej. "Frontend Developer" */
+  /** Puesto que buscas, p. ej. "Frontend Developer" (lo usa la búsqueda diaria) */
   title: string
+  /** Nombre que se enseña en la app en cada idioma */
+  labels?: { es?: string; de?: string }
   /** Palabras clave que deben aparecer en la oferta */
   keywords: string[]
   /** Ubicación, p. ej. "Zürich" o "Sirnach TG" */
@@ -54,6 +56,9 @@ export interface JobTexts {
   summary?: string
   description?: string
   requirements?: string[]
+  workload?: string
+  employmentType?: string
+  language?: string
 }
 
 export interface JobsFile {

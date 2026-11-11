@@ -6,10 +6,13 @@ export interface LocalizedJobTexts {
   summary: string
   description?: string
   requirements?: string[]
+  workload?: string
+  employmentType?: string
+  language?: string
 }
 
 /**
- * Título, resumen, descripción y requisitos de una oferta en el idioma elegido.
+ * Textos de una oferta en el idioma elegido.
  * - ES: los campos principales (+ `titleEs`). DE: el bloque `de`.
  * - Si falta una traducción, se usa el texto que haya (el título original como último recurso).
  */
@@ -19,12 +22,20 @@ export function jobTexts(job: Job, lang: Language): LocalizedJobTexts {
     summary: job.summary,
     description: job.description,
     requirements: job.requirements,
+    workload: job.workload,
+    employmentType: job.employmentType,
+    language: job.language,
   }
   if (lang === 'es') return es
+
+  const de = job.de ?? {}
   return {
-    title: job.de?.title ?? job.title,
-    summary: job.de?.summary ?? es.summary,
-    description: job.de?.description ?? es.description,
-    requirements: job.de?.requirements ?? es.requirements,
+    title: de.title ?? job.title,
+    summary: de.summary ?? es.summary,
+    description: de.description ?? es.description,
+    requirements: de.requirements ?? es.requirements,
+    workload: de.workload ?? es.workload,
+    employmentType: de.employmentType ?? es.employmentType,
+    language: de.language ?? es.language,
   }
 }
