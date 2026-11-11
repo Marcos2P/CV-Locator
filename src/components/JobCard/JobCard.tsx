@@ -25,7 +25,7 @@ function JobCard({ job, onOpen, appliedAt }: Props) {
         {appliedAt && <span className={styles.applied}>{t.appliedBadge(relativeDay(appliedAt, t))}</span>}
       </div>
 
-      <h3 className={styles.title}>{job.title}</h3>
+      <h3 className={styles.title}>{texts.title}</h3>
       <p className={styles.summary}>{texts.summary}</p>
 
       <ul className={styles.meta}>

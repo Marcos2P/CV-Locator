@@ -49,6 +49,7 @@ export const es = {
   fieldPosted: 'Publicada',
   fieldSource: 'Fuente',
   requirements: 'Requisitos',
+  originalTitle: 'Título original',
   applyOn: (source: string) => `Solicitar en ${source} ↗`,
   markApplied: 'Marcar como solicitado',
   appliedOn: (date: string) => `✓ Solicitado el ${date} · deshacer`,

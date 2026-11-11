@@ -21,7 +21,19 @@
       "employmentType": "Festanstellung",
       "language": "Deutsch (gute Kenntnisse requeridos)",
       "id": "f3ad965b39e4",
-      "foundAt": "2026-11-11T15:58:35.846Z"
+      "foundAt": "2026-11-11T15:58:35.846Z",
+      "titleEs": "Preparador/a de pedidos 80–100 %",
+      "de": {
+        "title": "Kommissioniererin / Kommissionierer 80-100%",
+        "summary": "Kommissionierung im Lager (Transgourmet) in Winterthur, auch in Kühlräumen.",
+        "description": "Kundenaufträge genau und termingerecht kommissionieren, auch in Kühlräumen (3–5 °C), Transporteinheiten verladen und der Tour zuordnen, Nachschub anfordern und bei Inventuren mithelfen.",
+        "requirements": [
+          "Erfahrung im Wareneingang und in der Kommissionierung",
+          "SUVA-anerkannter Staplerausweis",
+          "Kenntnisse von Lagerverwaltungssystemen",
+          "Körperlich belastbar, kältetauglich"
+        ]
+      }
     },
     {
       "searchId": "reinigung-flughafen",
@@ -42,7 +54,19 @@
       "workload": "20–32 h/semana",
       "language": "Deutsch A2 oder Englisch B1",
       "id": "51fa8f1aa794",
-      "foundAt": "2026-11-11T15:58:35.846Z"
+      "foundAt": "2026-11-11T15:58:35.846Z",
+      "titleEs": "Limpiador/a de aviones y acompañante de camión",
+      "de": {
+        "title": "Mitarbeiter*in Flugzeugreinigung LKW-Beifahrer (m/w/d)",
+        "summary": "Reinigung von Bordküchen und Flugzeugkabinen am Flughafen Zürich als LKW-Beifahrer/in.",
+        "description": "Den LKW-Fahrer beim Manövrieren einweisen, den LKW ausrüsten, Galleys reinigen und Abfälle entsorgen sowie allgemeine Innenreinigung von Flugzeugen. Schichten 06:30–12:00 oder 16:00–21:00, auch an Wochenenden und Feiertagen.",
+        "requirements": [
+          "Deutsch A2 oder Englisch B1",
+          "Keine Vorstrafen (nötig für den Flughafenausweis)",
+          "Gute körperliche Verfassung und Zuverlässigkeit",
+          "Bewilligung C oder B mit Arbeitserlaubnis"
+        ]
+      }
     },
     {
       "searchId": "reinigung-flughafen",
@@ -62,7 +86,19 @@
       ],
       "language": "Deutsch A2 oder Englisch B1",
       "id": "8c24e473a9da",
-      "foundAt": "2026-11-11T15:58:35.846Z"
+      "foundAt": "2026-11-11T15:58:35.846Z",
+      "titleEs": "Limpiador/a de aviones",
+      "de": {
+        "title": "Mitarbeiter*in Flugzeugreinigung (m/w/d)",
+        "summary": "Allgemeine Innenreinigung von Flugzeugen am Flughafen Zürich, mit unregelmässigen Schichten.",
+        "description": "Allgemeine Reinigung von Flugzeugen verschiedener Airlines unter Einhaltung der Hygienestandards, im Team. Früh- (06:30–12:00) oder Spätschicht (16:00–21:00), auch an Wochenenden und Feiertagen.",
+        "requirements": [
+          "Deutsch A2 oder Englisch B1",
+          "Keine Vorstrafen",
+          "Gute körperliche Verfassung und Zuverlässigkeit",
+          "Bewilligung C oder B mit Arbeitserlaubnis"
+        ]
+      }
     },
     {
       "searchId": "frontend-react",
@@ -83,7 +119,18 @@
       "employmentType": "Festanstellung",
       "language": "Deutsch fliessend, Englisch fortgeschritten",
       "id": "2ad53405872e",
-      "foundAt": "2026-11-11T15:58:35.846Z"
+      "foundAt": "2026-11-11T15:58:35.846Z",
+      "titleEs": "Ingeniero/a Frontend jefe (Lead)",
+      "de": {
+        "title": "Lead Frontend Engineer",
+        "summary": "Senior-Stelle mit technischer Frontend-Führung (React, TypeScript, SSR) im E-Commerce. Keine Junior-Stelle.",
+        "description": "Verantwortung für die Frontend-Architektur mehrerer Teams, Standards für React/TypeScript/SSR, Micro-Frontends, Designsystem, Web-Performance, Sicherheit und Barrierefreiheit.",
+        "requirements": [
+          "Umfassende Erfahrung mit React, TypeScript und SSR (Next.js/Remix)",
+          "Mindestens 10 Jahre Erfahrung, davon 2 in Führungs- oder Architekturrolle",
+          "Kenntnisse in Micro-Frontends und Barrierefreiheit"
+        ]
+      }
     }
   ]
 }

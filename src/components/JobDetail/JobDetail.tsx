@@ -50,8 +50,14 @@ function JobDetail({ job, appliedAt, onClose, onMarkApplied, onUnmarkApplied }: 
 
           <p className={styles.company}>{job.company}</p>
           <h2 id="job-detail-title" className={styles.title}>
-            {job.title}
+            {texts.title}
           </h2>
+          {/* Si el título está traducido, enseñamos también el original: es el que hay que usar al solicitar */}
+          {texts.title !== job.title && (
+            <p className={styles.original}>
+              {t.originalTitle}: <span lang="de">{job.title}</span>
+            </p>
+          )}
 
           <dl className={styles.facts}>
             <div>

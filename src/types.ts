@@ -19,7 +19,10 @@ export interface Job {
   id: string
   /** Búsqueda que la encontró */
   searchId: string
+  /** Título tal cual aparece en la oferta original (suele estar en alemán) */
   title: string
+  /** Título traducido al español */
+  titleEs?: string
   company: string
   location: string
   /** Fecha de publicación de la oferta (YYYY-MM-DD) */
@@ -47,6 +50,7 @@ export interface Job {
 }
 
 export interface JobTexts {
+  title?: string
   summary?: string
   description?: string
   requirements?: string[]

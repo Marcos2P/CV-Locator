@@ -47,6 +47,7 @@ export const de: Dictionary = {
   fieldPosted: 'Veröffentlicht',
   fieldSource: 'Quelle',
   requirements: 'Anforderungen',
+  originalTitle: 'Originaltitel',
   applyOn: (source) => `Auf ${source} bewerben ↗`,
   markApplied: 'Als beworben markieren',
   appliedOn: (date) => `✓ Beworben am ${date} · rückgängig`,

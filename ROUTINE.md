@@ -40,7 +40,8 @@ Si quieres cambiar cómo se busca, cambia este archivo: la tarea lo lee en cada 
    ```json
    {
      "searchId": "frontend-react",
-     "title": "Junior Frontend Developer (React)",
+     "title": "Junior Frontend Entwickler (React)",
+     "titleEs": "Desarrollador/a Frontend junior (React)",
      "company": "Empresa AG",
      "location": "Winterthur ZH",
      "postedAt": "2026-11-11",
@@ -54,12 +55,16 @@ Si quieres cambiar cómo se busca, cambia este archivo: la tarea lo lee en cada 
      "salary": "CHF 80'000–95'000",
      "language": "Deutsch B2, Englisch",
      "de": {
+       "title": "Junior Frontend Entwickler (React)",
        "summary": "Dieselbe Zusammenfassung auf Deutsch.",
        "description": "Derselbe Absatz auf Deutsch.",
        "requirements": ["Anforderung 1", "Anforderung 2"]
      }
    }
    ```
+
+   `title` es el título **original** (sin traducir). Añade siempre `titleEs` (traducido al español) y `de.title`
+   (en alemán; si el original ya está en alemán, el mismo texto).
 
    Obligatorios: `searchId`, `title`, `company`, `location`, `postedAt` (YYYY-MM-DD), `source`, `url`, `summary`.
    El resto solo si aparece en la oferta. **No inventes datos.** `title` y `company` tal cual aparecen en la oferta;
