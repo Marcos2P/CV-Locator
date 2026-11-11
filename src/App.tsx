@@ -1,8 +1,9 @@
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import Header from './components/Header/Header'
 import JobCard from './components/JobCard/JobCard'
 import JobDetail from './components/JobDetail/JobDetail'
 import JobGrid from './components/JobGrid/JobGrid'
+import SearchButton from './components/SearchButton/SearchButton'
 import SearchFilter from './components/SearchFilter/SearchFilter'
 import { useApplied } from './hooks/useApplied'
 import { useJobData } from './hooks/useJobData'
@@ -15,8 +16,12 @@ import styles from './App.module.css'
 const NO_JOBS: Job[] = []
 const NO_SEARCHES: Search[] = []
 
+/** Mientras se busca, comprobamos jobs.json cada minuto, durante 30 min como máximo */
+const POLL_MS = 60_000
+const POLL_MAX_MS = 30 * 60_000
+
 function App() {
-  const state = useJobData()
+  const { state, reload } = useJobData()
   const { applied, markApplied, unmarkApplied } = useApplied()
 
   const [tab, setTab] = useState<Tab>('new')
@@ -25,6 +30,21 @@ function App() {
 
   const searches = state.status === 'ready' ? state.data.searches : NO_SEARCHES
   const allJobs = state.status === 'ready' ? state.data.jobs.jobs : NO_JOBS
+  const updatedAt = state.status === 'ready' ? state.data.jobs.updatedAt : null
+
+  // Búsqueda manual en curso: guardamos el `updatedAt` que había al pulsar el botón.
+  // Cuando jobs.json trae otro distinto, la búsqueda ha terminado.
+  const [pending, setPending] = useState<{ since: number; baseline: string | null } | null>(null)
+  const searching = pending !== null && updatedAt === pending.baseline
+
+  useEffect(() => {
+    if (!pending || !searching) return
+    const id = setInterval(() => {
+      if (Date.now() - pending.since > POLL_MAX_MS) setPending(null)
+      else reload()
+    }, POLL_MS)
+    return () => clearInterval(id)
+  }, [pending, searching, reload])
 
   // "Nuevos": de la última semana y aún no solicitados, los más recientes primero.
   // useMemo evita recalcular la lista en cada render si los datos no cambian.
@@ -54,7 +74,13 @@ function App() {
         onTabChange={setTab}
         newCount={newJobs.length}
         appliedCount={appliedJobs.length}
-        updatedAt={state.status === 'ready' ? state.data.jobs.updatedAt : null}
+        updatedAt={updatedAt}
+        action={
+          <SearchButton
+            searching={searching}
+            onStarted={() => setPending({ since: Date.now(), baseline: updatedAt })}
+          />
+        }
       />
 
       <main className={styles.main}>

@@ -44,6 +44,10 @@ Si quieres cambiar cómo se busca, cambia este archivo: la tarea lo lee en cada 
    `git add public/data/jobs.json && git commit -m "data: daily job search YYYY-MM-DD (+N)" && git push`
    Haz commit aunque no haya ofertas nuevas (se actualiza la fecha y se borran las caducadas).
 
+8. **Si la ejecución la lanzó el botón "Buscar ahora"** (se abrió un issue cuyo título empieza por `[buscar]`):
+   cuando termines, comenta en ese issue el resultado (p. ej. "3 ofertas nuevas: …") y ciérralo.
+   Si hay varios issues `[buscar]` abiertos, haz una sola búsqueda y ciérralos todos.
+
 ## Reglas
 
 - Calidad antes que cantidad: máximo ~15 ofertas nuevas por búsqueda y día.
