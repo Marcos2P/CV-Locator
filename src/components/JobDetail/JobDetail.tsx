@@ -1,6 +1,8 @@
 import { useEffect, useRef } from 'react'
+import { jobTexts } from '../../i18n/jobTexts'
+import { useLanguage } from '../../i18n/LanguageContext'
 import type { Job } from '../../types'
-import { formatDateTime, relativeDay } from '../../utils/date'
+import { formatDate, formatDateTime, relativeDay } from '../../utils/date'
 import styles from './JobDetail.module.css'
 
 interface Props {
@@ -16,7 +18,10 @@ interface Props {
  * el navegador ya gestiona el foco, la tecla Escape y el fondo oscuro.
  */
 function JobDetail({ job, appliedAt, onClose, onMarkApplied, onUnmarkApplied }: Props) {
+  const { t, lang } = useLanguage()
   const dialogRef = useRef<HTMLDialogElement>(null)
+  // Textos de la oferta en el idioma elegido (resumen, descripción, requisitos)
+  const texts = job ? jobTexts(job, lang) : null
 
   // Sincroniza el estado de React (job != null) con el <dialog> del DOM.
   useEffect(() => {
@@ -37,9 +42,9 @@ function JobDetail({ job, appliedAt, onClose, onMarkApplied, onUnmarkApplied }: 
       }}
       aria-labelledby="job-detail-title"
     >
-      {job && (
+      {job && texts && (
         <article className={styles.content}>
-          <button className={styles.close} onClick={onClose} aria-label="Cerrar">
+          <button className={styles.close} onClick={onClose} aria-label={t.close}>
             ✕
           </button>
 
@@ -50,52 +55,52 @@ function JobDetail({ job, appliedAt, onClose, onMarkApplied, onUnmarkApplied }: 
 
           <dl className={styles.facts}>
             <div>
-              <dt>Ubicación</dt>
+              <dt>{t.fieldLocation}</dt>
               <dd>{job.location}</dd>
             </div>
             {job.workload && (
               <div>
-                <dt>Pensum</dt>
+                <dt>{t.fieldWorkload}</dt>
                 <dd>{job.workload}</dd>
               </div>
             )}
             {job.employmentType && (
               <div>
-                <dt>Contrato</dt>
+                <dt>{t.fieldContract}</dt>
                 <dd>{job.employmentType}</dd>
               </div>
             )}
             {job.salary && (
               <div>
-                <dt>Salario</dt>
+                <dt>{t.fieldSalary}</dt>
                 <dd>{job.salary}</dd>
               </div>
             )}
             {job.language && (
               <div>
-                <dt>Idioma</dt>
+                <dt>{t.fieldLanguage}</dt>
                 <dd>{job.language}</dd>
               </div>
             )}
             <div>
-              <dt>Publicada</dt>
+              <dt>{t.fieldPosted}</dt>
               <dd>
-                {relativeDay(job.postedAt)} ({job.postedAt})
+                {relativeDay(job.postedAt, t)} ({formatDate(job.postedAt, t.locale)})
               </dd>
             </div>
             <div>
-              <dt>Fuente</dt>
+              <dt>{t.fieldSource}</dt>
               <dd>{job.source}</dd>
             </div>
           </dl>
 
-          <p className={styles.description}>{job.description ?? job.summary}</p>
+          <p className={styles.description}>{texts.description ?? texts.summary}</p>
 
-          {job.requirements && job.requirements.length > 0 && (
+          {texts.requirements && texts.requirements.length > 0 && (
             <>
-              <h3 className={styles.subtitle}>Requisitos</h3>
+              <h3 className={styles.subtitle}>{t.requirements}</h3>
               <ul className={styles.requirements}>
-                {job.requirements.map((r) => (
+                {texts.requirements.map((r) => (
                   <li key={r}>{r}</li>
                 ))}
               </ul>
@@ -104,15 +109,15 @@ function JobDetail({ job, appliedAt, onClose, onMarkApplied, onUnmarkApplied }: 
 
           <div className={styles.actions}>
             <a className={styles.apply} href={job.url} target="_blank" rel="noopener noreferrer">
-              Solicitar en {job.source} ↗
+              {t.applyOn(job.source)}
             </a>
             {appliedAt ? (
               <button className={styles.secondary} onClick={() => onUnmarkApplied(job.id)}>
-                ✓ Solicitado el {formatDateTime(appliedAt)} · deshacer
+                {t.appliedOn(formatDateTime(appliedAt, t.locale))}
               </button>
             ) : (
               <button className={styles.secondary} onClick={() => onMarkApplied(job)}>
-                Marcar como solicitado
+                {t.markApplied}
               </button>
             )}
           </div>

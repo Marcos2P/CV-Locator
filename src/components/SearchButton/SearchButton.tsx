@@ -1,4 +1,5 @@
 import { ROUTINE_URL } from '../../config'
+import { useLanguage } from '../../i18n/LanguageContext'
 import styles from './SearchButton.module.css'
 
 interface Props {
@@ -13,6 +14,8 @@ interface Props {
  * Mientras tanto la app espera y se recarga sola cuando llega el nuevo jobs.json.
  */
 function SearchButton({ searching, onStarted }: Props) {
+  const { t } = useLanguage()
+
   function handleClick() {
     window.open(ROUTINE_URL, '_blank', 'noopener')
     onStarted()
@@ -23,14 +26,14 @@ function SearchButton({ searching, onStarted }: Props) {
       className={styles.search}
       onClick={handleClick}
       disabled={searching}
-      title="Abre la tarea en claude.ai: pulsa «Run now» para buscar"
+      title={t.searchHint}
     >
       {searching ? (
         <>
-          <span className={styles.spinner} aria-hidden="true" /> Buscando…
+          <span className={styles.spinner} aria-hidden="true" /> {t.searching}
         </>
       ) : (
-        '🔎 Buscar ahora'
+        t.searchNow
       )}
     </button>
   )

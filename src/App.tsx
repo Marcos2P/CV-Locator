@@ -6,6 +6,7 @@ import JobGrid from './components/JobGrid/JobGrid'
 import SearchButton from './components/SearchButton/SearchButton'
 import SearchFilter from './components/SearchFilter/SearchFilter'
 import { useApplied } from './hooks/useApplied'
+import { useLanguage } from './i18n/LanguageContext'
 import { useJobData } from './hooks/useJobData'
 import type { Job, Search, Tab } from './types'
 import { isFresh } from './utils/date'
@@ -21,6 +22,7 @@ const POLL_MS = 60_000
 const POLL_MAX_MS = 30 * 60_000
 
 function App() {
+  const { t } = useLanguage()
   const { state, reload } = useJobData()
   const { applied, markApplied, unmarkApplied } = useApplied()
 
@@ -84,10 +86,10 @@ function App() {
       />
 
       <main className={styles.main}>
-        {state.status === 'loading' && <p className={styles.status}>Cargando ofertas…</p>}
+        {state.status === 'loading' && <p className={styles.status}>{t.loading}</p>}
         {state.status === 'error' && (
           <p className={styles.status} role="alert">
-            {state.message}
+            {t.loadError}
           </p>
         )}
 
@@ -98,7 +100,7 @@ function App() {
             {tab === 'new' ? (
               <JobGrid
                 isEmpty={visibleNew.length === 0}
-                emptyMessage="No hay ofertas nuevas. La próxima búsqueda es mañana a las 8:00."
+                emptyMessage={t.emptyNew}
               >
                 {visibleNew.map((job) => (
                   <JobCard key={job.id} job={job} onOpen={setOpenJob} />
@@ -107,7 +109,7 @@ function App() {
             ) : (
               <JobGrid
                 isEmpty={visibleApplied.length === 0}
-                emptyMessage="Todavía no has marcado ninguna oferta como solicitada."
+                emptyMessage={t.emptyApplied}
               >
                 {visibleApplied.map(({ job, appliedAt }) => (
                   <JobCard key={job.id} job={job} appliedAt={appliedAt} onOpen={setOpenJob} />

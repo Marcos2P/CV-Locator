@@ -1,6 +1,8 @@
 import type { ReactNode } from 'react'
 import type { Tab } from '../../types'
+import { useLanguage } from '../../i18n/LanguageContext'
 import { formatDateTime } from '../../utils/date'
+import LanguageSwitcher from '../LanguageSwitcher/LanguageSwitcher'
 import styles from './Header.module.css'
 
 interface Props {
@@ -14,9 +16,10 @@ interface Props {
 }
 
 function Header({ tab, onTabChange, newCount, appliedCount, updatedAt, action }: Props) {
+  const { t } = useLanguage()
   const tabs: { id: Tab; label: string; count: number }[] = [
-    { id: 'new', label: 'Nuevos puestos', count: newCount },
-    { id: 'applied', label: 'Solicitados', count: appliedCount },
+    { id: 'new', label: t.tabNew, count: newCount },
+    { id: 'applied', label: t.tabApplied, count: appliedCount },
   ]
 
   return (
@@ -27,13 +30,14 @@ function Header({ tab, onTabChange, newCount, appliedCount, updatedAt, action }:
         </h1>
         <div className={styles.right}>
           <p className={styles.updated}>
-            {updatedAt ? `Última búsqueda: ${formatDateTime(updatedAt)}` : 'Aún no hay búsquedas'}
+            {updatedAt ? t.lastSearch(formatDateTime(updatedAt, t.locale)) : t.noSearchYet}
           </p>
           {action}
+          <LanguageSwitcher />
         </div>
       </div>
 
-      <nav className={styles.tabs} role="tablist" aria-label="Vistas">
+      <nav className={styles.tabs} role="tablist" aria-label={t.tabsLabel}>
         {tabs.map((t) => (
           <button
             key={t.id}

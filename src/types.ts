@@ -42,6 +42,14 @@ export interface Job {
   salary?: string
   /** Idioma de la oferta o requerido, p. ej. "Deutsch B1" */
   language?: string
+  /** Los mismos textos en alemán (summary, description y requirements en español van arriba) */
+  de?: JobTexts
+}
+
+export interface JobTexts {
+  summary?: string
+  description?: string
+  requirements?: string[]
 }
 
 export interface JobsFile {

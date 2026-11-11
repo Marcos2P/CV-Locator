@@ -1,3 +1,4 @@
+import { useLanguage } from '../../i18n/LanguageContext'
 import type { Search } from '../../types'
 import styles from './SearchFilter.module.css'
 
@@ -10,17 +11,18 @@ interface Props {
 
 /** Chips con tus búsquedas activas; al pulsar una se filtran las tarjetas */
 function SearchFilter({ searches, selected, onSelect }: Props) {
+  const { t } = useLanguage()
   const active = searches.filter((s) => s.active)
   if (active.length === 0) return null
 
   return (
-    <div className={styles.filter} aria-label="Filtrar por búsqueda">
+    <div className={styles.filter} aria-label={t.filterLabel}>
       <button
         className={selected === null ? `${styles.chip} ${styles.on}` : styles.chip}
         aria-pressed={selected === null}
         onClick={() => onSelect(null)}
       >
-        Todas
+        {t.filterAll}
       </button>
       {active.map((s) => (
         <button
@@ -28,7 +30,7 @@ function SearchFilter({ searches, selected, onSelect }: Props) {
           className={selected === s.id ? `${styles.chip} ${styles.on}` : styles.chip}
           aria-pressed={selected === s.id}
           onClick={() => onSelect(s.id)}
-          title={`Palabras clave: ${s.keywords.join(', ')}`}
+          title={t.keywords(s.keywords.join(', '))}
         >
           {s.title} <span className={styles.loc}>· {s.location}</span>
         </button>

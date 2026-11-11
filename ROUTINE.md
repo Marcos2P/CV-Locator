@@ -52,13 +52,19 @@ Si quieres cambiar cómo se busca, cambia este archivo: la tarea lo lee en cada 
      "workload": "80–100 %",
      "employmentType": "Festanstellung",
      "salary": "CHF 80'000–95'000",
-     "language": "Deutsch B2, Englisch"
+     "language": "Deutsch B2, Englisch",
+     "de": {
+       "summary": "Dieselbe Zusammenfassung auf Deutsch.",
+       "description": "Derselbe Absatz auf Deutsch.",
+       "requirements": ["Anforderung 1", "Anforderung 2"]
+     }
    }
    ```
 
    Obligatorios: `searchId`, `title`, `company`, `location`, `postedAt` (YYYY-MM-DD), `source`, `url`, `summary`.
    El resto solo si aparece en la oferta. **No inventes datos.** `title` y `company` tal cual aparecen en la oferta;
-   `summary`, `description` y `requirements` traducidos al español.
+   `summary`, `description` y `requirements` en español, y los mismos tres campos en alemán dentro de `de`
+   (la app tiene selector ES/DE). Si la oferta original está en alemán, para `de` usa su propio texto resumido.
 
 6. Ejecuta `node scripts/update-jobs.mjs /tmp/candidatas.json`. El script valida, quita duplicados,
    borra las ofertas de más de 7 días y actualiza `updatedAt`. Si hay inválidas, corrígelas y vuelve a ejecutarlo.
