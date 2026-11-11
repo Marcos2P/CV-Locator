@@ -1,4 +1,89 @@
 {
-  "updatedAt": "2026-11-11T15:46:54.513Z",
-  "jobs": []
+  "updatedAt": "2026-11-11T15:58:35.846Z",
+  "jobs": [
+    {
+      "searchId": "lager",
+      "title": "Kommissioniererin / Kommissionierer 80-100%",
+      "company": "COOP",
+      "location": "Winterthur ZH",
+      "postedAt": "2026-11-10",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/93dc5cfd-777a-4cd4-abbc-c99545e7a6c8",
+      "summary": "Preparación de pedidos en almacén (Transgourmet) en Winterthur, incluidas cámaras frigoríficas.",
+      "description": "Preparar pedidos de clientes con precisión y a tiempo, incluso en cámaras frías (3-5 °C), cargar unidades de transporte, asignarlas a la ruta de reparto, solicitar reposición y ayudar en inventarios.",
+      "requirements": [
+        "Experiencia en recepción de mercancías y picking",
+        "Carnet de carretillero reconocido por SUVA",
+        "Conocimientos de sistemas de gestión de almacén",
+        "Resistencia física, apto para trabajo en frío"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Festanstellung",
+      "language": "Deutsch (gute Kenntnisse requeridos)",
+      "id": "f3ad965b39e4",
+      "foundAt": "2026-11-11T15:58:35.846Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Mitarbeiter*in Flugzeugreinigung LKW-Beifahrer (m/w/d)",
+      "company": "Vebego AG",
+      "location": "Zürich Flughafen",
+      "postedAt": "2026-11-07",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/bf634ee7-4f45-4316-8d94-104a6779f7eb",
+      "summary": "Limpieza de cocinas y cabinas de aviones en el aeropuerto de Zúrich como acompañante del camión.",
+      "description": "Guiar al conductor del camión en maniobras, equipar el camión, limpiar y retirar residuos de las galleys y limpieza general del interior de aviones. Turnos de 06:30-12:00 o 16:00-21:00, también fines de semana y festivos.",
+      "requirements": [
+        "Alemán A2 o inglés B1",
+        "Sin antecedentes penales (necesario para la acreditación del aeropuerto)",
+        "Buena condición física y fiabilidad",
+        "Permiso C o B con autorización de trabajo"
+      ],
+      "workload": "20–32 h/semana",
+      "language": "Deutsch A2 oder Englisch B1",
+      "id": "51fa8f1aa794",
+      "foundAt": "2026-11-11T15:58:35.846Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Mitarbeiter*in Flugzeugreinigung (m/w/d)",
+      "company": "Vebego AG",
+      "location": "Zürich Flughafen",
+      "postedAt": "2026-11-07",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/62288ded-e006-47a5-9aa2-50bf299023e7",
+      "summary": "Limpieza general del interior de aviones en el aeropuerto de Zúrich, con turnos irregulares.",
+      "description": "Limpieza general de aviones de distintas aerolíneas, manteniendo estándares de higiene, trabajando en equipo. Turnos de mañana (06:30-12:00) o tarde (16:00-21:00), incluidos fines de semana y festivos.",
+      "requirements": [
+        "Alemán A2 o inglés B1",
+        "Sin antecedentes penales",
+        "Buena condición física y fiabilidad",
+        "Permiso C o B con autorización de trabajo"
+      ],
+      "language": "Deutsch A2 oder Englisch B1",
+      "id": "8c24e473a9da",
+      "foundAt": "2026-11-11T15:58:35.846Z"
+    },
+    {
+      "searchId": "frontend-react",
+      "title": "Lead Frontend Engineer",
+      "company": "Brack.Alltron AG",
+      "location": "Zürich und/oder Mägenwil",
+      "postedAt": "2026-11-05",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/4598c34a-f8bc-421a-bcf3-6ed01e7ba9c7",
+      "summary": "Puesto senior de liderazgo técnico frontend (React, TypeScript, SSR) en e-commerce. No es nivel junior.",
+      "description": "Responsabilidad de la arquitectura frontend de varios equipos, estándares de React/TypeScript/SSR, micro-frontends, design system, rendimiento web, seguridad y accesibilidad.",
+      "requirements": [
+        "Amplia experiencia con React, TypeScript y SSR (Next.js/Remix)",
+        "Mínimo 10 años de experiencia, 2 en rol de liderazgo o arquitectura",
+        "Conocimientos de micro-frontends y accesibilidad"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Festanstellung",
+      "language": "Deutsch fliessend, Englisch fortgeschritten",
+      "id": "2ad53405872e",
+      "foundAt": "2026-11-11T15:58:35.846Z"
+    }
+  ]
 }
