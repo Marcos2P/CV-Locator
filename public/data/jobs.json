@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T15:58:35.846Z",
+  "updatedAt": "2026-11-11T16:15:03.750Z",
   "jobs": [
     {
       "searchId": "lager",
@@ -108,6 +108,46 @@
     },
     {
       "searchId": "frontend-react",
+      "title": "Full-Stack Webentwickler:in mit Schwerpunkt E-Commerce",
+      "titleEs": "Desarrollador/a web full-stack, foco en e-commerce",
+      "company": "Media Motion AG",
+      "location": "Wittenbach SG",
+      "postedAt": "2026-11-06",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/6b173742-068d-4938-95d3-69ad4bfbcd00",
+      "summary": "Desarrollo de tiendas online (Shopware 6, Shopify) y webs con Contao/Statamic; stack PHP con frontend Twig, SCSS y JavaScript.",
+      "description": "Desarrollar y mantener tiendas online con Shopware 6, Shopify y otros sistemas e-commerce, integrar ERP, PIM, pagos y logística, trabajar en proyectos web con Contao y Statamic, code reviews, despliegues y control de calidad.",
+      "requirements": [
+        "PHP, preferiblemente Symfony o Laravel",
+        "Twig, SCSS, JavaScript, HTML5, CSS3",
+        "Experiencia con Shopware 6 o Shopify, un plus",
+        "Git, GitLab, CI/CD, Docker/DDEV",
+        "Experiencia con herramientas de desarrollo con IA"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Contrato fijo",
+      "salary": "CHF 69'000–75'000",
+      "language": "Alemán fluido, inglés básico",
+      "de": {
+        "title": "Full-Stack Webentwickler:in mit Schwerpunkt E-Commerce",
+        "summary": "Entwicklung von Onlineshops (Shopware 6, Shopify) und Websites mit Contao/Statamic; PHP-Stack mit Twig, SCSS und JavaScript.",
+        "description": "Onlineshops mit Shopware 6, Shopify u. a. entwickeln und warten, ERP-, PIM-, Zahlungs- und Logistiksysteme anbinden, Webprojekte mit Contao und Statamic, Code Reviews, Deployments und Qualitätssicherung.",
+        "requirements": [
+          "PHP, vorzugsweise Symfony oder Laravel",
+          "Twig, SCSS, JavaScript, HTML5, CSS3",
+          "Shopware-6- oder Shopify-Erfahrung von Vorteil",
+          "Git, GitLab, CI/CD, Docker/DDEV",
+          "Erfahrung mit KI-Entwicklungstools"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch fliessend, Englisch Grundkenntnisse"
+      },
+      "id": "e72fcb377c1f",
+      "foundAt": "2026-11-11T16:15:03.750Z"
+    },
+    {
+      "searchId": "frontend-react",
       "title": "Lead Frontend Engineer",
       "company": "Brack.Alltron AG",
       "location": "Zürich und/oder Mägenwil",
@@ -140,6 +180,45 @@
         "employmentType": "Festanstellung",
         "language": "Deutsch fliessend, Englisch fortgeschritten"
       }
+    },
+    {
+      "searchId": "lager",
+      "title": "Fachmitarbeiter*in Logistik am Standort in Flawil",
+      "titleEs": "Especialista de logística en Flawil",
+      "company": "Micarna SA",
+      "location": "Flawil SG",
+      "postedAt": "2026-11-04",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/722eec8c-2c4b-4a29-a756-0a91a1c1cd30",
+      "summary": "Logística en Flawil: carga/descarga, picking de pedidos, controles de calidad y carretilla elevadora, con trabajo en cámara frigorífica.",
+      "description": "Carga y descarga de camiones, almacenaje de mercancías y embalajes, picking de pedidos de clientes desde la entrada hasta el envío, controles de calidad, manejo de carretilla, trabajo en cámara frigorífica, coordinación con transportistas y apoyo en inventarios.",
+      "requirements": [
+        "Formación EBA/EFZ en logística o varios años de experiencia",
+        "Carnet de carretillero reconocido por SUVA",
+        "Alemán hablado y escrito sólido (B1)",
+        "Disponibilidad para dos turnos (aprox. 05:00–22:00)",
+        "Experiencia en alimentación, un plus"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán B1",
+      "de": {
+        "title": "Fachmitarbeiter*in Logistik am Standort in Flawil",
+        "summary": "Logistik in Flawil: Be- und Entladen, Kommissionieren, Qualitätskontrollen und Staplerfahren, auch im Kühlraum.",
+        "description": "Lastwagen be- und entladen, Waren und Verpackungsmaterial ein- und auslagern, Kundenaufträge kommissionieren, Qualitätskontrollen, Staplerfahren, Arbeit im Kühlraum, Abstimmung mit Frachtpartnern, Mithilfe bei Inventuren.",
+        "requirements": [
+          "Lehre als Logistiker EBA/EFZ oder mehrjährige Logistikerfahrung",
+          "SUVA-anerkannter Staplerausweis",
+          "Gute Deutschkenntnisse (B1)",
+          "Bereitschaft zu Zweischichtbetrieb (ca. 05:00–22:00)",
+          "Erfahrung in der Lebensmittelbranche von Vorteil"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch B1"
+      },
+      "id": "f8c12f87929c",
+      "foundAt": "2026-11-11T16:15:03.750Z"
     }
   ]
 }
