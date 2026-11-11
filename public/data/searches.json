@@ -69,5 +69,25 @@
     "location": "Sirnach TG",
     "radiusKm": 50,
     "active": true
+  },
+  {
+    "id": "hotel",
+    "title": "Zimmerreinigung Hotel",
+    "labels": {
+      "es": "Limpieza de habitaciones de hotel",
+      "de": "Hotel / Zimmerreinigung"
+    },
+    "keywords": [
+      "Zimmermädchen",
+      "Zimmerreinigung",
+      "Roomboy",
+      "Housekeeping",
+      "Etage",
+      "Hotelreinigung",
+      "Raumpfleger"
+    ],
+    "location": "Sirnach TG",
+    "radiusKm": 50,
+    "active": true
   }
 ]
