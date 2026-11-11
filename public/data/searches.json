@@ -50,5 +50,24 @@
     "location": "Zürich Flughafen",
     "radiusKm": 15,
     "active": true
+  },
+  {
+    "id": "kueche",
+    "title": "Küchenhilfe",
+    "labels": {
+      "es": "Friegaplatos / Ayudante de cocina",
+      "de": "Küchenhilfe / Abwasch"
+    },
+    "keywords": [
+      "Küchenhilfe",
+      "Abwascher",
+      "Tellerwäscher",
+      "Officemitarbeiter",
+      "Hilfskoch",
+      "Spüler"
+    ],
+    "location": "Sirnach TG",
+    "radiusKm": 50,
+    "active": true
   }
 ]

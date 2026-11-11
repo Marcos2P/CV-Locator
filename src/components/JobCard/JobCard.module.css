@@ -34,7 +34,8 @@
 }
 
 .badge,
-.applied {
+.applied,
+.muted {
   margin-left: auto;
   padding: 0.05rem 0.5rem;
   border-radius: 999px;
@@ -50,6 +51,20 @@
 .applied {
   background: var(--accent-soft);
   color: var(--accent);
+}
+
+.muted {
+  background: var(--bg);
+  color: var(--muted);
+}
+
+/* Descartadas: más apagadas, pero se ven normales al pasar el ratón */
+.dismissed {
+  opacity: 0.6;
+}
+
+.dismissed:hover {
+  opacity: 1;
 }
 
 .title {

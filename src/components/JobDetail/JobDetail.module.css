@@ -120,3 +120,10 @@
   background: transparent;
   color: var(--accent);
 }
+
+/* "No me interesa": discreto, a la derecha */
+.ghost {
+  margin-left: auto;
+  border-color: var(--border);
+  color: var(--muted);
+}

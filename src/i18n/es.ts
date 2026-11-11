@@ -9,6 +9,7 @@ export const es = {
   // Cabecera
   tabNew: 'Nuevos puestos',
   tabApplied: 'Solicitados',
+  tabDismissed: 'No me interesan',
   tabsLabel: 'Vistas',
   lastSearch: (date: string) => `Última búsqueda: ${date}`,
   noSearchYet: 'Aún no hay búsquedas',
@@ -29,10 +30,12 @@ export const es = {
   loadError: 'No se han podido cargar las ofertas. Inténtalo de nuevo más tarde.',
   emptyNew: 'No hay ofertas nuevas. La próxima búsqueda es mañana a las 8:00.',
   emptyApplied: 'Todavía no has marcado ninguna oferta como solicitada.',
+  emptyDismissed: 'Aquí aparecerán las ofertas que marques como «No me interesa».',
 
   // Tarjeta
   badgeNew: 'Nuevo',
   appliedBadge: (when: string) => `✓ Solicitado ${when}`,
+  dismissedBadge: 'No me interesa',
 
   // Fechas relativas
   today: 'hoy',
@@ -52,6 +55,8 @@ export const es = {
   originalTitle: 'Título original',
   applyOn: (source: string) => `Solicitar en ${source} ↗`,
   markApplied: 'Marcar como solicitado',
+  markDismissed: '✕ No me interesa',
+  dismissedOn: (date: string) => `✕ Descartada el ${date} · recuperar`,
   appliedOn: (date: string) => `✓ Solicitado el ${date} · deshacer`,
 }
 

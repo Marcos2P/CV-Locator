@@ -7,6 +7,7 @@ export const de: Dictionary = {
   // Kopfzeile
   tabNew: 'Neue Stellen',
   tabApplied: 'Beworben',
+  tabDismissed: 'Nicht interessant',
   tabsLabel: 'Ansichten',
   lastSearch: (date) => `Letzte Suche: ${date}`,
   noSearchYet: 'Noch keine Suche',
@@ -27,10 +28,12 @@ export const de: Dictionary = {
   loadError: 'Die Stellen konnten nicht geladen werden. Bitte später erneut versuchen.',
   emptyNew: 'Keine neuen Stellen. Die nächste Suche ist morgen um 8:00 Uhr.',
   emptyApplied: 'Du hast dich noch auf keine Stelle beworben.',
+  emptyDismissed: 'Hier erscheinen die Stellen, die du als «Nicht interessant» markierst.',
 
   // Karte
   badgeNew: 'Neu',
   appliedBadge: (when) => `✓ Beworben ${when}`,
+  dismissedBadge: 'Nicht interessant',
 
   // Relative Daten
   today: 'heute',
@@ -50,5 +53,7 @@ export const de: Dictionary = {
   originalTitle: 'Originaltitel',
   applyOn: (source) => `Auf ${source} bewerben ↗`,
   markApplied: 'Als beworben markieren',
+  markDismissed: '✕ Nicht interessant',
+  dismissedOn: (date) => `✕ Aussortiert am ${date} · wiederherstellen`,
   appliedOn: (date) => `✓ Beworben am ${date} · rückgängig`,
 }

@@ -47,10 +47,14 @@
   margin: 0 auto;
   display: flex;
   gap: 0.25rem;
+  /* En móvil las 3 pestañas pueden no caber: se desplazan en horizontal */
+  overflow-x: auto;
+  scrollbar-width: none;
   margin-top: 0.6rem;
 }
 
 .tab {
+  flex-shrink: 0;
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;

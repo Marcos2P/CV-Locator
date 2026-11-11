@@ -8,18 +8,19 @@ import styles from './Header.module.css'
 interface Props {
   tab: Tab
   onTabChange: (tab: Tab) => void
-  newCount: number
-  appliedCount: number
+  /** Número de ofertas en cada pestaña */
+  counts: Record<Tab, number>
   updatedAt: string | null
   /** Botón de búsqueda (u otra acción) a la derecha */
   action?: ReactNode
 }
 
-function Header({ tab, onTabChange, newCount, appliedCount, updatedAt, action }: Props) {
+function Header({ tab, onTabChange, counts, updatedAt, action }: Props) {
   const { t } = useLanguage()
   const tabs: { id: Tab; label: string; count: number }[] = [
-    { id: 'new', label: t.tabNew, count: newCount },
-    { id: 'applied', label: t.tabApplied, count: appliedCount },
+    { id: 'new', label: t.tabNew, count: counts.new },
+    { id: 'applied', label: t.tabApplied, count: counts.applied },
+    { id: 'dismissed', label: t.tabDismissed, count: counts.dismissed },
   ]
 
   return (

@@ -1,23 +1,24 @@
 import { useEffect, useRef } from 'react'
 import { jobTexts } from '../../i18n/jobTexts'
 import { useLanguage } from '../../i18n/LanguageContext'
-import type { Job } from '../../types'
+import type { Job, JobStatus, SavedJob } from '../../types'
 import { formatDate, formatDateTime, relativeDay } from '../../utils/date'
 import styles from './JobDetail.module.css'
 
 interface Props {
   job: Job | null
-  appliedAt?: string
+  saved?: SavedJob
   onClose: () => void
-  onMarkApplied: (job: Job) => void
-  onUnmarkApplied: (id: string) => void
+  onSetStatus: (job: Job, status: JobStatus) => void
+  /** Devuelve la oferta a "Nuevos puestos" */
+  onClearStatus: (id: string) => void
 }
 
 /**
  * Detalle de una oferta en un <dialog> nativo:
  * el navegador ya gestiona el foco, la tecla Escape y el fondo oscuro.
  */
-function JobDetail({ job, appliedAt, onClose, onMarkApplied, onUnmarkApplied }: Props) {
+function JobDetail({ job, saved, onClose, onSetStatus, onClearStatus }: Props) {
   const { t, lang } = useLanguage()
   const dialogRef = useRef<HTMLDialogElement>(null)
   // Textos de la oferta en el idioma elegido (resumen, descripción, requisitos)
@@ -117,14 +118,31 @@ function JobDetail({ job, appliedAt, onClose, onMarkApplied, onUnmarkApplied }: 
             <a className={styles.apply} href={job.url} target="_blank" rel="noopener noreferrer">
               {t.applyOn(job.source)}
             </a>
-            {appliedAt ? (
-              <button className={styles.secondary} onClick={() => onUnmarkApplied(job.id)}>
-                {t.appliedOn(formatDateTime(appliedAt, t.locale))}
+            {saved?.status === 'applied' && (
+              <button className={styles.secondary} onClick={() => onClearStatus(job.id)}>
+                {t.appliedOn(formatDateTime(saved.at, t.locale))}
               </button>
-            ) : (
-              <button className={styles.secondary} onClick={() => onMarkApplied(job)}>
-                {t.markApplied}
+            )}
+            {saved?.status === 'dismissed' && (
+              <button className={styles.secondary} onClick={() => onClearStatus(job.id)}>
+                {t.dismissedOn(formatDateTime(saved.at, t.locale))}
               </button>
+            )}
+            {!saved && (
+              <>
+                <button className={styles.secondary} onClick={() => onSetStatus(job, 'applied')}>
+                  {t.markApplied}
+                </button>
+                <button
+                  className={`${styles.secondary} ${styles.ghost}`}
+                  onClick={() => {
+                    onSetStatus(job, 'dismissed')
+                    onClose()
+                  }}
+                >
+                  {t.markDismissed}
+                </button>
+              </>
             )}
           </div>
         </article>

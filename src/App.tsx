@@ -5,10 +5,10 @@ import JobDetail from './components/JobDetail/JobDetail'
 import JobGrid from './components/JobGrid/JobGrid'
 import SearchButton from './components/SearchButton/SearchButton'
 import SearchFilter from './components/SearchFilter/SearchFilter'
-import { useApplied } from './hooks/useApplied'
 import { useLanguage } from './i18n/LanguageContext'
 import { useJobData } from './hooks/useJobData'
-import type { Job, Search, Tab } from './types'
+import { useJobStatus } from './hooks/useJobStatus'
+import type { Job, JobStatus, SavedJob, Search, Tab } from './types'
 import { isFresh } from './utils/date'
 import styles from './App.module.css'
 
@@ -24,7 +24,7 @@ const POLL_MAX_MS = 30 * 60_000
 function App() {
   const { t } = useLanguage()
   const { state, reload } = useJobData()
-  const { applied, markApplied, unmarkApplied } = useApplied()
+  const { statuses, setStatus, clearStatus } = useJobStatus()
 
   const [tab, setTab] = useState<Tab>('new')
   const [searchId, setSearchId] = useState<string | null>(null)
@@ -48,34 +48,42 @@ function App() {
     return () => clearInterval(id)
   }, [pending, searching, reload])
 
-  // "Nuevos": de la última semana y aún no solicitados, los más recientes primero.
+  // "Nuevos": de la última semana y sin decidir todavía, los más recientes primero.
   // useMemo evita recalcular la lista en cada render si los datos no cambian.
   const newJobs = useMemo(
     () =>
       allJobs
-        .filter((j) => isFresh(j.postedAt) && !applied[j.id])
+        .filter((j) => isFresh(j.postedAt) && !statuses[j.id])
         .sort((a, b) => b.postedAt.localeCompare(a.postedAt)),
-    [allJobs, applied],
+    [allJobs, statuses],
   )
 
-  // "Solicitados": salen de localStorage, aunque ya no estén en jobs.json.
-  const appliedJobs = useMemo(
-    () => Object.values(applied).sort((a, b) => b.appliedAt.localeCompare(a.appliedAt)),
-    [applied],
-  )
+  // "Solicitados" y "No me interesan": salen de localStorage, aunque ya no estén en jobs.json.
+  const savedByStatus = useMemo(() => {
+    const byStatus: Record<JobStatus, SavedJob[]> = { applied: [], dismissed: [] }
+    for (const saved of Object.values(statuses)) byStatus[saved.status].push(saved)
+    for (const list of Object.values(byStatus)) list.sort((a, b) => b.at.localeCompare(a.at))
+    return byStatus
+  }, [statuses])
+
+  const counts: Record<Tab, number> = {
+    new: newJobs.length,
+    applied: savedByStatus.applied.length,
+    dismissed: savedByStatus.dismissed.length,
+  }
 
   const visibleNew = searchId ? newJobs.filter((j) => j.searchId === searchId) : newJobs
-  const visibleApplied = searchId
-    ? appliedJobs.filter((a) => a.job.searchId === searchId)
-    : appliedJobs
+  const visibleSaved =
+    tab === 'new'
+      ? []
+      : savedByStatus[tab].filter((s) => !searchId || s.job.searchId === searchId)
 
   return (
     <>
       <Header
         tab={tab}
         onTabChange={setTab}
-        newCount={newJobs.length}
-        appliedCount={appliedJobs.length}
+        counts={counts}
         updatedAt={updatedAt}
         action={
           <SearchButton
@@ -108,11 +116,11 @@ function App() {
               </JobGrid>
             ) : (
               <JobGrid
-                isEmpty={visibleApplied.length === 0}
-                emptyMessage={t.emptyApplied}
+                isEmpty={visibleSaved.length === 0}
+                emptyMessage={tab === 'applied' ? t.emptyApplied : t.emptyDismissed}
               >
-                {visibleApplied.map(({ job, appliedAt }) => (
-                  <JobCard key={job.id} job={job} appliedAt={appliedAt} onOpen={setOpenJob} />
+                {visibleSaved.map((saved) => (
+                  <JobCard key={saved.job.id} job={saved.job} saved={saved} onOpen={setOpenJob} />
                 ))}
               </JobGrid>
             )}
@@ -122,10 +130,10 @@ function App() {
 
       <JobDetail
         job={openJob}
-        appliedAt={openJob ? applied[openJob.id]?.appliedAt : undefined}
+        saved={openJob ? statuses[openJob.id] : undefined}
         onClose={() => setOpenJob(null)}
-        onMarkApplied={markApplied}
-        onUnmarkApplied={unmarkApplied}
+        onSetStatus={setStatus}
+        onClearStatus={clearStatus}
       />
     </>
   )

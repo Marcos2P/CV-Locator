@@ -1,28 +1,35 @@
 import { jobTexts } from '../../i18n/jobTexts'
 import { useLanguage } from '../../i18n/LanguageContext'
-import type { Job } from '../../types'
+import type { Job, SavedJob } from '../../types'
 import { daysAgo, relativeDay } from '../../utils/date'
 import styles from './JobCard.module.css'
 
 interface Props {
   job: Job
   onOpen: (job: Job) => void
-  /** Si está solicitada, la fecha de solicitud */
-  appliedAt?: string
+  /** Estado guardado (solicitada / descartada), si lo tiene */
+  saved?: SavedJob
 }
 
-function JobCard({ job, onOpen, appliedAt }: Props) {
+function JobCard({ job, onOpen, saved }: Props) {
   const { t, lang } = useLanguage()
   const texts = jobTexts(job, lang)
-  const isNewToday = !appliedAt && daysAgo(job.foundAt) === 0
+  const isNewToday = !saved && daysAgo(job.foundAt) === 0
+  const dismissed = saved?.status === 'dismissed'
 
   return (
     // Toda la tarjeta es un <button>: se puede abrir con ratón, Enter o Espacio.
-    <button className={styles.card} onClick={() => onOpen(job)}>
+    <button
+      className={dismissed ? `${styles.card} ${styles.dismissed}` : styles.card}
+      onClick={() => onOpen(job)}
+    >
       <div className={styles.head}>
         <span className={styles.company}>{job.company}</span>
         {isNewToday && <span className={styles.badge}>{t.badgeNew}</span>}
-        {appliedAt && <span className={styles.applied}>{t.appliedBadge(relativeDay(appliedAt, t))}</span>}
+        {saved?.status === 'applied' && (
+          <span className={styles.applied}>{t.appliedBadge(relativeDay(saved.at, t))}</span>
+        )}
+        {dismissed && <span className={styles.muted}>{t.dismissedBadge}</span>}
       </div>
 
       <h3 className={styles.title}>{texts.title}</h3>

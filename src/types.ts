@@ -67,10 +67,15 @@ export interface JobsFile {
   jobs: Job[]
 }
 
-/** Una oferta marcada como solicitada (se guarda en el navegador) */
-export interface AppliedJob {
+/** Lo que has decidido sobre una oferta */
+export type JobStatus = 'applied' | 'dismissed'
+
+/** Oferta con estado (se guarda en el navegador, con la oferta completa) */
+export interface SavedJob {
   job: Job
-  appliedAt: string
+  status: JobStatus
+  /** Cuándo la marcaste (ISO 8601) */
+  at: string
 }
 
-export type Tab = 'new' | 'applied'
+export type Tab = 'new' | JobStatus
