@@ -1,6 +1,472 @@
 {
-  "updatedAt": "2026-11-12T20:05:42.768Z",
+  "updatedAt": "2026-11-12T20:17:38.597Z",
   "jobs": [
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior Full Stack Developer TypeScript (Vue / NestJS) (w/m/d) 80-100%",
+      "titleEs": "Desarrollador/a Full Stack senior TypeScript (Vue / NestJS)",
+      "company": "bexio AG",
+      "location": "Rapperswil-Jona SG",
+      "postedAt": "2026-11-12",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/senior-full-stack-developer-typescript-vue-nestjs-w-m-d-80-100%25-at-bexio-ag-4488536340",
+      "summary": "Responsable técnico del stack TypeScript (frontend Vue.js, backend Node.js/NestJS) de software de contabilidad, modelo híbrido.",
+      "description": "Liderar técnicamente el stack TypeScript, diseñar, implementar y mantener funcionalidades de extremo a extremo, crear software escalable con procesamiento asistido por IA y flujos asíncronos, ampliar integraciones con bancos y proveedores de pago, y compartir conocimiento mediante revisiones de código.",
+      "requirements": [
+        "5+ años de TypeScript en frontend y backend",
+        "Experiencia con SPA y APIs REST/OAuth 2.0",
+        "Node.js (idealmente NestJS) y PostgreSQL",
+        "Conocimientos de seguridad web (OWASP)"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Contrato fijo, híbrido",
+      "language": "Alemán",
+      "englishOk": false,
+      "seniority": "senior",
+      "de": {
+        "title": "Senior Full Stack Developer TypeScript (Vue / NestJS) (w/m/d) 80-100%",
+        "summary": "Technische Verantwortung für den TypeScript-Stack (Vue.js-Frontend, Node.js/NestJS-Backend) einer Buchhaltungssoftware, Hybridmodell.",
+        "description": "Technische Leitung des TypeScript-Stacks, Entwurf, Umsetzung und Wartung von Features End-to-End, skalierbare Software mit KI-gestützter Verarbeitung und asynchronen Workflows, Ausbau von Integrationen mit Banken und Zahlungsanbietern sowie Wissensaustausch durch Code-Reviews.",
+        "requirements": [
+          "5+ Jahre TypeScript in Frontend und Backend",
+          "Erfahrung mit SPAs und REST-/OAuth-2.0-APIs",
+          "Node.js (idealerweise NestJS) und PostgreSQL",
+          "Kenntnisse in Websicherheit (OWASP)"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Festanstellung, hybrid",
+        "language": "Deutsch"
+      },
+      "id": "526aba5923cc",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Software Engineer",
+      "titleEs": "Ingeniero/a de software",
+      "company": "sizeless",
+      "location": "Zürich",
+      "postedAt": "2026-11-12",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/software-engineer-at-sizeless-4488565020",
+      "summary": "Ingeniería full stack (web, móvil, backend y pipelines de datos) con TypeScript o Python en una startup de Zürich.",
+      "description": "Crear la app de captura para clientes y el espacio de trabajo donde se entregan los resultados, trabajar en web, móvil, backend y pipelines de datos, mantener fiables procesos largos con archivos grandes y datos 3D, y construir herramientas internas.",
+      "requirements": [
+        "Bases sólidas de ingeniería en TypeScript, Python o similar",
+        "Comodidad entre código de producto e infraestructura",
+        "Experiencia práctica con desarrollo asistido por IA",
+        "Inglés profesional; alemán es un plus"
+      ],
+      "workload": "100 %",
+      "employmentType": "Jornada completa",
+      "language": "Inglés profesional, alemán deseable",
+      "englishOk": true,
+      "seniority": "mid",
+      "de": {
+        "title": "Software Engineer",
+        "summary": "Full-Stack-Engineering (Web, Mobile, Backend und Datenpipelines) mit TypeScript oder Python bei einem Zürcher Startup.",
+        "description": "Aufbau der Capture-App für Kunden und des Workspaces zur Ergebnislieferung, Arbeit an Web, Mobile, Backend und Datenpipelines, zuverlässiger Betrieb langlaufender Prozesse mit grossen Dateien und 3D-Daten sowie Entwicklung interner Tools.",
+        "requirements": [
+          "Solide Engineering-Grundlagen in TypeScript, Python oder vergleichbar",
+          "Sicherer Wechsel zwischen Produktcode und Infrastruktur",
+          "Praktische Erfahrung mit KI-gestützter Entwicklung",
+          "Englisch fliessend; Deutsch von Vorteil"
+        ],
+        "workload": "100 %",
+        "employmentType": "Vollzeit",
+        "language": "Englisch fliessend, Deutsch von Vorteil"
+      },
+      "id": "72c0b26be00a",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior Backend Engineer",
+      "titleEs": "Ingeniero/a Backend senior (Kotlin)",
+      "company": "Rivero",
+      "location": "Zürich",
+      "postedAt": "2026-11-12",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/senior-backend-engineer-at-rivero-4489202435",
+      "summary": "Evolución de Kajo, una aplicación distribuida con event sourcing (Kotlin, Axon, GraphQL, PostgreSQL); a veces tareas de frontend. Se prefiere presencia en Zúrich; remoto con huso horario compatible.",
+      "description": "Añades funciones a Kajo, mantienes los códigos existentes, construyes herramientas internas para operaciones, lideras el diseño de nuevas partes del stack, usas herramientas de IA y a veces asumes tareas de frontend o end-to-end.",
+      "requirements": [
+        "Aplicaciones cloud/web, sistemas distribuidos y bases relacionales",
+        "Diseño de APIs",
+        "Kotlin (u otro lenguaje JVM/backend moderno con capacidad de aprender Kotlin)",
+        "Uso habitual de herramientas de IA",
+        "Deseable: event sourcing/CQRS, GraphQL, TypeScript/Vue"
+      ],
+      "workload": "Tiempo completo",
+      "employmentType": "Contrato fijo",
+      "language": "Anuncio en inglés",
+      "englishOk": true,
+      "seniority": "senior",
+      "de": {
+        "title": "Senior Backend Engineer",
+        "summary": "Weiterentwicklung von Kajo, einer verteilten Event-Sourcing-Anwendung (Kotlin, Axon, GraphQL, PostgreSQL); gelegentlich Frontend-Aufgaben. Präsenz in Zürich bevorzugt; Remote bei passender Zeitzone.",
+        "description": "Du ergänzt Kajo um Features, pflegst bestehende Codebasen, baust interne Tools für den Betrieb, leitest das Design neuer Stack-Teile, nutzt KI-Tools und übernimmst gelegentlich Frontend- oder End-to-End-Aufgaben.",
+        "requirements": [
+          "Cloud-/Webanwendungen, verteilte Systeme und relationale Datenbanken",
+          "API-Design",
+          "Kotlin (oder andere JVM-/moderne Backend-Sprache mit Lernbereitschaft)",
+          "Regelmässige Nutzung von KI-Coding-Tools",
+          "Von Vorteil: Event Sourcing/CQRS, GraphQL, TypeScript/Vue"
+        ],
+        "workload": "Vollzeit",
+        "employmentType": "Festanstellung",
+        "language": "Inserat auf Englisch"
+      },
+      "id": "7fa9df77fdea",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "Senior Test Automation Engineer",
+      "titleEs": "Ingeniero/a senior de automatización de pruebas",
+      "company": "Swisslinx AG",
+      "location": "Hinwil ZH",
+      "postedAt": "2026-11-12",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/bca66b14-9c60-49f6-98da-5bfafdfd6f29",
+      "summary": "Automatización de pruebas con Python y Robot Framework (incluye pruebas Hardware-in-the-Loop) para un cliente de Swisslinx en Hinwil.",
+      "description": "Mejorar y estandarizar frameworks, herramientas y entornos de pruebas automatizadas; desarrollar y ejecutar pruebas a partir de requisitos con trazabilidad; integrarlas en CI/CD y analizar fallos con los equipos de software y hardware.",
+      "requirements": [
+        "5-8 años de experiencia en testing y automatización",
+        "Python y Robot Framework",
+        "Experiencia en pruebas Hardware-in-the-Loop (HIL)",
+        "Conocimientos de CI/CD y DevOps",
+        "Titulación técnica o de ingeniería",
+        "Deseable: ISTQB Foundation"
+      ],
+      "workload": "45 %",
+      "employmentType": "Temporal (8 meses)",
+      "seniority": "senior",
+      "de": {
+        "title": "Senior Test Automation Engineer",
+        "summary": "Testautomatisierung mit Python und Robot Framework (inkl. Hardware-in-the-Loop-Tests) für einen Swisslinx-Kunden in Hinwil.",
+        "description": "Bestehende Test-Frameworks, Tools und Umgebungen verbessern und standardisieren; automatisierte Tests aus Anforderungen mit Rückverfolgbarkeit entwickeln und ausführen; Integration in CI/CD; Fehleranalyse mit Software- und Hardware-Teams.",
+        "requirements": [
+          "5-8 Jahre Erfahrung in Testing und Testautomatisierung",
+          "Python und Robot Framework",
+          "Erfahrung mit Hardware-in-the-Loop-Tests (HIL)",
+          "Kenntnisse in CI/CD und DevOps",
+          "Technisches Studium / Ingenieurabschluss",
+          "Von Vorteil: ISTQB Foundation"
+        ],
+        "workload": "45 %",
+        "employmentType": "Befristet (8 Monate)"
+      },
+      "id": "d58500a3dba7",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "Test Automation Engineer (Full-Time, On-Site, Temporary)",
+      "titleEs": "Ingeniero/a de automatización de pruebas (temporal, presencial)",
+      "company": "Randstad",
+      "location": "Hinwil ZH",
+      "postedAt": "2026-11-12",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/test-automation-engineer-full-time-on-site-temporary-at-randstad-4490332920",
+      "summary": "Puesto temporal presencial (01.12.2026-31.07.2027) de automatización de pruebas con Python y Robot Framework para el equipo de I+D de un cliente de Randstad.",
+      "description": "Desarrollar, mantener y armonizar soluciones de verificación y pruebas de producto automatizadas, estandarizar frameworks, integrar en CI/CD y realizar pruebas HIL y análisis de causa raíz.",
+      "requirements": [
+        "Titulación en ingeniería o similar",
+        "5-8 años en automatización de pruebas y verificación",
+        "Más de 5 años con Python, Robot Framework y Git",
+        "Buenos conocimientos de Linux y Windows",
+        "Jira y Confluence",
+        "Deseable: Codebeamer, ISTQB Foundation"
+      ],
+      "workload": "100 %",
+      "employmentType": "Temporal (01.12.2026-31.07.2027)",
+      "language": "Inglés fluido y alemán bueno",
+      "englishOk": false,
+      "seniority": "senior",
+      "de": {
+        "title": "Test Automation Engineer (Full-Time, On-Site, Temporary)",
+        "summary": "Befristete Vor-Ort-Stelle (01.12.2026-31.07.2027) für Testautomatisierung mit Python und Robot Framework im R&D-Team eines Randstad-Kunden.",
+        "description": "Entwicklung, Wartung und Harmonisierung automatisierter Verifikations- und Produkttests, Standardisierung von Frameworks, CI/CD-Integration sowie HIL-Tests und Ursachenanalyse.",
+        "requirements": [
+          "Abschluss in Ingenieurwesen oder verwandtem Fach",
+          "5-8 Jahre Erfahrung in Testautomatisierung und Verifikation",
+          "Über 5 Jahre Python, Robot Framework und Git",
+          "Gute Linux- und Windows-Kenntnisse",
+          "Jira und Confluence",
+          "Von Vorteil: Codebeamer, ISTQB Foundation"
+        ],
+        "workload": "100 %",
+        "employmentType": "Befristet (01.12.2026-31.07.2027)",
+        "language": "Fliessend Englisch und gutes Deutsch"
+      },
+      "id": "1b6ce1435fce",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "Non-Functional Test Engineer",
+      "titleEs": "Ingeniero/a de pruebas no funcionales (NFT)",
+      "company": "SGI",
+      "location": "Zürich",
+      "postedAt": "2026-11-12",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/non-functional-test-engineer-at-sgi-4490358433",
+      "summary": "Contrato de 12 meses como responsable de pruebas no funcionales (rendimiento, resiliencia, seguridad) en plataformas bancarias.",
+      "description": "Definir la estrategia de pruebas no funcionales, SLIs/SLOs, y garantizar la preparación para el go-live; pruebas de rendimiento, resiliencia, seguridad (OWASP Top 10), accesibilidad y observabilidad, integradas en CI/CD con trazabilidad en Jira/Xray.",
+      "requirements": [
+        "Experiencia liderando pruebas no funcionales en grandes transformaciones bancarias",
+        "Conocimiento de procesos de core banking e integración empresarial",
+        "Pruebas de carga, resiliencia y seguridad, WCAG, observabilidad",
+        "Java o TypeScript; Python deseable"
+      ],
+      "workload": "100 %",
+      "employmentType": "Temporal (12 meses)",
+      "seniority": "senior",
+      "de": {
+        "title": "Non-Functional Test Engineer",
+        "summary": "12-Monats-Einsatz als Lead für nicht-funktionale Tests (Performance, Resilienz, Security) bei Banking-Plattformen.",
+        "description": "Strategie für nicht-funktionale Tests und SLIs/SLOs definieren und Go-live-Readiness sicherstellen; Performance-, Resilienz-, Security- (OWASP Top 10), Accessibility- und Observability-Tests, integriert in CI/CD mit Rückverfolgbarkeit in Jira/Xray.",
+        "requirements": [
+          "Erfahrung in der Leitung nicht-funktionaler Tests in grossen Banking-Transformationen",
+          "Kenntnis von Core-Banking-Prozessen und Enterprise-Integration",
+          "Last-, Resilienz- und Security-Tests, WCAG, Observability",
+          "Java oder TypeScript; Python von Vorteil"
+        ],
+        "workload": "100 %",
+        "employmentType": "Befristet (12 Monate)"
+      },
+      "id": "d4ad7b0ae0cc",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "IT Test Manager - Luxemburg",
+      "titleEs": "Test Manager de TI - Luxemburgo",
+      "company": "Swisslinx AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-12",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/5d26782f-a975-4f41-9ab9-a6ca14231988",
+      "summary": "Gestión de pruebas (SIT, UAT, regresión) de un proyecto de core banking en Luxemburgo; oficina de contacto en Zürich, 40 %, temporal.",
+      "description": "Definir estrategia y planes de pruebas, coordinar pruebas end-to-end, gestionar entornos y datos de prueba, defectos, reporting y recomendaciones go/no-go. Atención: el proyecto es de Luxemburgo.",
+      "requirements": [
+        "Más de 9 años de experiencia, incluido test management en banca",
+        "Experiencia con Temenos T24 e IBM FileNet/Papyrus",
+        "Dominio de estrategia y gobernanza de pruebas",
+        "Jira y Xray",
+        "Inglés fluido imprescindible; alemán es una ventaja"
+      ],
+      "workload": "40 %",
+      "employmentType": "Temporal",
+      "language": "Inglés fluido imprescindible; alemán es una ventaja",
+      "englishOk": true,
+      "seniority": "senior",
+      "de": {
+        "title": "IT Test Manager - Luxemburg",
+        "summary": "Testmanagement (SIT, UAT, Regression) für ein Core-Banking-Projekt in Luxemburg; Adresse Zürich, 40 %, befristet.",
+        "description": "Teststrategie und -pläne definieren, End-to-End-Tests koordinieren, Testumgebungen und -daten, Defect-Management, Reporting und Go/No-Go-Empfehlungen. Hinweis: Das Projekt betrifft Luxemburg.",
+        "requirements": [
+          "Über 9 Jahre Erfahrung, inkl. IT-Testmanagement im Banking",
+          "Erfahrung mit Temenos T24 und IBM FileNet/Papyrus",
+          "Teststrategie und Test-Governance",
+          "Jira und Xray",
+          "Fliessend Englisch zwingend; Deutsch von Vorteil"
+        ],
+        "workload": "40 %",
+        "employmentType": "Befristet",
+        "language": "Fliessend Englisch zwingend; Deutsch von Vorteil"
+      },
+      "id": "b6d3fb598c37",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "2027 Internship – Technology – Software Engineer – Zurich",
+      "titleEs": "Prácticas 2027 – Tecnología – Ingeniero/a de software",
+      "company": "UBS",
+      "location": "Zürich",
+      "postedAt": "2026-11-12",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/2027-internship-%E2%80%93-technology-%E2%80%93-software-engineer-%E2%80%93-zurich-at-ubs-4490328102",
+      "summary": "Prácticas pagadas de 6 meses (inicio 1 feb 2027) en Booking Services: sistemas financieros dirigidos por eventos con desarrollo asistido por IA en Java/Kotlin.",
+      "description": "Desarrollar soluciones técnicas para los sistemas financieros de UBS y ayudar a construir sistemas escalables dirigidos por eventos, trabajando con agentes de IA como compañeros.",
+      "requirements": [
+        "Al menos 4 semestres de grado; titulado hace menos de 12 meses",
+        "Nota mínima 4,5 (escala suiza)",
+        "Java y/o Kotlin, interés en CI/CD y Azure"
+      ],
+      "workload": "Jornada completa (6 meses)",
+      "employmentType": "Prácticas",
+      "seniority": "intern",
+      "de": {
+        "title": "2027 Internship – Technology – Software Engineer – Zurich",
+        "summary": "Bezahltes 6-monatiges Praktikum (Start 1. Feb. 2027) in Booking Services: ereignisgesteuerte Finanzsysteme mit KI-gestützter Entwicklung in Java/Kotlin.",
+        "description": "Technische Lösungen für die Finanzsysteme von UBS entwickeln und moderne, skalierbare ereignisgesteuerte Systeme mitbauen, zusammen mit KI-Agenten als Teamkollegen.",
+        "requirements": [
+          "Mind. 4 Semester Bachelorstudium; Abschluss max. 12 Monate her",
+          "Mindest-GPA 4.5 (Schweizer Skala)",
+          "Java und/oder Kotlin, Interesse an CI/CD und Azure"
+        ],
+        "workload": "Vollzeit (6 Monate)",
+        "employmentType": "Praktikum"
+      },
+      "searchId": "junior-it",
+      "id": "b539a50a35f7",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "Working Student Software Engineering",
+      "titleEs": "Estudiante trabajador/a – Ingeniería de software",
+      "company": "NAIRON | AI Voice",
+      "location": "Zürich",
+      "postedAt": "2026-11-12",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/working-student-software-engineering-at-nairon-ai-voice-4488504473",
+      "summary": "Startup suizo de agentes de voz con IA: puesto de estudiante (30–60 %) con Python, TypeScript/React y plataforma en tiempo real. Híbrido en Zürich.",
+      "description": "Según interés: voz IA (latencia, LLMs, STT/TTS), entrenamiento de modelos de voz, servicios backend en Python con LiveKit, funciones web y móviles (Next.js/React/TypeScript, Expo) y plataforma (Docker, Kubernetes).",
+      "requirements": [
+        "Estudiante o recién titulado en informática o similar",
+        "Python o TypeScript, Git, APIs y depuración",
+        "Inglés imprescindible; alemán, un plus"
+      ],
+      "workload": "30–60 %",
+      "employmentType": "Estudiante trabajador",
+      "language": "Inglés imprescindible, alemán un plus",
+      "englishOk": true,
+      "seniority": "intern",
+      "de": {
+        "title": "Working Student Software Engineering",
+        "summary": "Schweizer Startup für KI-Sprachagenten: Werkstudentenstelle (30–60 %) mit Python, TypeScript/React und Echtzeit-Plattform. Hybrid in Zürich.",
+        "description": "Je nach Interesse: Voice AI (Latenz, LLMs, STT/TTS), Training von Sprachmodellen, Python-Backend mit LiveKit, Web-/Mobile-Features (Next.js/React/TypeScript, Expo) und Plattform (Docker, Kubernetes).",
+        "requirements": [
+          "Studierende oder Absolvent/in in Informatik o. ä.",
+          "Python oder TypeScript, Git, APIs und Debugging",
+          "Englisch zwingend; Deutsch von Vorteil"
+        ],
+        "workload": "30–60 %",
+        "employmentType": "Werkstudent",
+        "language": "Englisch zwingend, Deutsch von Vorteil"
+      },
+      "searchId": "junior-it",
+      "id": "cfb8016cc2ea",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "IT 1st Level Support",
+      "titleEs": "Soporte IT de 1.er nivel",
+      "company": "Academic Work",
+      "location": "Zürich",
+      "postedAt": "2026-11-12",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/it-1st-level-support-at-academic-work-4488516974",
+      "summary": "Soporte de 1.er nivel (Mac y Windows) para una empresa suiza de plataformas digitales, en Zürich-Oerlikon. Nivel de entrada con algo de experiencia.",
+      "description": "Ayuda diaria por tickets, preparar MacBooks y portátiles Dell para altas, soporte remoto con Workspace ONE, incidencias de Google Workspace, Notion y Okta, gestión de reparaciones con Dell.",
+      "requirements": [
+        "Formación en informática (de gestión) o equivalente",
+        "Primera experiencia práctica en helpdesk o gestión de clientes",
+        "Conocimiento de Windows y macOS",
+        "Alemán e inglés fluidos (mín. C1)"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán e inglés C1",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "IT 1st Level Support",
+        "summary": "First-Level-Support (Mac und Windows) für ein Schweizer Plattform-Unternehmen in Zürich-Oerlikon. Berufseinstieg mit etwas Erfahrung.",
+        "description": "Ticketbasierte Hilfe, MacBooks und Dell-Laptops fürs Onboarding vorbereiten, Remote-Support mit Workspace ONE, Login- und Tool-Probleme (Google Workspace, Notion, Okta), Hardware-Ersatz mit Dell koordinieren.",
+        "requirements": [
+          "Ausbildung in (Wirtschafts-)Informatik oder vergleichbar",
+          "Erste praktische Erfahrung im First-Level-Support oder Client-Management",
+          "Kenntnisse in Windows und macOS",
+          "Fliessend Deutsch und Englisch (mind. C1)"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch und Englisch C1"
+      },
+      "searchId": "junior-it",
+      "id": "8b1d7295fea3",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "1st Level Supporter:in (a) 100% [Ref:2712]",
+      "titleEs": "Soporte de 1.er nivel",
+      "company": "Freestar-Informatik AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-12",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/1st-level-supporter-in-a-100%25-ref-2712-at-freestar-informatik-ag-4488285950",
+      "summary": "Soporte de 1.er nivel por teléfono, chat y tickets, remoto y presencial. Exige alemán C2 y formación o experiencia en TI.",
+      "description": "Atender fallos por teléfono, chat y ticket, dar soporte remoto y presencial, escalar casos complejos, mantener la base de conocimiento y apoyar la incorporación de nuevos compañeros.",
+      "requirements": [
+        "Formación en TI o varios años de experiencia comparable",
+        "Experiencia con herramientas de tickets, hardware y software",
+        "Alemán C2 obligatorio"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán C2",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "1st Level Supporter:in (a) 100% [Ref:2712]",
+        "summary": "1st-Level-Support per Telefon, Chat und Ticket, remote und vor Ort. Deutsch C2 und IT-Ausbildung oder Erfahrung verlangt.",
+        "description": "Störungen per Telefon, Chat und Web-Ticket aufnehmen, Remote- und Vor-Ort-Support leisten, komplexe Fälle eskalieren, Wissensdatenbank pflegen und neue Teammitglieder einarbeiten.",
+        "requirements": [
+          "IT-Ausbildung oder mehrjährige Erfahrung in vergleichbarer Rolle",
+          "Erfahrung mit Ticket-Tools, Hard- und Software",
+          "Deutsch C2 zwingend"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch C2"
+      },
+      "searchId": "junior-it",
+      "id": "5c2ed4981204",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "IT Support Engineer – Microsoft 365 & Workplace | 100 % (m/w/d)",
+      "titleEs": "Ingeniero/a de soporte IT – Microsoft 365 y puesto de trabajo",
+      "company": "Rocken®",
+      "location": "Zug",
+      "postedAt": "2026-11-12",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/it-support-engineer-%E2%80%93-microsoft-365-workplace-100-%25-m-w-d-at-rocken%C2%AE-4489297093",
+      "summary": "Primer punto de contacto de soporte 1.er/2.º nivel con Windows 11, Microsoft 365, Intune y Entra ID. Pide 3 años de experiencia.",
+      "description": "Soporte presencial y remoto, altas y bajas de usuarios, instalación y mantenimiento de equipos con Intune, permisos en AD/Entra ID, apoyo en WLAN/LAN/VPN y documentación.",
+      "requirements": [
+        "Al menos 3 años de experiencia en soporte IT",
+        "Windows 11 y Microsoft 365",
+        "Nociones de TCP/IP, DNS y DHCP",
+        "Alemán e inglés muy buenos"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "salary": "CHF 90'000–100'000",
+      "language": "Alemán e inglés muy buenos",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "IT Support Engineer – Microsoft 365 & Workplace | 100 % (m/w/d)",
+        "summary": "Erste Anlaufstelle für 1st-/2nd-Level-Support mit Windows 11, Microsoft 365, Intune und Entra ID. Mind. 3 Jahre Erfahrung.",
+        "description": "Support vor Ort und remote, On- und Offboarding, Installation und Wartung von Geräten mit Intune, Berechtigungen in AD/Entra ID, Unterstützung bei WLAN/LAN/VPN und Dokumentation.",
+        "requirements": [
+          "Mind. 3 Jahre Erfahrung im IT-Support",
+          "Windows 11 und Microsoft 365",
+          "Grundkenntnisse TCP/IP, DNS und DHCP",
+          "Sehr gutes Deutsch und Englisch"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Sehr gutes Deutsch und Englisch"
+      },
+      "searchId": "junior-it",
+      "id": "3353916ad24d",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
     {
       "searchId": "frontend-react",
       "title": "Frontend Engineer (part-time possible, all genders)",
@@ -583,6 +1049,151 @@
       },
       "id": "c196e710d9cc",
       "foundAt": "2026-11-12T10:00:08.920Z"
+    },
+    {
+      "searchId": "frontend-react",
+      "title": "Senior Frontend Developer",
+      "titleEs": "Desarrollador/a Frontend senior",
+      "company": "Jobgether (empresa socia sin nombre)",
+      "location": "Remoto (Suiza)",
+      "postedAt": "2026-11-11",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/senior-frontend-developer-at-jobgether-4488663615",
+      "summary": "Puesto remoto senior para residentes en Suiza en una plataforma de comercio electrónico, con React y TypeScript.",
+      "description": "Desarrollar y mejorar aplicaciones web de alto rendimiento con React y TypeScript, diseñar soluciones técnicas, optimizar el rendimiento e influir en la arquitectura frontend en un equipo internacional remoto.",
+      "requirements": [
+        "Experiencia sólida con React y TypeScript",
+        "Optimización del rendimiento de aplicaciones web",
+        "Trabajo en equipos remotos internacionales"
+      ],
+      "workload": "100 %",
+      "employmentType": "Jornada completa, remoto",
+      "language": "Inglés",
+      "englishOk": true,
+      "seniority": "senior",
+      "de": {
+        "title": "Senior Frontend Developer",
+        "summary": "Senior-Remote-Stelle für Personen mit Wohnsitz in der Schweiz bei einer E-Commerce-Plattform, mit React und TypeScript.",
+        "description": "Entwicklung und Verbesserung leistungsstarker Webanwendungen mit React und TypeScript, Entwurf technischer Lösungen, Performance-Optimierung und Mitgestaltung der Frontend-Architektur in einem internationalen Remote-Team.",
+        "requirements": [
+          "Fundierte Erfahrung mit React und TypeScript",
+          "Performance-Optimierung von Webanwendungen",
+          "Arbeit in internationalen Remote-Teams"
+        ],
+        "workload": "100 %",
+        "employmentType": "Vollzeit, Remote",
+        "language": "Englisch"
+      },
+      "id": "7b348200f866",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Full Stack Softwareentwickler (m/w/d)",
+      "titleEs": "Desarrollador/a de software Full Stack (Angular)",
+      "company": "Rocken®",
+      "location": "Zug",
+      "postedAt": "2026-11-11",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/full-stack-softwareentwickler-m-w-d-at-rocken%C2%AE-4489037048",
+      "summary": "Software de puesta en marcha interactiva: backend para Windows/Linux y frontends web con Angular y TypeScript.",
+      "description": "Desarrollar software interactivo de puesta en marcha, aplicaciones backend, frontends modernos con Angular para navegador y aplicaciones autónomas, y definir interfaces REST y WebSocket entre backend y frontend; opcionalmente mantener DevOps (GitLab, CI/CD).",
+      "requirements": [
+        "Titulación en informática o formación equivalente con algo de experiencia",
+        "Primera experiencia con Angular, TypeScript y HTML",
+        "Buen sentido de UX",
+        "Alemán muy bueno oral y escrito"
+      ],
+      "workload": "100 %",
+      "employmentType": "Jornada completa",
+      "language": "Alemán muy bueno",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Full Stack Softwareentwickler (m/w/d)",
+        "summary": "Interaktive Inbetriebnahme-Software: Backend für Windows/Linux und Web-Frontends mit Angular und TypeScript.",
+        "description": "Entwicklung interaktiver Inbetriebnahme-Software, Backend-Anwendungen, moderner Frontends mit Angular für Browser und Standalone-Anwendungen sowie Definition der REST- und WebSocket-Schnittstellen zwischen Backend und Frontend; optional Pflege der DevOps-Infrastruktur (GitLab, CI/CD).",
+        "requirements": [
+          "Informatikstudium oder gleichwertige Ausbildung mit etwas Erfahrung",
+          "Erste Erfahrung mit Angular, TypeScript und HTML",
+          "Gespür für UX",
+          "Sehr gute Deutschkenntnisse in Wort und Schrift"
+        ],
+        "workload": "100 %",
+        "employmentType": "Vollzeit",
+        "language": "Sehr gutes Deutsch"
+      },
+      "id": "3ae72a22080f",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "Software Engineer Intern - Robotics Platform",
+      "titleEs": "Prácticas de ingeniería de software – plataforma de robótica",
+      "company": "Gravis Robotics",
+      "location": "Zürich",
+      "postedAt": "2026-11-11",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/software-engineer-intern-robotics-platform-at-gravis-robotics-4489989646",
+      "summary": "Prácticas en la plataforma de software de robots autónomos de construcción: APIs, monitorización y configuración. Requiere C++ o Rust.",
+      "description": "Diseñar, construir y mantener partes de la plataforma (APIs, monitorización de estado, configuración), recoger requisitos internos y mejorar la robustez del código.",
+      "requirements": [
+        "Grado o máster en informática/electrónica",
+        "Experiencia práctica en ingeniería de software",
+        "C++ o Rust; Python, un plus"
+      ],
+      "employmentType": "Prácticas",
+      "language": "Inglés",
+      "englishOk": true,
+      "seniority": "intern",
+      "de": {
+        "title": "Software Engineer Intern - Robotics Platform",
+        "summary": "Praktikum an der Software-Plattform autonomer Baurobotern: APIs, Monitoring und Konfiguration. C++ oder Rust verlangt.",
+        "description": "Teile der Plattform (APIs, Health-Monitoring, Maschinenkonfiguration) entwerfen, bauen und warten, Anforderungen sammeln und die Robustheit des Codes verbessern.",
+        "requirements": [
+          "Bachelor/Master in Informatik/Elektrotechnik",
+          "Praktische Software-Engineering-Erfahrung",
+          "C++ oder Rust; Python von Vorteil"
+        ],
+        "employmentType": "Praktikum",
+        "language": "Englisch"
+      },
+      "searchId": "junior-it",
+      "id": "129f49754603",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "Professional IT-Supporter (m/w/d)",
+      "titleEs": "Soporte IT profesional",
+      "company": "Rocken®",
+      "location": "Wohlen AG",
+      "postedAt": "2026-11-11",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/professional-it-supporter-m-w-d-at-rocken%C2%AE-4489026594",
+      "summary": "Soporte IT profesional en Rocken® (Wohlen AG). Resumen basado solo en el listado de LinkedIn; abre la oferta para ver requisitos y condiciones.",
+      "de": {
+        "title": "Professional IT-Supporter (m/w/d)",
+        "summary": "Professional IT-Supporter (m/w/d) bei Rocken® (Wohlen AG). Zusammenfassung nur aus der LinkedIn-Liste; Details und Anforderungen in der Originalanzeige."
+      },
+      "searchId": "junior-it",
+      "id": "981a35d5d163",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "IT Support & Infrastructure Specialist (a)",
+      "titleEs": "Especialista en soporte e infraestructura IT",
+      "company": "LHH",
+      "location": "Zürich",
+      "postedAt": "2026-11-11",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/it-support-infrastructure-specialist-a-at-lhh-4487841514",
+      "summary": "Especialista en soporte e infraestructura IT en LHH (Zürich). Resumen basado solo en el listado de LinkedIn; abre la oferta para ver requisitos y condiciones.",
+      "de": {
+        "title": "IT Support & Infrastructure Specialist (a)",
+        "summary": "IT Support & Infrastructure Specialist (a) bei LHH (Zürich). Zusammenfassung nur aus der LinkedIn-Liste; Details und Anforderungen in der Originalanzeige."
+      },
+      "searchId": "junior-it",
+      "id": "a57a716af079",
+      "foundAt": "2026-11-12T20:17:38.597Z"
     },
     {
       "searchId": "fullstack-ts",
@@ -1420,6 +2031,372 @@
       "foundAt": "2026-11-12T07:02:24.394Z"
     },
     {
+      "searchId": "frontend-react",
+      "title": "Lead - Software Engineer",
+      "titleEs": "Lead Software Engineer (arquitectura frontend web y móvil)",
+      "company": "On",
+      "location": "Zürich",
+      "postedAt": "2026-11-10",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/lead-software-engineer-at-on-4489624307",
+      "summary": "Liderar la arquitectura frontend web y móvil de una plataforma de innovación en On, migrando de Flutter a React/Next.js.",
+      "description": "Responsable de la arquitectura frontend web y móvil de la plataforma, mentoría de ingenieros, definición de estándares de código, accesibilidad y rendimiento, y dirección de la migración de Flutter a React/Next.js con TypeScript, GraphQL/Apollo Federation y herramientas de IA.",
+      "requirements": [
+        "Unos 6+ años creando aplicaciones web y móviles en producción",
+        "Conocimiento profundo de tecnologías web y móviles modernas (React, Next.js, TypeScript)",
+        "Experiencia liderando refactorizaciones de arquitectura",
+        "Inglés fluido"
+      ],
+      "workload": "100 %",
+      "employmentType": "Jornada completa",
+      "language": "Inglés fluido",
+      "englishOk": true,
+      "seniority": "lead",
+      "de": {
+        "title": "Lead - Software Engineer",
+        "summary": "Leitung der Web- und Mobile-Frontend-Architektur einer Innovationsplattform bei On, mit Migration von Flutter zu React/Next.js.",
+        "description": "Verantwortung für die Web- und Mobile-Frontend-Architektur der Plattform, Mentoring von Engineers, Standards für Codequalität, Barrierefreiheit und Performance sowie Leitung der Migration von Flutter zu React/Next.js mit TypeScript, GraphQL/Apollo Federation und KI-Tools.",
+        "requirements": [
+          "Ca. 6+ Jahre Erfahrung mit Web- und Mobile-Anwendungen in Produktion",
+          "Fundierte Kenntnisse moderner Web- und Mobile-Technologien (React, Next.js, TypeScript)",
+          "Erfahrung mit architektonischen Refactorings",
+          "Fliessendes Englisch"
+        ],
+        "workload": "100 %",
+        "employmentType": "Vollzeit",
+        "language": "Englisch fliessend"
+      },
+      "id": "1074f874fc41",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior Software Engineer - Digital Workplace",
+      "titleEs": "Ingeniero/a de software senior - Digital Workplace",
+      "company": "Canonical",
+      "location": "Zürich",
+      "postedAt": "2026-11-10",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/senior-software-engineer-digital-workplace-at-canonical-4489643144",
+      "summary": "Plataformas internas con servicios Go, interfaces en React/Svelte/TypeScript y funciones con LLM; empresa distribuida.",
+      "description": "Diseñar y entregar sistemas y plataformas con interfaces intuitivas, construir servicios y APIs en Go que conecten fuentes de datos, convertir datos en paneles y visualizaciones e integrar funciones con LLM en flujos de trabajo.",
+      "requirements": [
+        "Experiencia profunda en al menos dos de: backend Go, frontend moderno (React/Svelte/TypeScript), ingeniería de datos, visualización, ML/LLM",
+        "Pruebas, seguridad, rendimiento y accesibilidad como parte del trabajo",
+        "Trabajo en equipo distribuido",
+        "Inglés"
+      ],
+      "workload": "100 %",
+      "employmentType": "Jornada completa",
+      "language": "Inglés",
+      "englishOk": true,
+      "seniority": "senior",
+      "de": {
+        "title": "Senior Software Engineer - Digital Workplace",
+        "summary": "Interne Plattformen mit Go-Services, Oberflächen in React/Svelte/TypeScript und LLM-Funktionen; verteiltes Unternehmen.",
+        "description": "Entwurf und Lieferung von Systemen und Plattformen mit intuitiven Oberflächen, Go-Services und -APIs zur Anbindung von Datenquellen, Dashboards und Visualisierungen sowie LLM-gestützte Funktionen in Arbeitsabläufen.",
+        "requirements": [
+          "Fundierte Expertise in mindestens zwei Bereichen: Go-Backend, modernes Frontend (React/Svelte/TypeScript), Data Engineering, Visualisierung, ML/LLM",
+          "Tests, Sicherheit, Performance und Barrierefreiheit als Teil der Arbeit",
+          "Zusammenarbeit in verteilten Teams",
+          "Englisch"
+        ],
+        "workload": "100 %",
+        "employmentType": "Vollzeit",
+        "language": "Englisch"
+      },
+      "id": "a2346427045a",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": ".NET Software Engineer",
+      "titleEs": ".NET Software Engineer (APIs, Blazor/React, MAUI)",
+      "company": "Noir",
+      "location": "Zürich",
+      "postedAt": "2026-11-10",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/net-software-engineer-at-noir-4489456418",
+      "summary": "Desarrollo de APIs REST y SOAP, interfaces web con ASP.NET Blazor y apps móviles con .NET MAUI, creando una aplicación nueva desde cero. Posible trabajo remoto parcial.",
+      "description": "Desarrollas APIs REST y SOAP, UIs web modernas con ASP.NET Blazor y apps móviles con .NET MAUI, y ayudas a crear una aplicación nueva desde cero. Se requiere residir en Suiza con derecho a trabajar.",
+      "requirements": [
+        "C#/.NET, NuGet, MS SQL Server y EF Core (Code First)",
+        "REST, SPA (Redux), ORM, mensajería/eventos, cloud y contenedores",
+        "Trabajo autónomo y en equipo, mentalidad emprendedora",
+        "Residir en Suiza con permiso de trabajo"
+      ],
+      "workload": "Tiempo completo",
+      "employmentType": "Contrato fijo",
+      "salary": "CHF 80'000–120'000 + bonus",
+      "language": "Alemán e inglés",
+      "de": {
+        "title": ".NET Software Engineer",
+        "summary": "Entwicklung von REST- und SOAP-APIs, Web-UIs mit ASP.NET Blazor und Mobile-Apps mit .NET MAUI beim Aufbau einer neuen Anwendung. Teilweise Remote möglich.",
+        "description": "Du entwickelst REST- und SOAP-APIs, moderne Web-UIs mit ASP.NET Blazor und Mobile-Apps mit .NET MAUI und hilfst beim Aufbau einer neuen Anwendung von Grund auf. Wohnsitz in der Schweiz mit Arbeitsberechtigung erforderlich.",
+        "requirements": [
+          "C#/.NET, NuGet, MS SQL Server und EF Core (Code First)",
+          "REST, SPA (Redux), ORM, Messaging/Events, Cloud und Container",
+          "Selbständiges Arbeiten und Teamfähigkeit, unternehmerisches Denken",
+          "Wohnsitz in der Schweiz mit Arbeitsberechtigung"
+        ],
+        "workload": "Vollzeit",
+        "employmentType": "Festanstellung",
+        "salary": "CHF 80'000–120'000 + Bonus",
+        "language": "Deutsch und Englisch"
+      },
+      "id": "fe90cf8fba8a",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "System Test Engineer - Humanoid (human)",
+      "titleEs": "Ingeniero/a de pruebas de sistema - Humanoide",
+      "company": "NEURA Robotics",
+      "location": "Zürich",
+      "postedAt": "2026-11-10",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/system-test-engineer-humanoid-human-at-neura-robotics-4489491974",
+      "summary": "Verificación y validación a nivel de sistema del robot humanoide 4NE1; pruebas de rigs y automatización (fecha aproximada: hace 2 días en LinkedIn).",
+      "description": "Definir estrategia y planes de prueba, criterios de aceptación; pruebas funcionales, de resistencia, ambientales y fiabilidad; análisis de causa raíz; construir rigs y automatización con soporte a CI/CD y regresión.",
+      "requirements": [
+        "Titulación en ingeniería mecánica, mecatrónica, robótica o similar",
+        "Varios años probando sistemas mecatrónicos/robóticos",
+        "Python para automatización y Git",
+        "Jira, Polarion o DOORS",
+        "Experiencia con rigs e instrumentación"
+      ],
+      "workload": "Tiempo completo",
+      "de": {
+        "title": "System Test Engineer - Humanoid (human)",
+        "summary": "System-Verifikation und -Validierung des humanoiden Roboters 4NE1; Prüfstände und Automatisierung (Datum ca.: vor 2 Tagen auf LinkedIn).",
+        "description": "Teststrategie, -pläne und Abnahmekriterien definieren; Funktions-, Dauer-, Umwelt- und Zuverlässigkeitstests; Ursachenanalyse; Prüfstände und Automatisierung mit CI/CD- und Regressionssupport.",
+        "requirements": [
+          "Studium in Maschinenbau, Mechatronik, Robotik o. ä.",
+          "Mehrjährige Erfahrung im Testen mechatronischer/robotischer Systeme",
+          "Python für Testautomatisierung und Git",
+          "Jira, Polarion oder DOORS",
+          "Erfahrung mit Prüfständen und Messtechnik"
+        ],
+        "workload": "Vollzeit",
+        "language": "mid"
+      },
+      "employmentType": "Tiempo completo",
+      "id": "c5d3f8f72818",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "IVVQ Engineer (m/w/d) – Systems Integration & Verification",
+      "titleEs": "Ingeniero/a IVVQ - Integración y verificación de sistemas",
+      "company": "Thales",
+      "location": "Zürich",
+      "postedAt": "2026-11-10",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/ivvq-engineer-m-w-d-%E2%80%93-systems-integration-verification-at-thales-4418161956",
+      "summary": "Integración, verificación y validación de software con automatización de pruebas en el sector aeroespacial y defensa (fecha aproximada: hace 2 días).",
+      "description": "Definir alcance de pruebas y mantener suites por release, redactar conceptos de integración, verificar componentes, construir herramientas y entornos de automatización, analizar resultados y gestionar defectos.",
+      "requirements": [
+        "Grado en informática, ingeniería o similar",
+        "3-5 años de experiencia IVVQ",
+        "Pruebas de componentes, automatización y validación",
+        "Programación y análisis de datos",
+        "Inglés fluido y alemán o francés"
+      ],
+      "workload": "Tiempo completo",
+      "language": "Inglés fluido y alemán o francés",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "IVVQ Engineer (m/w/d) – Systems Integration & Verification",
+        "summary": "Integration, Verifikation und Validierung von Software inkl. Testautomatisierung in Luftfahrt und Verteidigung (Datum ca.: vor 2 Tagen).",
+        "description": "Testumfang definieren und Suiten pro Release pflegen, Integrationskonzepte schreiben, Komponenten verifizieren, Automatisierungstools und -umgebungen aufbauen, Ergebnisse analysieren und Defects managen.",
+        "requirements": [
+          "Bachelor/Master in Informatik, Ingenieurwesen o. ä.",
+          "3-5 Jahre IVVQ-Erfahrung",
+          "Komponententests, Testautomatisierung und Validierung",
+          "Programmierkenntnisse und Datenanalyse",
+          "Fliessend Englisch und Deutsch oder Französisch"
+        ],
+        "workload": "Vollzeit",
+        "language": "Fliessend Englisch und Deutsch oder Französisch"
+      },
+      "employmentType": "Tiempo completo",
+      "id": "543985c7656d",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "Test Management BFSI – Senior Consultant (m,w,d)",
+      "titleEs": "Consultor/a senior de gestión de pruebas BFSI",
+      "company": "QESTIT DACH",
+      "location": "Zürich",
+      "postedAt": "2026-11-10",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/test-management-bfsi-senior-consultant-m-w-d-at-qestit-dach-4487475927",
+      "summary": "Gestión de procesos de prueba en proyectos de banca y seguros; exige alemán C1 (fecha aproximada: hace 2 días).",
+      "description": "Planificar, ejecutar y supervisar procesos de prueba, gestionar defectos y releases de test, reporting, definir estrategia de pruebas transversal, escribir casos de prueba funcionales y mentorizar.",
+      "requirements": [
+        "Mín. 5 años de experiencia en testing de software",
+        "Conocimientos de banca y/o seguros",
+        "Defect management y Scrum",
+        "Certificación ISTQB",
+        "Alemán C1"
+      ],
+      "workload": "Tiempo completo",
+      "language": "Alemán C1",
+      "englishOk": false,
+      "seniority": "senior",
+      "de": {
+        "title": "Test Management BFSI – Senior Consultant (m,w,d)",
+        "summary": "Steuerung von Testprozessen in Banken- und Versicherungsprojekten; Deutsch C1 erforderlich (Datum ca.: vor 2 Tagen).",
+        "description": "Testprozesse planen, steuern und überwachen, Defects und Test-Releases managen, Reporting, projektübergreifende Teststrategie definieren, funktionale Testfälle schreiben und Kolleg:innen coachen.",
+        "requirements": [
+          "Mind. 5 Jahre Software-Testing-Erfahrung",
+          "Kenntnisse im Banken- und/oder Versicherungsumfeld",
+          "Defect-Management und Scrum",
+          "ISTQB-Zertifizierung",
+          "Deutsch C1"
+        ],
+        "workload": "Vollzeit",
+        "language": "Deutsch C1"
+      },
+      "employmentType": "Tiempo completo",
+      "id": "90d30f1ca38f",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "IT-Supporter (m/w)",
+      "titleEs": "Soporte IT (1.º y 2.º nivel)",
+      "company": "Ärztekasse Genossenschaft",
+      "location": "Urdorf ZH",
+      "postedAt": "2026-11-10",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/e43d50d2-bd28-4e12-b3cc-d4a678d312a6",
+      "summary": "Soporte IT de 1.er y 2.º nivel para usuarios con macOS y Windows en una cooperativa de administración para médicos. Pide varios años de experiencia.",
+      "description": "Atender y resolver incidencias y solicitudes, diagnosticar fallos de puestos de trabajo, dar soporte de hardware/software/Office/Teams, instalar y mantener equipos, gestionar cuentas y permisos, documentar en el sistema de tickets y escalar a 3.er nivel.",
+      "requirements": [
+        "Varios años de experiencia como soporte de 2.º nivel",
+        "Conocimientos de macOS y productos Microsoft",
+        "Experiencia en redes y seguridad",
+        "Alemán muy bueno; inglés y francés B1"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán fluido, inglés y francés B1",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "IT-Supporter (m/w)",
+        "summary": "IT-Support im 1st und 2nd Level für macOS- und Windows-Anwender bei einer Ärzte-Abrechnungsgenossenschaft. Mehrjährige Erfahrung verlangt.",
+        "description": "Support-Anfragen annehmen und lösen, Störungen an Arbeitsplätzen analysieren, Hard-/Software-/Office-/Teams-Support, Geräte installieren und warten, Benutzerkonten verwalten, im Ticketsystem dokumentieren, an den 3rd Level eskalieren.",
+        "requirements": [
+          "Mehrjährige Erfahrung im 2nd-Level-Support",
+          "Kenntnisse in macOS und Microsoft-Produkten",
+          "Erfahrung mit Netzwerken und Security",
+          "Sehr gutes Deutsch; Englisch und Französisch B1"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch fliessend, Englisch und Französisch B1"
+      },
+      "searchId": "junior-it",
+      "id": "684f07018cfb",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "Spezialist für digitalen Produktsupport (80–100%, m/w/d)",
+      "titleEs": "Especialista en soporte de producto digital",
+      "company": "OEKO-TEX AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-10",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/4474ca85-e760-4ba6-9541-d69231527ef6",
+      "summary": "Soporte de 1.er y 2.º nivel de un producto digital en la sede de OEKO-TEX, con gestión de la herramienta Zendesk y automatizaciones.",
+      "description": "Dar soporte de 1.er y 2.º nivel, responsabilizarse de cada caso hasta su resolución, gestionar Zendesk, crear plantillas y automatizaciones y redactar materiales de soporte y formación.",
+      "requirements": [
+        "Experiencia de soporte con un producto digital",
+        "Gestión de herramientas como Zendesk",
+        "Alemán profesional; inglés avanzado"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán y inglés avanzados",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Spezialist für digitalen Produktsupport (80–100%, m/w/d)",
+        "summary": "1st- und 2nd-Level-Support für ein digitales Produkt am Hauptsitz von OEKO-TEX, inkl. Zendesk-Betreuung und Automatisierungen.",
+        "description": "1st- und 2nd-Level-Support leisten, Anfragen bis zur Lösung verantworten, Zendesk betreuen, Vorlagen und Automatisierungen erstellen sowie Support- und Schulungsunterlagen schreiben.",
+        "requirements": [
+          "Support-Erfahrung mit einem digitalen Produkt",
+          "Betreuung von Tools wie Zendesk",
+          "Professionelles Deutsch; Englisch fortgeschritten"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch und Englisch fortgeschritten"
+      },
+      "searchId": "junior-it",
+      "id": "c71b98072be3",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "2027 Graduate Talent Program – Tech – Software Engineer (AI) – Zurich",
+      "titleEs": "Programa Graduate 2027 – Ingeniero/a de software (IA)",
+      "company": "UBS",
+      "location": "Zürich",
+      "postedAt": "2026-11-10",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/2027-graduate-talent-program-%E2%80%93-tech-%E2%80%93-software-engineer-ai-%E2%80%93-zurich-at-ubs-4481264667",
+      "summary": "Programa graduate de 18 meses (inicio 1 feb 2027) en IA y plataformas de datos; piden máximo 2 años de experiencia y inglés excelente.",
+      "description": "Desarrollar soluciones técnicas, investigar aplicaciones de IA en datos y reporting, crear herramientas de IA generativa e integrarlas en plataformas de datos.",
+      "requirements": [
+        "Titulado en los últimos 24 meses, máx. 2 años de experiencia",
+        "Nota mínima 4,5",
+        "Python, frameworks de UI y SQL",
+        "Inglés excelente; alemán, un plus"
+      ],
+      "workload": "100 %",
+      "employmentType": "Programa graduate (18 meses)",
+      "language": "Inglés excelente, alemán un plus",
+      "englishOk": true,
+      "seniority": "junior",
+      "de": {
+        "title": "2027 Graduate Talent Program – Tech – Software Engineer (AI) – Zurich",
+        "summary": "18-monatiges Graduate-Programm (Start 1. Feb. 2027) in KI und Datenplattformen; max. 2 Jahre Erfahrung, exzellentes Englisch.",
+        "description": "Technische Lösungen entwickeln, KI-Anwendungen in Data & Reporting erforschen, GenAI-Tools bauen und in Datenplattformen integrieren.",
+        "requirements": [
+          "Abschluss in den letzten 24 Monaten, max. 2 Jahre Berufserfahrung",
+          "Mindest-GPA 4.5",
+          "Python, UI-Frameworks und SQL",
+          "Exzellentes Englisch; Deutsch von Vorteil"
+        ],
+        "workload": "100 %",
+        "employmentType": "Graduate-Programm (18 Monate)",
+        "language": "Exzellentes Englisch, Deutsch von Vorteil"
+      },
+      "searchId": "junior-it",
+      "id": "7c37224567b2",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "Technical Engineer im IT-Consulting (German-speaking)",
+      "titleEs": "Ingeniero/a técnico en consultoría IT (germanohablante)",
+      "company": "ipt Innovation Process Technology",
+      "location": "Zürich",
+      "postedAt": "2026-11-10",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/technical-engineer-im-it-consulting-german-speaking-at-ipt-innovation-process-technology-4487424021",
+      "summary": "Ingeniero/a técnico en consultoría IT (germanohablante) en ipt Innovation Process Technology (Zürich). Resumen basado solo en el listado de LinkedIn; abre la oferta para ver requisitos y condiciones.",
+      "de": {
+        "title": "Technical Engineer im IT-Consulting (German-speaking)",
+        "summary": "Technical Engineer im IT-Consulting (German-speaking) bei ipt Innovation Process Technology (Zürich). Zusammenfassung nur aus der LinkedIn-Liste; Details und Anforderungen in der Originalanzeige."
+      },
+      "searchId": "junior-it",
+      "id": "6d6174dacc0e",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
       "searchId": "fullstack-ts",
       "title": "Full-Stack Software Entwickler:in (80-100%)",
       "titleEs": "Desarrollador/a de software Full-Stack (80–100%)",
@@ -1922,6 +2899,224 @@
       }
     },
     {
+      "searchId": "frontend-react",
+      "title": "Frontend Developer (React)",
+      "titleEs": "Desarrollador/a Frontend (React)",
+      "company": "Jobgether (empresa socia sin nombre)",
+      "location": "Remoto (Suiza, CET ±1 h)",
+      "postedAt": "2026-11-09",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/frontend-developer-react-at-jobgether-4487687394",
+      "summary": "Puesto 100 % remoto para residentes en Suiza (zona horaria CET ±1 h): desarrollo de interfaces con React, TypeScript y GraphQL/Apollo.",
+      "description": "Construir y mantener funcionalidades y componentes de interfaz reutilizables con React, JavaScript y TypeScript, convertir diseños de Figma en interfaces responsive, optimizar el rendimiento, hacer revisiones de código y liderar las pruebas automatizadas (Cypress, Playwright, Storybook, Chromatic).",
+      "requirements": [
+        "5+ años de JavaScript, TypeScript y React (SPA)",
+        "3+ años de HTML5/CSS3 y GraphQL/Apollo",
+        "Experiencia con pruebas de regresión visual y automatizadas",
+        "Experiencia con Ant Design o Tailwind CSS"
+      ],
+      "workload": "100 %",
+      "employmentType": "Jornada completa, remoto",
+      "language": "Inglés",
+      "englishOk": true,
+      "seniority": "senior",
+      "de": {
+        "title": "Frontend Developer (React)",
+        "summary": "100 % Remote-Stelle für Personen mit Wohnsitz in der Schweiz (Zeitzone CET ±1 Std.): Entwicklung von Oberflächen mit React, TypeScript und GraphQL/Apollo.",
+        "description": "Aufbau und Pflege von Funktionen und wiederverwendbaren UI-Komponenten mit React, JavaScript und TypeScript, Umsetzung von Figma-Designs in responsive Frontends, Performance-Optimierung, Code-Reviews und Leitung der automatisierten Tests (Cypress, Playwright, Storybook, Chromatic).",
+        "requirements": [
+          "5+ Jahre JavaScript, TypeScript und React (SPA)",
+          "3+ Jahre HTML5/CSS3 und GraphQL/Apollo",
+          "Erfahrung mit visuellen Regressions- und automatisierten Tests",
+          "Erfahrung mit Ant Design oder Tailwind CSS"
+        ],
+        "workload": "100 %",
+        "employmentType": "Vollzeit, Remote",
+        "language": "Englisch"
+      },
+      "id": "5230c02d97c4",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Tech Lead / Java Fullstack Software Engineer - eBanking (a) (100%)",
+      "titleEs": "Tech Lead / Ingeniero/a de software Java Fullstack - eBanking",
+      "company": "Consult & Pepper AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-09",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/5516c71b-65a5-4f5c-bf3a-f3e0afc3e6ff",
+      "summary": "Liderazgo técnico en el desarrollo de cinco aplicaciones eBanking críticas con microservicios (Java/Spring en backend, Angular o React en frontend).",
+      "description": "Desarrollas y operas cinco aplicaciones eBanking críticas basadas en microservicios, con foco en backend. Dedicas 70–80 % a desarrollo, coaching y DevOps y 20–30 % a arquitectura de soluciones; aseguras calidad de código y estabilidad operativa.",
+      "requirements": [
+        "Título en informática o varios años de experiencia equivalente",
+        "8+ años de ingeniería de software, backend con Java y Spring",
+        "2+ años de frontend, preferiblemente Angular (React aceptado)",
+        "3+ años de arquitectura de soluciones",
+        "Alemán fluido nivel C1"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán C1 mínimo",
+      "englishOk": false,
+      "seniority": "lead",
+      "de": {
+        "title": "Tech Lead / Java Fullstack Software Engineer - eBanking (a) (100%)",
+        "summary": "Technische Leitung bei der Entwicklung von fünf geschäftskritischen eBanking-Anwendungen mit Microservices (Java/Spring im Backend, Angular oder React im Frontend).",
+        "description": "Du entwickelst und betreibst fünf geschäftskritische eBanking-Anwendungen auf Basis von Microservices mit Backend-Fokus. Rund 70–80 % entfallen auf Entwicklung, Coaching und DevOps, 20–30 % auf Solution Architecture; du sicherst Codequalität und Betriebsstabilität.",
+        "requirements": [
+          "Informatikabschluss oder mehrjährige vergleichbare Erfahrung",
+          "8+ Jahre Software Engineering, Backend mit Java und Spring",
+          "2+ Jahre Frontend, vorzugsweise Angular (React akzeptiert)",
+          "3+ Jahre Solution Architecture",
+          "Fliessende Deutschkenntnisse mindestens C1"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch mindestens C1"
+      },
+      "id": "2ca89ba9d72d",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior Web Engineer PHP - zwischen Code und Kunde",
+      "titleEs": "Senior Web Engineer PHP",
+      "company": "ELCA Group",
+      "location": "Zürich",
+      "postedAt": "2026-11-09",
+      "source": "ELCA",
+      "url": "https://ch.linkedin.com/jobs/view/senior-web-engineer-php-zwischen-code-und-kunde-at-elca-group-4475693551",
+      "summary": "Puesto senior de ingeniería web con PHP y contacto directo con clientes. Datos tomados solo del listado de LinkedIn (publicado hace 3 días).",
+      "description": "Ingeniería web con PHP en proyectos de clientes de ELCA en Zúrich. Detalles no verificados: solo se dispone del título y la fecha del listado.",
+      "requirements": [
+        "Sin detalles verificados; consultar la oferta"
+      ],
+      "language": "No verificado",
+      "seniority": "senior",
+      "de": {
+        "title": "Senior Web Engineer PHP - zwischen Code und Kunde",
+        "summary": "Senior-Webengineering-Stelle mit PHP und direktem Kundenkontakt. Angaben nur aus der LinkedIn-Liste (vor 3 Tagen publiziert).",
+        "description": "Web-Engineering mit PHP in Kundenprojekten von ELCA in Zürich. Details nicht verifiziert: nur Titel und Datum aus der Liste bekannt.",
+        "requirements": [
+          "Keine verifizierten Details; siehe Inserat"
+        ],
+        "language": "Nicht verifiziert"
+      },
+      "id": "dbf5fd1c99e1",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "IT Specialist:in (a) 80-100% [Ref:2786]",
+      "titleEs": "Especialista IT (soporte y automatización)",
+      "company": "Freestar-Informatik AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-09",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/d3009967-b7d0-4721-8e95-407a539d240c",
+      "summary": "Soporte IT por teléfono, correo y tickets para un cliente de Zürich, con tareas de digitalización de procesos. Exige alemán C2.",
+      "description": "Atender consultas por teléfono, correo y tickets, instalar y mantener puestos y periféricos, implementar soluciones de software para digitalizar flujos internos y apoyar al equipo en análisis de causas raíz.",
+      "requirements": [
+        "Formación en informática o equivalente",
+        "Varios años de experiencia en soporte IT/helpdesk",
+        "Alemán C2 obligatorio; inglés B2 deseable"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán C2, inglés B2",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "IT Specialist:in (a) 80-100% [Ref:2786]",
+        "summary": "IT-Support per Telefon, E-Mail und Ticket für einen Kunden in Zürich, mit Aufgaben zur Digitalisierung interner Abläufe. Deutsch C2 zwingend.",
+        "description": "Anfragen per Telefon, E-Mail und Ticket bearbeiten, Arbeitsplätze und Peripherie einrichten und warten, Softwarelösungen zur Digitalisierung interner Abläufe umsetzen und das Team bei der Ursachenanalyse unterstützen.",
+        "requirements": [
+          "Informatikausbildung oder vergleichbar",
+          "Mehrjährige Erfahrung im IT-Support/Helpdesk",
+          "Deutsch C2 zwingend; Englisch B2 von Vorteil"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch C2, Englisch B2"
+      },
+      "searchId": "junior-it",
+      "id": "1f9264bdd405",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "IT-Supporter (w/m/d)",
+      "titleEs": "Soporte IT (2.º nivel, entorno Microsoft)",
+      "company": "Bison Schweiz AG",
+      "location": "Winterthur ZH",
+      "postedAt": "2026-11-09",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/40977cf9-3953-42ff-9e3e-bfc2c52c135a",
+      "summary": "Soporte IT en entorno Microsoft en Winterthur (puestos, impresoras, redes) y formador práctico de aprendices de informática.",
+      "description": "Instalar y mantener puestos, periféricos y red, resolver fallos de hardware y software, apoyar al 3.er nivel, participar en proyectos de clientes/impresoras/redes y formar a aprendices.",
+      "requirements": [
+        "Aprendizaje de Informatiker/in EFZ o ICT-Fachmann/-frau, o experiencia equivalente",
+        "Dominios Windows (AD, DNS, DHCP), Windows 11, Microsoft 365",
+        "Alemán con soltura de negociación; buen inglés técnico",
+        "Carnet B"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán avanzado, inglés bueno",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "IT-Supporter (w/m/d)",
+        "summary": "IT-Support in Microsoft-Umgebung in Winterthur (Clients, Drucker, Netzwerk) und Praxisbildner/in für IT-Lernende.",
+        "description": "Arbeitsplätze, Peripherie und Netzwerkkomponenten installieren und warten, Hard- und Softwareprobleme beheben, den 3rd Level unterstützen, an Client-/Drucker-/Netzwerkprojekten mitarbeiten und Lernende ausbilden.",
+        "requirements": [
+          "Lehre als Informatiker/in EFZ oder ICT-Fachmann/-frau bzw. gleichwertige Erfahrung",
+          "Windows-Domänen (AD, DNS, DHCP), Windows 11, Microsoft 365",
+          "Verhandlungssicheres Deutsch; gutes Englisch",
+          "Führerausweis Kat. B"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch verhandlungssicher, gutes Englisch"
+      },
+      "searchId": "junior-it",
+      "id": "f5a5cb0f8c07",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "IT Supporter m/w (80-100%)",
+      "titleEs": "Soporte IT",
+      "company": "yellowshark® AG",
+      "location": "Lenzburg AG",
+      "postedAt": "2026-11-09",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/it-supporter-m-w-80-100%25-at-yellowshark%C2%AE-ag-4487167814",
+      "summary": "Soporte IT en yellowshark® AG (Lenzburg AG). Resumen basado solo en el listado de LinkedIn; abre la oferta para ver requisitos y condiciones.",
+      "de": {
+        "title": "IT Supporter m/w (80-100%)",
+        "summary": "IT Supporter m/w (80-100%) bei yellowshark® AG (Lenzburg AG). Zusammenfassung nur aus der LinkedIn-Liste; Details und Anforderungen in der Originalanzeige."
+      },
+      "searchId": "junior-it",
+      "id": "e5db5c894191",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "L2 Desktop Support Engineer",
+      "titleEs": "Ingeniero/a de soporte de escritorio (L2)",
+      "company": "TECEZE",
+      "location": "Steinhausen ZG",
+      "postedAt": "2026-11-09",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/l2-desktop-support-engineer-at-teceze-4487924340",
+      "summary": "Ingeniero/a de soporte de escritorio (L2) en TECEZE (Steinhausen ZG). Resumen basado solo en el listado de LinkedIn; abre la oferta para ver requisitos y condiciones.",
+      "de": {
+        "title": "L2 Desktop Support Engineer",
+        "summary": "L2 Desktop Support Engineer bei TECEZE (Steinhausen ZG). Zusammenfassung nur aus der LinkedIn-Liste; Details und Anforderungen in der Originalanzeige."
+      },
+      "searchId": "junior-it",
+      "id": "8ebddade0a10",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
       "searchId": "fullstack-ts",
       "title": "Fullstack Software Engineer mit DevOps Mindset (a) (80-100%)",
       "titleEs": "Ingeniero/a de Software Fullstack con mentalidad DevOps (80–100%)",
@@ -2392,6 +3587,86 @@
       "foundAt": "2026-11-12T11:44:58.393Z"
     },
     {
+      "searchId": "qa-test",
+      "title": "Software Tester within RMD System Development (contract)",
+      "titleEs": "Tester de software en desarrollo de sistemas RMD (contrato)",
+      "company": "Roche",
+      "location": "Rotkreuz ZG",
+      "postedAt": "2026-11-08",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/software-tester-within-rmd-system-development-contract-at-roche-4306267422",
+      "summary": "Verificación de sistemas de instrumentos de diagnóstico con casos de prueba y entornos de prueba automatizados (fecha aproximada: hace 4 días). El anuncio indica que aún no está ligado a una vacante abierta.",
+      "description": "Planificar y ejecutar paquetes de trabajo, escribir y ejecutar casos de prueba, analizar resultados, seguimiento de incidencias, documentación técnica y montaje de entornos de prueba automatizados.",
+      "requirements": [
+        "Titulación técnica o de ciencias de la vida, o experiencia equivalente",
+        "Mín. 1 año desarrollando sistemas de diagnóstico",
+        "Windows, Linux y protocolos de red (TCP/IP, HTTP, SSL)",
+        "Protocolos instrumento-LIS",
+        "Análisis estadístico de datos",
+        "Inglés y alemán fluidos"
+      ],
+      "workload": "Tiempo completo",
+      "employmentType": "Contrato temporal",
+      "language": "Inglés y alemán fluidos",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Software Tester within RMD System Development (contract)",
+        "summary": "Systemverifikation von Diagnostikgeräten mit Testfällen und automatisierten Testumgebungen (Datum ca.: vor 4 Tagen). Laut Anzeige derzeit nicht an eine offene Stelle gebunden.",
+        "description": "Arbeitspakete planen und ausführen, Testfälle schreiben und durchführen, Ergebnisse analysieren, Issues verfolgen, technische Dokumentation und Aufbau automatisierter Testumgebungen.",
+        "requirements": [
+          "Technischer oder naturwissenschaftlicher Abschluss bzw. gleichwertige Erfahrung",
+          "Mind. 1 Jahr Entwicklung von Diagnostiksystemen",
+          "Windows, Linux und Netzwerkprotokolle (TCP/IP, HTTP, SSL)",
+          "Kommunikationsprotokolle Instrument-LIS",
+          "Statistische Datenanalyse",
+          "Fliessend Englisch und Deutsch"
+        ],
+        "workload": "Vollzeit",
+        "employmentType": "Befristet (Contract)",
+        "language": "Fliessend Englisch und Deutsch"
+      },
+      "id": "cb8cef3a05d3",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "IT Supporter:in (a) 100% [Ref:2200]",
+      "titleEs": "Soporte IT (1.er y 2.º nivel)",
+      "company": "Freestar-Informatik AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-08",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/14061092-1391-4af2-a13c-41263ee5c06b",
+      "summary": "Soporte IT de 1.er y 2.º nivel, remoto y presencial, con herramienta de tickets. Exige alemán C2 y experiencia previa.",
+      "description": "Recibir y clasificar incidencias de hardware, software, aplicaciones y redes, dar soporte remoto y presencial y documentar en una herramienta de tickets central.",
+      "requirements": [
+        "Formación profesional, preferiblemente en TI",
+        "Experiencia en soporte de 1.er y 2.º nivel",
+        "Alemán C2 obligatorio"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Temporal / fijo",
+      "language": "Alemán C2",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "IT Supporter:in (a) 100% [Ref:2200]",
+        "summary": "IT-Support im 1st und 2nd Level, remote und vor Ort, mit Ticket-Tool. Deutsch C2 und Berufserfahrung verlangt.",
+        "description": "Störungen, Fragen und Änderungswünsche zu Hardware, Software, Applikationen und Netzwerken aufnehmen und klassifizieren, Remote- und Vor-Ort-Support leisten, in zentralem Ticketing-Tool dokumentieren.",
+        "requirements": [
+          "Berufsausbildung, vorzugsweise in der IT",
+          "Erfahrung im 1st- und 2nd-Level-Support",
+          "Deutsch C2 zwingend"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Temporär / Festanstellung",
+        "language": "Deutsch C2"
+      },
+      "searchId": "junior-it",
+      "id": "050e5b9dd064",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
       "searchId": "lager",
       "title": "Mitarbeiter:in Lager / Logistiker:in",
       "titleEs": "Mozo de almacén / Logístico/a",
@@ -2831,6 +4106,274 @@
         ],
         "language": "Deutsch A2 oder Englisch B1"
       }
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Full Stack .NET Software Engineer",
+      "titleEs": "Ingeniero/a de software Full Stack .NET",
+      "company": "Noir",
+      "location": "Zug",
+      "postedAt": "2026-11-06",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/full-stack-net-software-engineer-at-noir-4488128974",
+      "summary": "Puesto full-stack .NET en Zug. Datos tomados solo del listado de LinkedIn (publicado hace 6 días).",
+      "description": "Ingeniería de software full-stack con .NET en Zug. Detalles no verificados: solo se dispone del título, ubicación y fecha del listado.",
+      "requirements": [
+        "Sin detalles verificados; consultar la oferta"
+      ],
+      "language": "No verificado",
+      "de": {
+        "title": "Full Stack .NET Software Engineer",
+        "summary": "Full-Stack-.NET-Stelle in Zug. Angaben nur aus der LinkedIn-Liste (vor 6 Tagen publiziert).",
+        "description": "Full-Stack-Softwareentwicklung mit .NET in Zug. Details nicht verifiziert: nur Titel, Ort und Datum aus der Liste bekannt.",
+        "requirements": [
+          "Keine verifizierten Details; siehe Inserat"
+        ],
+        "language": "Nicht verifiziert"
+      },
+      "id": "1527748f0ad9",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "Websupporter 100% (w/d/m)",
+      "titleEs": "Soporte web (Websupporter)",
+      "company": "FREITAG lab. ag",
+      "location": "Zürich",
+      "postedAt": "2026-11-06",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/4ba2809e-6584-4af5-be64-3951500efd50",
+      "summary": "Soporte 1.er y 2.º nivel de aplicaciones web/e-commerce: clasificar tickets, analizar errores sencillos y pasar casos al equipo de desarrollo.",
+      "description": "Recibir y priorizar solicitudes (bugs, ajustes), resolver problemas técnicos simples, preparar casos complejos para desarrollo, coordinar el triaje, mantener FAQs y hacer pequeñas correcciones de contenido.",
+      "requirements": [
+        "Formación comercial o técnica (p. ej. Mediamatiker/in EFZ)",
+        "Experiencia en soporte o sistemas web/CMS/e-commerce",
+        "Jira o Zendesk; nociones de HTML/CSS y consola del navegador",
+        "Inglés bueno"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán y inglés fluidos",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Websupporter 100% (w/d/m)",
+        "summary": "1st-/2nd-Level-Support für Web- und E-Commerce-Anwendungen: Tickets klassifizieren, einfache Fehler analysieren und Fälle ans Entwicklungsteam weitergeben.",
+        "description": "Supportanfragen (Bugs, Anpassungen) aufnehmen und priorisieren, einfache technische Probleme beheben, komplexe Fälle für die Entwicklung aufbereiten, Triage koordinieren, FAQs pflegen und kleine Content-Korrekturen vornehmen.",
+        "requirements": [
+          "Kaufmännische oder technische Ausbildung (z. B. Mediamatiker/in EFZ)",
+          "Erfahrung im Support oder mit Web-/CMS-/E-Commerce-Systemen",
+          "Jira oder Zendesk; Grundverständnis HTML/CSS und Browser-Konsole",
+          "Gutes Englisch"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch und Englisch fliessend"
+      },
+      "searchId": "junior-it",
+      "id": "7a8ad01fa8ef",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "2027 Graduate Talent Program – AI Engineer – Zurich",
+      "titleEs": "Programa Graduate 2027 – Ingeniero/a de IA",
+      "company": "UBS",
+      "location": "Zürich",
+      "postedAt": "2026-11-06",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/2027-graduate-talent-program-%E2%80%93-ai-engineer-%E2%80%93-zurich-at-ubs-4471490690",
+      "summary": "Programa graduate de 18 meses (inicio 1 feb 2027) en el equipo de Soluciones de IA: componentes de IA en Python y pruebas de concepto.",
+      "description": "Diseñar e implementar componentes de IA en Python, crear pruebas de concepto y convertirlas en software corporativo estable junto a ingenieros de datos y software.",
+      "requirements": [
+        "Titulado en los últimos 24 meses, máx. 2 años de experiencia",
+        "Nota mínima 4,5",
+        "Python sólido, NLP/LLMs y SQL"
+      ],
+      "workload": "100 %",
+      "employmentType": "Programa graduate (18 meses)",
+      "seniority": "junior",
+      "de": {
+        "title": "2027 Graduate Talent Program – AI Engineer – Zurich",
+        "summary": "18-monatiges Graduate-Programm (Start 1. Feb. 2027) im Team AI Solutions: KI-Komponenten in Python und Proofs of Concept.",
+        "description": "KI-Komponenten in Python entwerfen und umsetzen, Proofs of Concept bauen und gemeinsam mit Daten- und Software-Engineers in stabile Unternehmenssoftware überführen.",
+        "requirements": [
+          "Abschluss in den letzten 24 Monaten, max. 2 Jahre Berufserfahrung",
+          "Mindest-GPA 4.5",
+          "Starkes Python, NLP/LLMs und SQL"
+        ],
+        "workload": "100 %",
+        "employmentType": "Graduate-Programm (18 Monate)"
+      },
+      "searchId": "junior-it",
+      "id": "f4eaa45175cf",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "Junior Developer (Financial Markets)",
+      "titleEs": "Desarrollador/a junior (mercados financieros)",
+      "company": "Swisslinx",
+      "location": "Zug",
+      "postedAt": "2026-11-06",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/junior-developer-financial-markets-at-swisslinx-4487323233",
+      "summary": "Puesto de entrada en un equipo de inversión cuantitativa: sistemas de trading, datos y operaciones. Presencial 5 días en Zug.",
+      "description": "Desarrollar y mantener sistemas de trading, datos y operaciones, diseñar soluciones eficientes y participar en code reviews, pruebas y despliegues.",
+      "requirements": [
+        "Recién titulado o hasta ~1 año de experiencia",
+        "Bases sólidas de programación (C#, C++, Java o Rust)",
+        "BSc/MSc en STEM",
+        "Nacionalidad suiza o pasaporte UE; presencial en Zug"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "salary": "Salario competitivo + bonus (no indicado)",
+      "seniority": "junior",
+      "de": {
+        "title": "Junior Developer (Financial Markets)",
+        "summary": "Einstiegsstelle in einem quantitativen Investmentteam: Trading-, Daten- und Betriebssysteme. 5 Tage vor Ort in Zug.",
+        "description": "Trading-, Daten- und Betriebssysteme entwickeln und warten, saubere effiziente Lösungen entwerfen und an Code-Reviews, Tests und Deployments mitarbeiten.",
+        "requirements": [
+          "Absolvent/in oder bis ca. 1 Jahr Berufserfahrung",
+          "Starke Programmiergrundlagen (C#, C++, Java oder Rust)",
+          "BSc/MSc in einem MINT-Fach",
+          "Schweizer Bürgerrecht oder EU-Pass; vor Ort in Zug"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung"
+      },
+      "searchId": "junior-it",
+      "id": "c46e2d04b1b4",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "AI Intern (all genders)",
+      "titleEs": "Prácticas en IA",
+      "company": "kaisin. AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-06",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/ai-intern-all-genders-at-kaisin-ag-4488117790",
+      "summary": "Prácticas de 12 meses (50–100 %) para construir aplicaciones y automatizaciones de IA en la sede de Zürich.",
+      "description": "Revisar y mejorar aplicaciones de IA existentes, identificar dónde aporta valor la IA, crear herramientas e integraciones con código o APIs y probar nuevos modelos.",
+      "requirements": [
+        "Estudios en IA o campo afín",
+        "Experiencia previa creando aplicaciones o automatizaciones de IA",
+        "Alemán e inglés buenos"
+      ],
+      "workload": "50–100 %",
+      "employmentType": "Prácticas (12 meses)",
+      "language": "Alemán e inglés buenos",
+      "englishOk": false,
+      "seniority": "intern",
+      "de": {
+        "title": "AI Intern (all genders)",
+        "summary": "12-monatiges Praktikum (50–100 %) zum Bau von KI-Anwendungen und Automatisierungen am Hauptsitz in Zürich.",
+        "description": "Bestehende KI-Anwendungen prüfen und verbessern, Mehrwert von KI identifizieren, KI-Tools und Integrationen mit Code oder APIs bauen und neue Modelle testen.",
+        "requirements": [
+          "Studium in KI oder verwandtem Gebiet",
+          "Erfahrung im Bau von KI-Anwendungen oder Automatisierungen",
+          "Gutes Deutsch und Englisch"
+        ],
+        "workload": "50–100 %",
+        "employmentType": "Praktikum (12 Monate)",
+        "language": "Gutes Deutsch und Englisch"
+      },
+      "searchId": "junior-it",
+      "id": "364b5e20cf62",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "First Level Support Specialist (m/w/d)",
+      "titleEs": "Especialista de soporte de primer nivel (aplicaciones CRM bancarias)",
+      "company": "Zürcher Kantonalbank",
+      "location": "Zürich",
+      "postedAt": "2026-11-06",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/first-level-support-specialist-m-w-d-at-z%C3%BCrcher-kantonalbank-4485876425",
+      "summary": "Soporte de primer nivel de aplicaciones CRM de banca en ZKB, con triaje de incidencias y gestión de autorizaciones. Pide varios años de experiencia.",
+      "description": "Soporte a usuarios por ticket, teléfono y correo, priorizar y derivar incidencias a 2.º nivel, gestionar autorizaciones y comunicar lanzamientos e interrupciones.",
+      "requirements": [
+        "Formación en TI, banca o similar",
+        "Varios años de first-level/service desk, idealmente en banca",
+        "Alemán muy bueno"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán muy bueno",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "First Level Support Specialist (m/w/d)",
+        "summary": "First-Level-Support für CRM-Kernbankapplikationen bei der ZKB mit Incident-Triage und Berechtigungsverwaltung. Mehrjährige Erfahrung verlangt.",
+        "description": "Benutzersupport per Ticket, Telefon und E-Mail, Incidents priorisieren und an den 2nd Level weiterleiten, Berechtigungen verwalten und über Releases und Ausfälle informieren.",
+        "requirements": [
+          "Ausbildung in IT, Bank oder vergleichbar",
+          "Mehrjährige Erfahrung im First-Level-Support/Service Desk, idealerweise im Banking",
+          "Sehr gutes Deutsch"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Festanstellung",
+        "language": "Sehr gutes Deutsch"
+      },
+      "searchId": "junior-it",
+      "id": "4344b4153ad3",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "ICT-Supporter aus Leidenschaft (m/w)",
+      "titleEs": "Soporte ICT (1.er y 2.º nivel)",
+      "company": "oneICT AG",
+      "location": "Wallisellen ZH",
+      "postedAt": "2026-11-06",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/ict-supporter-aus-leidenschaft-m-w-at-oneict-ag-4486228339",
+      "summary": "Soporte de 1.er y 2.º nivel en un proveedor de servicios IT, interno y en clientes. Se valora más la pasión que la titulación.",
+      "description": "Soporte de hardware y software a usuarios y clientes in situ, instalación y mantenimiento de clientes, documentación de soluciones y participación en proyectos IT.",
+      "requirements": [
+        "Formación ICT (p. ej. ICT-Fachmann/-frau EFZ) o experiencia equivalente",
+        "Capacidad de explicar temas técnicos con claridad",
+        "Carnet B",
+        "Buen inglés"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán, buen inglés",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "ICT-Supporter aus Leidenschaft (m/w)",
+        "summary": "1st-/2nd-Level-Support bei einem IT-Dienstleister, intern und vor Ort bei Kunden. Leidenschaft zählt mehr als der Abschluss.",
+        "description": "Hard- und Software-Support für Anwender und Kunden vor Ort, Clients installieren, konfigurieren und warten, Lösungen dokumentieren und in IT-Projekten mitarbeiten.",
+        "requirements": [
+          "ICT-Ausbildung (z. B. ICT-Fachmann/-frau EFZ) oder gleichwertige Erfahrung",
+          "Komplexe IT-Themen verständlich erklären",
+          "Führerausweis Kat. B",
+          "Gutes Englisch"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch, gutes Englisch"
+      },
+      "searchId": "junior-it",
+      "id": "96f5096f2872",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "Software Engineering Intern for CAD/CAE/Tooling",
+      "titleEs": "Prácticas de ingeniería de software para CAD/CAE/herramientas",
+      "company": "Sika",
+      "location": "Zürich",
+      "postedAt": "2026-11-06",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/software-engineering-intern-for-cad-cae-tooling-at-sika-4480653382",
+      "summary": "Prácticas de ingeniería de software para CAD/CAE/herramientas en Sika (Zürich). Resumen basado solo en el listado de LinkedIn; abre la oferta para ver requisitos y condiciones.",
+      "seniority": "intern",
+      "de": {
+        "title": "Software Engineering Intern for CAD/CAE/Tooling",
+        "summary": "Software Engineering Intern for CAD/CAE/Tooling bei Sika (Zürich). Zusammenfassung nur aus der LinkedIn-Liste; Details und Anforderungen in der Originalanzeige."
+      },
+      "searchId": "junior-it",
+      "id": "1f82da11afdb",
+      "foundAt": "2026-11-12T20:17:38.597Z"
     },
     {
       "searchId": "frontend-react",
@@ -3623,6 +5166,762 @@
       "foundAt": "2026-11-11T16:15:03.750Z",
       "englishOk": false,
       "seniority": "mid"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Agentic Software Engineer (m/w/d)",
+      "titleEs": "Agentic Software Engineer (TypeScript / Node.js)",
+      "company": "mobilezone",
+      "location": "Risch ZG",
+      "postedAt": "2026-11-05",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/agentic-software-engineer-at-mobilezone-4483459949",
+      "summary": "Desarrollo de plataformas de comercio, MVNO y servicios digitales con TypeScript/Node.js, orquestando agentes de IA. Inicio 1 de enero de 2027.",
+      "description": "Desarrollas y mejoras plataformas de comercio, MVNO y servicios digitales, entregas funcionalidades a lo largo de todo el customer journey, lideras y orquestas un equipo de agentes de IA, trabajas en sprints ágiles e integras sistemas de pago, logística y ERP.",
+      "requirements": [
+        "Mínimo 5 años de desarrollo de software profesional",
+        "TypeScript, Node.js y arquitecturas de API modernas",
+        "Experiencia con agentes de IA y plataformas de desarrollo con IA",
+        "Scrum o Kanban, Jira, GitHub y CI/CD"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán y/o inglés muy buenos",
+      "englishOk": true,
+      "seniority": "senior",
+      "de": {
+        "title": "Agentic Software Engineer (m/w/d)",
+        "summary": "Entwicklung von Commerce-, MVNO- und Digital-Service-Plattformen mit TypeScript/Node.js und Orchestrierung von KI-Agenten. Start 1. Januar 2027.",
+        "description": "Du entwickelst und verbesserst Plattformen für Commerce, MVNO und digitale Services, lieferst Features entlang der gesamten Customer Journey, führst und orchestrierst ein Team von KI-Agenten, arbeitest in agilen Sprints und baust Integrationen zu Payment-, Logistik- und ERP-Systemen.",
+        "requirements": [
+          "Mindestens 5 Jahre professionelle Softwareentwicklung",
+          "TypeScript, Node.js und moderne API-Architekturen",
+          "Erfahrung mit KI-Agenten und KI-gestützten Entwicklungsplattformen",
+          "Scrum oder Kanban, Jira, GitHub und CI/CD"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Festanstellung",
+        "language": "Sehr gutes Deutsch und/oder Englisch"
+      },
+      "id": "3632e56956cd",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Expert Fullstack Software Engineer für B2E-Portal der Zukunft (all gender)",
+      "titleEs": "Expert Fullstack Software Engineer para el portal B2E del futuro",
+      "company": "AXA Schweiz",
+      "location": "Winterthur",
+      "postedAt": "2026-11-05",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/expert-fullstack-software-engineer-f%C3%BCr-b2e-portal-der-zukunft-all-gender-%E2%80%AF-at-axa-switzerland-4483039083",
+      "summary": "Desarrollo de una nueva aplicación B2E para el proceso de ventas en un equipo multidisciplinar (Java 25, Spring Boot; React/TypeScript deseable).",
+      "description": "Trabajas en todo el ciclo de desarrollo, diseñas soluciones innovadoras, experimentas con IA y prototipos, ayudas a dar forma al equipo y construyes la nueva aplicación del portal B2E para el proceso de ventas.",
+      "requirements": [
+        "Comunicación sólida y capacidad de liderar un equipo de desarrollo",
+        "Arquitectura hexagonal y domain-driven",
+        "Experiencia en desarrollo cloud",
+        "Java 25, Spring Boot, CI/CD, OpenShift, Helm, MongoDB",
+        "Deseable: Flowable, React, TypeScript, Redux",
+        "Alemán con negociación y buen inglés"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán nivel negociación, buen inglés",
+      "englishOk": false,
+      "seniority": "senior",
+      "de": {
+        "title": "Expert Fullstack Software Engineer für B2E-Portal der Zukunft (all gender)",
+        "summary": "Entwicklung einer neuen B2E-Anwendung für den Verkaufsprozess in einem multidisziplinären Team (Java 25, Spring Boot; React/TypeScript wünschenswert).",
+        "description": "Du arbeitest über den gesamten Entwicklungszyklus, gestaltest innovative Lösungen, experimentierst mit KI-Ansätzen und Prototypen, prägst die Teamentwicklung mit und baust die neue B2E-Portal-Anwendung für den Verkaufsprozess.",
+        "requirements": [
+          "Starke Kommunikation und Fähigkeit, ein Entwicklungsteam zu führen",
+          "Hexagonale und Domain-driven Architektur",
+          "Erfahrung in Cloud-Entwicklung",
+          "Java 25, Spring Boot, CI/CD, OpenShift, Helm, MongoDB",
+          "Wünschenswert: Flowable, React, TypeScript, Redux",
+          "Verhandlungssicheres Deutsch und gutes Englisch"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch verhandlungssicher, Englisch gut"
+      },
+      "id": "6cde3cf76fb2",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Software Engineer (Java/Angular/Kubernetes)",
+      "titleEs": "Software Engineer (Java/Angular/Kubernetes)",
+      "company": "PrivaSphere AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-05",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/software-engineer-java-angular-kubernetes-at-privasphere-ag-4484323230",
+      "summary": "Desarrollo de frontend y backend de la plataforma PrivaSphere (Java, TypeScript/Angular, Docker, Kubernetes), con foco en seguridad.",
+      "description": "Desarrollas el frontend y el backend de la plataforma PrivaSphere, añades nuevas funciones y posibles líneas de producto, mantienes un framework de pruebas de seguridad automatizadas, documentas la tecnología y avanzas DevOps y despliegue continuo.",
+      "requirements": [
+        "Habilidades de desarrollo en el stack (Java, JavaScript/TypeScript, Angular, Docker, Kubernetes)",
+        "Sólido conocimiento de frameworks Java",
+        "Compromiso de vivir en la zona de Zúrich a largo plazo",
+        "Deseable: seguridad IT/criptografía y testing automatizado"
+      ],
+      "workload": "Tiempo completo",
+      "employmentType": "Contrato fijo",
+      "language": "Anuncio en inglés; sin requisito de idioma indicado",
+      "englishOk": true,
+      "de": {
+        "title": "Software Engineer (Java/Angular/Kubernetes)",
+        "summary": "Entwicklung von Frontend und Backend der PrivaSphere-Plattform (Java, TypeScript/Angular, Docker, Kubernetes) mit Security-Fokus.",
+        "description": "Du entwickelst Frontend und Backend der PrivaSphere-Plattform, ergänzt neue Funktionen und mögliche Produktlinien, pflegst ein automatisiertes Security-Testframework, dokumentierst die Technologie und treibst DevOps und Continuous Deployment voran.",
+        "requirements": [
+          "Entwicklungskompetenz im Stack (Java, JavaScript/TypeScript, Angular, Docker, Kubernetes)",
+          "Solide Kenntnisse von Java-Frameworks",
+          "Bereitschaft, langfristig im Raum Zürich zu wohnen",
+          "Von Vorteil: IT-Security/Kryptografie und automatisiertes Testing"
+        ],
+        "workload": "Vollzeit",
+        "employmentType": "Festanstellung",
+        "language": "Inserat auf Englisch; keine Sprachanforderung angegeben"
+      },
+      "id": "3ad2e92106a6",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior Software Engineer (Java & Angular)",
+      "titleEs": "Senior Software Engineer (Java y Angular)",
+      "company": "SUMEX AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-05",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/senior-software-engineer-java-angular-at-sumex-ag-4483907215",
+      "summary": "Desarrollo de software con Java (backend) y Angular (frontend), decisiones de arquitectura y mentoría; usan herramientas de IA como Claude Code.",
+      "description": "Diseñas y construyes nuevas funcionalidades e las integras en sistemas existentes, participas en decisiones de arquitectura y tecnología, aseguras calidad con tests automatizados y code reviews, trabajas con gestión de producto y haces mentoría a desarrolladores.",
+      "requirements": [
+        "Grado en informática (ETH, universidad o FH)",
+        "4–7 años construyendo aplicaciones grandes, principalmente en Java",
+        "Patrones de integración, APIs REST, mensajería",
+        "CI/CD, Jenkins, Git y bases de datos",
+        "Alemán e inglés muy buenos (mínimo C1)"
+      ],
+      "workload": "Tiempo completo",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán e inglés mínimo C1",
+      "englishOk": false,
+      "seniority": "senior",
+      "de": {
+        "title": "Senior Software Engineer (Java & Angular)",
+        "summary": "Softwareentwicklung mit Java (Backend) und Angular (Frontend), Architekturentscheide und Mentoring; Einsatz von KI-Tools wie Claude Code.",
+        "description": "Du konzipierst und baust neue Features und integrierst sie in bestehende Systeme, wirkst bei Architektur- und Technologieentscheiden mit, sicherst Qualität mit automatisierten Tests und Code Reviews, arbeitest mit dem Produktmanagement zusammen und coachst Entwickler.",
+        "requirements": [
+          "Informatikabschluss (ETH, Universität oder FH)",
+          "4–7 Jahre Erfahrung mit grösseren Anwendungen, hauptsächlich in Java",
+          "Integrationsmuster, REST-APIs, Messaging",
+          "CI/CD, Jenkins, Git und Datenbanken",
+          "Sehr gutes Deutsch und Englisch (mindestens C1)"
+        ],
+        "workload": "Vollzeit",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch und Englisch mindestens C1"
+      },
+      "id": "bf796282c4dd",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior Web Developer (Drupal, TYPO3 & Symfony)",
+      "titleEs": "Desarrollador/a web senior (Drupal, TYPO3 y Symfony)",
+      "company": "ELCA Group",
+      "location": "Zürich",
+      "postedAt": "2026-11-05",
+      "source": "ELCA",
+      "url": "https://ch.linkedin.com/jobs/view/senior-web-developer-drupal-typo3-symfony-at-elca-group-4486058266",
+      "summary": "Proyectos web en stacks PHP (Drupal, TYPO3, Symfony) conectados a frontends React o Angular; referente técnico de PHP y CMS en el equipo suizo-alemán.",
+      "description": "Construyes y entregas de forma autónoma proyectos web en stacks PHP, incluido el backend y la conexión con frontends React o Angular, eres la persona de contacto técnica de PHP y CMS, apoyas en arquitectura y seguridad y aportas en reuniones con clientes y estimaciones. Puesto nuevo.",
+      "requirements": [
+        "Grado (FH, HF, universidad o ETH) o experiencia equivalente",
+        "5+ años de desarrollo web con CMS, DXP o eCommerce",
+        "PHP sólido, idealmente Symfony, y buen nivel de frontend",
+        "Alemán nativo/C2 e inglés B2 o mejor"
+      ],
+      "workload": "Tiempo completo",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán C2/nativo, inglés B2+",
+      "englishOk": false,
+      "seniority": "senior",
+      "de": {
+        "title": "Senior Web Developer (Drupal, TYPO3 & Symfony)",
+        "summary": "Webprojekte auf PHP-Stacks (Drupal, TYPO3, Symfony) mit React- oder Angular-Frontends; technische Ansprechperson für PHP und CMS im deutschschweizer Team.",
+        "description": "Du realisierst Webprojekte auf PHP-Stacks eigenständig, inklusive Backend und Anbindung von React- oder Angular-Frontends, bist technische Ansprechperson für PHP und CMS, unterstützt bei Architektur- und Security-Fragen und bringst dich in Kundentermine und Aufwandsschätzungen ein. Neu geschaffene Stelle.",
+        "requirements": [
+          "Abschluss (FH, HF, Universität oder ETH) oder gleichwertige Erfahrung",
+          "5+ Jahre Webentwicklung mit CMS, DXP oder eCommerce",
+          "Starke PHP-Kenntnisse, idealerweise Symfony, und solides Frontend-Wissen",
+          "Deutsch Muttersprache/C2 und Englisch B2 oder besser"
+        ],
+        "workload": "Vollzeit",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch C2/Muttersprache, Englisch B2+"
+      },
+      "id": "49bb62d94e4c",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior Backend (Full-stack) Engineer",
+      "titleEs": "Ingeniero/a Backend (Full-stack) senior",
+      "company": "Rivia",
+      "location": "Zürich",
+      "postedAt": "2026-11-05",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/senior-backend-full-stack-engineer-at-rivia-4443754652",
+      "summary": "Backend de una plataforma de ensayos clínicos (Java/Spring, Postgres) con cambios full-stack cuando hace falta; stack con TypeScript y React. Oficina en Enge, 4 días.",
+      "description": "Diseñas, construyes y mantienes servicios backend y APIs, modelas y consultas datos complejos en Postgres, mantienes pipelines de ingesta, defines contratos de API con frontend y aportas cambios full-stack, y garantizas disponibilidad, observabilidad y seguridad.",
+      "requirements": [
+        "Servicios backend en producción, idealmente Java, Spring y Postgres",
+        "Diseño de sistemas, modelado de datos y rendimiento",
+        "Cloud (AWS) y contenedores (Docker/Kubernetes)",
+        "Disposición a trabajar en todo el stack"
+      ],
+      "workload": "Tiempo completo",
+      "employmentType": "Contrato fijo",
+      "language": "Anuncio en inglés",
+      "englishOk": true,
+      "seniority": "senior",
+      "de": {
+        "title": "Senior Backend (Full-stack) Engineer",
+        "summary": "Backend einer Plattform für klinische Studien (Java/Spring, Postgres) mit Full-Stack-Änderungen bei Bedarf; Stack mit TypeScript und React. Büro in Enge, 4 Tage.",
+        "description": "Du konzipierst, baust und wartest Backend-Services und APIs, modellierst und fragst komplexe Daten in Postgres ab, pflegst Ingestion-Pipelines, definierst API-Verträge mit dem Frontend und lieferst bei Bedarf Full-Stack-Änderungen, und sorgst für Verfügbarkeit, Observability und Sicherheit.",
+        "requirements": [
+          "Backend-Services im Produktivbetrieb, idealerweise Java, Spring und Postgres",
+          "Systemdesign, Datenmodellierung und Performance",
+          "Cloud (AWS) und Container (Docker/Kubernetes)",
+          "Bereitschaft, über den ganzen Stack zu arbeiten"
+        ],
+        "workload": "Vollzeit",
+        "employmentType": "Festanstellung",
+        "language": "Inserat auf Englisch"
+      },
+      "id": "a5cdda5d79c6",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Software Engineer - Orchestration",
+      "titleEs": "Software Engineer - Orquestación (plataforma de datos)",
+      "company": "DeepJudge",
+      "location": "Zürich",
+      "postedAt": "2026-11-05",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/software-engineer-orchestration-at-deepjudge-4485323472",
+      "summary": "Responsable de principio a fin de componentes centrales de una nueva plataforma de datos para IA jurídica; equipo principalmente presencial en Zúrich.",
+      "description": "Te encargas de componentes centrales de una nueva plataforma de datos, desde el diseño hasta la operación en producción, escribes software fiable de calidad de producción y ayudas a fijar estándares de ingeniería.",
+      "requirements": [
+        "Pensamiento desde primeros principios y buenas abstracciones",
+        "Experiencia con sistemas backend en producción",
+        "SQL y/o NoSQL",
+        "Deseable: ingeniería de datos, workflow engines, optimización de cargas LLM"
+      ],
+      "workload": "Tiempo completo",
+      "employmentType": "Contrato fijo",
+      "language": "Anuncio en inglés",
+      "englishOk": true,
+      "de": {
+        "title": "Software Engineer - Orchestration",
+        "summary": "Ende-zu-Ende-Verantwortung für Kernkomponenten einer neuen Datenplattform für Legal-AI; Team hauptsächlich vor Ort in Zürich.",
+        "description": "Du verantwortest Kernkomponenten einer neuen Datenplattform von Design bis Produktivbetrieb, schreibst zuverlässige Software in Produktionsqualität und hilfst, Engineering-Standards zu etablieren.",
+        "requirements": [
+          "First-Principles-Denken und gute Abstraktionen",
+          "Erfahrung mit Backend-Systemen im Produktivbetrieb",
+          "SQL und/oder NoSQL",
+          "Von Vorteil: Data Engineering, Workflow-Engines, Optimierung von LLM-Workloads"
+        ],
+        "workload": "Vollzeit",
+        "employmentType": "Festanstellung",
+        "language": "Inserat auf Englisch"
+      },
+      "id": "f333faad8718",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Software & AI Engineer",
+      "titleEs": "Software & AI Engineer (full-stack, IA médica)",
+      "company": "House of Charts",
+      "location": "Zürich",
+      "postedAt": "2026-11-05",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/software-ai-engineer-at-house-of-charts-4480782912",
+      "summary": "Construcción de arquitecturas cloud distribuidas y métodos de IA generativa para el procesamiento de texto médico; stack con React/Next.js, Node y FastAPI.",
+      "description": "Construyes y aseguras arquitecturas de software distribuidas en la nube para procesamiento de texto médico, implementas métodos de IA generativa y extractiva, montas procesos de datos y MLOps y das soporte técnico y operativo al equipo.",
+      "requirements": [
+        "MSc o PhD en informática o similar",
+        "Despliegue cloud y ciberseguridad",
+        "Experiencia con resumen automático de texto médico",
+        "Contenedores y orquestación; desarrollo full-stack y UI/UX",
+        "Alemán e inglés fluidos"
+      ],
+      "workload": "Tiempo completo",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán e inglés fluidos",
+      "englishOk": false,
+      "de": {
+        "title": "Software & AI Engineer",
+        "summary": "Aufbau verteilter Cloud-Architekturen und generativer KI-Methoden für die Verarbeitung medizinischer Texte; Stack mit React/Next.js, Node und FastAPI.",
+        "description": "Du baust und sicherst verteilte Cloud-Softwarearchitekturen für die Verarbeitung medizinischer Texte, setzt generative und extraktive KI-Methoden um, richtest Daten- und MLOps-Prozesse ein und unterstützt das Team technisch und operativ.",
+        "requirements": [
+          "MSc oder PhD in Informatik oder verwandtem Fach",
+          "Cloud-Deployment und Cybersecurity",
+          "Erfahrung mit automatischer Zusammenfassung medizinischer Texte",
+          "Container und Orchestrierung; Full-Stack-Entwicklung und UI/UX",
+          "Fliessend Deutsch und Englisch"
+        ],
+        "workload": "Vollzeit",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch und Englisch fliessend"
+      },
+      "id": "e5a24bcaf375",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "UiPath Test Automation Engineer (Professional/Senior)",
+      "titleEs": "Ingeniero/a de automatización de pruebas UiPath (Professional/Senior)",
+      "company": "Infometis AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-05",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/uipath-test-automation-engineer-professional-senior-at-infometis-4483433061",
+      "summary": "Consultoría de automatización de pruebas con UiPath Test Suite y CI/CD (fecha aproximada: hace ~1 semana). Postulación hasta fin de noviembre.",
+      "description": "Construir automatización de pruebas con UiPath Test Suite, integrarla en pipelines CI/CD, aplicar enfoques de agentic testing y asesorar a clientes en herramientas, arquitectura y estrategia.",
+      "requirements": [
+        "Varias certificaciones UiPath, al menos una de nivel Professional",
+        "2-3 años de experiencia práctica con UiPath en test automation",
+        "Experiencia asesorando a clientes",
+        "Disposición a trabajar en cliente en Suiza alemana",
+        "Deseable: ISTQB, Azure DevOps/GitLab/Jenkins, Tosca o Playwright"
+      ],
+      "workload": "Tiempo completo",
+      "employmentType": "Contrato fijo",
+      "language": "Inglés fluido, alemán básico",
+      "englishOk": true,
+      "seniority": "mid",
+      "de": {
+        "title": "UiPath Test Automation Engineer (Professional/Senior)",
+        "summary": "Testautomatisierungs-Beratung mit UiPath Test Suite und CI/CD (Datum ca.: vor ca. 1 Woche). Bewerbung bis Ende November.",
+        "description": "Testautomatisierung mit UiPath Test Suite aufbauen, in CI/CD-Pipelines integrieren, Agentic-Testing-Ansätze einbringen und Kunden zu Tools, Architektur und Strategie beraten.",
+        "requirements": [
+          "Mehrere aktuelle UiPath-Zertifizierungen, mind. eine auf Professional-Level",
+          "2-3 Jahre praktische UiPath-Erfahrung in der Testautomatisierung",
+          "Erfahrung in der Kundenberatung",
+          "Bereitschaft für Einsätze beim Kunden in der Deutschschweiz",
+          "Von Vorteil: ISTQB, Azure DevOps/GitLab/Jenkins, Tosca oder Playwright"
+        ],
+        "workload": "Vollzeit",
+        "employmentType": "Festanstellung",
+        "language": "Fliessend Englisch, Deutsch Grundkenntnisse"
+      },
+      "id": "444f0ac460f2",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "Teamleader Consulting / QA (all genders)",
+      "titleEs": "Líder de equipo Consulting / QA",
+      "company": "adesso Schweiz AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-05",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/teamleader-consulting-qa-all-genders-at-adesso-schweiz-ag-4459168795",
+      "summary": "Liderazgo de un equipo de test engineering y consultoría de QA; exige alemán C1 (fecha aproximada: hace ~1 semana).",
+      "description": "Liderar el equipo de test engineering, selección y desarrollo de personal, definir estrategias de prueba (automatización, IA, cloud), asesorar a clientes; según perfil, test management o rol de BA/PO.",
+      "requirements": [
+        "Estudios en (business) informática o equivalente",
+        "Varios años como business analyst, product owner o requirements engineer",
+        "Interés en testing y QA; automatización deseable",
+        "Experiencia o disposición de liderazgo",
+        "Alemán C1 e inglés B2"
+      ],
+      "workload": "80–100 %",
+      "language": "Alemán C1, inglés B2",
+      "englishOk": false,
+      "seniority": "lead",
+      "de": {
+        "title": "Teamleader Consulting / QA (all genders)",
+        "summary": "Leitung eines Test-Engineering-Teams und QA-Beratung; Deutsch C1 erforderlich (Datum ca.: vor ca. 1 Woche).",
+        "description": "Test-Engineering-Team führen, Recruiting und Personalentwicklung, Teststrategien (Automatisierung, KI, Cloud) entwickeln, Kunden beraten; je nach Profil Testmanagement oder BA/PO-Rolle.",
+        "requirements": [
+          "Studium in (Wirtschafts-)Informatik oder vergleichbar",
+          "Mehrjährige Erfahrung als Business Analyst, Product Owner oder Requirements Engineer",
+          "Interesse an Testing und QA; Testautomatisierung willkommen",
+          "Führungserfahrung oder -bereitschaft",
+          "Deutsch C1 und Englisch B2"
+        ],
+        "workload": "80–100 %",
+        "language": "Deutsch C1, Englisch B2"
+      },
+      "id": "45ee8df11392",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "Tech Lead Testing, RIVR",
+      "titleEs": "Tech Lead de testing, RIVR",
+      "company": "RIVR Technologies AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-05",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/tech-lead-testing-rivr-at-rivr-4487280948",
+      "summary": "Liderazgo técnico de pruebas de hardware (bancos de ensayo, Python) para robots de reparto autónomos (fecha aproximada: hace ~1 semana). Más hardware que software.",
+      "description": "Definir la estrategia de pruebas de subsistemas estructurales, mecatrónicos y de sensores, diseñar y operar bancos de ensayo, escribir código de automatización, analizar datos y mentorizar ingenieros.",
+      "requirements": [
+        "7+ años en testing/validación de hardware, 3+ en liderazgo técnico",
+        "Diseño y puesta en marcha de bancos de ensayo",
+        "Python para automatización y análisis",
+        "Conocimiento de sensores (celdas de par, encoders, galgas)",
+        "Máster en ingeniería mecánica, eléctrica, mecatrónica o robótica"
+      ],
+      "workload": "Tiempo completo",
+      "seniority": "lead",
+      "de": {
+        "title": "Tech Lead Testing, RIVR",
+        "summary": "Technische Leitung für Hardware-Tests (Prüfstände, Python) bei autonomen Lieferrobotern (Datum ca.: vor ca. 1 Woche). Eher Hardware als Software.",
+        "description": "Teststrategie für strukturelle, mechatronische und Sensor-Subsysteme definieren, Prüfstände entwerfen und betreiben, Automatisierungscode schreiben, Daten analysieren und Test Engineers coachen.",
+        "requirements": [
+          "7+ Jahre Hardware-Test/-Validierung, davon 3+ in technischer Führung",
+          "Entwurf und Inbetriebnahme von Prüfständen",
+          "Python für Testautomatisierung und Datenanalyse",
+          "Kenntnis von Sensoren (Drehmomentsensoren, Encoder, DMS)",
+          "Master in Maschinenbau, Elektrotechnik, Mechatronik oder Robotik"
+        ],
+        "workload": "Vollzeit"
+      },
+      "employmentType": "Tiempo completo",
+      "id": "2ae7341fe0ff",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "Test Engineer (m/f/d) - 900286/1",
+      "titleEs": "Ingeniero/a de pruebas (V&V de hardware)",
+      "company": "Hays",
+      "location": "Zürich",
+      "postedAt": "2026-11-05",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/test-engineer-m-f-d-900286-1-at-hays-4486139312",
+      "summary": "Verificación y validación de sistemas electrónicos/electromecánicos para una empresa de defensa (fecha aproximada: hace ~1 semana). Más hardware que software.",
+      "description": "Planificación, ejecución, cualificación y reporte de pruebas V&V; gestión de requisitos, revisiones de diseño y cumplimiento de normas militares, OTAN y aeroespaciales.",
+      "requirements": [
+        "Grado en ingeniería eléctrica, electrónica, de sistemas o aeroespacial",
+        "Mín. 5 años como ingeniero de test/V&V",
+        "Experiencia en defensa, aeroespacial o sistemas críticos",
+        "DOORS, Polarion o Jama",
+        "Inglés excelente"
+      ],
+      "workload": "100 %",
+      "language": "Inglés excelente",
+      "englishOk": true,
+      "seniority": "senior",
+      "de": {
+        "title": "Test Engineer (m/f/d) - 900286/1",
+        "summary": "Verifikation und Validierung elektronischer/elektromechanischer Systeme für ein Verteidigungsunternehmen (Datum ca.: vor ca. 1 Woche). Eher Hardware als Software.",
+        "description": "Planung, Durchführung, Qualifizierung und Reporting von V&V-Tests; Anforderungsmanagement, Design Reviews und Einhaltung von Militär-, NATO- und Luftfahrtstandards.",
+        "requirements": [
+          "Bachelor/Master in Elektro-, Elektronik-, Systems- oder Luftfahrttechnik",
+          "Mind. 5 Jahre als Test-/V&V-Ingenieur",
+          "Erfahrung in Verteidigung, Luftfahrt oder sicherheitskritischen Branchen",
+          "DOORS, Polarion oder Jama",
+          "Ausgezeichnetes Englisch"
+        ],
+        "workload": "100 %",
+        "language": "Ausgezeichnetes Englisch"
+      },
+      "id": "280b97083e77",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "IT Support & Client Specialist:in 80-100%",
+      "titleEs": "Soporte IT y especialista en clientes (endpoint)",
+      "company": "HWZ Hochschule für Wirtschaft Zürich AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-05",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/41b1be53-6e1e-4d14-8f88-f3bb2f22b983",
+      "summary": "Soporte IT para estudiantes, docentes y personal en una escuela superior, con trabajo de client engineering (Intune, Entra ID) y proyectos.",
+      "description": "Tickets, teléfono y visitas; análisis de fallos en puestos y aulas; gestión de cuentas M365/Entra ID/AD; empaquetado y despliegue con Intune; ciclo de vida de hardware y participación en proyectos de TI.",
+      "requirements": [
+        "Formación IT con experiencia",
+        "Experiencia de soporte de 1.er nivel / service desk",
+        "Windows 11 y M365; interés en Intune, PowerShell, Entra ID",
+        "Alemán muy bueno, inglés bueno"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán muy bueno, inglés bueno",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "IT Support & Client Specialist:in 80-100%",
+        "summary": "IT-Support für Studierende, Dozierende und Mitarbeitende einer Hochschule, mit Client-Engineering (Intune, Entra ID) und Projekten.",
+        "description": "Tickets, Telefon und Vor-Ort-Einsätze; Störungsanalyse an Arbeitsplätzen und Unterrichtsräumen; Verwaltung von M365/Entra ID/AD-Konten; Paketierung und Rollout mit Intune; Hardware-Lifecycle und Mitarbeit in IT-Projekten.",
+        "requirements": [
+          "IT-Ausbildung mit Berufserfahrung",
+          "Erfahrung im First-Level-Support/Service Desk",
+          "Windows 11 und M365; Interesse an Intune, PowerShell, Entra ID",
+          "Sehr gutes Deutsch, gutes Englisch"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Festanstellung",
+        "language": "Sehr gutes Deutsch, gutes Englisch"
+      },
+      "searchId": "junior-it",
+      "id": "cc05a1ca851d",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "2027 Internship - Web Development - Client Reviews - Zurich",
+      "titleEs": "Prácticas 2027 – Desarrollo web – Client Reviews",
+      "company": "UBS",
+      "location": "Zürich",
+      "postedAt": "2026-11-05",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/2027-internship-web-development-client-reviews-zurich-at-ubs-4469983027",
+      "summary": "Prácticas pagadas de 3 a 6 meses (inicio 1 feb) en aplicaciones web de prevención de delitos financieros con Java, Spring y Oracle.",
+      "description": "Trabajar en aplicaciones web de due diligence (Java, Spring, Oracle), aprender pipelines de GitLab y entornos cloud y colaborar mediante pair programming.",
+      "requirements": [
+        "Al menos 4 semestres de grado; titulado hace menos de 12 meses",
+        "Nota mínima 4,5",
+        "Interés en el sector financiero"
+      ],
+      "workload": "Jornada completa (3–6 meses)",
+      "employmentType": "Prácticas",
+      "seniority": "intern",
+      "de": {
+        "title": "2027 Internship - Web Development - Client Reviews - Zurich",
+        "summary": "Bezahltes 3- bis 6-monatiges Praktikum (Start 1. Feb.) an Web-Anwendungen zur Verhinderung von Finanzkriminalität mit Java, Spring und Oracle.",
+        "description": "An Due-Diligence-Webanwendungen (Java, Spring, Oracle) arbeiten, GitLab-Pipelines und Cloud-Anwendungen kennenlernen und per Pair Programming zusammenarbeiten.",
+        "requirements": [
+          "Mind. 4 Semester Bachelorstudium; Abschluss max. 12 Monate her",
+          "Mindest-GPA 4.5",
+          "Interesse an der Finanzbranche"
+        ],
+        "workload": "Vollzeit (3–6 Monate)",
+        "employmentType": "Praktikum"
+      },
+      "searchId": "junior-it",
+      "id": "721c06834881",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "Praktikant/in Informatik & Digitalisierung 100 % (1 Jahr)",
+      "titleEs": "Prácticas en informática y digitalización (1 año)",
+      "company": "Maison Mollerus",
+      "location": "Erlenbach ZH",
+      "postedAt": "2026-11-05",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/praktikant-in-informatik-digitalisierung-100-%25-1-jahr-at-maison-mollerus-4485810238",
+      "summary": "Prácticas de 12 meses en una marca suiza de bolsos: tienda Shopify, canales B2B, automatizaciones y soporte IT de primer nivel.",
+      "description": "Mantener la tienda Shopify, construir canales B2B, crear automatizaciones en Klaviyo y Shopify, dar soporte IT de primer nivel, analizar datos y evaluar soluciones de IA.",
+      "requirements": [
+        "Formación (en curso o terminada) en informática",
+        "JavaScript o Python y HTML/CSS",
+        "Experiencia con e-commerce; Shopify, una ventaja",
+        "Alemán sólido e inglés bueno"
+      ],
+      "workload": "100 %",
+      "employmentType": "Prácticas (12 meses)",
+      "language": "Alemán sólido, inglés bueno",
+      "englishOk": false,
+      "seniority": "intern",
+      "de": {
+        "title": "Praktikant/in Informatik & Digitalisierung 100 % (1 Jahr)",
+        "summary": "12-monatiges Praktikum bei einer Schweizer Taschenmarke: Shopify-Shop, B2B-Kanäle, Automatisierungen und First-Level-IT-Support.",
+        "description": "Shopify-Shop pflegen, B2B-Kanäle aufbauen, Automatisierungen in Klaviyo und Shopify erstellen, First-Level-IT-Support leisten, Daten analysieren und KI-Lösungen evaluieren.",
+        "requirements": [
+          "Informatikausbildung (laufend oder abgeschlossen)",
+          "JavaScript oder Python und HTML/CSS",
+          "E-Commerce-Erfahrung; Shopify von Vorteil",
+          "Stilsicheres Deutsch, gutes Englisch"
+        ],
+        "workload": "100 %",
+        "employmentType": "Praktikum (12 Monate)",
+        "language": "Stilsicheres Deutsch, gutes Englisch"
+      },
+      "searchId": "junior-it",
+      "id": "d99a83a70809",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "IT Support",
+      "titleEs": "Soporte IT",
+      "company": "Pettker & Partner Consulting KlG",
+      "location": "Winterthur ZH",
+      "postedAt": "2026-11-05",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/it-support-at-pettker-partner-consulting-klg-4484397084",
+      "summary": "Soporte IT en Pettker & Partner Consulting KlG (Winterthur ZH). Resumen basado solo en el listado de LinkedIn; abre la oferta para ver requisitos y condiciones.",
+      "de": {
+        "title": "IT Support",
+        "summary": "IT Support bei Pettker & Partner Consulting KlG (Winterthur ZH). Zusammenfassung nur aus der LinkedIn-Liste; Details und Anforderungen in der Originalanzeige."
+      },
+      "searchId": "junior-it",
+      "id": "09291d9ecb20",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "IT Service Management Specialist - IT Support (100%)",
+      "titleEs": "Especialista en gestión de servicios IT – soporte",
+      "company": "KLK OLEO Surfactants",
+      "location": "Hedingen ZH",
+      "postedAt": "2026-11-05",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/it-service-management-specialist-it-support-100%25-at-klk-oleo-surfactants-4483437053",
+      "summary": "Especialista en gestión de servicios IT – soporte en KLK OLEO Surfactants (Hedingen ZH). Resumen basado solo en el listado de LinkedIn; abre la oferta para ver requisitos y condiciones.",
+      "de": {
+        "title": "IT Service Management Specialist - IT Support (100%)",
+        "summary": "IT Service Management Specialist - IT Support (100%) bei KLK OLEO Surfactants (Hedingen ZH). Zusammenfassung nur aus der LinkedIn-Liste; Details und Anforderungen in der Originalanzeige."
+      },
+      "searchId": "junior-it",
+      "id": "d66e6989df62",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "Information Technology Support Specialist",
+      "titleEs": "Especialista de soporte IT",
+      "company": "Coba IT Consultants",
+      "location": "Zug",
+      "postedAt": "2026-11-05",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/information-technology-support-specialist-at-coba-it-consultants-4485356293",
+      "summary": "Especialista de soporte IT en Coba IT Consultants (Zug). Resumen basado solo en el listado de LinkedIn; abre la oferta para ver requisitos y condiciones.",
+      "de": {
+        "title": "Information Technology Support Specialist",
+        "summary": "Information Technology Support Specialist bei Coba IT Consultants (Zug). Zusammenfassung nur aus der LinkedIn-Liste; Details und Anforderungen in der Originalanzeige."
+      },
+      "searchId": "junior-it",
+      "id": "593bc887c0fd",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "Information Technology Support Engineer",
+      "titleEs": "Ingeniero/a de soporte IT",
+      "company": "Axiom Technologies",
+      "location": "Zug",
+      "postedAt": "2026-11-05",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/information-technology-support-engineer-at-axiom-technologies-4486035382",
+      "summary": "Ingeniero/a de soporte IT en Axiom Technologies (Zug). Resumen basado solo en el listado de LinkedIn; abre la oferta para ver requisitos y condiciones.",
+      "de": {
+        "title": "Information Technology Support Engineer",
+        "summary": "Information Technology Support Engineer bei Axiom Technologies (Zug). Zusammenfassung nur aus der LinkedIn-Liste; Details und Anforderungen in der Originalanzeige."
+      },
+      "searchId": "junior-it",
+      "id": "cfc67f1b908a",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "Deskside Support Engineer L2",
+      "titleEs": "Ingeniero/a de soporte deskside (L2)",
+      "company": "TECEZE",
+      "location": "Zürich",
+      "postedAt": "2026-11-05",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/deskside-support-engineer-l2-at-teceze-4486593229",
+      "summary": "Ingeniero/a de soporte deskside (L2) en TECEZE (Zürich). Resumen basado solo en el listado de LinkedIn; abre la oferta para ver requisitos y condiciones.",
+      "de": {
+        "title": "Deskside Support Engineer L2",
+        "summary": "Deskside Support Engineer L2 bei TECEZE (Zürich). Zusammenfassung nur aus der LinkedIn-Liste; Details und Anforderungen in der Originalanzeige."
+      },
+      "searchId": "junior-it",
+      "id": "588718401251",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "IT Support",
+      "titleEs": "Soporte IT",
+      "company": "Kanadevia Inova",
+      "location": "Zürich",
+      "postedAt": "2026-11-05",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/it-support-at-kanadevia-inova-4485373006",
+      "summary": "Soporte IT en Kanadevia Inova (Zürich). Resumen basado solo en el listado de LinkedIn; abre la oferta para ver requisitos y condiciones.",
+      "de": {
+        "title": "IT Support",
+        "summary": "IT Support bei Kanadevia Inova (Zürich). Zusammenfassung nur aus der LinkedIn-Liste; Details und Anforderungen in der Originalanzeige."
+      },
+      "searchId": "junior-it",
+      "id": "6c2afdc8114e",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "IT Support Engineer",
+      "titleEs": "Ingeniero/a de soporte IT",
+      "company": "Anthropic",
+      "location": "Zürich",
+      "postedAt": "2026-11-05",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/it-support-engineer-at-anthropic-4485780715",
+      "summary": "Ingeniero/a de soporte IT en Anthropic (Zürich). Resumen basado solo en el listado de LinkedIn; abre la oferta para ver requisitos y condiciones.",
+      "de": {
+        "title": "IT Support Engineer",
+        "summary": "IT Support Engineer bei Anthropic (Zürich). Zusammenfassung nur aus der LinkedIn-Liste; Details und Anforderungen in der Originalanzeige."
+      },
+      "searchId": "junior-it",
+      "id": "58e47d91d95e",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "IT Support & Operations Engineer (human)",
+      "titleEs": "Ingeniero/a de soporte y operaciones IT",
+      "company": "NEURA Robotics",
+      "location": "Zürich",
+      "postedAt": "2026-11-05",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/it-support-operations-engineer-human-at-neura-robotics-4461208610",
+      "summary": "Ingeniero/a de soporte y operaciones IT en NEURA Robotics (Zürich). Resumen basado solo en el listado de LinkedIn; abre la oferta para ver requisitos y condiciones.",
+      "de": {
+        "title": "IT Support & Operations Engineer (human)",
+        "summary": "IT Support & Operations Engineer (human) bei NEURA Robotics (Zürich). Zusammenfassung nur aus der LinkedIn-Liste; Details und Anforderungen in der Originalanzeige."
+      },
+      "searchId": "junior-it",
+      "id": "a97b698e6304",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "Onsite Support Services Engineer",
+      "titleEs": "Ingeniero/a de soporte in situ",
+      "company": "Cognizant",
+      "location": "Zürich",
+      "postedAt": "2026-11-05",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/onsite-support-services-engineer-at-cognizant-4484867755",
+      "summary": "Ingeniero/a de soporte in situ en Cognizant (Zürich). Resumen basado solo en el listado de LinkedIn; abre la oferta para ver requisitos y condiciones.",
+      "de": {
+        "title": "Onsite Support Services Engineer",
+        "summary": "Onsite Support Services Engineer bei Cognizant (Zürich). Zusammenfassung nur aus der LinkedIn-Liste; Details und Anforderungen in der Originalanzeige."
+      },
+      "searchId": "junior-it",
+      "id": "421f67254ed0",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "ESG Digitalization Intern – Software & Data Engineering",
+      "titleEs": "Prácticas en digitalización ESG – software y datos",
+      "company": "Sika",
+      "location": "Zürich",
+      "postedAt": "2026-11-05",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/esg-digitalization-intern-%E2%80%93-software-data-engineering-at-sika-4480016667",
+      "summary": "Prácticas en digitalización ESG – software y datos en Sika (Zürich). Resumen basado solo en el listado de LinkedIn; abre la oferta para ver requisitos y condiciones.",
+      "seniority": "intern",
+      "de": {
+        "title": "ESG Digitalization Intern – Software & Data Engineering",
+        "summary": "ESG Digitalization Intern – Software & Data Engineering bei Sika (Zürich). Zusammenfassung nur aus der LinkedIn-Liste; Details und Anforderungen in der Originalanzeige."
+      },
+      "searchId": "junior-it",
+      "id": "a12eed056cb2",
+      "foundAt": "2026-11-12T20:17:38.597Z"
     },
     {
       "searchId": "frontend-react",
@@ -4427,6 +6726,120 @@
       "seniority": "lead"
     },
     {
+      "searchId": "fullstack-ts",
+      "title": "Software Engineer (w/m/d) – Kreditservices",
+      "titleEs": "Software Engineer – servicios de crédito (backend Java)",
+      "company": "Raiffeisen Schweiz",
+      "location": "St. Gallen und/oder Zürich-Flughafen (Circle)",
+      "postedAt": "2026-11-04",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/5121e185-e6f8-4233-b89e-d95bd23a3c5d",
+      "summary": "Desarrollo, mantenimiento y operación de soluciones de crédito y sus microservicios con Java y Spring Boot; puesto de backend.",
+      "description": "Desarrollas, mantienes y operas soluciones de crédito y sus microservicios, analizas e implementas requisitos técnicos y de negocio, haces code reviews y tests automatizados y vas asumiendo más servicios.",
+      "requirements": [
+        "Varios años de desarrollo backend con Java y Spring Boot",
+        "Arquitecturas de microservicios y APIs REST; Kafka es un plus",
+        "Tests automatizados y code reviews",
+        "CI/CD, OpenShift y contenedores",
+        "Muy buen alemán"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Muy buen alemán",
+      "englishOk": false,
+      "de": {
+        "title": "Software Engineer (w/m/d) – Kreditservices",
+        "summary": "Entwicklung, Wartung und Betrieb von Kreditlösungen und deren Microservices mit Java und Spring Boot; Backend-Stelle.",
+        "description": "Du entwickelst, wartest und betreibst Kreditlösungen und deren Microservices, analysierst und setzt technische und fachliche Anforderungen um, führst Code Reviews und automatisierte Tests durch und übernimmst schrittweise weitere Services.",
+        "requirements": [
+          "Mehrjährige Backend-Entwicklung mit Java und Spring Boot",
+          "Microservice-Architekturen und REST-APIs; Kafka von Vorteil",
+          "Automatisierte Tests und Code Reviews",
+          "CI/CD, OpenShift und Container",
+          "Sehr gute Deutschkenntnisse"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Festanstellung",
+        "language": "Sehr gute Deutschkenntnisse"
+      },
+      "id": "1fd969201696",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "Helpdesk 100% (w/m/d)",
+      "titleEs": "Helpdesk (atención técnica a clientes)",
+      "company": "dormakaba Schweiz AG",
+      "location": "Rümlang ZH",
+      "postedAt": "2026-11-04",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/f76d45cc-ec79-4f43-b5b9-2305616a03e4",
+      "summary": "Helpdesk técnico: atender clientes por teléfono y correo, registrar fallos, priorizar según SLA y coordinar visitas de técnicos de servicio.",
+      "description": "Atender consultas y pedidos, registrar y documentar fallos, priorizarlos según SLA, derivar casos complejos a técnicos o a expertos de 2.º nivel y planificar las visitas de servicio.",
+      "requirements": [
+        "Formación técnica o comercial con buen entendimiento técnico",
+        "Idealmente unos 3 años en soporte técnico/helpdesk",
+        "Alemán seguro; francés e inglés deseables"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán seguro, francés e inglés deseables",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Helpdesk 100% (w/m/d)",
+        "summary": "Technischer Helpdesk: Kundenanfragen per Telefon und E-Mail, Störungen erfassen, nach SLA priorisieren und Serviceeinsätze koordinieren.",
+        "description": "Anfragen und Aufträge bearbeiten, Störungen erfassen und dokumentieren, nach SLA priorisieren, komplexe Fälle an Servicetechniker oder 2nd-Level-Experten weitergeben, Serviceeinsätze planen.",
+        "requirements": [
+          "Technische oder kaufmännische Ausbildung mit technischem Verständnis",
+          "Idealerweise ca. 3 Jahre Erfahrung im technischen Kundensupport/Helpdesk",
+          "Sicheres Deutsch; Französisch und Englisch von Vorteil"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Sicheres Deutsch, Französisch und Englisch von Vorteil"
+      },
+      "searchId": "junior-it",
+      "id": "b76fc14c8bd5",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "Help Desk Agent:in 80-100%",
+      "titleEs": "Agente de Help Desk",
+      "company": "Dosenbach-Ochsner AG Schuhe und Sport",
+      "location": "Dietikon ZH",
+      "postedAt": "2026-11-04",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/9aaa438a-fb39-4a89-8ca4-ded8cd3bb0cf",
+      "summary": "Help desk de primer nivel para tiendas (cajas, impresoras, teléfonos, iPad) en tres turnos, con posibilidad de home office. Pide alemán impecable y francés o italiano.",
+      "description": "Soporte a tiendas de varios países, resolución de problemas de cajas registradoras, impresoras, teléfonos y aplicaciones web, soporte de primer nivel de iPad/iPhone, control de tickets abiertos y atención de la línea central.",
+      "requirements": [
+        "Formación comercial; plus: formación técnica/IT",
+        "Experiencia en call center/helpdesk y trabajo por turnos (plus)",
+        "Alemán impecable y francés o italiano muy bueno"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán impecable, francés o italiano",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Help Desk Agent:in 80-100%",
+        "summary": "First-Level-Helpdesk für Verkaufsfilialen (Kassen, Drucker, Telefone, iPad) im Dreischichtbetrieb, Homeoffice möglich. Einwandfreies Deutsch und Französisch oder Italienisch verlangt.",
+        "description": "Helpdesk-Support für Filialen in mehreren Ländern, Störungen an Kassen, Druckern, Telefonen und Browser-Anwendungen beheben, First-Level-Support für iPad/iPhone, offene Tickets überwachen und die zentrale Telefonlinie betreuen.",
+        "requirements": [
+          "Kaufmännische Ausbildung; technische/IT-Ausbildung von Vorteil",
+          "Call-Center-/Helpdesk-Erfahrung und Schichtarbeit von Vorteil",
+          "Einwandfreies Deutsch, sehr gutes Französisch oder Italienisch"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Festanstellung",
+        "language": "Einwandfreies Deutsch, Französisch oder Italienisch"
+      },
+      "searchId": "junior-it",
+      "id": "f55a65971316",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
       "searchId": "junior-it",
       "title": "IT-Support & Projektmitarbeiter/in (70–100 %)",
       "titleEs": "Soporte IT y colaborador/a de proyectos (70–100 %)",
@@ -4463,6 +6876,47 @@
       },
       "id": "9af7f4513528",
       "foundAt": "2026-11-12T15:20:33.966Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior Full Stack Software Engineer (all genders)",
+      "titleEs": "Ingeniero/a de software Full Stack senior",
+      "company": "PRODYNA (Schweiz) AG",
+      "location": "Basel, Zürich, Bern",
+      "postedAt": "2026-11-03",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/51330a22-e2e1-4b18-8436-9f63836789f5",
+      "summary": "Desarrollo de soluciones cloud para clientes en Java, TypeScript o C# con Angular, React, Spring o .NET; rol senior con mentoría de juniors.",
+      "description": "Construyes soluciones de software preparadas para la nube para clientes, montas entornos de desarrollo modernos con Angular, React, Spring o .NET, impulsas nuevos desarrollos o transformaciones digitales, ayudas a definir arquitecturas modernas y haces mentoría a colegas junior.",
+      "requirements": [
+        "Amplia experiencia con Java o lenguaje similar en proyectos empresariales",
+        "Experiencia con Spring Boot, React o Angular",
+        "Contenedores, Kubernetes y tecnologías cloud",
+        "Trabajo en equipos ágiles",
+        "Alemán fluido e inglés avanzado"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán fluido, inglés avanzado",
+      "englishOk": false,
+      "seniority": "senior",
+      "de": {
+        "title": "Senior Full Stack Software Engineer (all genders)",
+        "summary": "Entwicklung von Cloud-Lösungen für Kunden in Java, TypeScript oder C# mit Angular, React, Spring oder .NET; Senior-Rolle mit Mentoring von Juniors.",
+        "description": "Du baust Cloud-fähige Softwarelösungen für Kunden, richtest moderne Entwicklungsumgebungen mit Angular, React, Spring oder .NET ein, treibst neue Entwicklungen oder digitale Transformationen voran, gestaltest moderne Architekturen mit und coachst Junior-Kolleginnen und -Kollegen.",
+        "requirements": [
+          "Umfangreiche Erfahrung mit Java oder ähnlicher Sprache in Businessprojekten",
+          "Erfahrung mit Spring Boot, React oder Angular",
+          "Container, Kubernetes und Cloud-Technologien",
+          "Arbeit in agilen Teams",
+          "Fliessend Deutsch und fortgeschrittenes Englisch"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch fliessend, Englisch fortgeschritten"
+      },
+      "id": "a91e3d23aea2",
+      "foundAt": "2026-11-12T20:17:38.597Z"
     },
     {
       "searchId": "fullstack-ts",
@@ -4580,6 +7034,82 @@
       "foundAt": "2026-11-12T15:20:33.966Z"
     },
     {
+      "searchId": "fullstack-ts",
+      "title": "Professional Software Engineer (.NET, Web, AI)",
+      "titleEs": "Ingeniero/a de software profesional (.NET, Web, IA)",
+      "company": "VZ VermögensZentrum",
+      "location": "Zürich",
+      "postedAt": "2026-11-02",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/cea139c6-f583-40cd-a538-e3c8b226c7d5",
+      "summary": "Desarrollo y mantenimiento de aplicaciones de negocio para clientes corporativos, previsión y seguros con Angular, C#/.NET y Azure, con integraciones de IA generativa.",
+      "description": "Desarrollas y mantienes aplicaciones de negocio para clientes corporativos, previsión y seguros, con responsabilidad de extremo a extremo (desarrollo, despliegue y operación con DevSecOps) y trabajo directo con las áreas de negocio.",
+      "requirements": [
+        "Grado en informática o similar y 5+ años en un rol parecido",
+        "Experiencia con aplicaciones web modernas, APIs REST y bases de datos",
+        "Stack: Angular, C#/.NET, MS SQL Server, Kubernetes, Azure",
+        "Alemán fluido"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán fluido",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Professional Software Engineer (.NET, Web, AI)",
+        "summary": "Entwicklung und Betrieb von Business-Applikationen für Firmenkunden, Vorsorge und Versicherung mit Angular, C#/.NET und Azure, inkl. GenAI-Integrationen.",
+        "description": "Du entwickelst und betreust Business-Applikationen für Firmenkunden, Vorsorge und Versicherung, übernimmst End-to-End-Verantwortung (Entwicklung, Deployment, Betrieb mit DevSecOps) und arbeitest direkt mit den Fachbereichen zusammen.",
+        "requirements": [
+          "Informatikabschluss oder vergleichbar und 5+ Jahre in ähnlicher Rolle",
+          "Erfahrung mit modernen Web-Apps, REST-APIs und Datenbanken",
+          "Stack: Angular, C#/.NET, MS SQL Server, Kubernetes, Azure",
+          "Deutsch fliessend"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch fliessend"
+      },
+      "id": "ed716f7c9f40",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "OnSite Supporter 100% (m/w/d) 80-100%",
+      "titleEs": "Soporte IT presencial (OnSite Supporter)",
+      "company": "WAGNER AG",
+      "location": "Rümlang ZH",
+      "postedAt": "2026-11-02",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/e1976c6b-8461-4245-9bb8-3709bbc5ef6b",
+      "summary": "Soporte IT in situ en clientes de la región de Zürich/Suiza oriental: infraestructura, servidores y soporte de 1.er nivel. Vehículo incluido; carnet B obligatorio.",
+      "description": "Mantener la infraestructura IT del cliente in situ, monitorizar servidores, atender solicitudes de soporte, apoyar el soporte de 1.er nivel en Office y periféricos, documentar y coordinar con el soporte de 2.º nivel.",
+      "requirements": [
+        "Formación en informática; primera experiencia deseable",
+        "Conocimientos de virtualización, Windows/Office, Windows Server y Active Directory",
+        "Carnet de conducir B y disponibilidad para viajar"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán muy bueno, inglés bueno",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "OnSite Supporter 100% (m/w/d) 80-100%",
+        "summary": "Vor-Ort-IT-Support bei Kunden in der Region Zürich/Ostschweiz: Infrastruktur, Server und 1st-Level-Support. Firmenfahrzeug; Führerausweis B zwingend.",
+        "description": "Kundeneigene IT-Infrastruktur vor Ort betreuen, Serverlandschaften überwachen, Supportanfragen bearbeiten, 1st-Level/Client-Support bei Office und Peripherie unterstützen, Dokumentation führen, Koordination mit dem 2nd Level.",
+        "requirements": [
+          "Informatikausbildung; erste Berufserfahrung von Vorteil",
+          "Kenntnisse in Virtualisierung, Windows/Office, Windows Server und Active Directory",
+          "Führerausweis Kat. B und Reisebereitschaft"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Festanstellung",
+        "language": "Sehr gutes Deutsch, gutes Englisch"
+      },
+      "searchId": "junior-it",
+      "id": "68e4066c7cbb",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
       "searchId": "junior-it",
       "title": "AI Agent Builder | Graduate Opportunity in Technology & Transformation",
       "titleEs": "AI Agent Builder | Oportunidad para graduados en Tecnología y Transformación",
@@ -4654,6 +7184,160 @@
       "foundAt": "2026-11-12T15:20:33.966Z"
     },
     {
+      "searchId": "fullstack-ts",
+      "title": "Fullstack Developer - AI & Digital Health - DE",
+      "titleEs": "Desarrollador/a Fullstack - IA y salud digital",
+      "company": "Swiss Medical Network",
+      "location": "Zürich",
+      "postedAt": "2026-10-30",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/e5ce43b5-b97a-46cc-a783-93eff2bf064f",
+      "summary": "Aplicaciones web full stack con IA para uso clínico y administrativo en un grupo hospitalario (React/Angular/Vue, Python/Node.js).",
+      "description": "Diseñar y construir aplicaciones web full stack escalables, integrar modelos de ML y LLM, conectar con sistemas hospitalarios (FHIR, HL7), garantizar seguridad y protección de datos, mantener pipelines CI/CD e infraestructura cloud y prototipar pruebas de concepto.",
+      "requirements": [
+        "Titulación universitaria en informática o similar",
+        "Experiencia con frameworks backend y frontend modernos",
+        "Experiencia integrando IA/ML en producción",
+        "Alemán nativo, francés negociable e inglés bueno"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán nativo, francés, inglés",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Fullstack Developer - AI & Digital Health - DE",
+        "summary": "Full-Stack-Webanwendungen mit KI für klinische und administrative Nutzung in einer Klinikgruppe (React/Angular/Vue, Python/Node.js).",
+        "description": "Entwurf und Aufbau skalierbarer Full-Stack-Webanwendungen, Integration von ML-Modellen und LLMs, Anbindung an Spitalinformationssysteme (FHIR, HL7), Sicherstellung von Datenschutz und Sicherheit, CI/CD-Pipelines und Cloud-Infrastruktur sowie Prototyping von Proofs of Concept.",
+        "requirements": [
+          "Hochschulabschluss in Informatik o. ä.",
+          "Erfahrung mit modernen Backend- und Frontend-Frameworks",
+          "Erfahrung mit KI/ML in Produktivsystemen",
+          "Deutsch Muttersprache, verhandlungssicheres Französisch, gutes Englisch"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch Muttersprache, Französisch, Englisch"
+      },
+      "id": "028c257ac68f",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Technischer Leiter, CMS Backend (100%)",
+      "titleEs": "Responsable técnico, CMS Backend",
+      "company": "Tamedia Publikationen Deutschschweiz AG",
+      "location": "Zürich",
+      "postedAt": "2026-10-30",
+      "source": "TX Group",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/e1d8a922-a10a-47ff-90c2-bdbb9eb57f88",
+      "summary": "Responsable de la arquitectura, el código y la hoja de ruta del CMS propio \"Unity\" y de un equipo de cuatro ingenieros (Zúrich y Belgrado); backend en Java 25 y Spring Boot 4.",
+      "description": "Defines arquitectura y roadmap del CMS interno, lideras un equipo de cuatro ingenieros, diseñas y mantienes servicios backend, APIs e integraciones, defines estándares de calidad y CI/CD, modernizas partes antiguas de la plataforma y aceleras la entrega para la redacción, incluidas herramientas con IA. Mitad desarrollo, mitad liderazgo.",
+      "requirements": [
+        "Experiencia backend profunda: sistemas distribuidos y arquitectura orientada a eventos",
+        "Java, Spring Boot y bases de datos",
+        "Primera experiencia de liderazgo",
+        "Linux/Unix es una ventaja",
+        "Inglés fluido; alemán útil pero no necesario"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Inglés fluido; alemán útil",
+      "englishOk": true,
+      "seniority": "lead",
+      "de": {
+        "title": "Technischer Leiter, CMS Backend (100%)",
+        "summary": "Verantwortung für Architektur, Codebasis und Roadmap des hauseigenen CMS «Unity» und ein Team von vier Engineers (Zürich und Belgrad); Backend mit Java 25 und Spring Boot 4.",
+        "description": "Du verantwortest Architektur und Roadmap des internen CMS, führst ein Team von vier Engineers, entwickelst und pflegst Backend-Services, APIs und Integrationen, definierst Qualitätsstandards und CI/CD, modernisierst ältere Plattformteile und beschleunigst die Lieferung für die Redaktion, inkl. KI-Tools. Je etwa zur Hälfte Engineering und Führung.",
+        "requirements": [
+          "Tiefe Backend-Erfahrung: verteilte Systeme und Event-driven Architecture",
+          "Java, Spring Boot und Datenbanken",
+          "Erste Führungserfahrung",
+          "Unix/Linux von Vorteil",
+          "Englisch fliessend; Deutsch nützlich, aber nicht nötig"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Englisch fliessend; Deutsch nützlich"
+      },
+      "id": "357868893272",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "Stadler: Verification & Validation Engineer",
+      "titleEs": "Ingeniero/a de verificación y validación (Stadler)",
+      "company": "Stadler Rail Group",
+      "location": "Wallisellen ZH",
+      "postedAt": "2026-10-30",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/80b4b648-93e8-477b-b567-db273b883d2e",
+      "summary": "V&V de la integración del sistema ETCS/ATP en vehículos ferroviarios; exige experiencia ferroviaria y 8 años en V&V.",
+      "description": "Elaborar el plan de V&V, revisar requisitos, evaluar la conformidad con normas EN y SIL, verificar casos de prueba y herramientas, realizar auditorías y aprobar o rechazar versiones de software.",
+      "requirements": [
+        "Titulación técnica en ingeniería eléctrica o informática",
+        "Experiencia ferroviaria imprescindible",
+        "Mín. 8 años en validación, verificación o seguridad funcional",
+        "Normas IEEE, UNISIG, EN 50126/50129"
+      ],
+      "workload": "100 %",
+      "language": "Alemán e inglés fluidos",
+      "englishOk": false,
+      "seniority": "senior",
+      "de": {
+        "title": "Stadler: Verification & Validation Engineer",
+        "summary": "V&V der ETCS/ATP-Systemintegration in Schienenfahrzeugen; Bahnerfahrung und 8 Jahre V&V erforderlich.",
+        "description": "V&V-Plan erstellen, Anforderungen prüfen, Konformität mit EN-Normen und SIL bewerten, Testfälle und Testtools verifizieren, Audits durchführen und Softwareversionen freigeben oder ablehnen.",
+        "requirements": [
+          "Technisches Studium (Elektro-/Informationstechnik)",
+          "Bahnerfahrung zwingend",
+          "Mind. 8 Jahre Validierung, Verifikation oder Funktionale Sicherheit",
+          "Kenntnis von IEEE-, UNISIG- und EN-Normen (EN 50126/50129)"
+        ],
+        "workload": "100 %",
+        "language": "Fliessend Deutsch und Englisch"
+      },
+      "id": "b2fcb487eb8b",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
+      "title": "Praktikum AI Engineering",
+      "titleEs": "Prácticas en ingeniería de IA",
+      "company": "ti&m AG",
+      "location": "Zürich",
+      "postedAt": "2026-10-30",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/1015513a-4d0e-477b-ab38-270221af4401",
+      "summary": "Prácticas de 6 a 12 meses en el AI Core Team: herramientas de IA para desarrollo de software, agentes de código y proyectos de clientes.",
+      "description": "Construir herramientas e integraciones para agentes de código (Claude Code, Cursor, Copilot), integrar agentes en GitLab/Jira/Confluence, evaluar nuevos modelos, hacer pruebas de concepto y apoyar proyectos de clientes y talleres internos.",
+      "requirements": [
+        "Máster en informática o similar",
+        "Python, TypeScript y/o Java/Kotlin",
+        "Primera experiencia con LLMs y agentes de IA"
+      ],
+      "workload": "100 %",
+      "employmentType": "Prácticas (6–12 meses)",
+      "language": "Alemán muy bueno, inglés bueno",
+      "englishOk": false,
+      "seniority": "intern",
+      "de": {
+        "title": "Praktikum AI Engineering",
+        "summary": "6- bis 12-monatiges Praktikum im AI Core Team: KI-Tools für die Softwareentwicklung, Coding-Agenten und Kundenprojekte.",
+        "description": "KI-Tools und Integrationen für Coding-Agenten (Claude Code, Cursor, Copilot) bauen, Agenten in GitLab/Jira/Confluence integrieren, neue Modelle evaluieren, Proofs of Concept erstellen und Kundenprojekte sowie interne Workshops unterstützen.",
+        "requirements": [
+          "Master in Informatik oder verwandtem Fach",
+          "Python, TypeScript und/oder Java/Kotlin",
+          "Erste praktische Erfahrung mit LLMs und KI-Agenten"
+        ],
+        "workload": "100 %",
+        "employmentType": "Praktikum (6–12 Monate)",
+        "language": "Sehr gutes Deutsch, gutes Englisch"
+      },
+      "searchId": "junior-it",
+      "id": "64f00ddde0f5",
+      "foundAt": "2026-11-12T20:17:38.597Z"
+    },
+    {
       "searchId": "frontend-react",
       "title": "Lead Frontend Entwickler:in 80-100%",
       "titleEs": "Lead Frontend Developer 80-100 %",
@@ -4697,6 +7381,45 @@
       },
       "id": "51ecb4a69a10",
       "foundAt": "2026-11-12T15:20:33.966Z"
+    },
+    {
+      "title": "IT-Allrounderin/-Allrounder 50-60%",
+      "titleEs": "Generalista IT (50–60 %)",
+      "company": "Spital Affoltern AG",
+      "location": "Affoltern am Albis ZH",
+      "postedAt": "2026-10-29",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/27f734f7-4cb5-46a5-88be-c5b6436c252d",
+      "summary": "Generalista IT a tiempo parcial en un hospital: soporte de 2.º nivel y apoyo de 1.er nivel, participación en proyectos de infraestructura.",
+      "description": "Mantener estable y segura la operación IT, dar soporte de 2.º nivel, analizar fallos, mejorar la infraestructura y participar en proyectos IT.",
+      "requirements": [
+        "Formación en informática o equivalente",
+        "Experiencia práctica en soporte IT de 1.er/2.º nivel e infraestructura",
+        "Buen conocimiento de entornos Windows; Microsoft 365/Azure deseable",
+        "Alemán fluido"
+      ],
+      "workload": "50–60 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán fluido",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "IT-Allrounderin/-Allrounder 50-60%",
+        "summary": "IT-Allrounder im Teilzeitpensum in einem Spital: 2nd-Level-Support, 1st-Level-Unterstützung, Mitarbeit in Infrastrukturprojekten.",
+        "description": "IT-Betrieb stabil und sicher halten, 2nd-Level-Support leisten, technische Störungen analysieren, die IT-Landschaft weiterentwickeln und in IT-Projekten mitarbeiten.",
+        "requirements": [
+          "Informatikausbildung oder vergleichbar",
+          "Praktische Erfahrung im IT-Support (1st/2nd Level) und mit IT-Infrastruktur",
+          "Gute Kenntnisse von Windows-Umgebungen; Microsoft 365/Azure ideal",
+          "Fliessend Deutsch"
+        ],
+        "workload": "50–60 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch fliessend"
+      },
+      "searchId": "junior-it",
+      "id": "3a8983c9a7d5",
+      "foundAt": "2026-11-12T20:17:38.597Z"
     }
   ]
 }
