@@ -16,6 +16,11 @@ export interface Search {
    * Si no se indica, la búsqueda diaria usa los portales por defecto de ROUTINE.md.
    */
   sources?: string[]
+  /**
+   * Empresas cuya página de empleo se revisa además de las webs (agencias, empresas concretas).
+   * Las ofertas que encajen con la búsqueda se añaden igual que las de los portales.
+   */
+  companies?: string[]
   /** Si es false, la búsqueda diaria la ignora */
   active: boolean
 }

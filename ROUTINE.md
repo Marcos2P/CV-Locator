@@ -26,6 +26,12 @@ Si quieres cambiar cómo se busca, cambia este archivo: la tarea lo lee en cada 
      Swissport, Gate Group, ISS, etc.).
    - El buscador web (WebSearch) solo como complemento, para descubrir empresas o portales.
 
+   **Empresas concretas:** si la búsqueda tiene `companies`, revisa además la **página de empleo de cada
+   empresa** (si no conoces la dirección, búscala con WebSearch: "<empresa> jobs" / "<empresa> Stellen").
+   Son agencias de selección o empresas que interesan al usuario: añade las ofertas que encajen con la búsqueda
+   y la zona, con `source` = nombre de la empresa (p. ej. "Experis"). Esto se suma a `sources`/portales, no los sustituye.
+   Si la página de una empresa no se puede leer, dilo en el resumen final y sigue.
+
    Usa varios términos por búsqueda (el `title` y cada una de las `keywords`) y varios lugares de la zona
    (para Sirnach TG con radio 30–60 km: Sirnach, Wil SG, Frauenfeld, Winterthur, Münchwilen, Uzwil,
    St. Gallen y Zürich si entran en el radio).

@@ -15,6 +15,17 @@
     ],
     "location": "Sirnach TG",
     "radiusKm": 60,
+    "companies": [
+      "Art of Work Personalberatung AG",
+      "Rockstar Recruiting AG",
+      "Impact Recruitment",
+      "Experis (ManpowerGroup)",
+      "Digitec Galaxus AG",
+      "Pareto Labs",
+      "Andeo AG",
+      "ELCA Informatique SA",
+      "Prime21"
+    ],
     "active": true
   },
   {
@@ -32,6 +43,9 @@
     ],
     "location": "Sirnach TG",
     "radiusKm": 30,
+    "companies": [
+      "Express Personal AG"
+    ],
     "active": true
   },
   {
@@ -49,6 +63,9 @@
     ],
     "location": "Zürich Flughafen",
     "radiusKm": 15,
+    "companies": [
+      "Express Personal AG"
+    ],
     "active": true
   },
   {
@@ -73,6 +90,9 @@
       "gastrojob.ch",
       "hotelcareer.ch",
       "linkedin.com/jobs"
+    ],
+    "companies": [
+      "Express Personal AG"
     ],
     "active": true
   },
@@ -99,6 +119,9 @@
       "hotelcareer.ch",
       "gastrojob.ch",
       "linkedin.com/jobs"
+    ],
+    "companies": [
+      "Express Personal AG"
     ],
     "active": true
   }

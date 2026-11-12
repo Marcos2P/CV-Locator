@@ -23,6 +23,7 @@ export const de: Dictionary = {
   filterAll: 'Alle',
   keywords: (list) => `Stichwörter: ${list}`,
   sources: (list) => `Websites: ${list}`,
+  companies: (list) => `Firmen: ${list}`,
 
   // Listenstatus
   loading: 'Stellen werden geladen…',

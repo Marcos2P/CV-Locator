@@ -25,6 +25,7 @@ export const es = {
   filterAll: 'Todas',
   keywords: (list: string) => `Palabras clave: ${list}`,
   sources: (list: string) => `Webs: ${list}`,
+  companies: (list: string) => `Empresas: ${list}`,
 
   // Estados de la lista
   loading: 'Cargando ofertas…',
