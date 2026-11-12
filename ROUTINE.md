@@ -19,7 +19,7 @@ Sigue los pasos **en orden y sin saltarte ninguno**. Si cambias algo de cómo se
    ```
 
    Ábrela: cada búsqueda tiene sus **webs** (`sources`; si una búsqueda no tiene `sources`, los portales por
-   defecto: jobs.ch, linkedin.com/jobs y jobscout24.ch) y sus **empresas** (`companies`), todas en `"pending"`.
+   defecto: jobs.ch, linkedin.com/jobs, jobscout24.ch y job-room.ch) y sus **empresas** (`companies`), todas en `"pending"`.
    **Esa es tu lista de comprobación.**
 
 ## Paso 2 · Recorrer la lista, búsqueda por búsqueda
@@ -28,19 +28,38 @@ Para **cada búsqueda activa**, haz **todo** esto:
 
 ### 2a · Cada web de la búsqueda (una por una)
 Abre con WebFetch la **página de resultados** de esa web (no te fíes del buscador web: suele devolver anuncios
-viejos que ya dan 404/410). Busca con varios términos (el `title` y las `keywords` más importantes) y lugares
-de la zona (para Sirnach TG con radio 30–60 km: Sirnach, Wil SG, Frauenfeld, Winterthur, Münchwilen, Uzwil,
-St. Gallen y Zürich si entran en el radio). Direcciones útiles:
+viejos que ya dan 404/410).
+
+- **Términos:** usa **todas** las `keywords` (son sinónimos: cada empresa llama distinto al mismo puesto).
+  Puedes agruparlas si la web lo permite, pero ninguna se queda sin buscar en al menos una web.
+- **Zonas (`areas`):** solo valen ofertas **dentro de alguna zona** (lugar ± radio). Busca por el lugar de cada
+  zona y también por las localidades de dentro, porque algunas webs solo muestran la ciudad exacta:
+  - **Zürich + 20 km:** Zürich, Kloten, Flughafen Zürich, Opfikon, Wallisellen, Dübendorf, Schlieren, Dietikon,
+    Regensdorf, Uster, Volketswil, Adliswil, Thalwil, Bülach.
+  - **Winterthur + 20 km:** Winterthur, Effretikon, Illnau, Seuzach, Pfäffikon ZH, Elgg, Andelfingen, Frauenfeld.
+- **Varias páginas:** revisa al menos las páginas 1 a 3 de resultados (hasta la 5 si siguen saliendo ofertas
+  de los últimos 7 días).
+
+Direcciones útiles:
 
 - **jobs.ch**: `https://www.jobs.ch/de/stellenangebote/?term=<TÉRMINO>&location=<LUGAR>&sort-by=date` (y `&page=2`, `&page=3`)
 - **linkedin.com/jobs**: `https://www.linkedin.com/jobs/search/?keywords=<TÉRMINO>&location=<LUGAR>&f_TPR=r604800`
 - **jobscout24.ch**: `https://www.jobscout24.ch/de/jobs/<TÉRMINO>/<LUGAR>/`
-- Otras webs (gastrojob.ch, hotelcareer.ch…): usa su buscador o búscalo con WebSearch.
+- **job-room.ch** (portal oficial del RAV), **swissdevjobs.ch** (IT), **gastrojob.ch**, **hotelcareer.ch**…:
+  usa su buscador o búscalo con WebSearch.
+
+**Agencias de trabajo temporal** (Coople, Adecco, Manpower, Randstad, Kelly, Interiman, Persona Service,
+Gi Group, Express Personal): tienen muchas ofertas de almacén, limpieza, cocina y hotel. Usa el buscador de su web
+con los términos y la zona.
 
 ### 2b · Cada empresa de la búsqueda (una por una)
 Busca la **página de empleo** de la empresa (WebSearch: `"<empresa> jobs"` o `"<empresa> Stellen"`), ábrela
 con WebFetch y revisa **todas** sus ofertas abiertas. Añade las que encajen con la búsqueda y la zona, con
 `source` = nombre de la empresa (p. ej. `"Experis"`).
+
+**Empresas repetidas:** varias agencias (Coople, Adecco, Manpower…) aparecen en varias búsquedas. Para no repetir
+trabajo, revisa la web de cada una **una sola vez**, buscando los términos de **todas** las búsquedas en las que
+aparece, y apunta el resultado en cada una de esas búsquedas (con las ofertas añadidas a la búsqueda que toque).
 
 ### 2c · Apuntar en la cobertura, nada más terminar cada web o empresa
 Actualiza su entrada en `/tmp/cobertura.json`:
@@ -61,7 +80,7 @@ como `blocked` o `error`. **Nunca** intentes saltarte bloqueos (nada de cambiar 
 
 - Debe estar **publicada en los últimos 7 días** (fecha de la página de resultados o de la propia oferta)
   y seguir abierta. Si no hay fecha fiable, descártala.
-- Debe estar **en la zona** (`location` ± `radiusKm`).
+- Debe estar **en alguna de las zonas** (`areas`: lugar ± radio). Las de fuera se descartan.
 - No debe estar ya en `jobs.json` (misma URL o mismo puesto + empresa).
 - Si la página de la oferta no se abre pero la web la lista hoy con fecha reciente, vale: usa los datos de
   la lista y escribe un `summary` corto basado solo en lo que sabes.
@@ -134,6 +153,7 @@ Responde en español con:
 ## Reglas
 
 - Calidad antes que cantidad: máximo ~15 ofertas nuevas por búsqueda y día.
+- Solo cuentan ofertas en **Zürich o Winterthur y 20 km a la redonda** (ver `areas`).
 - El usuario vive en Sirnach TG y habla español (nativo), inglés (B2) y alemán (A1). Si una oferta exige
   alemán C1 o nativo, inclúyela igualmente pero indícalo en `language`.
 - No modifiques otros archivos del repo (solo `jobs.json` y `coverage.json`).

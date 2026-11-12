@@ -30,13 +30,15 @@ function SearchFilter({ searches, selected, onSelect }: Props) {
           className={selected === s.id ? `${styles.chip} ${styles.on}` : styles.chip}
           aria-pressed={selected === s.id}
           onClick={() => onSelect(s.id)}
-          title={[t.keywords(s.keywords.join(', ')), s.sources && t.sources(s.sources.join(', ')),
+          title={[
+            t.areas(s.areas.map((a) => `${a.place} +${a.radiusKm} km`).join(', ')),
+            t.keywords(s.keywords.join(', ')), s.sources && t.sources(s.sources.join(', ')),
             s.companies && t.companies(s.companies.join(', ')),
           ]
             .filter(Boolean)
             .join('\n')}
         >
-          {s.labels?.[lang] ?? s.title} <span className={styles.loc}>· {s.location}</span>
+          {s.labels?.[lang] ?? s.title} <span className={styles.loc}>· {s.areas.map((a) => a.place).join(' / ')}</span>
         </button>
       ))}
     </div>

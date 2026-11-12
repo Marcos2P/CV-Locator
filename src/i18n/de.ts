@@ -21,6 +21,7 @@ export const de: Dictionary = {
   // Filter
   filterLabel: 'Nach Suche filtern',
   filterAll: 'Alle',
+  areas: (list) => `Regionen: ${list}`,
   keywords: (list) => `Stichwörter: ${list}`,
   sources: (list) => `Websites: ${list}`,
   companies: (list) => `Firmen: ${list}`,

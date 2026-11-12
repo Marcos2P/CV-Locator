@@ -23,6 +23,7 @@ export const es = {
   // Filtro
   filterLabel: 'Filtrar por búsqueda',
   filterAll: 'Todas',
+  areas: (list: string) => `Zonas: ${list}`,
   keywords: (list: string) => `Palabras clave: ${list}`,
   sources: (list: string) => `Webs: ${list}`,
   companies: (list: string) => `Empresas: ${list}`,

@@ -7,14 +7,39 @@
       "de": "Frontend-Entwickler"
     },
     "keywords": [
-      "React",
-      "TypeScript",
-      "Frontend",
-      "Junior",
-      "Web Developer"
+      "Frontend Developer",
+      "Frontend Engineer",
+      "React Developer",
+      "Web Developer",
+      "Webentwickler",
+      "Frontend-Entwickler",
+      "Software Engineer Frontend",
+      "UI Developer",
+      "JavaScript Developer",
+      "TypeScript Developer",
+      "Full-Stack Developer",
+      "Junior Software Engineer",
+      "Applikationsentwickler",
+      "QA Engineer",
+      "Test Automation Engineer"
     ],
-    "location": "Sirnach TG",
-    "radiusKm": 60,
+    "areas": [
+      {
+        "place": "Zürich",
+        "radiusKm": 20
+      },
+      {
+        "place": "Winterthur",
+        "radiusKm": 20
+      }
+    ],
+    "sources": [
+      "jobs.ch",
+      "linkedin.com/jobs",
+      "swissdevjobs.ch",
+      "jobscout24.ch",
+      "job-room.ch"
+    ],
     "companies": [
       "Art of Work Personalberatung AG",
       "Rockstar Recruiting AG",
@@ -32,39 +57,94 @@
     "id": "lager",
     "title": "Lagermitarbeiter",
     "labels": {
-      "es": "Almacén",
-      "de": "Lagermitarbeiter"
+      "es": "Almacén y logística",
+      "de": "Lager / Logistik"
     },
     "keywords": [
-      "Lager",
-      "Logistik",
+      "Lagermitarbeiter",
+      "Lagerist",
+      "Logistiker",
+      "Logistikmitarbeiter",
+      "Mitarbeiter Logistik",
+      "Magaziner",
+      "Kommissionierer",
+      "Lagerhelfer",
       "Warenausgang",
-      "Kommissionierer"
+      "Wareneingang",
+      "Versandmitarbeiter",
+      "Mitarbeiter Spedition",
+      "Warehouse Worker",
+      "Picker"
     ],
-    "location": "Sirnach TG",
-    "radiusKm": 30,
+    "areas": [
+      {
+        "place": "Zürich",
+        "radiusKm": 20
+      },
+      {
+        "place": "Winterthur",
+        "radiusKm": 20
+      }
+    ],
     "companies": [
-      "Express Personal AG"
+      "Express Personal AG",
+      "Coople",
+      "Adecco",
+      "Manpower",
+      "Randstad",
+      "Kelly Services",
+      "Interiman Group",
+      "Persona Service",
+      "Gi Group"
     ],
     "active": true
   },
   {
     "id": "reinigung-flughafen",
-    "title": "Reinigung Flughafen",
+    "title": "Reinigung",
     "labels": {
-      "es": "Limpieza aeropuerto",
-      "de": "Reinigung Flughafen"
+      "es": "Limpieza (aeropuerto y general)",
+      "de": "Reinigung (Flughafen & allgemein)"
     },
     "keywords": [
-      "Reinigung",
+      "Flugzeugreiniger",
       "Flugzeugreinigung",
       "Kabinenreinigung",
-      "Flughafen"
+      "Cabin Cleaner",
+      "Aircraft Cleaning",
+      "Reinigungsmitarbeiter",
+      "Reinigungskraft",
+      "Raumpfleger",
+      "Unterhaltsreinigung",
+      "Gebäudereinigung",
+      "Mitarbeiter Reinigung",
+      "Cleaner",
+      "Mitarbeiter Flughafendienste"
     ],
-    "location": "Zürich Flughafen",
-    "radiusKm": 15,
+    "areas": [
+      {
+        "place": "Zürich",
+        "radiusKm": 20
+      },
+      {
+        "place": "Winterthur",
+        "radiusKm": 20
+      }
+    ],
     "companies": [
-      "Express Personal AG"
+      "Vebego AG",
+      "ISS Facility Services",
+      "Gate Group",
+      "Swissport",
+      "Express Personal AG",
+      "Coople",
+      "Adecco",
+      "Manpower",
+      "Randstad",
+      "Kelly Services",
+      "Interiman Group",
+      "Persona Service",
+      "Gi Group"
     ],
     "active": true
   },
@@ -77,22 +157,55 @@
     },
     "keywords": [
       "Küchenhilfe",
-      "Abwascher",
-      "Tellerwäscher",
-      "Officemitarbeiter",
+      "Küchenmitarbeiter",
+      "Mitarbeiter Küchenoffice",
+      "Office-Mitarbeiter",
+      "Küchengehilfe",
       "Hilfskoch",
-      "Spüler"
+      "Abwascher",
+      "Plongeur",
+      "Spüler",
+      "Tellerwäscher",
+      "Kitchen Porter",
+      "Kitchen Assistant",
+      "Dishwasher",
+      "Mitarbeiter Gastronomie",
+      "Restaurationsmitarbeiter",
+      "Mitarbeiter Systemgastronomie"
     ],
-    "location": "Sirnach TG",
-    "radiusKm": 50,
+    "areas": [
+      {
+        "place": "Zürich",
+        "radiusKm": 20
+      },
+      {
+        "place": "Winterthur",
+        "radiusKm": 20
+      }
+    ],
     "sources": [
       "jobs.ch",
       "gastrojob.ch",
       "hotelcareer.ch",
-      "linkedin.com/jobs"
+      "linkedin.com/jobs",
+      "job-room.ch",
+      "jobscout24.ch"
     ],
     "companies": [
-      "Express Personal AG"
+      "Migros",
+      "Coop",
+      "SV Group",
+      "Compass Group",
+      "ZFV-Unternehmungen",
+      "Express Personal AG",
+      "Coople",
+      "Adecco",
+      "Manpower",
+      "Randstad",
+      "Kelly Services",
+      "Interiman Group",
+      "Persona Service",
+      "Gi Group"
     ],
     "active": true
   },
@@ -105,23 +218,47 @@
     },
     "keywords": [
       "Zimmermädchen",
+      "Zimmerreiniger",
       "Zimmerreinigung",
+      "Room Attendant",
       "Roomboy",
+      "Housekeeping Attendant",
       "Housekeeping",
-      "Etage",
+      "Mitarbeiter Hauswirtschaft",
+      "Hauswirtschaftsmitarbeiter",
+      "Etagenmitarbeiter",
+      "Raumpfleger",
       "Hotelreinigung",
-      "Raumpfleger"
+      "Mitarbeiter Wäscherei"
     ],
-    "location": "Sirnach TG",
-    "radiusKm": 50,
+    "areas": [
+      {
+        "place": "Zürich",
+        "radiusKm": 20
+      },
+      {
+        "place": "Winterthur",
+        "radiusKm": 20
+      }
+    ],
     "sources": [
       "jobs.ch",
-      "hotelcareer.ch",
       "gastrojob.ch",
-      "linkedin.com/jobs"
+      "hotelcareer.ch",
+      "linkedin.com/jobs",
+      "job-room.ch",
+      "jobscout24.ch"
     ],
     "companies": [
-      "Express Personal AG"
+      "Express Personal AG",
+      "Coople",
+      "Adecco",
+      "Manpower",
+      "Randstad",
+      "Kelly Services",
+      "Interiman Group",
+      "Persona Service",
+      "Gi Group"
     ],
     "active": true
   }

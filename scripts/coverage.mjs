@@ -23,7 +23,7 @@
  */
 
 /** Portales que se usan cuando una búsqueda no tiene `sources` */
-export const DEFAULT_SOURCES = ['jobs.ch', 'linkedin.com/jobs', 'jobscout24.ch']
+export const DEFAULT_SOURCES = ['jobs.ch', 'linkedin.com/jobs', 'jobscout24.ch', 'job-room.ch']
 
 const STATUSES = new Set(['ok', 'blocked', 'not_found', 'error'])
 

@@ -7,10 +7,8 @@ export interface Search {
   labels?: { es?: string; de?: string }
   /** Palabras clave que deben aparecer en la oferta */
   keywords: string[]
-  /** Ubicación, p. ej. "Zürich" o "Sirnach TG" */
-  location: string
-  /** Radio alrededor de la ubicación, en km */
-  radiusKm?: number
+  /** Zonas donde buscar: un lugar y el radio a su alrededor (p. ej. Zürich + 20 km) */
+  areas: Area[]
   /**
    * Webs donde buscar (p. ej. "jobs.ch", "gastrojob.ch" o la web de empleo de una empresa).
    * Si no se indica, la búsqueda diaria usa los portales por defecto de ROUTINE.md.
@@ -23,6 +21,11 @@ export interface Search {
   companies?: string[]
   /** Si es false, la búsqueda diaria la ignora */
   active: boolean
+}
+
+export interface Area {
+  place: string
+  radiusKm: number
 }
 
 /** Una oferta encontrada por la búsqueda diaria (public/data/jobs.json) */
