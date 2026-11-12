@@ -1,0 +1,456 @@
+{
+  "updatedAt": "2026-11-12T20:05:42.768Z",
+  "searches": {
+    "lager": {
+      "sources": {
+        "jobs.ch": {
+          "status": "ok",
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Lagermitarbeiter&location=Zürich&sort-by=date",
+          "offersReviewed": 80,
+          "offersAdded": 3,
+          "note": "Keywords: Lagermitarbeiter, Lagerist, Kommissionierer, Logistiker, Lagerhelfer, Magaziner, Versandmitarbeiter"
+        },
+        "linkedin.com/jobs": {
+          "status": "ok",
+          "url": "https://ch.linkedin.com/jobs/lagermitarbeiter-stellen-zürich",
+          "offersReviewed": 60,
+          "offersAdded": 1,
+          "note": ""
+        },
+        "jobscout24.ch": {
+          "status": "ok",
+          "url": "https://www.jobscout24.ch/de/jobs/lagermitarbeiter/zuerich/",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "0 resultados"
+        }
+      },
+      "companies": {
+        "Express Personal AG": {
+          "status": "ok",
+          "url": "https://www.expresspersonal.ch/fur-stellensuchende/jobsuche/",
+          "offersReviewed": 10,
+          "offersAdded": 0,
+          "note": "Sin ofertas de la zona en estas categorías"
+        },
+        "Coople": {
+          "status": "ok",
+          "url": "https://www.coople.com/ch/en/jobs",
+          "offersReviewed": 9,
+          "offersAdded": 0,
+          "note": "Solo turnos puntuales sin fecha de publicación fiable; no añadido"
+        },
+        "Adecco": {
+          "status": "error",
+          "url": "https://www.adecco.com/de-ch/jobsuche?jobTitle=lagerist",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "adecco.ch redirige a adecco.com/de-ch; /job-finden y /jobsuche?jobTitle=lagerist no muestran ofertas (carga dinámica)"
+        },
+        "Manpower": {
+          "status": "error",
+          "url": "https://www.manpower.ch/fr/recherche",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "manpower.ch/de/jobs -> 404; /fr/recherche solo navegación, sin ofertas"
+        },
+        "Randstad": {
+          "status": "ok",
+          "url": "https://www.randstad.com/jobs/switzerland/s-warehousing-distribution/zurich/",
+          "offersReviewed": 21,
+          "offersAdded": 0,
+          "note": "Ofertas revisadas; la ficha de Lagermitarbeiter Zürich (9.11) da 410 Gone; ninguna verificable añadida"
+        },
+        "Kelly Services": {
+          "status": "not_found",
+          "url": "https://www.kellyocg.com/",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "kellyservices.ch -> kellyocg.com sin búsqueda de empleo para Suiza"
+        },
+        "Interiman Group": {
+          "status": "error",
+          "url": "https://www.albedis.com/recherche-offres-emploi/",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "interiman.ch -> albedis.com; listado visible solo de Lausanne/Genève, sin Lager/Reinigung/Küche en Zürich"
+        },
+        "Persona Service": {
+          "status": "ok",
+          "url": "https://persona-ch.onlyfy.jobs/",
+          "offersReviewed": 17,
+          "offersAdded": 0,
+          "note": "17 ofertas, todas técnicas/otras zonas"
+        },
+        "Gi Group": {
+          "status": "error",
+          "url": "https://ch.gigroup.com/job-offers/",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "Sección 'Latest job offers' vacía (carga dinámica)"
+        }
+      }
+    },
+    "reinigung-flughafen": {
+      "sources": {
+        "jobs.ch": {
+          "status": "ok",
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Reinigungsmitarbeiter&location=Zürich&sort-by=date",
+          "offersReviewed": 20,
+          "offersAdded": 0,
+          "note": "Varias keywords y páginas 1; ver resumen"
+        },
+        "linkedin.com/jobs": {
+          "status": "ok",
+          "url": "https://ch.linkedin.com/jobs/reinigungskraft-stellen-zürich",
+          "offersReviewed": 20,
+          "offersAdded": 1,
+          "note": ""
+        },
+        "jobscout24.ch": {
+          "status": "ok",
+          "url": "https://www.jobscout24.ch/de/jobs/reinigungsmitarbeiter/zuerich/",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "0 resultados"
+        }
+      },
+      "companies": {
+        "Vebego AG": {
+          "status": "error",
+          "url": "https://www.vebego.ch/karriere",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "vebego.ch/karriere -> 404; WebSearch solo devolvió anuncios antiguos de 2025"
+        },
+        "ISS Facility Services": {
+          "status": "ok",
+          "url": "https://www.ch.issworld.com/de-ch/karriere/offene-stellen",
+          "offersReviewed": 3,
+          "offersAdded": 1,
+          "note": "Portal propio solo con login; oferta encontrada vía LinkedIn (Kabinenreiniger Kloten)"
+        },
+        "Gate Group": {
+          "status": "error",
+          "url": "https://www.gategroup.com/careers",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "gategroup.com/careers -> 404; búsqueda solo puestos de oficina/gestión"
+        },
+        "Swissport": {
+          "status": "error",
+          "url": "https://careers.swissport.com/jobs",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "careers.swissport.com y /jobs sin ofertas visibles (carga dinámica)"
+        },
+        "Express Personal AG": {
+          "status": "ok",
+          "url": "https://www.expresspersonal.ch/fur-stellensuchende/jobsuche/",
+          "offersReviewed": 10,
+          "offersAdded": 0,
+          "note": "Sin ofertas de la zona en estas categorías"
+        },
+        "Coople": {
+          "status": "ok",
+          "url": "https://www.coople.com/ch/en/jobs",
+          "offersReviewed": 9,
+          "offersAdded": 0,
+          "note": "Solo turnos puntuales sin fecha de publicación fiable; no añadido"
+        },
+        "Adecco": {
+          "status": "error",
+          "url": "https://www.adecco.com/de-ch/jobsuche?jobTitle=lagerist",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "adecco.ch redirige a adecco.com/de-ch; /job-finden y /jobsuche?jobTitle=lagerist no muestran ofertas (carga dinámica)"
+        },
+        "Manpower": {
+          "status": "error",
+          "url": "https://www.manpower.ch/fr/recherche",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "manpower.ch/de/jobs -> 404; /fr/recherche solo navegación, sin ofertas"
+        },
+        "Randstad": {
+          "status": "ok",
+          "url": "https://www.randstad.com/jobs/switzerland/s-warehousing-distribution/zurich/",
+          "offersReviewed": 21,
+          "offersAdded": 0,
+          "note": "Ofertas revisadas; la ficha de Lagermitarbeiter Zürich (9.11) da 410 Gone; ninguna verificable añadida"
+        },
+        "Kelly Services": {
+          "status": "not_found",
+          "url": "https://www.kellyocg.com/",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "kellyservices.ch -> kellyocg.com sin búsqueda de empleo para Suiza"
+        },
+        "Interiman Group": {
+          "status": "error",
+          "url": "https://www.albedis.com/recherche-offres-emploi/",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "interiman.ch -> albedis.com; listado visible solo de Lausanne/Genève, sin Lager/Reinigung/Küche en Zürich"
+        },
+        "Persona Service": {
+          "status": "ok",
+          "url": "https://persona-ch.onlyfy.jobs/",
+          "offersReviewed": 17,
+          "offersAdded": 0,
+          "note": "17 ofertas, todas técnicas/otras zonas"
+        },
+        "Gi Group": {
+          "status": "error",
+          "url": "https://ch.gigroup.com/job-offers/",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "Sección 'Latest job offers' vacía (carga dinámica)"
+        }
+      }
+    },
+    "kueche": {
+      "sources": {
+        "jobs.ch": {
+          "status": "ok",
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Küchenhilfe&location=Zürich&sort-by=date",
+          "offersReviewed": 20,
+          "offersAdded": 2,
+          "note": "Küchenhilfe, Office-Mitarbeiter, Mitarbeiter Gastronomie"
+        },
+        "gastrojob.ch": {
+          "status": "error",
+          "url": "https://gastrojob.ch/stellen",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "Probé www.gastrojob.ch/de/jobs?... -> 404 y gastrojob.ch/stellen -> '0 Stellen gefunden' (contenido dinámico, sin ofertas legibles)"
+        },
+        "hotelcareer.ch": {
+          "status": "blocked",
+          "url": "https://www.hotelcareer.ch/jobs/küchenhilfe",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "Página de 'Challenge Validation' (anti-bot) en /jobs/küchenhilfe y /jobs/housekeeping-reinigung-hauswirtschaft; /jobs/... sin contenido"
+        },
+        "linkedin.com/jobs": {
+          "status": "ok",
+          "url": "https://ch.linkedin.com/jobs/küchenhilfe-stellen-zürich",
+          "offersReviewed": 20,
+          "offersAdded": 1,
+          "note": ""
+        },
+        "jobscout24.ch": {
+          "status": "ok",
+          "url": "https://www.jobscout24.ch/de/jobs/küchenhilfe/zuerich/",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "0 resultados"
+        }
+      },
+      "companies": {
+        "Migros": {
+          "status": "ok",
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Migros%20K%C3%BCche&location=Z%C3%BCrich&sort-by=date",
+          "offersReviewed": 2,
+          "offersAdded": 1,
+          "note": "jobs.ch/de/firmen/migros-zuerich -> 404; búsqueda en jobs.ch"
+        },
+        "Coop": {
+          "status": "blocked",
+          "url": "https://www.coop.ch/de/unternehmen/karriere.html",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "403 Forbidden"
+        },
+        "SV Group": {
+          "status": "error",
+          "url": "https://sv-group.com/de/gastronomie-schweiz/jobs-karriere",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "Portal jobs.sv-group.com enlazado pero no se pudo abrir con listado; sin ofertas verificables"
+        },
+        "Compass Group": {
+          "status": "error",
+          "url": "https://welcome.compass-group.ch/karriere",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "Página de empleo enlazada sin ofertas visibles; jobs.compass-group.ch no abierto; vía LinkedIn: oferta Hinwil fuera de zona"
+        },
+        "ZFV-Unternehmungen": {
+          "status": "not_found",
+          "url": "https://www.zfv.ch/de/karriere",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "zfv.ch/de/karriere -> 404; no encontré otra dirección"
+        },
+        "Express Personal AG": {
+          "status": "ok",
+          "url": "https://www.expresspersonal.ch/fur-stellensuchende/jobsuche/",
+          "offersReviewed": 10,
+          "offersAdded": 0,
+          "note": "Sin ofertas de la zona en estas categorías"
+        },
+        "Coople": {
+          "status": "ok",
+          "url": "https://www.coople.com/ch/en/jobs",
+          "offersReviewed": 9,
+          "offersAdded": 0,
+          "note": "Solo turnos puntuales sin fecha de publicación fiable; no añadido"
+        },
+        "Adecco": {
+          "status": "error",
+          "url": "https://www.adecco.com/de-ch/jobsuche?jobTitle=lagerist",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "adecco.ch redirige a adecco.com/de-ch; /job-finden y /jobsuche?jobTitle=lagerist no muestran ofertas (carga dinámica)"
+        },
+        "Manpower": {
+          "status": "error",
+          "url": "https://www.manpower.ch/fr/recherche",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "manpower.ch/de/jobs -> 404; /fr/recherche solo navegación, sin ofertas"
+        },
+        "Randstad": {
+          "status": "ok",
+          "url": "https://www.randstad.com/jobs/switzerland/s-warehousing-distribution/zurich/",
+          "offersReviewed": 21,
+          "offersAdded": 0,
+          "note": "Ofertas revisadas; la ficha de Lagermitarbeiter Zürich (9.11) da 410 Gone; ninguna verificable añadida"
+        },
+        "Kelly Services": {
+          "status": "not_found",
+          "url": "https://www.kellyocg.com/",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "kellyservices.ch -> kellyocg.com sin búsqueda de empleo para Suiza"
+        },
+        "Interiman Group": {
+          "status": "error",
+          "url": "https://www.albedis.com/recherche-offres-emploi/",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "interiman.ch -> albedis.com; listado visible solo de Lausanne/Genève, sin Lager/Reinigung/Küche en Zürich"
+        },
+        "Persona Service": {
+          "status": "ok",
+          "url": "https://persona-ch.onlyfy.jobs/",
+          "offersReviewed": 17,
+          "offersAdded": 0,
+          "note": "17 ofertas, todas técnicas/otras zonas"
+        },
+        "Gi Group": {
+          "status": "error",
+          "url": "https://ch.gigroup.com/job-offers/",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "Sección 'Latest job offers' vacía (carga dinámica)"
+        }
+      }
+    },
+    "hotel": {
+      "sources": {
+        "jobs.ch": {
+          "status": "ok",
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Housekeeping&location=Zürich&sort-by=date",
+          "offersReviewed": 10,
+          "offersAdded": 1,
+          "note": ""
+        },
+        "gastrojob.ch": {
+          "status": "error",
+          "url": "https://gastrojob.ch/stellen",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "Probé www.gastrojob.ch/de/jobs?... -> 404 y gastrojob.ch/stellen -> '0 Stellen gefunden' (contenido dinámico, sin ofertas legibles)"
+        },
+        "hotelcareer.ch": {
+          "status": "blocked",
+          "url": "https://www.hotelcareer.ch/jobs/küchenhilfe",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "Página de 'Challenge Validation' (anti-bot) en /jobs/küchenhilfe y /jobs/housekeeping-reinigung-hauswirtschaft; /jobs/... sin contenido"
+        },
+        "linkedin.com/jobs": {
+          "status": "ok",
+          "url": "https://ch.linkedin.com/jobs/housekeeping-stellen-zürich",
+          "offersReviewed": 20,
+          "offersAdded": 2,
+          "note": ""
+        },
+        "jobscout24.ch": {
+          "status": "ok",
+          "url": "https://www.jobscout24.ch/de/jobs/zimmermädchen/zuerich/",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "0 resultados"
+        }
+      },
+      "companies": {
+        "Express Personal AG": {
+          "status": "ok",
+          "url": "https://www.expresspersonal.ch/fur-stellensuchende/jobsuche/",
+          "offersReviewed": 10,
+          "offersAdded": 0,
+          "note": "Sin ofertas de la zona en estas categorías"
+        },
+        "Coople": {
+          "status": "ok",
+          "url": "https://www.coople.com/ch/en/jobs",
+          "offersReviewed": 9,
+          "offersAdded": 0,
+          "note": "Solo turnos puntuales sin fecha de publicación fiable; no añadido"
+        },
+        "Adecco": {
+          "status": "error",
+          "url": "https://www.adecco.com/de-ch/jobsuche?jobTitle=lagerist",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "adecco.ch redirige a adecco.com/de-ch; /job-finden y /jobsuche?jobTitle=lagerist no muestran ofertas (carga dinámica)"
+        },
+        "Manpower": {
+          "status": "error",
+          "url": "https://www.manpower.ch/fr/recherche",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "manpower.ch/de/jobs -> 404; /fr/recherche solo navegación, sin ofertas"
+        },
+        "Randstad": {
+          "status": "ok",
+          "url": "https://www.randstad.com/jobs/switzerland/s-warehousing-distribution/zurich/",
+          "offersReviewed": 21,
+          "offersAdded": 0,
+          "note": "Ofertas revisadas; la ficha de Lagermitarbeiter Zürich (9.11) da 410 Gone; ninguna verificable añadida"
+        },
+        "Kelly Services": {
+          "status": "not_found",
+          "url": "https://www.kellyocg.com/",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "kellyservices.ch -> kellyocg.com sin búsqueda de empleo para Suiza"
+        },
+        "Interiman Group": {
+          "status": "error",
+          "url": "https://www.albedis.com/recherche-offres-emploi/",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "interiman.ch -> albedis.com; listado visible solo de Lausanne/Genève, sin Lager/Reinigung/Küche en Zürich"
+        },
+        "Persona Service": {
+          "status": "ok",
+          "url": "https://persona-ch.onlyfy.jobs/",
+          "offersReviewed": 17,
+          "offersAdded": 0,
+          "note": "17 ofertas, todas técnicas/otras zonas"
+        },
+        "Gi Group": {
+          "status": "error",
+          "url": "https://ch.gigroup.com/job-offers/",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "Sección 'Latest job offers' vacía (carga dinámica)"
+        }
+      }
+    }
+  }
+}
