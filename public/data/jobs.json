@@ -1,6 +1,118 @@
 {
-  "updatedAt": "2026-11-12T11:22:10.296Z",
+  "updatedAt": "2026-11-12T11:44:58.393Z",
   "jobs": [
+    {
+      "searchId": "frontend-react",
+      "title": "Software Engineer Backend & Frontend (a) 80–100 %",
+      "titleEs": "Software Engineer Backend y Frontend",
+      "company": "CONVOTIS Schweiz",
+      "location": "Zürich / Glattbrugg",
+      "postedAt": "2026-11-12",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4483867189",
+      "summary": "Desarrollo del portal de clientes myCONVOTIS (backend Java, frontend Vue.js) con despliegue en OpenShift.",
+      "description": "Desarrollo del portal de clientes myCONVOTIS (backend Java, frontend Vue.js) con despliegue en OpenShift.",
+      "requirements": [
+        "Varios años de experiencia en desarrollo",
+        "Java y Spring Boot",
+        "Vue.js o similar y TypeScript",
+        "Residencia en Suiza y habilitación PSP"
+      ],
+      "workload": "80–100 %",
+      "language": "Alemán bueno e inglés bueno",
+      "de": {
+        "title": "Software Engineer Backend & Frontend (a) 80–100 %",
+        "summary": "Entwicklung des Kundenportals myCONVOTIS (Backend Java, Frontend Vue.js) mit Betrieb auf OpenShift.",
+        "description": "Entwicklung des Kundenportals myCONVOTIS (Backend Java, Frontend Vue.js) mit Betrieb auf OpenShift.",
+        "requirements": [
+          "Mehrjährige Entwicklungserfahrung",
+          "Java und Spring Boot",
+          "Vue.js oder ähnlich und TypeScript",
+          "Wohnsitz in der Schweiz und PSP-Eignung"
+        ],
+        "workload": "80–100 %",
+        "language": "Gutes Deutsch und Englisch"
+      },
+      "id": "657a32370b11",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Lagerist:in",
+      "titleEs": "Almacenista (Lagerist/a)",
+      "company": "Jumbo",
+      "location": "Winterthur Grüzemarkt",
+      "postedAt": "2026-11-12",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/2095cc38-844a-4623-8739-ed677a3ecc26",
+      "summary": "Almacenista temporal a tiempo parcial en Jumbo Grüzemarkt (Winterthur): recepción, almacenaje y preparación de pedidos.",
+      "description": "Responsable de la recepción de mercancías, descarga de contenedores, desembalaje con recuento y control de calidad, almacenaje y preparación de pedidos.",
+      "requirements": [
+        "Experiencia en logística (una ventaja)",
+        "Conocimiento del sector y carnet de carretillero (Staplerschein)",
+        "Buen alemán hablado y escrito",
+        "Disponibilidad flexible"
+      ],
+      "workload": "20–50 %",
+      "employmentType": "Temporal",
+      "language": "Alemán bueno",
+      "de": {
+        "title": "Lagerist:in",
+        "summary": "Temporäre Teilzeitstelle als Lagerist:in bei Jumbo Grüzemarkt in Winterthur: Wareneingang, Lagerung und Kommissionierung.",
+        "description": "Verantwortung für den Wareneingang, Entladen von Containern, Auspacken mit Zähl- und Qualitätskontrolle, Einlagern und Kommissionieren von Bestellungen.",
+        "requirements": [
+          "Logistikerfahrung von Vorteil",
+          "Branchenkenntnisse und Staplerschein",
+          "Gutes Deutsch in Wort und Schrift",
+          "Flexible Verfügbarkeit"
+        ],
+        "workload": "20–50 %",
+        "employmentType": "Temporär",
+        "language": "Gutes Deutsch"
+      },
+      "id": "c2d19431fedf",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistiker EFZ min.CHF 33.44 / Temporär",
+      "titleEs": "Logístico/a EFZ, temporal (mín. CHF 33,44/h)",
+      "company": "Employ Me AG",
+      "location": "Nänikon",
+      "postedAt": "2026-11-12",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/caabe926-54dd-44ac-8c46-7be06caed84b",
+      "summary": "Puesto temporal de larga duración como Logistiker EFZ en Nänikon, de lunes a viernes, desde CHF 33,44 por hora.",
+      "description": "Recepción, control y almacenaje de mercancías, preparación, embalaje y envío de pedidos, gestión de existencias en el ERP (preferiblemente SAP), mejora de procesos logísticos y orden en el almacén.",
+      "requirements": [
+        "Formación de Logistiker EFZ completada",
+        "Al menos 5 años de experiencia en logística",
+        "Experiencia con ERP (SAP preferible)",
+        "Carnet de conducir categoría B",
+        "Buena condición física y flexibilidad"
+      ],
+      "workload": "100 %",
+      "employmentType": "Temporal (larga duración)",
+      "salary": "CHF 33.44–36.00 por hora (bruto)",
+      "language": "Alemán bueno, comprensión de suizo alemán",
+      "de": {
+        "title": "Logistiker EFZ min.CHF 33.44 / Temporär",
+        "summary": "Langzeit-Temporäranstellung als Logistiker EFZ in Nänikon, Montag bis Freitag, ab CHF 33.44 pro Stunde.",
+        "description": "Warenannahme, Kontrolle und Einlagerung, Kommissionieren, Verpacken und Versenden, Bestandsführung im ERP (SAP bevorzugt), Mithilfe bei der Optimierung logistischer Abläufe, Ordnung im Lager.",
+        "requirements": [
+          "Abgeschlossene Lehre als Logistiker EFZ",
+          "Mindestens 5 Jahre Logistikerfahrung",
+          "ERP-Erfahrung (SAP bevorzugt)",
+          "Führerschein Kategorie B",
+          "Körperlich fit und flexibel"
+        ],
+        "workload": "100 %",
+        "employmentType": "Langzeit-Temporäranstellung",
+        "language": "Gutes Deutsch, Verständnis für Schweizerdeutsch"
+      },
+      "id": "185a58443fb7",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
     {
       "searchId": "kueche",
       "title": "Hilfskoch/Hilfsköchin 100%",
@@ -37,6 +149,156 @@
       },
       "id": "c196e710d9cc",
       "foundAt": "2026-11-12T10:00:08.920Z"
+    },
+    {
+      "searchId": "frontend-react",
+      "title": "Senior Fullstack Software Engineer (f/m/d)",
+      "titleEs": "Senior Fullstack Software Engineer",
+      "company": "Digitec Galaxus AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-11",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4488222431",
+      "summary": "Desarrollo frontend y backend de APIs e interfaces para las apps móviles, con React/TypeScript y .NET/C#.",
+      "description": "Desarrollo frontend y backend de APIs e interfaces para las apps móviles, con React/TypeScript y .NET/C#.",
+      "requirements": [
+        "5+ años de desarrollo web full-stack",
+        "React/TypeScript y .NET/C# deseable",
+        "Inglés fluido"
+      ],
+      "workload": "80–100 %",
+      "language": "Inglés fluido, alemán bueno es un plus",
+      "de": {
+        "title": "Senior Fullstack Software Engineer (f/m/d)",
+        "summary": "Frontend- und Backend-Entwicklung von Web-APIs und Schnittstellen für die mobilen Apps mit React/TypeScript und .NET/C#.",
+        "description": "Frontend- und Backend-Entwicklung von Web-APIs und Schnittstellen für die mobilen Apps mit React/TypeScript und .NET/C#.",
+        "requirements": [
+          "5+ Jahre Full-Stack-Webentwicklung",
+          "React/TypeScript und .NET/C# von Vorteil",
+          "Fliessend Englisch"
+        ],
+        "workload": "80–100 %",
+        "language": "Fliessend Englisch, gutes Deutsch von Vorteil"
+      },
+      "id": "d94452509aa3",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistics Operator Switzerland (all)",
+      "titleEs": "Operario/a de logística Suiza",
+      "company": "Oetiker Group",
+      "location": "Horgen",
+      "postedAt": "2026-11-11",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/4478687704",
+      "summary": "Puesto a tiempo completo de logística en Horgen: recepción, preparación de pedidos y envíos.",
+      "description": "Recepción y tramitación de mercancías, preparación de pedidos con registro en el sistema, embalaje, preparación y registro de envíos, apoyo logístico general, orden y seguridad en el almacén, ayuda en inventarios.",
+      "requirements": [
+        "Formación de Logistiker EFZ o equivalente",
+        "Carnets de carretilla (transpaleta, contrapesada, retráctil) obligatorios",
+        "Carnet de conducir categoría B obligatorio",
+        "Experiencia en logística de almacén",
+        "Buen manejo de PC; SAP una ventaja",
+        "Muy buen alemán hablado y escrito"
+      ],
+      "workload": "Tiempo completo",
+      "employmentType": "Tiempo completo",
+      "language": "Alemán muy bueno",
+      "de": {
+        "title": "Logistics Operator Switzerland (all)",
+        "summary": "Vollzeitstelle in der Logistik in Horgen: Wareneingang, Kommissionierung und Versand.",
+        "description": "Wareneingang bearbeiten, Kundenaufträge kommissionieren inkl. Systembuchung, Verpacken, Bereitstellen und Verbuchen von Sendungen, allgemeine Unterstützung in Logistik und Betrieb, Ordnung und Sicherheit im Lager, Mithilfe bei Inventuren.",
+        "requirements": [
+          "Lehre als Logistiker EFZ oder vergleichbar",
+          "Staplerausweise (Hubwagen, Gegengewicht, Schubmast) zwingend",
+          "Führerschein Kategorie B zwingend",
+          "Erfahrung in der Lagerlogistik",
+          "Gute PC-Kenntnisse, SAP von Vorteil",
+          "Sehr gute Deutschkenntnisse in Wort und Schrift"
+        ],
+        "workload": "Tiempo completo",
+        "employmentType": "Vollzeit",
+        "language": "Sehr gutes Deutsch"
+      },
+      "id": "d556eaf9820a",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Küchenangestellte/-r 60%",
+      "titleEs": "Empleado/a de cocina 60 %",
+      "company": "Alterszentrum Lindenhof",
+      "location": "Rümlang",
+      "postedAt": "2026-11-11",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/546e1918-5776-4f35-9455-9a272a4876c5",
+      "summary": "Trabajo autónomo en cocina caliente y fría de un centro de mayores, con mise en place, emplatado y lavado de vajilla.",
+      "description": "Trabajo independiente en cocina caliente y fría, mise en place diaria, preparación y emplatado de comida fresca, normas de higiene, limpieza, orden, gestión de stock y lavado de vajilla. Inicio inmediato o a convenir.",
+      "requirements": [
+        "Formación como Küchenangestellte/r EBA",
+        "Varios años de experiencia en cocina",
+        "Alemán mínimo B2",
+        "Disponibilidad para tardes y fines de semana"
+      ],
+      "workload": "60 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán B2",
+      "de": {
+        "title": "Küchenangestellte/-r 60%",
+        "summary": "Selbständiges Arbeiten in der warmen und kalten Küche eines Alterszentrums, inkl. Mise en place, Anrichten und Abwasch.",
+        "description": "Selbständiges Arbeiten in der warmen und kalten Küche, tägliche Mise en place, Zubereiten und Anrichten frischer Speisen, Hygiene- und Sicherheitsvorschriften, Reinigen, Aufräumen, Lagerbewirtschaftung und Abwasch. Eintritt sofort oder nach Vereinbarung.",
+        "requirements": [
+          "Ausbildung als Küchenangestellte/-r EBA",
+          "Mehrjährige Küchenerfahrung",
+          "Sehr gutes Deutsch, mind. B2",
+          "Bereitschaft für Abend- und Wochenendeinsätze"
+        ],
+        "workload": "60 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch B2"
+      },
+      "id": "8cd135e69e06",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Fachfrau / Fachmann Hauswirtschaft",
+      "titleEs": "Especialista en economía doméstica / limpieza de unidades",
+      "company": "Integrierte Psychiatrie Winterthur – Zürcher Unterland (ipw)",
+      "location": "Winterthur (Klinik Schlosstal)",
+      "postedAt": "2026-11-11",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/99385873-fad6-4110-b15e-e93fc911c643",
+      "summary": "Limpieza diaria de unidades y zonas comunes en una clínica psiquiátrica de Winterthur; requiere formación EFZ/EBA y experiencia.",
+      "description": "Limpieza diaria de las unidades según plan, de oficinas y zonas públicas, mantenimiento, limpieza intermedia y a fondo, sustituciones en otras unidades y algún fin de semana. Inicio 1 de enero de 2027 o a convenir.",
+      "requirements": [
+        "Varios años de experiencia en housekeeping (residencia, hospital u hotel)",
+        "Formación EFZ o EBA en Hotellerie-Hauswirtschaft o limpieza de edificios",
+        "Orientación al servicio, fiable y flexible, resistencia física",
+        "Disponibilidad fines de semana y festivos",
+        "Buen alemán"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán fluido",
+      "de": {
+        "title": "Fachfrau / Fachmann Hauswirtschaft",
+        "summary": "Tägliche Reinigung von Stationen und Allgemeinbereichen in einer Psychiatrieklinik in Winterthur; EFZ/EBA und Erfahrung erforderlich.",
+        "description": "Tägliche Reinigung der Stationen nach Arbeitsplan, Reinigung von Büros und öffentlichen Bereichen, Unterhalts-, Zwischen- und Grundreinigung, Vertretungen auf anderen Stationen, gelegentliche Wochenenddienste. Eintritt 1. Januar 2027 oder nach Vereinbarung.",
+        "requirements": [
+          "Mehrjährige Housekeeping-Erfahrung (Heim, Spital oder Hotel)",
+          "Berufsabschluss EFZ oder EBA in Hotellerie-Hauswirtschaft oder Gebäudereinigung",
+          "Serviceorientierung, Zuverlässigkeit, Flexibilität, körperliche Belastbarkeit",
+          "Bereitschaft für Wochenenden und Feiertage",
+          "Gute Deutschkenntnisse"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch fliessend"
+      },
+      "id": "1b5f7c2823f3",
+      "foundAt": "2026-11-12T11:44:58.393Z"
     },
     {
       "searchId": "kueche",
@@ -175,6 +437,189 @@
       "foundAt": "2026-11-12T07:02:24.394Z"
     },
     {
+      "searchId": "frontend-react",
+      "title": "Product Frontend Engineer",
+      "titleEs": "Ingeniero/a Frontend de producto",
+      "company": "quitt",
+      "location": "Zürich",
+      "postedAt": "2026-11-10",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4488294062",
+      "summary": "Construir y mantener el frontend de la app y la web app de quinn y de una herramienta interna de escritorio, con biblioteca de componentes.",
+      "description": "Construir y mantener el frontend de la app y la web app de quinn y de una herramienta interna de escritorio, con biblioteca de componentes.",
+      "requirements": [
+        "Experiencia construyendo componentes UI y design systems",
+        "Capacidad de trabajar con autonomía",
+        "Uso diario de herramientas de IA"
+      ],
+      "workload": "Tiempo completo",
+      "language": "Inglés fluido",
+      "de": {
+        "title": "Product Frontend Engineer",
+        "summary": "Baue und pflege das Frontend der quinn-App und Web-App sowie eines internen Desktop-Tools inklusive Komponentenbibliothek.",
+        "description": "Baue und pflege das Frontend der quinn-App und Web-App sowie eines internen Desktop-Tools inklusive Komponentenbibliothek.",
+        "requirements": [
+          "Erfahrung mit UI-Komponenten und Design-Systemen",
+          "Selbstständige Arbeitsweise",
+          "Täglicher Einsatz von KI-Tools"
+        ],
+        "workload": "Vollzeit",
+        "language": "Fliessend Englisch"
+      },
+      "id": "91747b4de70f",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "frontend-react",
+      "title": "Frontend Engineer mit UX-Affinität im IT-Consulting",
+      "titleEs": "Frontend Engineer con afinidad UX en consultoría IT",
+      "company": "ipt Innovation Process Technology",
+      "location": "Zürich",
+      "postedAt": "2026-11-10",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4487415360",
+      "summary": "Puesto de inicio de carrera: construir interfaces de aplicaciones críticas con Angular, React y TypeScript en equipos de proyecto con clientes.",
+      "description": "Puesto de inicio de carrera: construir interfaces de aplicaciones críticas con Angular, React y TypeScript en equipos de proyecto con clientes.",
+      "requirements": [
+        "Título en informática o informática de gestión",
+        "Al menos 1 año de experiencia en ingeniería de software",
+        "Experiencia con UI/UX y Figma"
+      ],
+      "workload": "80 % o más",
+      "language": "Alemán e inglés muy buenos",
+      "de": {
+        "title": "Frontend Engineer mit UX-Affinität im IT-Consulting",
+        "summary": "Berufseinstieg: Entwicklung von Benutzeroberflächen für geschäftskritische Anwendungen mit Angular, React und TypeScript in Kundenprojekten.",
+        "description": "Berufseinstieg: Entwicklung von Benutzeroberflächen für geschäftskritische Anwendungen mit Angular, React und TypeScript in Kundenprojekten.",
+        "requirements": [
+          "Abgeschlossenes Informatikstudium",
+          "Mind. 1 Jahr Erfahrung im Software Engineering",
+          "Erfahrung mit UI/UX und Figma"
+        ],
+        "workload": "ab 80 %",
+        "language": "Sehr gute Deutsch- und Englischkenntnisse"
+      },
+      "id": "29d7aef34ec2",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistiker - Reinraumlogistik / Produktionslogistik am Standort Zürich (m/w/x)",
+      "titleEs": "Logístico/a de sala blanca y logística de producción en Zúrich",
+      "company": "Carl Zeiss AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-10",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/9bbc8123-9d19-4212-8118-32db6d3a38e3",
+      "summary": "Puesto fijo al 100 % en logística de sala blanca y de producción en Carl Zeiss (Zúrich), con SAP.",
+      "description": "Almacenar componentes sensibles en una sala blanca ISO clase 6, preparar material para órdenes de producción en SAP, registrar movimientos de material, controlar existencias y apoyar el inventario anual.",
+      "requirements": [
+        "Formación de Logistiker EBA o equivalente y al menos 3 años de experiencia en almacén",
+        "Experiencia en almacén en sala blanca (medtech, farma, electrónica...)",
+        "Experiencia en preparación de pedidos, embalaje y carga",
+        "Conocimientos de Microsoft Office",
+        "Presencial en Zúrich"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán B2",
+      "de": {
+        "title": "Logistiker - Reinraumlogistik / Produktionslogistik am Standort Zürich (m/w/x)",
+        "summary": "Festanstellung 100 % in der Reinraum- und Produktionslogistik bei Carl Zeiss in Zürich, mit SAP.",
+        "description": "Lagerung sensibler Komponenten im ISO-Reinraum Klasse 6, Materialbereitstellung für Fertigungsaufträge in SAP, Erfassen von Materialbewegungen, Bestandskontrolle und Unterstützung der Jahresinventur.",
+        "requirements": [
+          "Lehre als Logistiker EBA oder vergleichbar plus mind. 3 Jahre Lagerlogistik-Erfahrung",
+          "Erfahrung im Reinraumlager (Medtech, Pharma, Elektronik)",
+          "Erfahrung mit Kommissionieren, Verpacken, Verladen",
+          "Microsoft-Office-Kenntnisse",
+          "Arbeit vor Ort in Zürich"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch B2"
+      },
+      "id": "be2d598c7957",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Küchenangestellte/r in gepflegtes Dorfrestaurant am Zürichsee",
+      "titleEs": "Empleado/a de cocina en restaurante de pueblo junto al lago de Zürich",
+      "company": "Seegold Gastro",
+      "location": "Richterswil ZH",
+      "postedAt": "2026-11-10",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4487403682",
+      "summary": "Ayudante de cocina en un restaurante de pueblo junto al lago; turnos de tarde desde las 18:00.",
+      "description": "Apoyo al equipo de cocina con mise en place y preparación, ayuda durante el servicio, limpieza de equipos y zonas de cocina/almacén, runner para el restaurante vecino y cumplimiento de HACCP. Turnos de tarde, sobre todo de martes a sábado; domingos completos posibles. Pago por horas.",
+      "requirements": [
+        "Algo de experiencia profesional en cocina",
+        "Pasión por la hostelería, resistencia y autonomía",
+        "Buen alemán",
+        "Permiso de trabajo suizo válido",
+        "Vivir cerca es una ventaja"
+      ],
+      "workload": "50–80 %",
+      "employmentType": "Por horas",
+      "language": "Alemán",
+      "de": {
+        "title": "Küchenangestellte/r in gepflegtes Dorfrestaurant am Zürichsee",
+        "summary": "Küchenangestellte/r in einem Dorfrestaurant am Zürichsee; Abenddienste ab 18:00 Uhr.",
+        "description": "Unterstützung des Küchenteams bei Mise en place und Vorbereitung, Hilfe im Service, Reinigung von Geräten sowie Küchen-, Produktions- und Lagerbereichen, Runner für das Nachbarrestaurant, HACCP einhalten. Abenddienste, hauptsächlich Dienstag bis Samstag, ganze Sonntage möglich. Stundenlohn.",
+        "requirements": [
+          "Etwas Küchenerfahrung",
+          "Leidenschaft für die Gastronomie, belastbar und selbständig",
+          "Gute Deutschkenntnisse",
+          "Gültige Schweizer Arbeitsbewilligung",
+          "Wohnort in der Nähe von Vorteil"
+        ],
+        "workload": "50–80 %",
+        "employmentType": "Stundenlohn",
+        "language": "Deutsch"
+      },
+      "id": "a045e4ab032a",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Produktionsmitarbeiter:in Reisküche",
+      "titleEs": "Empleado/a de producción cocina de arroz",
+      "company": "Two Spice",
+      "location": "Zürich",
+      "postedAt": "2026-11-10",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4487988672",
+      "summary": "Producción de platos de arroz en Yooji's Manufaktur (Two Spice) con turnos de noche permanentes; alemán A2.",
+      "description": "Producir y entregar productos de arroz a tiempo según la demanda diaria, seguir recetas y asegurar la calidad, controlar la higiene en su área, comunicar defectos de calidad y realizar tareas de limpieza. Inicio 01.11.2026.",
+      "requirements": [
+        "Experiencia en producción de alimentos, envasado o picking (ventaja)",
+        "Conocimientos HACCP (ventaja)",
+        "Disponibilidad para turnos de noche permanentes, fines de semana y festivos",
+        "Resistencia física (trabajo de pie, levantar peso)",
+        "Alemán A2"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán A2 (inglés ventajoso)",
+      "de": {
+        "title": "Produktionsmitarbeiter:in Reisküche",
+        "summary": "Produktion von Reisgerichten in der Yooji's Manufaktur (Two Spice) mit festen Nachtschichten; Deutsch A2.",
+        "description": "Reisprodukte termingerecht produzieren und liefern, Küchenprodukte nach Tagesbedarf herstellen, Rezepte und Qualität einhalten, Hygiene im Bereich kontrollieren, Qualitätsmängel melden, Reinigungs- und Aufräumarbeiten. Start 01.11.2026.",
+        "requirements": [
+          "Erfahrung in Lebensmittelproduktion, Verpackung oder Kommissionierung von Vorteil",
+          "HACCP-Kenntnisse von Vorteil",
+          "Bereitschaft für permanente Nachtschichten, Wochenenden und Feiertage",
+          "Körperliche Belastbarkeit",
+          "Deutsch A2"
+        ],
+        "workload": "100 %",
+        "employmentType": "Unbefristet",
+        "language": "Deutsch A2 (Englisch von Vorteil)"
+      },
+      "id": "221fffc1ac0d",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
       "searchId": "lager",
       "title": "Kommissioniererin / Kommissionierer 80-100%",
       "company": "COOP",
@@ -210,6 +655,534 @@
         "employmentType": "Festanstellung",
         "language": "Gute Deutschkenntnisse"
       }
+    },
+    {
+      "searchId": "frontend-react",
+      "title": "Webentwickler:in Fullstack (w/m/d, 100%)",
+      "titleEs": "Desarrollador/a web Fullstack",
+      "company": "Escola GmbH",
+      "location": "Zürich",
+      "postedAt": "2026-11-09",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4487140675",
+      "summary": "Desarrollo de módulos y funcionalidades para escuelas con PHP en backend y Vue.js/TypeScript en frontend.",
+      "description": "Desarrollo de módulos y funcionalidades para escuelas con PHP en backend y Vue.js/TypeScript en frontend.",
+      "requirements": [
+        "Experiencia en desarrollo web fullstack",
+        "Manejo de Docker, Unix y scripting",
+        "Buena comunicación con diseño y gestión"
+      ],
+      "workload": "100 %",
+      "language": "Alemán (oferta en alemán)",
+      "de": {
+        "title": "Webentwickler:in Fullstack (w/m/d, 100%)",
+        "summary": "Entwicklung neuer Module und Features für Schulen mit PHP im Backend sowie Vue.js und TypeScript im Frontend.",
+        "description": "Entwicklung neuer Module und Features für Schulen mit PHP im Backend sowie Vue.js und TypeScript im Frontend.",
+        "requirements": [
+          "Berufserfahrung als Fullstack-Entwickler:in",
+          "Sicherer Umgang mit Docker, Unix und Scripting",
+          "Gute Kommunikation mit Design und Projektleitung"
+        ],
+        "workload": "100 %",
+        "language": "Deutsch (Inserat auf Deutsch)"
+      },
+      "id": "471303f2dcd7",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Fachmitarbeiter*in Warenlogistik Belad EG, Tag",
+      "titleEs": "Especialista en logística de mercancías (carga, turno de día)",
+      "company": "Migros Zürich",
+      "location": "Zürich",
+      "postedAt": "2026-11-09",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/e857240c-64d4-484b-9bd1-a5ce4dbca071",
+      "summary": "Puesto fijo al 80–100 % en logística de mercancías de Migros Zürich (Zúrich Oeste), turno de día.",
+      "description": "Carga y descarga de camiones, movimiento de mercancías con carretilla elevadora y trabajo de almacén incl. preparación manual de pedidos.",
+      "requirements": [
+        "Formación profesional básica o superior (preferiblemente logística)",
+        "1–2 años de experiencia en logística",
+        "Carnet de conducir B y coche propio, o residencia en la región de Zúrich",
+        "Carnet de carretillero reconocido por la SUVA",
+        "Conocimientos de PC, trabajo en equipo y fiabilidad"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán A2",
+      "de": {
+        "title": "Fachmitarbeiter*in Warenlogistik Belad EG, Tag",
+        "summary": "Festanstellung 80–100 % in der Warenlogistik bei Migros Zürich (Zürich West), Tagschicht.",
+        "description": "Be- und Entladen von LKW, Warenbewegungen mit dem Stapler und Lagerarbeiten inkl. manuelles Kommissionieren.",
+        "requirements": [
+          "Berufliche Grund- oder Weiterbildung (Logistik bevorzugt)",
+          "1–2 Jahre Logistikerfahrung",
+          "Führerschein B und eigenes Auto oder Wohnort im Grossraum Zürich",
+          "SUVA-anerkannter Staplerfahrausweis",
+          "PC-Kenntnisse, Teamfähigkeit, Zuverlässigkeit"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch A2"
+      },
+      "id": "8a5fc1ede705",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Lagermitarbeiter",
+      "titleEs": "Mozo de almacén",
+      "company": "Randstad",
+      "location": "Zürich",
+      "postedAt": "2026-11-09",
+      "source": "Randstad",
+      "url": "https://www.randstad.com/jobs/lagermitarbeiter_zurich_47731709",
+      "summary": "Puesto temporal de mozo de almacén al 60–100 % en Zúrich a través de Randstad (cliente no indicado).",
+      "description": "Carga y descarga de camiones, preparación de pedidos, reposición y transporte interno, trabajo en estanterías, cumplimiento de normas de seguridad, preparación de envíos (embalaje, etiquetado, documentación).",
+      "requirements": [
+        "Alemán mínimo B1",
+        "Motivación, fiabilidad y buena condición física",
+        "Experiencia en almacén o logística",
+        "Capacidad para levantar 15–30 kg",
+        "Residir en el cantón de Zúrich",
+        "Carnet de carretillero, una ventaja"
+      ],
+      "workload": "60–100 %",
+      "employmentType": "Temporal",
+      "language": "Alemán mínimo B1",
+      "de": {
+        "title": "Lagermitarbeiter",
+        "summary": "Temporäre Stelle als Lagermitarbeiter 60–100 % in Zürich über Randstad (Kunde nicht genannt).",
+        "description": "Be- und Entladen von LKW, Kommissionieren, interner Nachschub, Transport und Regalarbeiten, Einhaltung von Sicherheitsvorschriften, Versandvorbereitung (Verpacken, Etikettieren, Dokumentation).",
+        "requirements": [
+          "Deutsch mind. B1",
+          "Motiviert, zuverlässig, körperlich fit",
+          "Erfahrung in Lager oder Logistik",
+          "Heben von 15–30 kg",
+          "Wohnsitz im Kanton Zürich",
+          "Staplerschein von Vorteil"
+        ],
+        "workload": "60–100 %",
+        "employmentType": "Temporär",
+        "language": "Deutsch mind. B1"
+      },
+      "id": "b7ba81ef0d52",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Mitarbeiter*in Take Away",
+      "titleEs": "Empleado/a de Take Away",
+      "company": "Migros Zürich (Migros Restaurant und Take Away Altstetten)",
+      "location": "Zürich (Altstetten)",
+      "postedAt": "2026-11-09",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/f5ba506d-fc44-4a12-9011-6fe442f8c4cc",
+      "summary": "Puesto en Take Away y restaurante Migros de Altstetten: atención, caja, buffets y mise en place; alemán A2.",
+      "description": "Atención al cliente y venta activa, manejo de caja, gestión de buffets y vitrinas, mise en place y preparación de bebidas y comida, cumpliendo los estándares de calidad de Migros Zürich.",
+      "requirements": [
+        "Formación básica o continua en gastronomía",
+        "1–2 años de experiencia en gastronomía, hostelería o comercio",
+        "Algo de experiencia en restauración de sistema",
+        "Disponibilidad flexible de lunes a sábado, turnos de mañana y tarde",
+        "Alemán A2"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán A2",
+      "de": {
+        "title": "Mitarbeiter*in Take Away",
+        "summary": "Mitarbeit im Migros Restaurant und Take Away Altstetten: Kundenservice, Kasse, Buffets und Mise en place; Deutsch A2.",
+        "description": "Kundenservice und aktiver Verkauf, Kassenbedienung, Betreuung von Buffets und Vitrinen, Mise en place sowie Zubereiten von Getränken und Speisen nach GMZ-Qualitätsstandards.",
+        "requirements": [
+          "Grund- oder Weiterbildung in der Gastronomie",
+          "1–2 Jahre Erfahrung in Gastronomie, Hotellerie oder Detailhandel",
+          "Erfahrung in Systemgastronomie von Vorteil",
+          "Flexible Verfügbarkeit Montag bis Samstag, Früh- und Spätdienst",
+          "Deutsch A2"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch A2"
+      },
+      "id": "c51c954a0b74",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Fachperson Hauswirtschaft, Standort Klus Park, befristet bis Ende November 2027",
+      "titleEs": "Especialista en economía doméstica, Klus Park (temporal hasta nov. 2027)",
+      "company": "Stadt Zürich Gesundheitszentren für das Alter",
+      "location": "Zürich (Hirslanden)",
+      "postedAt": "2026-11-09",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/2e26ff37-705a-4f0f-9d56-1d93a21c6ea4",
+      "summary": "Limpieza de habitaciones y lavandería en un centro de mayores de la ciudad de Zürich; requiere formación EFZ en Hauswirtschaft.",
+      "description": "Limpiar autónomamente las habitaciones asignadas, cuidar y procesar la ropa de trabajo y de residentes, instruir al personal de limpieza y lavandería, apoyar a la responsable del grupo y formar a nuevos empleados y aprendices. Inicio inmediato o a convenir.",
+      "requirements": [
+        "Formación completada como Fachperson Hauswirtschaft EFZ",
+        "Buen alemán hablado y escrito, conocimientos básicos de informática",
+        "Orientación al servicio y calidad",
+        "Disponibilidad fines de semana y festivos (horario diurno)"
+      ],
+      "workload": "80 %",
+      "employmentType": "Temporal hasta noviembre de 2027",
+      "language": "Alemán",
+      "de": {
+        "title": "Fachperson Hauswirtschaft, Standort Klus Park, befristet bis Ende November 2027",
+        "summary": "Zimmerreinigung und Wäschebearbeitung in einem Gesundheitszentrum für das Alter; Ausbildung Fachperson Hauswirtschaft EFZ erforderlich.",
+        "description": "Selbständiges Reinigen der zugeteilten Zimmer, Pflege und Bearbeitung von Betriebs-, Berufs- und Bewohnerwäsche, Instruktion von Reinigungs- und Wäschereipersonal, Unterstützung der Gruppenleiterin, Einarbeitung neuer Mitarbeitender und Lernender. Eintritt ab sofort oder nach Vereinbarung.",
+        "requirements": [
+          "Abgeschlossene Ausbildung Fachperson Hauswirtschaft EFZ",
+          "Gute Deutschkenntnisse mündlich und schriftlich, PC-Grundkenntnisse",
+          "Serviceorientierung und hohe Qualitätsansprüche",
+          "Bereitschaft für Wochenend- und Feiertagsdienste (Tagesdienst)"
+        ],
+        "workload": "80 %",
+        "employmentType": "Befristet bis Ende November 2027",
+        "language": "Deutsch",
+        "salary": "CHF 64'070–85'610 pro Jahr (100 %)"
+      },
+      "salary": "CHF 64'070–85'610 al año (100 %)",
+      "id": "c4372e5c5837",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Fachperson Hauswirtschaft EFZ, Standort Witikon, 100 %",
+      "titleEs": "Especialista en economía doméstica EFZ, Witikon, 100 %",
+      "company": "Stadt Zürich Gesundheitszentren für das Alter",
+      "location": "Zürich (Witikon)",
+      "postedAt": "2026-11-09",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4486232765",
+      "summary": "Limpieza de habitaciones y lavandería en el Gesundheitszentrum Witikon; requiere formación EFZ.",
+      "description": "Limpiar habitaciones asignadas según planificación, procesar ropa de trabajo y de residentes, instruir a personal de limpieza, apoyar a la responsable de Housekeeping y formar a nuevos empleados y aprendices. Inicio 1 de enero de 2027 o a convenir.",
+      "requirements": [
+        "Formación completada como Fachperson Hauswirtschaft EFZ",
+        "Buen alemán hablado y escrito, informática básica",
+        "Orientación al servicio",
+        "Disponibilidad fines de semana y festivos (solo horario diurno)"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán",
+      "de": {
+        "title": "Fachperson Hauswirtschaft EFZ, Standort Witikon, 100 %",
+        "summary": "Zimmerreinigung und Wäschebearbeitung im Gesundheitszentrum Witikon; Ausbildung EFZ erforderlich.",
+        "description": "Selbständiges Reinigen zugeteilter Zimmer nach Plan, Bearbeitung von Betriebs- und Bewohnerwäsche, Instruktion von Reinigungspersonal, Unterstützung der Leitung Hauswirtschaft, Einarbeitung neuer Mitarbeitender und Lernender. Eintritt 1. Januar 2027 oder nach Vereinbarung.",
+        "requirements": [
+          "Abgeschlossene Ausbildung Fachperson Hauswirtschaft EFZ",
+          "Gute Deutschkenntnisse, PC-Grundkenntnisse",
+          "Serviceorientierung",
+          "Bereitschaft für Wochenend- und Feiertagsdienste (nur Tagdienst)"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch",
+        "salary": "CHF 64'070–85'610 pro Jahr"
+      },
+      "salary": "CHF 64'070–85'610 al año",
+      "id": "65d2073bba54",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Mitarbeiter/in Wäscherei Stundenlohn",
+      "titleEs": "Empleado/a de lavandería por horas",
+      "company": "TICK AG",
+      "location": "Dietlikon",
+      "postedAt": "2026-11-09",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/d525d73a-763e-4a1c-abfb-0f7b0a37a350",
+      "summary": "Lavandería industrial en Dietlikon (ropa de trabajo y de hostelería): clasificar, lavar, planchar y empaquetar; CHF 22/hora.",
+      "description": "Clasificar y lavar ropa sucia (ropa interior, de trabajo, lencería de hostelería), planchar y doblar, contar piezas en el ordenador, empaquetar y almacenar. Inicio en enero o a convenir.",
+      "requirements": [
+        "1–2 años de experiencia en lavandería (preferible, no obligatorio)",
+        "Alemán hablado y escrito",
+        "Rápido y capaz de trabajar bajo presión",
+        "Buena condición física",
+        "Preciso, autónomo, puntual y fiable"
+      ],
+      "workload": "20–60 % (el encabezado indica 10–60 %)",
+      "employmentType": "Por horas",
+      "language": "Alemán avanzado",
+      "de": {
+        "title": "Mitarbeiter/in Wäscherei Stundenlohn",
+        "summary": "Wäscherei in Dietlikon (Berufs- und Gastronomiewäsche): Sortieren, Waschen, Bügeln und Verpacken; CHF 22/Std.",
+        "description": "Sortieren und Waschen schmutziger Wäsche (Unterwäsche, Berufskleidung, Hotellerie-Wäsche), Bügeln und Falten, Stückzahlen am Computer prüfen, Verpacken und Einlagern. Eintritt per Januar oder nach Vereinbarung.",
+        "requirements": [
+          "1–2 Jahre Wäschereierfahrung (von Vorteil, nicht zwingend)",
+          "Deutsch mündlich und schriftlich",
+          "Schnelles Arbeiten, belastbar unter Zeitdruck",
+          "Körperlich fit",
+          "Genau, selbständig, pünktlich und zuverlässig"
+        ],
+        "workload": "20–60 % (Kopfzeile: 10–60 %)",
+        "employmentType": "Stundenlohn",
+        "language": "Deutsch fortgeschritten",
+        "salary": "CHF 22 pro Stunde"
+      },
+      "salary": "CHF 22 por hora",
+      "id": "6914925339cc",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Mitarbeiter:in Lager / Logistiker:in",
+      "titleEs": "Mozo de almacén / Logístico/a",
+      "company": "Zweifel Weine & Getränke AG",
+      "location": "Volketswil",
+      "postedAt": "2026-11-08",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/dea504d9-0841-47e8-b8df-15e3b4d1db54",
+      "summary": "Puesto fijo al 100 % en almacén de bebidas en Volketswil: preparación de pedidos, carga y descarga, gestión de envases retornables.",
+      "description": "Preparación de pedidos de bebidas, gestión del almacén y control de entradas y salidas, carga y descarga de camiones, recogida y clasificación de envases retornables, ayuda en inventarios y trabajos generales de almacén y limpieza. Turno de 11:00 a 22:00.",
+      "requirements": [
+        "Experiencia en logística (Logistiker EFZ es una ventaja; comercio de bebidas, una ventaja)",
+        "Carnet de carretillero (Staplerausweis)",
+        "Buen alemán hablado y escrito",
+        "Buena condición física, flexibilidad horaria"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán fluido",
+      "de": {
+        "title": "Mitarbeiter:in Lager / Logistiker:in",
+        "summary": "Festanstellung 100 % im Getränkelager in Volketswil: Kommissionieren, Verladen und Leergutrücknahme.",
+        "description": "Kommissionierung des Getränkesortiments, Lagerbewirtschaftung und Kontrolle von Wareneingang/-ausgang, Be- und Entladen von LKW, Rücknahme und Sortierung von Leergut, Mithilfe bei Inventuren sowie allgemeine Lager- und Reinigungsarbeiten. Schichtarbeit von 11:00 bis 22:00 Uhr.",
+        "requirements": [
+          "Logistikerfahrung (Logistiker EFZ von Vorteil, Getränkehandel von Vorteil)",
+          "Staplerausweis",
+          "Gutes Deutsch in Wort und Schrift",
+          "Gute körperliche Verfassung, zeitliche Flexibilität"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch fliessend"
+      },
+      "id": "24c7b4b2a4f4",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Lagerist:in",
+      "titleEs": "Almacenista (Lagerist/a)",
+      "company": "Livique",
+      "location": "Zürich",
+      "postedAt": "2026-11-08",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/4479655549",
+      "summary": "Almacenista fijo al 80–100 % en Livique (Zúrich): recepción de mercancías, almacenaje y preparación de pedidos.",
+      "description": "Gestión de la entrada de mercancías, descarga de contenedores, desembalaje con recuento y control de calidad, almacenaje y preparación de pedidos, y apoyo en ventas.",
+      "requirements": [
+        "Experiencia en logística (una ventaja)",
+        "Conocimiento del sector",
+        "Carnet de carretillero (Staplerschein)",
+        "Buen alemán",
+        "Flexibilidad horaria y gusto por el trabajo en equipo"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Contrato indefinido",
+      "language": "Alemán bueno",
+      "de": {
+        "title": "Lagerist:in",
+        "summary": "Unbefristete Stelle als Lagerist:in 80–100 % bei Livique in Zürich: Wareneingang, Lagerung und Kommissionierung.",
+        "description": "Wareneingang bearbeiten, Container entladen, Waren auspacken sowie zählen und auf Qualität prüfen, Einlagern und Bestellungen kommissionieren, Unterstützung im Verkauf.",
+        "requirements": [
+          "Logistikerfahrung von Vorteil",
+          "Branchenkenntnisse",
+          "Staplerschein",
+          "Gute Deutschkenntnisse",
+          "Zeitliche Flexibilität und Freude an Teamarbeit"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Unbefristet",
+        "language": "Gutes Deutsch"
+      },
+      "id": "03c36056754b",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Lager-Mitarbeiter (M/W/D) für unser Hauptlager in Dietikon (100%)",
+      "titleEs": "Mozo de almacén para el almacén principal en Dietikon (100 %)",
+      "company": "K. Lee Trading GmbH",
+      "location": "Dietikon",
+      "postedAt": "2026-11-08",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/4486698125",
+      "summary": "Puesto al 100 % en el almacén principal de Dietikon: recepción y envío de mercancías, preparación de pedidos online y entregas.",
+      "description": "Entrega de mercancías a tiendas YumiHana (Berna, Basilea, Zúrich) y a clientes empresariales, recepción y expedición, gestión general de existencias, descarga de contenedores, eliminación de residuos, preparación, embalaje y envío de pedidos online.",
+      "requirements": [
+        "Carnet de conducir categoría B",
+        "Disponibilidad para turno de mañana desde las 06:00",
+        "Buena condición física",
+        "Experiencia en almacén o logística (deseable)",
+        "Buen alemán hablado y escrito; francés una ventaja"
+      ],
+      "workload": "100 %",
+      "language": "Alemán bueno, francés una ventaja",
+      "de": {
+        "title": "Lager-Mitarbeiter (M/W/D) für unser Hauptlager in Dietikon (100%)",
+        "summary": "100-%-Stelle im Hauptlager in Dietikon: Warenein- und -ausgang, Online-Bestellungen und Auslieferungen.",
+        "description": "Auslieferung von Waren an YumiHana-Filialen (Bern, Basel, Zürich) und Geschäftskunden, Warenannahme und -versand, allgemeine Lagerhaltung, Container entladen, Abfallentsorgung, Kommissionieren, Verpacken und Versenden von Online-Bestellungen.",
+        "requirements": [
+          "Führerschein Kategorie B",
+          "Bereitschaft zu Frühschicht ab 06:00 Uhr",
+          "Gute körperliche Fitness",
+          "Lager- oder Logistikerfahrung ideal",
+          "Gutes Deutsch in Wort und Schrift; Französisch von Vorteil"
+        ],
+        "workload": "100 %",
+        "language": "Gutes Deutsch, Französisch von Vorteil"
+      },
+      "id": "5d721933bc5c",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Reinigungskraft 60-100% im Stundenlohn",
+      "titleEs": "Personal de limpieza 60–100 % (por horas)",
+      "company": "Hiltl",
+      "location": "Zürich",
+      "postedAt": "2026-11-08",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/4486691383",
+      "summary": "Limpieza en el restaurante Hiltl de Zúrich (cocina, zona de lavado, cámaras y oficinas), pago por horas.",
+      "description": "Limpiar la zona de lavado, cocina, cámaras frigoríficas, almacenes y oficinas, respetar normas de higiene y seguridad (HACCP), manejar máquinas de limpieza pequeñas y ayudar a recoger mesas en el servicio cuando haga falta.",
+      "requirements": [
+        "Al menos un año de experiencia en limpieza",
+        "Alemán básico (A2/B1)"
+      ],
+      "workload": "60–100 %",
+      "employmentType": "Pago por horas",
+      "language": "Alemán A2/B1",
+      "de": {
+        "title": "Reinigungskraft 60-100% im Stundenlohn",
+        "summary": "Reinigung im Restaurant Hiltl in Zürich (Küche, Abwaschbereich, Kühlräume, Büros), Stundenlohn.",
+        "description": "Reinigung von Abwaschbereich, Küche, Kühlräumen, Lagerräumen und Büros, Einhaltung von Hygiene- und Sicherheitsstandards (HACCP), Bedienung kleinerer Reinigungsmaschinen, bei Bedarf Tische abräumen im Service.",
+        "requirements": [
+          "Mindestens ein Jahr Reinigungserfahrung",
+          "Grundkenntnisse Deutsch (A2/B1)"
+        ],
+        "workload": "60–100 %",
+        "employmentType": "Stundenlohn",
+        "language": "Deutsch A2/B1"
+      },
+      "id": "7f6f936f7662",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Mitarbeiter Lager und Verkauf befristet bis 30. Juni 2027 w/m/d 100%",
+      "titleEs": "Mozo de almacén y ventas, temporal hasta 30.06.2027",
+      "company": "LANDI Weinland Genossenschaft",
+      "location": "Marthalen",
+      "postedAt": "2026-11-07",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/d1e840bc-0898-472b-963c-5736f91426b2",
+      "summary": "Puesto al 100 % hasta el 30 de junio de 2027 en almacén y ventas en la tienda LANDI de Marthalen (Weinland zuriqués).",
+      "description": "Apoyo en el almacén y la venta, asesoramiento a clientes en la tienda LANDI y presentación atractiva de la mercancía.",
+      "requirements": [
+        "Experiencia en ventas o almacén (una ventaja, no imprescindible)",
+        "Trabajo en equipo y amabilidad",
+        "Flexibilidad y compromiso"
+      ],
+      "workload": "100 %",
+      "employmentType": "Temporal hasta 30.06.2027",
+      "language": "Alemán",
+      "de": {
+        "title": "Mitarbeiter Lager und Verkauf befristet bis 30. Juni 2027 w/m/d 100%",
+        "summary": "100-%-Stelle bis 30. Juni 2027 in Lager und Verkauf im LANDI Laden Marthalen (Zürcher Weinland).",
+        "description": "Unterstützung in Lager und Verkauf, Kundenberatung im LANDI Laden und ansprechende Warenpräsentation.",
+        "requirements": [
+          "Verkaufs- oder Lagererfahrung von Vorteil, nicht zwingend",
+          "Teamfähigkeit und Freundlichkeit",
+          "Flexibilität und Einsatzbereitschaft"
+        ],
+        "workload": "100 %",
+        "employmentType": "Befristet bis 30. Juni 2027",
+        "language": "Deutsch"
+      },
+      "id": "307847c8a651",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Mitarbeiter*in Reinigung & Aufsicht",
+      "titleEs": "Personal de limpieza y supervisión",
+      "company": "Fitnesspark",
+      "location": "Regensdorf",
+      "postedAt": "2026-11-07",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/37773998-8212-426e-a134-a58087df9473",
+      "summary": "Empleo secundario (10–20 %) de limpieza y supervisión en el Fitnesspark de Regensdorf.",
+      "description": "Mantener la instalación limpia e higiénica durante el horario de apertura, controlar las normas de higiene, asesorar a los clientes en el uso de los aparatos, ayudar en la lavandería y prestar primeros auxilios.",
+      "requirements": [
+        "Formación profesional básica o superior (sin especialidad)",
+        "1–3 años de experiencia en un puesto comparable",
+        "Certificado BLS/AED vigente",
+        "Turnos de 7 días y cada segundo fin de semana",
+        "Alemán C1"
+      ],
+      "workload": "10–20 %",
+      "employmentType": "Empleo secundario",
+      "language": "Alemán C1",
+      "de": {
+        "title": "Mitarbeiter*in Reinigung & Aufsicht",
+        "summary": "Nebenerwerb (10–20 %) in Reinigung und Aufsicht im Fitnesspark Regensdorf.",
+        "description": "Anlage während der Öffnungszeiten sauber und hygienisch halten, Hygienestandards kontrollieren, Gäste bei der Gerätenutzung beraten, in der Wäscherei mithelfen, Erste Hilfe leisten.",
+        "requirements": [
+          "Berufliche Grund- oder Weiterbildung (beliebige Richtung)",
+          "1–3 Jahre Erfahrung in vergleichbarer Rolle",
+          "Gültiges BLS/AED-Zertifikat",
+          "7-Tage-Schichten und jedes zweite Wochenende",
+          "Deutsch C1"
+        ],
+        "workload": "10–20 %",
+        "employmentType": "Nebenerwerb",
+        "language": "Deutsch C1"
+      },
+      "id": "9d1fadc6dece",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Mitarbeiter*in Küchenproduktion / Traiteur",
+      "titleEs": "Empleado/a de producción de cocina / Traiteur",
+      "company": "Kubista Gastro GmbH",
+      "location": "Zürich (Binz)",
+      "postedAt": "2026-11-07",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/624f9794-181e-4027-99c8-e7df6311701a",
+      "summary": "Producción de cocina para bocadillos y catering en el centro de producción de Babu's; turnos desde las 06:00.",
+      "description": "Preparar la gama de bocadillos, mise en place para el día siguiente, trabajos generales de producción de cocina y limpieza en producción, respetando higiene y seguridad. Lunes a domingo, aprox. 06:00–15:00 según planificación.",
+      "requirements": [
+        "Experiencia previa en cocina o producción",
+        "Trabajo preciso, limpio y eficiente",
+        "Fiable y flexible",
+        "Alemán o inglés; carnet B deseable"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán (inglés ventajoso)",
+      "de": {
+        "title": "Mitarbeiter*in Küchenproduktion / Traiteur",
+        "summary": "Küchenproduktion für Sandwiches und Traiteur im Produktionsbetrieb von Babu's; Schichten ab ca. 06:00 Uhr.",
+        "description": "Zubereiten des Sandwich-Sortiments, Mise en place für den Folgetag, allgemeine Küchenproduktion und Reinigung in der Produktion, Einhaltung von Hygiene und Arbeitssicherheit. Montag bis Sonntag, ca. 06:00–15:00 Uhr je nach Produktionsplanung.",
+        "requirements": [
+          "Vorkenntnisse in Küche oder Produktion",
+          "Genaue, saubere und effiziente Arbeitsweise",
+          "Zuverlässig und flexibel",
+          "Deutsch oder Englisch; Führerschein B ideal"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch (Englisch von Vorteil)"
+      },
+      "id": "101577d7f298",
+      "foundAt": "2026-11-12T11:44:58.393Z"
     },
     {
       "searchId": "hotel",
@@ -315,6 +1288,343 @@
         ],
         "language": "Deutsch A2 oder Englisch B1"
       }
+    },
+    {
+      "searchId": "lager",
+      "title": "Kommissionierer Frische- und Kühllager 100% (m/w/d)",
+      "titleEs": "Preparador/a de pedidos en almacén de frescos y frío (100 %)",
+      "company": "Randstad",
+      "location": "Dietlikon",
+      "postedAt": "2026-11-06",
+      "source": "Randstad",
+      "url": "https://www.randstad.com/jobs/kommissionierer-frische-und-kuhllager-100-mwd_dietlikon_47721105",
+      "summary": "Puesto temporal al 100 % de preparador de pedidos en almacén refrigerado en Dietlikon (cliente no indicado).",
+      "description": "Preparar pedidos de alimentos en cámara fría (-5 a +3 °C) con auriculares de voz y escáner, asegurar y preparar palés para tiendas, apoyar otros departamentos logísticos y cumplir normas de seguridad, higiene y cadena de frío.",
+      "requirements": [
+        "Buena resistencia física y tolerancia al frío",
+        "Turnos de lunes a viernes desde ~06:30 hasta ~15:30–17:30 y sábados 2–3 veces al mes",
+        "Coche propio, una ventaja",
+        "Alemán mínimo B1 (necesario para voice picking)"
+      ],
+      "workload": "100 %",
+      "employmentType": "Temporal",
+      "language": "Alemán mínimo B1",
+      "de": {
+        "title": "Kommissionierer Frische- und Kühllager 100% (m/w/d)",
+        "summary": "Temporäre 100-%-Stelle als Kommissionierer im Frische- und Kühllager in Dietlikon (Kunde nicht genannt).",
+        "description": "Kundenaufträge für Lebensmittel im Kühllager (-5 bis +3 °C) mit Voice-Picking und Handscanner kommissionieren, Paletten sichern und bereitstellen, andere Logistikbereiche unterstützen, Sicherheits-, Hygiene- und Kühlkettenvorgaben einhalten.",
+        "requirements": [
+          "Gute Belastbarkeit und Kälteverträglichkeit",
+          "Schichten Mo–Fr ab ca. 06:30 bis ca. 15:30–17:30 und 2–3 Samstage pro Monat",
+          "Eigenes Auto von Vorteil",
+          "Deutsch mind. B1 (für Voice-Picking)"
+        ],
+        "workload": "100 %",
+        "employmentType": "Temporär",
+        "language": "Deutsch mind. B1"
+      },
+      "id": "dba7a69f88d6",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Lagerist 100% (m/w/d)",
+      "titleEs": "Almacenista / preparador/a de pedidos (100 %)",
+      "company": "Randstad",
+      "location": "Zürich",
+      "postedAt": "2026-11-06",
+      "source": "Randstad",
+      "url": "https://www.randstad.com/jobs/lagerist-100-mwd_zurich_47721051",
+      "summary": "Puesto de almacenista al 100 % en Zúrich a través de Randstad, con perspectiva de larga duración.",
+      "description": "Recibir, controlar y almacenar mercancías, preparar pedidos según listas electrónicas, embalar para envío puntual, apoyar el trabajo general de almacén y expedición y mantener el orden.",
+      "requirements": [
+        "Experiencia previa en almacén (formación en logística, un plus)",
+        "Carnet de carretillero, una ventaja",
+        "Conocimientos básicos de PC",
+        "Buen alemán, resistencia física, trabajo autónomo y en equipo"
+      ],
+      "workload": "100 %",
+      "employmentType": "Temporal / largo plazo",
+      "language": "Alemán bueno",
+      "de": {
+        "title": "Lagerist 100% (m/w/d)",
+        "summary": "Lagerist-Stelle 100 % in Zürich über Randstad mit langfristiger Perspektive.",
+        "description": "Waren annehmen, prüfen und einlagern, Aufträge nach elektronischen Listen kommissionieren, Waren versandgerecht verpacken, allgemeine Lager- und Speditionsarbeiten unterstützen, Ordnung halten.",
+        "requirements": [
+          "Lagererfahrung (Logistiklehre von Vorteil)",
+          "Staplerschein von Vorteil",
+          "Grundkenntnisse am PC",
+          "Gutes Deutsch, körperliche Belastbarkeit, selbständig und teamorientiert"
+        ],
+        "workload": "100 %",
+        "employmentType": "Temporär / langfristiger Einsatz",
+        "language": "Gutes Deutsch"
+      },
+      "id": "3db3ccf63013",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistikhelfer/Allrounder 100% (m/w/d)",
+      "titleEs": "Ayudante de logística / polivalente (100 %)",
+      "company": "Randstad",
+      "location": "Zürich",
+      "postedAt": "2026-11-06",
+      "source": "Randstad",
+      "url": "https://www.randstad.com/jobs/logistikhelfer-allrounder-100-mwd_zurich_47350813",
+      "summary": "Puesto temporal al 100 % de ayudante de logística en la región de Zúrich, con opción a fijo.",
+      "description": "Carga y descarga de vehículos de transporte, transporte de muebles y mercancías, ayuda en el montaje y desmontaje sencillo de muebles y aseguramiento de la carga.",
+      "requirements": [
+        "Buena condición física",
+        "Fiabilidad y flexibilidad",
+        "Buen alemán",
+        "Carnet suizo categoría B, un plus"
+      ],
+      "workload": "100 %",
+      "employmentType": "Temporal (temp to perm)",
+      "language": "Alemán bueno",
+      "de": {
+        "title": "Logistikhelfer/Allrounder 100% (m/w/d)",
+        "summary": "Temporäre 100-%-Stelle als Logistikhelfer/Allrounder in der Region Zürich, Option auf Festanstellung.",
+        "description": "Be- und Entladen von Transportfahrzeugen, Transport von Möbeln und Waren, Mithilfe beim einfachen Auf- und Abbau von Standardmöbeln, Ladungssicherung.",
+        "requirements": [
+          "Körperliche Fitness",
+          "Zuverlässigkeit und Flexibilität",
+          "Gutes Deutsch",
+          "Schweizer Führerschein Kat. B von Vorteil"
+        ],
+        "workload": "100 %",
+        "employmentType": "Temporär (Temp-to-Perm)",
+        "language": "Gutes Deutsch"
+      },
+      "id": "08f4c5adc3bb",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistik-Mitarbeiter in Rümlang 100% (m/w/d)",
+      "titleEs": "Empleado/a de logística en Rümlang (100 %)",
+      "company": "Randstad",
+      "location": "Rümlang",
+      "postedAt": "2026-11-06",
+      "source": "Randstad",
+      "url": "https://www.randstad.com/jobs/logistik-mitarbeiter-in-rumlang-100-mwd_zurich_47721113",
+      "summary": "Puesto temporal con opción a fijo al 100 % en logística en Rümlang (cliente no indicado).",
+      "description": "Carga y descarga de camiones, almacenaje con carretillas, preparación y embalaje de pedidos, control de mercancías entrantes, preparación de envíos y ayuda en inventarios.",
+      "requirements": [
+        "Logistiker EFZ/EBA o varios años de experiencia",
+        "Carnet de carretillero reconocido por la SUVA (obligatorio) con experiencia",
+        "Muy buen alemán hablado y escrito",
+        "Trabajo preciso, consciente de la seguridad y buena condición física"
+      ],
+      "workload": "100 %",
+      "employmentType": "Temporal con opción a fijo",
+      "language": "Alemán muy bueno",
+      "de": {
+        "title": "Logistik-Mitarbeiter in Rümlang 100% (m/w/d)",
+        "summary": "Temporärstelle mit Option auf Festanstellung, 100 % in der Logistik in Rümlang (Kunde nicht genannt).",
+        "description": "Be- und Entladen von LKW, Ein- und Auslagern mit Staplern, Kommissionieren und Verpacken, Kontrolle des Wareneingangs, Bereitstellung von Ausgängen, Mithilfe bei der Inventur.",
+        "requirements": [
+          "Lehre als Logistiker EFZ/EBA oder mehrjährige Erfahrung",
+          "SUVA-anerkannter Staplerschein (zwingend) mit Erfahrung",
+          "Sehr gutes Deutsch in Wort und Schrift",
+          "Selbständig, präzise, sicherheitsbewusst, körperlich fit"
+        ],
+        "workload": "100 %",
+        "employmentType": "Temporär mit Option auf Festanstellung",
+        "language": "Sehr gutes Deutsch"
+      },
+      "id": "52e5b635f0e7",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Fachperson Reinigung (a), 80-100%",
+      "titleEs": "Especialista en limpieza",
+      "company": "Stiftung Werkheim Uster",
+      "location": "Uster",
+      "postedAt": "2026-11-06",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/8c043bfd-88d0-4189-9a1b-5499d7661d9d",
+      "summary": "Puesto fijo de limpieza al 80–100 % en la fundación Werkheim Uster, con personas con discapacidad cognitiva.",
+      "description": "Limpieza en grupos residenciales (incl. pisos externos) y oficinas, acompañamiento y apoyo a personas con discapacidad cognitiva, cumplimiento de normas de seguridad, higiene y calidad, y gestión autónoma de material y equipos de limpieza.",
+      "requirements": [
+        "Varios años de experiencia en limpieza de mantenimiento o Fachperson Hauswirtschaft EFZ",
+        "Gusto por trabajar con personas con discapacidad cognitiva",
+        "Fiabilidad, cuidado y autonomía",
+        "Buena condición física",
+        "Muy buen alemán",
+        "Carnet de conducir B"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán muy bueno",
+      "de": {
+        "title": "Fachperson Reinigung (a), 80-100%",
+        "summary": "Festanstellung in der Reinigung 80–100 % bei der Stiftung Werkheim Uster, mit Menschen mit kognitiver Beeinträchtigung.",
+        "description": "Reinigung in Wohngruppen (inkl. externe Wohnungen) und Büros, Anleiten und Fördern von Menschen mit kognitiver Beeinträchtigung, Einhaltung der Sicherheits-, Hygiene- und Qualitätsrichtlinien, selbständige Verwaltung von Reinigungsmaterial und -geräten.",
+        "requirements": [
+          "Mehrjährige Erfahrung in Unterhaltsreinigung oder Fachperson Hauswirtschaft EFZ",
+          "Freude an der Arbeit mit Menschen mit kognitiver Beeinträchtigung",
+          "Zuverlässig, sorgfältig, selbständig",
+          "Gute körperliche Fitness",
+          "Sehr gutes Deutsch",
+          "Führerschein Kat. B"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Festanstellung",
+        "language": "Sehr gutes Deutsch"
+      },
+      "id": "4a4e3572561d",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Mitarbeiter:in Reinigung Spezialstationen 70%",
+      "titleEs": "Personal de limpieza de unidades especiales (70 %)",
+      "company": "Spital Bülach AG",
+      "location": "Bülach",
+      "postedAt": "2026-11-06",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/851fc7c5-8b67-4f89-ae03-a77d7baae75f",
+      "summary": "Puesto de limpieza al 70 % en el Spital Bülach: limpieza de mantenimiento, quirófanos y limpieza a fondo.",
+      "description": "Limpieza de mantenimiento de espacios comunes, limpieza del área de quirófanos y limpieza a fondo de todo el hospital, eliminación interna (ropa, basura, residuos especiales, reciclaje) y transporte de carros de ropa de planta.",
+      "requirements": [
+        "Varios años de experiencia en limpieza en el ámbito sanitario",
+        "Trabajo autónomo y fiable",
+        "Horario flexible lunes a viernes de 8:00 a 21:15 y al menos un fin de semana al mes",
+        "Alemán B2"
+      ],
+      "workload": "70 %",
+      "language": "Alemán B2",
+      "de": {
+        "title": "Mitarbeiter:in Reinigung Spezialstationen 70%",
+        "summary": "Reinigungsstelle 70 % im Spital Bülach: Unterhaltsreinigung, OP-Bereich und Grundreinigung.",
+        "description": "Unterhaltsreinigung der Allgemeinräume, Reinigung des OP-Bereichs und Grundreinigung des gesamten Spitals, interne Entsorgung (Wäsche, Kehricht, Spezialabfälle, Recycling), Transport der Stationswäschewagen.",
+        "requirements": [
+          "Mehrjährige Reinigungserfahrung im Gesundheitswesen",
+          "Selbständige und zuverlässige Arbeitsweise",
+          "Flexible Arbeitszeiten Mo–Fr 8:00–21:15 Uhr und mind. ein Wochenende pro Monat",
+          "Deutsch B2"
+        ],
+        "workload": "70 %",
+        "language": "Deutsch B2"
+      },
+      "id": "0b498d57b31a",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Haushalts- und Küchenhilfe",
+      "titleEs": "Ayudante de hogar y cocina",
+      "company": "Stadt Bülach",
+      "location": "Bülach (Hort Lindenhof)",
+      "postedAt": "2026-11-06",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/39be75da-4916-45cd-871c-88056eae0a26",
+      "summary": "Prepara comidas para niños, trabaja en la cocina de lavado de vajilla y limpia en una guardería escolar; sin experiencia obligatoria.",
+      "description": "Preparar comidas para los niños, trabajar en la cocina de lavado de vajilla, tareas de limpieza y apoyo al equipo de cuidado infantil. Horario fijo en semanas escolares, 11:30–14:00 (según el texto, 12,5 h/semana; el encabezado indica 100 %). Inicio el 1 de enero de 2027 o a convenir.",
+      "requirements": [
+        "Experiencia en limpieza ventajosa, no obligatoria",
+        "Personalidad abierta y con humor, gusto por trabajar con niños",
+        "Trabajo autónomo, fiable y estructurado"
+      ],
+      "workload": "Aprox. 12,5 h/semana (el encabezado indica 100 %)",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán",
+      "de": {
+        "title": "Haushalts- und Küchenhilfe",
+        "summary": "Zubereitung von Mahlzeiten für Kinder, Arbeit in der Abwaschküche und Reinigung im Hort; Erfahrung nicht zwingend.",
+        "description": "Zubereiten von Mahlzeiten für die Kinder, Arbeit in der Abwaschküche und Reinigungsarbeiten, Unterstützung des Betreuungsteams. Feste Zeiten in den Schulwochen, 11:30–14:00 (laut Text 12,5 Std./Woche; Kopfzeile nennt 100 %). Eintritt per 1. Januar 2027 oder nach Vereinbarung.",
+        "requirements": [
+          "Reinigungserfahrung von Vorteil, nicht zwingend",
+          "Offene, humorvolle Persönlichkeit, Freude im Umgang mit Kindern",
+          "Selbständige, zuverlässige und strukturierte Arbeitsweise"
+        ],
+        "workload": "Ca. 12,5 Std./Woche (Kopfzeile: 100 %)",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch"
+      },
+      "id": "384f04e4a1fc",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Hilfsköchin/Hilfskoch 100%",
+      "titleEs": "Ayudante de cocina 100 %",
+      "company": "Gesundheitsnetz Küsnacht AG",
+      "location": "Küsnacht",
+      "postedAt": "2026-11-06",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/4564f843-8c05-4617-8375-389351975417",
+      "summary": "Ayudante de cocina en un centro de salud: lavado de vajilla, preparación de comidas y dietas, servicio en las unidades.",
+      "description": "Trabajo en la cocina de lavado, preparación autónoma de comidas y dietas, servir y ayudar en el servicio, colaborar en eventos, banquetes y catering, manejo de aparatos y responsabilidad en seguridad e higiene. Contrato fijo, pero según el texto temporal para cubrir una falta de personal.",
+      "requirements": [
+        "Algunos años de experiencia como ayudante de cocina, preferiblemente en residencias u hospitales",
+        "Orientación al servicio y trabajo en equipo",
+        "Buen alemán",
+        "Disponibilidad fines de semana",
+        "Carnet de conducir obligatorio"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo (según el texto, temporal)",
+      "language": "Alemán",
+      "de": {
+        "title": "Hilfsköchin/Hilfskoch 100%",
+        "summary": "Hilfskoch/-köchin in einem Gesundheitsnetz: Abwaschküche, Zubereiten von Mahlzeiten und Diäten, Service auf den Abteilungen.",
+        "description": "Einsatz in der Abwaschküche, selbständiges Zubereiten von Mahlzeiten und Diäten, Schöpfen und Mitarbeit im Service, Mitarbeit bei Sonderanlässen, Banketten und Caterings, Bedienung von Apparaten, Mitverantwortung für Sicherheit und Hygiene. Festanstellung, laut Text jedoch befristet zur Überbrückung eines Personalengpasses.",
+        "requirements": [
+          "Einige Jahre Berufserfahrung als Hilfskoch, vorzugsweise im Heim- oder Spitalumfeld",
+          "Dienstleistungsorientierung und Teamfähigkeit",
+          "Gute Deutschkenntnisse",
+          "Bereitschaft für Wochenendeinsätze",
+          "Führerausweis zwingend"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung (laut Text befristet)",
+        "language": "Deutsch"
+      },
+      "id": "76f9c00ca464",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Room Attendant 80-100% (all genders)",
+      "titleEs": "Room Attendant (limpieza de habitaciones) 80–100 %",
+      "company": "The Living Circle",
+      "location": "Zürich",
+      "postedAt": "2026-11-06",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4488135280",
+      "summary": "Limpieza y mantenimiento de habitaciones en un grupo hotelero suizo; experiencia deseable pero no obligatoria.",
+      "description": "Limpiar y mantener habitaciones y zonas del hotel y atender solicitudes de huéspedes en el departamento de Housekeeping. Inicio en diciembre o a convenir.",
+      "requirements": [
+        "Trabajo cuidadoso y detallista",
+        "Alemán y/o inglés",
+        "Trabajo en equipo",
+        "Aspecto cuidado y amable",
+        "Experiencia limpiando habitaciones ideal, no obligatoria"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Jornada completa",
+      "language": "Alemán y/o inglés",
+      "de": {
+        "title": "Room Attendant 80-100% (all genders)",
+        "summary": "Reinigung und Pflege von Hotelzimmern in einer Schweizer Hotelgruppe; Erfahrung ideal, nicht zwingend.",
+        "description": "Reinigen und Pflegen von Hotelzimmern und Bereichen sowie Bearbeiten von Gästewünschen im Housekeeping. Eintritt im Dezember oder nach Vereinbarung.",
+        "requirements": [
+          "Sorgfältige, detailgenaue Arbeitsweise",
+          "Deutsch und/oder Englisch",
+          "Teamfähigkeit",
+          "Gepflegtes, freundliches Auftreten",
+          "Erfahrung in der Zimmerreinigung ideal, nicht zwingend"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Vollzeit",
+        "language": "Deutsch und/oder Englisch"
+      },
+      "id": "eed1ce75a572",
+      "foundAt": "2026-11-12T11:44:58.393Z"
     },
     {
       "searchId": "kueche",
@@ -429,6 +1739,82 @@
       },
       "id": "e72fcb377c1f",
       "foundAt": "2026-11-11T16:15:03.750Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistik & Kommissionierung",
+      "titleEs": "Logística y preparación de pedidos",
+      "company": "Randstad",
+      "location": "Winterthur",
+      "postedAt": "2026-11-05",
+      "source": "Randstad",
+      "url": "https://www.randstad.com/jobs/logistik-kommissionierung_winterthur_47714856",
+      "summary": "Vacante de bolsa (pool) temporal al 60–100 % en logística y picking en la zona de Winterthur/Turgovia.",
+      "description": "Preparación de pedidos con escáner de mano, embalaje y preparación de envíos, trabajos generales de almacén, sistemas de gestión de almacén (p. ej. WAMAS) y transpaletas.",
+      "requirements": [
+        "Experiencia en logística, picking o embalaje",
+        "Trabajo físico (hasta unos 25 kg)",
+        "Alemán mínimo B1",
+        "Conocimientos básicos de PC"
+      ],
+      "workload": "60–100 %",
+      "employmentType": "Temporal (bolsa de candidatos)",
+      "language": "Alemán mínimo B1",
+      "de": {
+        "title": "Logistik & Kommissionierung",
+        "summary": "Temporärer Pool-Vakanz 60–100 % in Logistik und Kommissionierung im Raum Winterthur/Thurgau.",
+        "description": "Kommissionieren mit MDE-Gerät, Verpacken und Bereitstellen von Sendungen, allgemeine Lagerarbeiten, Lagerverwaltungssysteme (z. B. WAMAS), Arbeiten mit Hubwagen.",
+        "requirements": [
+          "Erfahrung in Logistik, Kommissionierung oder Verpackung",
+          "Körperliche Arbeit (bis ca. 25 kg)",
+          "Deutsch mind. B1",
+          "Grundkenntnisse am PC"
+        ],
+        "workload": "60–100 %",
+        "employmentType": "Temporär (Pool-Vakanz)",
+        "language": "Deutsch mind. B1"
+      },
+      "id": "979cc4348f88",
+      "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Hilfskoch im Stundenlohn (m/w) - CIRCUS CONELLI (befristet bis 31.12.2026)",
+      "titleEs": "Ayudante de cocina por horas - Circus Conelli (temporal hasta 31.12.2026)",
+      "company": "Candrian Catering",
+      "location": "Zürich (Bahnhofplatz)",
+      "postedAt": "2026-11-05",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/1233349a-89a4-4cd4-8000-d3e1f6761a78",
+      "summary": "Ayudante de cocina por horas en el Circus Conelli de Zürich, contrato temporal hasta el 31.12.2026.",
+      "description": "Apoyar al equipo de cocina y preparar platos, mise en place, tareas de limpieza según normas de higiene y transporte de mercancías.",
+      "requirements": [
+        "Experiencia previa en cocina",
+        "Fiable, rápido, puntual y buen compañero",
+        "Buen alemán",
+        "Aspecto cuidado",
+        "Flexibilidad de turnos"
+      ],
+      "workload": "60–100 %",
+      "employmentType": "Temporal, por horas, hasta 31.12.2026",
+      "language": "Alemán",
+      "de": {
+        "title": "Hilfskoch im Stundenlohn (m/w) - CIRCUS CONELLI (befristet bis 31.12.2026)",
+        "summary": "Hilfskoch im Stundenlohn beim Circus Conelli in Zürich, befristet bis 31.12.2026.",
+        "description": "Unterstützung des Küchenteams und Zubereiten von Gerichten, Mise en place, Reinigungsarbeiten nach Hygienevorschriften und Warentransport.",
+        "requirements": [
+          "Küchenerfahrung",
+          "Zuverlässig, schnell, pünktlich, teamfähig",
+          "Gute Deutschkenntnisse",
+          "Gepflegtes Auftreten",
+          "Flexibilität bei Schichten"
+        ],
+        "workload": "60–100 %",
+        "employmentType": "Befristet, Stundenlohn, bis 31.12.2026",
+        "language": "Deutsch"
+      },
+      "id": "ae5ffc227f5a",
+      "foundAt": "2026-11-12T11:44:58.393Z"
     },
     {
       "searchId": "frontend-react",
