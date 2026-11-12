@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T11:16:40.630Z",
+  "updatedAt": "2026-11-12T11:22:10.296Z",
   "jobs": [
     {
       "searchId": "kueche",
@@ -37,6 +37,43 @@
       },
       "id": "c196e710d9cc",
       "foundAt": "2026-11-12T10:00:08.920Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Mitarbeiter*in Küchenoffice",
+      "titleEs": "Ayudante de office de cocina",
+      "company": "Migros Zürich (Migros Restaurant Rapperswil Sonnenhof)",
+      "location": "Rapperswil",
+      "postedAt": "2026-11-11",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/b53e98fb-7957-4765-8d41-b7ea53bacce1",
+      "summary": "Puesto temporal al 80 % en el office de cocina de un restaurante Migros: limpieza, lavado de vajilla y apoyo en cocina.",
+      "description": "Limpieza según normas de higiene HACCP, lavado y distribución de vajilla y cubertería, ayuda en la recepción de mercancías, mise en place y apoyo general en cocina, y apoyo en el control de inventario.",
+      "requirements": [
+        "Formación profesional básica o superior",
+        "Al menos 1 año de experiencia en un puesto similar",
+        "Disponibilidad flexible de lunes a sábado, turnos de mañana y tarde",
+        "Alemán A2"
+      ],
+      "workload": "80 %",
+      "employmentType": "Temporal",
+      "language": "Alemán A2",
+      "de": {
+        "title": "Mitarbeiter*in Küchenoffice",
+        "summary": "Befristete Stelle zu 80 % im Küchenoffice eines Migros-Restaurants: Reinigung, Geschirrspülen und Küchenunterstützung.",
+        "description": "Reinigung nach HACCP-Hygienerichtlinien, Geschirr und Besteck waschen und verteilen, Mithilfe bei der Warenannahme, Mise en place und allgemeine Küchenunterstützung sowie Mithilfe bei der Inventur.",
+        "requirements": [
+          "Berufliche Grund- oder Weiterbildung",
+          "Mindestens 1 Jahr Erfahrung in ähnlicher Position",
+          "Flexible Einsatzbereitschaft Montag bis Samstag in verschiedenen Schichten",
+          "Deutsch A2"
+        ],
+        "workload": "80 %",
+        "employmentType": "Temporär",
+        "language": "Deutsch A2"
+      },
+      "id": "c3501334271b",
+      "foundAt": "2026-11-12T11:22:10.296Z"
     },
     {
       "searchId": "reinigung-flughafen",
