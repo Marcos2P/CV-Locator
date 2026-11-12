@@ -2,8 +2,10 @@
 /**
  * Fusiona las ofertas nuevas de la búsqueda diaria con public/data/jobs.json.
  *
- *   node scripts/update-jobs.mjs <candidatas.json>
+ *   node scripts/update-jobs.mjs <candidatas.json> <cobertura.json>
  *
+ * - Comprueba que la cobertura incluye TODAS las webs y empresas de cada búsqueda activa
+ *   (ver coverage.mjs). Si falta algo, no guarda nada y termina con error.
  * - Valida los campos obligatorios de cada oferta.
  * - Genera un id estable a partir de la URL (misma oferta = mismo id).
  * - Ignora duplicados (misma URL, o mismo título + empresa).
@@ -14,16 +16,19 @@ import { createHash } from 'node:crypto'
 import { readFileSync, writeFileSync } from 'node:fs'
 import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
+import { validateCoverage } from './coverage.mjs'
 
 const MAX_AGE_DAYS = 7
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..')
 const JOBS_PATH = join(ROOT, 'public/data/jobs.json')
 const SEARCHES_PATH = join(ROOT, 'public/data/searches.json')
+const COVERAGE_PATH = join(ROOT, 'public/data/coverage.json')
 const REQUIRED = ['searchId', 'title', 'company', 'location', 'postedAt', 'source', 'url', 'summary']
 
-const candidatesPath = process.argv[2]
-if (!candidatesPath) {
-  console.error('Uso: node scripts/update-jobs.mjs <candidatas.json>')
+const [candidatesPath, coveragePath] = process.argv.slice(2)
+if (!candidatesPath || !coveragePath) {
+  console.error('Uso: node scripts/update-jobs.mjs <candidatas.json> <cobertura.json>')
+  console.error('Crea la cobertura con: node scripts/coverage-template.mjs > /tmp/cobertura.json')
   process.exit(1)
 }
 
@@ -50,8 +55,18 @@ function ageInDays(dateStr, now) {
 
 const now = new Date()
 const current = readJson(JOBS_PATH)
-const searchIds = new Set(readJson(SEARCHES_PATH).map((s) => s.id))
+const searches = readJson(SEARCHES_PATH)
+const searchIds = new Set(searches.map((s) => s.id))
 const candidates = readJson(candidatesPath)
+const coverage = readJson(coveragePath)
+
+// 0. Cobertura: sin revisar todas las webs y empresas, no se guarda nada.
+const missing = validateCoverage(coverage, searches)
+if (missing.length) {
+  console.error(`COBERTURA INCOMPLETA (${missing.length}). No se ha guardado nada. Revisa y completa:`)
+  console.error(`  - ${missing.join('\n  - ')}`)
+  process.exit(1)
+}
 
 if (!Array.isArray(candidates)) {
   console.error('El archivo de candidatas debe ser un array JSON de ofertas.')
@@ -108,6 +123,8 @@ const jobs = [...byId.values()].sort(
   (a, b) => b.postedAt.localeCompare(a.postedAt) || b.foundAt.localeCompare(a.foundAt),
 )
 writeFileSync(JOBS_PATH, JSON.stringify({ updatedAt: now.toISOString(), jobs }, null, 2) + '\n')
+// La cobertura se publica también: así se puede comprobar qué se revisó en cada ejecución.
+writeFileSync(COVERAGE_PATH, JSON.stringify({ updatedAt: now.toISOString(), ...coverage }, null, 2) + '\n')
 
 console.log(
   `Añadidas: ${report.added} · Duplicadas: ${report.duplicate} · ` +
