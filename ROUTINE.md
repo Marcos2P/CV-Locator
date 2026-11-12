@@ -1,7 +1,17 @@
 # Búsqueda diaria de ofertas (instrucciones para Claude)
 
-Instrucciones **obligatorias** de la tarea programada (cada día a las 8:00, Europe/Zurich, o con "Run now").
-Sigue los pasos **en orden y sin saltarte ninguno**. Si cambias algo de cómo se busca, cambia este archivo.
+Instrucciones **obligatorias** de las tareas programadas. Sigue los pasos **en orden y sin saltarte ninguno**.
+Si cambias algo de cómo se busca, cambia este archivo.
+
+Hay **dos tareas**, y cada una se ocupa solo de **su grupo** de búsquedas (campo `group` en `searches.json`).
+El mensaje de la tarea te dice cuál es tu **GRUPO**:
+
+| Tarea | GRUPO | Hora (Europe/Zurich) | Búsquedas |
+|---|---|---|---|
+| Cv-Locator · IT | `it` | 7:00 | frontend-react, fullstack-ts, qa-test, junior-it |
+| Cv-Locator · general | `general` | 8:00 | lager, reinigung-flughafen, kueche, hotel |
+
+En todos los comandos de abajo, sustituye `<GRUPO>` por `it` o `general`.
 
 > ⚠️ **No hay atajos.** Hay que revisar **todas** las webs y **todas** las empresas de **todas** las búsquedas
 > activas. El script final **rechaza guardar** si falta alguna en el registro de cobertura. Una búsqueda
@@ -9,13 +19,13 @@ Sigue los pasos **en orden y sin saltarte ninguno**. Si cambias algo de cómo se
 
 ## Paso 1 · Preparar
 
-1. Lee `public/data/searches.json`. Solo cuentan las búsquedas con `"active": true`.
+1. Lee `public/data/searches.json`. Solo cuentan las búsquedas **de tu GRUPO** con `"active": true`.
    (`labels` es solo el nombre que enseña la app; para buscar usa `title` y `keywords`.)
 2. Lee `public/data/jobs.json` para saber qué ofertas ya están guardadas.
 3. Crea la plantilla de cobertura, que lista **todo** lo que tienes que revisar:
 
    ```bash
-   node scripts/coverage-template.mjs > /tmp/cobertura.json
+   node scripts/coverage-template.mjs <GRUPO> > /tmp/cobertura.json
    ```
 
    Ábrela: cada búsqueda tiene sus **webs** (`sources`; si una búsqueda no tiene `sources`, los portales por
@@ -34,13 +44,19 @@ viejos que ya dan 404/410).
   Puedes agruparlas si la web lo permite, pero ninguna se queda sin buscar en al menos una web.
 - **Zonas (`areas`):** solo valen ofertas **dentro de alguna zona** (lugar ± radio). Busca por el lugar de cada
   zona y también por las localidades de dentro, porque algunas webs solo muestran la ciudad exacta:
-  - **Zürich + 20 km:** Zürich, Kloten, Flughafen Zürich, Opfikon, Wallisellen, Dübendorf, Schlieren, Dietikon,
-    Regensdorf, Uster, Volketswil, Adliswil, Thalwil, Bülach.
+  - **Zürich + 20 km** (grupo general): Zürich, Kloten, Flughafen Zürich, Opfikon, Wallisellen, Dübendorf, Schlieren,
+    Dietikon, Regensdorf, Uster, Volketswil, Adliswil, Thalwil, Bülach.
+  - **Zürich + 40 km** (grupo IT): todo lo anterior y además Zug, Baar, Cham, Baden, Wettingen, Brugg, Lenzburg,
+    Rapperswil-Jona, Pfäffikon SZ, Wädenswil, Horgen, Wetzikon, Schaffhausen, Frauenfeld y Winterthur.
   - **Winterthur + 20 km:** Winterthur, Effretikon, Illnau, Seuzach, Pfäffikon ZH, Elgg, Andelfingen, Frauenfeld.
   - **Remote (Schweiz, CET)** (solo en búsquedas de IT): ofertas 100 % remotas o "remote-first" de empresas
     suizas o que aceptan trabajar desde Suiza / zona horaria CET. En LinkedIn usa el filtro remoto (`&f_WT=2`).
 - **Varias páginas:** revisa al menos las páginas 1 a 3 de resultados (hasta la 5 si siguen saliendo ofertas
-  de los últimos 7 días).
+  recientes).
+- **Grupo IT, más a fondo:** esta tarea tiene la sesión entera solo para IT. En jobs.ch y LinkedIn busca **cada
+  keyword** por separado, en Zürich, Winterthur y remoto, y recorre las páginas mientras salgan ofertas dentro de
+  `maxAgeDays` (en LinkedIn: `&start=0`, `25`, `50`, `75`…). El objetivo es encontrar **todas** las ofertas de
+  desarrollo web de la zona, no solo unas pocas: no hay máximo de ofertas por búsqueda en IT.
 
 Direcciones útiles:
 
@@ -150,17 +166,19 @@ Escríbelas en `/tmp/candidatas.json` como array JSON (`[]` si no hay ninguna):
 ## Paso 5 · Guardar
 
 ```bash
-node scripts/update-jobs.mjs /tmp/candidatas.json /tmp/cobertura.json
+node scripts/update-jobs.mjs /tmp/candidatas.json /tmp/cobertura.json <GRUPO>
 ```
 
 - Si dice **COBERTURA INCOMPLETA**, vuelve al paso 2 y revisa lo que falta. **No sigas hasta que pase.**
 - Si hay ofertas inválidas, corrígelas y vuelve a ejecutarlo.
-- Guarda `jobs.json` (ofertas) y `coverage.json` (qué se revisó). Luego haz commit y push a `main`, aunque no
-  haya ofertas nuevas:
+- Guarda `jobs.json` (ofertas) y `coverage-<GRUPO>.json` (qué se revisó). Luego haz commit y push a `main`,
+  aunque no haya ofertas nuevas. La otra tarea también escribe en `jobs.json`, así que **trae antes los cambios
+  remotos** y, si hay conflicto en `jobs.json`, quédate con la versión remota y vuelve a ejecutar el script:
 
 ```bash
-git add public/data/jobs.json public/data/coverage.json
-git commit -m "data: daily job search YYYY-MM-DD (+N)"
+git add public/data/jobs.json public/data/coverage-<GRUPO>.json
+git commit -m "data: <GRUPO> job search YYYY-MM-DD (+N)"
+git pull --rebase || { git checkout --theirs public/data/jobs.json 2>/dev/null; git rebase --abort; git reset --hard origin/main; node scripts/update-jobs.mjs /tmp/candidatas.json /tmp/cobertura.json <GRUPO> && git add public/data && git commit -m "data: <GRUPO> job search YYYY-MM-DD (+N)"; }
 git push
 ```
 
@@ -174,8 +192,10 @@ Responde en español con:
 
 ## Reglas
 
-- Calidad antes que cantidad: máximo ~15 ofertas nuevas por búsqueda y día.
-- Solo cuentan ofertas en **Zürich o Winterthur y 20 km a la redonda** (ver `areas`).
+- Grupo general: calidad antes que cantidad, máximo ~15 ofertas nuevas por búsqueda y día. Grupo IT: sin máximo.
+- Solo añadas ofertas a búsquedas **de tu GRUPO** (el script rechaza las demás).
+- Solo cuentan ofertas dentro de las `areas` de cada búsqueda (general: Zürich/Winterthur + 20 km;
+  IT: Zürich + 40 km, Winterthur + 20 km y remoto en Suiza).
 - El usuario vive en Sirnach TG y habla español (nativo), inglés (B2) y alemán (A1). Si una oferta exige
   alemán C1 o nativo, inclúyela igualmente pero indícalo en `language`.
-- No modifiques otros archivos del repo (solo `jobs.json` y `coverage.json`).
+- No modifiques otros archivos del repo (solo `jobs.json` y `coverage-<GRUPO>.json`).

@@ -2,7 +2,7 @@
 /**
  * Fusiona las ofertas nuevas de la búsqueda diaria con public/data/jobs.json.
  *
- *   node scripts/update-jobs.mjs <candidatas.json> <cobertura.json>
+ *   node scripts/update-jobs.mjs <candidatas.json> <cobertura.json> <it|general>
  *
  * - Comprueba que la cobertura incluye TODAS las webs y empresas de cada búsqueda activa
  *   (ver coverage.mjs). Si falta algo, no guarda nada y termina con error.
@@ -16,22 +16,22 @@ import { createHash } from 'node:crypto'
 import { readFileSync, writeFileSync } from 'node:fs'
 import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { validateCoverage } from './coverage.mjs'
+import { GROUPS, searchesOf, validateCoverage } from './coverage.mjs'
 
 const DEFAULT_MAX_AGE_DAYS = 7
 const SENIORITIES = new Set(['intern', 'junior', 'mid', 'senior', 'lead'])
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..')
 const JOBS_PATH = join(ROOT, 'public/data/jobs.json')
 const SEARCHES_PATH = join(ROOT, 'public/data/searches.json')
-const COVERAGE_PATH = join(ROOT, 'public/data/coverage.json')
 const REQUIRED = ['searchId', 'title', 'company', 'location', 'postedAt', 'source', 'url', 'summary']
 
-const [candidatesPath, coveragePath] = process.argv.slice(2)
-if (!candidatesPath || !coveragePath) {
-  console.error('Uso: node scripts/update-jobs.mjs <candidatas.json> <cobertura.json>')
-  console.error('Crea la cobertura con: node scripts/coverage-template.mjs > /tmp/cobertura.json')
+const [candidatesPath, coveragePath, group] = process.argv.slice(2)
+if (!candidatesPath || !coveragePath || !GROUPS.includes(group)) {
+  console.error(`Uso: node scripts/update-jobs.mjs <candidatas.json> <cobertura.json> <${GROUPS.join('|')}>`)
+  console.error(`Crea la cobertura con: node scripts/coverage-template.mjs ${group ?? '<grupo>'} > /tmp/cobertura.json`)
   process.exit(1)
 }
+const COVERAGE_PATH = join(ROOT, `public/data/coverage-${group}.json`)
 
 const readJson = (p) => JSON.parse(readFileSync(p, 'utf8'))
 
@@ -57,14 +57,15 @@ function ageInDays(dateStr, now) {
 const now = new Date()
 const current = readJson(JOBS_PATH)
 const searches = readJson(SEARCHES_PATH)
-const searchIds = new Set(searches.map((s) => s.id))
+// Solo se aceptan ofertas de las búsquedas de este grupo
+const searchIds = new Set(searchesOf(searches, group).map((s) => s.id))
 const maxAgeFor = (searchId) =>
   searches.find((s) => s.id === searchId)?.maxAgeDays ?? DEFAULT_MAX_AGE_DAYS
 const candidates = readJson(candidatesPath)
 const coverage = readJson(coveragePath)
 
 // 0. Cobertura: sin revisar todas las webs y empresas, no se guarda nada.
-const missing = validateCoverage(coverage, searches)
+const missing = validateCoverage(coverage, searches, group)
 if (missing.length) {
   console.error(`COBERTURA INCOMPLETA (${missing.length}). No se ha guardado nada. Revisa y completa:`)
   console.error(`  - ${missing.join('\n  - ')}`)
@@ -92,7 +93,7 @@ for (const c of candidates) {
     continue
   }
   if (!searchIds.has(c.searchId)) {
-    report.invalid.push(`${c.title}: searchId desconocido "${c.searchId}"`)
+    report.invalid.push(`${c.title}: searchId "${c.searchId}" no es una búsqueda activa del grupo "${group}"`)
     continue
   }
   if (!/^\d{4}-\d{2}-\d{2}$/.test(c.postedAt)) {

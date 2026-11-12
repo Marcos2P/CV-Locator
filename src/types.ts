@@ -1,6 +1,8 @@
 /** Una búsqueda guardada en public/data/searches.json */
 export interface Search {
   id: string
+  /** Tarea programada que la busca: "it" o "general" */
+  group?: 'it' | 'general'
   /** Puesto que buscas, p. ej. "Frontend Developer" (lo usa la búsqueda diaria) */
   title: string
   /** Nombre que se enseña en la app en cada idioma */

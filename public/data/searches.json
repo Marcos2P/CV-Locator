@@ -1,6 +1,7 @@
 [
   {
     "id": "frontend-react",
+    "group": "it",
     "title": "Frontend Developer",
     "labels": {
       "es": "Frontend",
@@ -22,7 +23,7 @@
     "areas": [
       {
         "place": "Zürich",
-        "radiusKm": 20
+        "radiusKm": 40
       },
       {
         "place": "Winterthur",
@@ -83,6 +84,7 @@
   },
   {
     "id": "fullstack-ts",
+    "group": "it",
     "title": "Full-Stack Developer",
     "labels": {
       "es": "Full-stack / TypeScript",
@@ -103,7 +105,7 @@
     "areas": [
       {
         "place": "Zürich",
-        "radiusKm": 20
+        "radiusKm": 40
       },
       {
         "place": "Winterthur",
@@ -123,10 +125,79 @@
       "Startup-Plattformen (join.com, homerun.co, greenhouse.io, lever.co, ashbyhq.com, personio, recruitee, workable)"
     ],
     "maxAgeDays": 14,
+    "companies": [
+      {
+        "name": "Liip"
+      },
+      {
+        "name": "Unic"
+      },
+      {
+        "name": "Merkle Schweiz"
+      },
+      {
+        "name": "Zühlke"
+      },
+      {
+        "name": "AdNovum"
+      },
+      {
+        "name": "Netcetera"
+      },
+      {
+        "name": "Ergon Informatik"
+      },
+      {
+        "name": "Swisscom"
+      },
+      {
+        "name": "SBB"
+      },
+      {
+        "name": "On"
+      },
+      {
+        "name": "Beekeeper"
+      },
+      {
+        "name": "Scandit"
+      },
+      {
+        "name": "Smallpdf"
+      },
+      {
+        "name": "Yokoy"
+      },
+      {
+        "name": "Sherpany"
+      },
+      {
+        "name": "SMG Swiss Marketplace Group"
+      },
+      {
+        "name": "Ringier"
+      },
+      {
+        "name": "TX Group"
+      },
+      {
+        "name": "Migros-Genossenschafts-Bund (IT)"
+      },
+      {
+        "name": "Zurich Insurance"
+      },
+      {
+        "name": "Swiss Re"
+      },
+      {
+        "name": "UBS"
+      }
+    ],
     "active": true
   },
   {
     "id": "qa-test",
+    "group": "it",
     "title": "QA / Test Automation Engineer",
     "labels": {
       "es": "QA / Testing",
@@ -147,7 +218,7 @@
     "areas": [
       {
         "place": "Zürich",
-        "radiusKm": 20
+        "radiusKm": 40
       },
       {
         "place": "Winterthur",
@@ -171,6 +242,7 @@
   },
   {
     "id": "junior-it",
+    "group": "it",
     "title": "Junior Developer / IT-Einstieg",
     "labels": {
       "es": "Junior / entrada IT",
@@ -192,7 +264,7 @@
     "areas": [
       {
         "place": "Zürich",
-        "radiusKm": 20
+        "radiusKm": 40
       },
       {
         "place": "Winterthur",
@@ -216,6 +288,7 @@
   },
   {
     "id": "lager",
+    "group": "general",
     "title": "Lagermitarbeiter",
     "labels": {
       "es": "Almacén y logística",
@@ -280,6 +353,7 @@
   },
   {
     "id": "reinigung-flughafen",
+    "group": "general",
     "title": "Reinigung",
     "labels": {
       "es": "Limpieza (aeropuerto y general)",
@@ -355,6 +429,7 @@
   },
   {
     "id": "kueche",
+    "group": "general",
     "title": "Küchenhilfe",
     "labels": {
       "es": "Friegaplatos / Ayudante de cocina",
@@ -443,6 +518,7 @@
   },
   {
     "id": "hotel",
+    "group": "general",
     "title": "Zimmerreinigung Hotel",
     "labels": {
       "es": "Limpieza de habitaciones de hotel",

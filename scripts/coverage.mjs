@@ -27,6 +27,13 @@ export const DEFAULT_SOURCES = ['jobs.ch', 'linkedin.com/jobs', 'jobscout24.ch']
 
 const STATUSES = new Set(['ok', 'blocked', 'not_found', 'error'])
 
+/** Cada tarea programada se ocupa de un grupo de búsquedas */
+export const GROUPS = ['it', 'general']
+
+/** Búsquedas activas de un grupo (sin `group` = general) */
+export const searchesOf = (searches, group) =>
+  searches.filter((s) => s.active && (s.group ?? 'general') === group)
+
 /** Las empresas pueden ser un texto o { name, careersUrl } */
 export const companyName = (c) => (typeof c === 'string' ? c : c.name)
 
@@ -36,10 +43,10 @@ export function sourcesFor(search) {
 }
 
 /** Plantilla con todo en "pending", para que la tarea la vaya rellenando */
-export function coverageTemplate(searches) {
+export function coverageTemplate(searches, group) {
   const entry = () => ({ status: 'pending', url: '', offersReviewed: 0, offersAdded: 0, note: '' })
   const out = { searches: {} }
-  for (const s of searches.filter((x) => x.active)) {
+  for (const s of searchesOf(searches, group)) {
     out.searches[s.id] = {
       sources: Object.fromEntries(sourcesFor(s).map((src) => [src, entry()])),
       companies: Object.fromEntries((s.companies ?? []).map((c) => [companyName(c), entry()])),
@@ -49,11 +56,11 @@ export function coverageTemplate(searches) {
 }
 
 /** Devuelve la lista de problemas (vacía = cobertura completa) */
-export function validateCoverage(coverage, searches) {
+export function validateCoverage(coverage, searches, group) {
   const problems = []
   const bySearch = coverage?.searches ?? {}
 
-  for (const s of searches.filter((x) => x.active)) {
+  for (const s of searchesOf(searches, group)) {
     const cov = bySearch[s.id]
     if (!cov) {
       problems.push(`${s.id}: falta la búsqueda entera en la cobertura`)
