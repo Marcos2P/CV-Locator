@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-11-11T17:07:11.498Z",
+  "updatedAt": "2026-11-12T07:02:24.394Z",
   "jobs": [
+    {
+      "searchId": "lager",
+      "title": "Werkstatt- /Lagermitarbeiter",
+      "titleEs": "Ayudante de taller / almacén",
+      "company": "Condecta AG",
+      "location": "Winterthur ZH",
+      "postedAt": "2026-11-11",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/361b5fc7-f233-48de-a050-700bbb5111f9",
+      "summary": "Montaje y desmontaje de sistemas modulares de contenedores y sanitarios, con reparaciones en obra del cliente.",
+      "description": "Montaje y desmontaje de módulos y contenedores, reparaciones y renovación de instalaciones sanitarias en casa del cliente, trabajos de transformación, guía de equipos externos de montaje y evaluación de daños.",
+      "requirements": [
+        "Formación profesional básica en construcción en madera/metal, suelos o cubiertas",
+        "Experiencia en trabajos sanitarios",
+        "Carnet B y remolque E",
+        "Curso básico de protección anticaídas (EPI)",
+        "Certificados de plataforma elevadora 3A y 3B",
+        "Carnet de carretillero es una ventaja"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán nativo",
+      "de": {
+        "title": "Werkstatt- /Lagermitarbeiter",
+        "summary": "Montage und Demontage von mobilen Raumsystemen, Containern und Sanitäranlagen sowie Reparaturen beim Kunden.",
+        "description": "Montage und Demontage von Raumsystemen, Einzelcontainern und Sanitärinstallationen, Reparaturen und Instandstellung beim Kunden, Umbauarbeiten, Anleitung externer Montageteams und Schadenaufnahmen.",
+        "requirements": [
+          "Berufliche Grundbildung im Holzbau, Metallbau, Bodenbelag oder Dachdeckerei",
+          "Erfahrung in Sanitärarbeiten",
+          "Führerausweis Kat. B und E",
+          "PSA-Grundkurs",
+          "Hubarbeitsbühne 3A und 3B",
+          "Staplerausweis von Vorteil"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch Muttersprache"
+      },
+      "id": "1c7767491686",
+      "foundAt": "2026-11-12T07:02:24.394Z"
+    },
     {
       "searchId": "lager",
       "title": "Kommissioniererin / Kommissionierer 80-100%",
@@ -217,45 +258,6 @@
         "employmentType": "Festanstellung",
         "language": "Deutsch fliessend, Englisch fortgeschritten"
       }
-    },
-    {
-      "searchId": "lager",
-      "title": "Fachmitarbeiter*in Logistik am Standort in Flawil",
-      "titleEs": "Especialista de logística en Flawil",
-      "company": "Micarna SA",
-      "location": "Flawil SG",
-      "postedAt": "2026-11-04",
-      "source": "jobs.ch",
-      "url": "https://www.jobs.ch/de/stellenangebote/detail/722eec8c-2c4b-4a29-a756-0a91a1c1cd30",
-      "summary": "Logística en Flawil: carga/descarga, picking de pedidos, controles de calidad y carretilla elevadora, con trabajo en cámara frigorífica.",
-      "description": "Carga y descarga de camiones, almacenaje de mercancías y embalajes, picking de pedidos de clientes desde la entrada hasta el envío, controles de calidad, manejo de carretilla, trabajo en cámara frigorífica, coordinación con transportistas y apoyo en inventarios.",
-      "requirements": [
-        "Formación EBA/EFZ en logística o varios años de experiencia",
-        "Carnet de carretillero reconocido por SUVA",
-        "Alemán hablado y escrito sólido (B1)",
-        "Disponibilidad para dos turnos (aprox. 05:00–22:00)",
-        "Experiencia en alimentación, un plus"
-      ],
-      "workload": "100 %",
-      "employmentType": "Contrato fijo",
-      "language": "Alemán B1",
-      "de": {
-        "title": "Fachmitarbeiter*in Logistik am Standort in Flawil",
-        "summary": "Logistik in Flawil: Be- und Entladen, Kommissionieren, Qualitätskontrollen und Staplerfahren, auch im Kühlraum.",
-        "description": "Lastwagen be- und entladen, Waren und Verpackungsmaterial ein- und auslagern, Kundenaufträge kommissionieren, Qualitätskontrollen, Staplerfahren, Arbeit im Kühlraum, Abstimmung mit Frachtpartnern, Mithilfe bei Inventuren.",
-        "requirements": [
-          "Lehre als Logistiker EBA/EFZ oder mehrjährige Logistikerfahrung",
-          "SUVA-anerkannter Staplerausweis",
-          "Gute Deutschkenntnisse (B1)",
-          "Bereitschaft zu Zweischichtbetrieb (ca. 05:00–22:00)",
-          "Erfahrung in der Lebensmittelbranche von Vorteil"
-        ],
-        "workload": "100 %",
-        "employmentType": "Festanstellung",
-        "language": "Deutsch B1"
-      },
-      "id": "f8c12f87929c",
-      "foundAt": "2026-11-11T16:15:03.750Z"
     }
   ]
 }
