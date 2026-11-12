@@ -1,6 +1,101 @@
 {
-  "updatedAt": "2026-11-12T09:57:24.424Z",
+  "updatedAt": "2026-11-12T10:00:08.920Z",
   "jobs": [
+    {
+      "searchId": "kueche",
+      "title": "Hilfskoch/Hilfsköchin 100%",
+      "titleEs": "Ayudante de cocina 100%",
+      "company": "Two Spice",
+      "location": "Zürich",
+      "postedAt": "2026-11-12",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/4489062773",
+      "summary": "Ayudante de cocina a jornada completa en restauración rápida en Zúrich, contrato indefinido.",
+      "description": "Preparar la mise en place y apoyar la producción, trabajar activamente con el equipo de cocina, seguir recetas y calidad, controlar la higiene y realizar tareas de limpieza y orden.",
+      "requirements": [
+        "Experiencia previa como ayudante de cocina",
+        "Interés en la restauración de sistemas",
+        "Turnos, fines de semana y festivos",
+        "Alemán A2, inglés una ventaja"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato indefinido",
+      "language": "Alemán A2, inglés una ventaja",
+      "de": {
+        "title": "Hilfskoch/Hilfsköchin 100%",
+        "summary": "Hilfskoch in Vollzeit in der Systemgastronomie in Zürich, unbefristet.",
+        "description": "Mise en place vorbereiten und Produktion unterstützen, aktiv im Küchenteam mitarbeiten, Rezepte und Qualität einhalten, Hygienestandards prüfen sowie Reinigungs- und Aufräumarbeiten.",
+        "requirements": [
+          "Erfahrung als Küchenhilfe",
+          "Interesse an Systemgastronomie",
+          "Schicht-, Wochenend- und Feiertagsarbeit",
+          "Deutsch A2, Englisch von Vorteil"
+        ],
+        "workload": "100 %",
+        "employmentType": "Unbefristet",
+        "language": "Deutsch A2, Englisch von Vorteil"
+      },
+      "id": "c196e710d9cc",
+      "foundAt": "2026-11-12T10:00:08.920Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Flugzeug Kabinenreiniger:in mit Groupleader Funktion 100%",
+      "titleEs": "Limpiador/a de cabinas de avión con función de jefe/a de grupo 100%",
+      "company": "ISS Schweiz",
+      "location": "Kloten ZH",
+      "postedAt": "2026-11-11",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/4488600490",
+      "summary": "Limpieza de cabinas de avión con función de jefe/a de grupo en Kloten, jornada completa.",
+      "workload": "100 %",
+      "employmentType": "Jornada completa",
+      "de": {
+        "title": "Flugzeug Kabinenreiniger:in mit Groupleader Funktion 100%",
+        "summary": "Flugzeug-Kabinenreinigung mit Groupleader-Funktion in Kloten, Vollzeit.",
+        "workload": "100 %",
+        "employmentType": "Vollzeit"
+      },
+      "id": "0c1f0f790a62",
+      "foundAt": "2026-11-12T10:00:08.920Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Housekeeping Attendant (M/F/D)",
+      "titleEs": "Empleado/a de housekeeping (hotel)",
+      "company": "Mandarin Oriental",
+      "location": "Zürich",
+      "postedAt": "2026-11-11",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/4489603828",
+      "summary": "Limpieza y mantenimiento de habitaciones y zonas comunes en el hotel Mandarin Oriental Savoy de Zúrich, jornada completa.",
+      "description": "Limpiar y mantener habitaciones, zonas públicas y áreas internas; servicio de turndown y atención a peticiones de huéspedes; reponer lavandería, amenities y minibar; gestionar objetos perdidos y avisar de defectos técnicos.",
+      "requirements": [
+        "Orientación al servicio y autonomía",
+        "Disponibilidad para fines de semana y festivos",
+        "Muy buen inglés",
+        "Permiso de trabajo en Suiza"
+      ],
+      "workload": "Jornada completa",
+      "employmentType": "Jornada completa",
+      "language": "Inglés muy bueno",
+      "de": {
+        "title": "Housekeeping Attendant (M/F/D)",
+        "summary": "Reinigung und Pflege von Zimmern und öffentlichen Bereichen im Mandarin Oriental Savoy, Zürich, Vollzeit.",
+        "description": "Reinigung und Pflege von Zimmern, öffentlichen Bereichen und Back-of-House; Turndown-Service und Gästewünsche; Wäsche, Amenities und Minibar auffüllen; Fundsachen abgeben und technische Mängel melden.",
+        "requirements": [
+          "Serviceorientierung und selbstständiges Arbeiten",
+          "Bereitschaft für Wochenend- und Feiertagsarbeit",
+          "Sehr gute Englischkenntnisse",
+          "Arbeitsbewilligung für die Schweiz"
+        ],
+        "workload": "Vollzeit",
+        "employmentType": "Vollzeit",
+        "language": "Sehr gutes Englisch"
+      },
+      "id": "6d58f43b5702",
+      "foundAt": "2026-11-12T10:00:08.920Z"
+    },
     {
       "searchId": "lager",
       "title": "Werkstatt- /Lagermitarbeiter",
@@ -80,6 +175,43 @@
       }
     },
     {
+      "searchId": "hotel",
+      "title": "Mitarbeiter:in Housekeeping | Placid Hotel",
+      "titleEs": "Empleado/a de housekeeping | Placid Hotel",
+      "company": "Stiftung Diakonie Bethanien",
+      "location": "Zürich-Altstetten ZH",
+      "postedAt": "2026-11-07",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/76d5bc11-b1f8-44c7-8eda-07efd4f172a6",
+      "summary": "Limpieza de habitaciones y zonas del Placid Hotel de Zúrich, pago por horas, con turnos de fin de semana.",
+      "description": "Limpieza de habitaciones y zonas asignadas, trabajos de housekeeping y limpieza de ventanas, apoyo en zonas públicas y cumplimiento de normas de higiene. Horario 07:00–19:00 con turnos regulares de fin de semana. Inicio inmediato o a convenir.",
+      "requirements": [
+        "Experiencia en housekeeping de hotel",
+        "Experiencia con máquinas de limpieza",
+        "Buen alemán hablado, inglés una ventaja",
+        "Preferible vivir en la zona de Zúrich"
+      ],
+      "workload": "50–80 %",
+      "employmentType": "Pago por horas",
+      "language": "Alemán hablado bueno, inglés una ventaja",
+      "de": {
+        "title": "Mitarbeiter:in Housekeeping | Placid Hotel",
+        "summary": "Zimmerreinigung und Housekeeping im Placid Hotel Zürich, Stundenlohn mit regelmässigen Wochenenddiensten.",
+        "description": "Reinigung zugeteilter Zimmer und Bereiche, Housekeeping und Fensterreinigung, Unterstützung der öffentlichen Bereiche, Einhaltung der Hygienevorschriften. Arbeitszeit 07:00–19:00 mit regelmässigen Wochenenddiensten. Eintritt per sofort oder nach Vereinbarung.",
+        "requirements": [
+          "Erfahrung im Hotel-Housekeeping",
+          "Erfahrung mit Reinigungsmaschinen",
+          "Gute mündliche Deutschkenntnisse, Englisch von Vorteil",
+          "Idealerweise Wohnort im Raum Zürich"
+        ],
+        "workload": "50–80 %",
+        "employmentType": "Stundenlohn",
+        "language": "Gute mündliche Deutschkenntnisse, Englisch von Vorteil"
+      },
+      "id": "4aaf4e17fb99",
+      "foundAt": "2026-11-12T10:00:08.920Z"
+    },
+    {
       "searchId": "reinigung-flughafen",
       "title": "Mitarbeiter*in Flugzeugreinigung LKW-Beifahrer (m/w/d)",
       "company": "Vebego AG",
@@ -146,6 +278,43 @@
         ],
         "language": "Deutsch A2 oder Englisch B1"
       }
+    },
+    {
+      "searchId": "kueche",
+      "title": "Hilfskoch/Hilfsköchin 100%",
+      "titleEs": "Ayudante de cocina 100%",
+      "company": "Hiltl",
+      "location": "Zürich",
+      "postedAt": "2026-11-06",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/4485808785",
+      "summary": "Ayudante de cocina en el restaurante vegetariano Hiltl de Zúrich, jornada completa, requiere experiencia y alemán B1.",
+      "description": "Trabajar en todas las estaciones de cocina según el plan de turnos, preparar la mise en place de forma autónoma, elaborar recetas con cuidado y cumplir las normas HACCP.",
+      "requirements": [
+        "Varios años de experiencia en cocina",
+        "Interés en cocina vegetariana y vegana",
+        "Turnos de mañana y tarde",
+        "Alemán mínimo B1, inglés un plus"
+      ],
+      "workload": "100 %",
+      "employmentType": "Jornada completa",
+      "language": "Alemán mínimo B1, inglés un plus",
+      "de": {
+        "title": "Hilfskoch/Hilfsköchin 100%",
+        "summary": "Hilfskoch im Restaurant Hiltl in Zürich, Vollzeit; Erfahrung und Deutsch B1 erforderlich.",
+        "description": "Arbeit an allen Küchenstationen nach Dienstplan, selbstständige Mise en place, sorgfältige Zubereitung nach Rezept, Einhaltung der HACCP-Standards.",
+        "requirements": [
+          "Mehrjährige Küchenerfahrung",
+          "Interesse an vegetarischer und veganer Küche",
+          "Früh- und Spätschichten",
+          "Deutsch mind. B1, Englisch von Vorteil"
+        ],
+        "workload": "100 %",
+        "employmentType": "Vollzeit",
+        "language": "Deutsch mind. B1, Englisch von Vorteil"
+      },
+      "id": "60b44b62a3e9",
+      "foundAt": "2026-11-12T10:00:08.920Z"
     },
     {
       "searchId": "lager",
