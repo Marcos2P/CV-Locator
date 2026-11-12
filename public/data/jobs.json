@@ -1,6 +1,57 @@
 {
-  "updatedAt": "2026-11-12T11:44:58.393Z",
+  "updatedAt": "2026-11-12T14:48:49.350Z",
   "jobs": [
+    {
+      "searchId": "frontend-react",
+      "title": "Full-stack Product Engineer - TypeScript",
+      "titleEs": "Ingeniero/a de producto full-stack (TypeScript)",
+      "company": "Everyman Health",
+      "location": "Zürich",
+      "postedAt": "2026-11-12",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/full-stack-product-engineer-typescript-at-everyman-health-4490352424",
+      "summary": "Puesto full-stack de producto con TypeScript en Everyman Health, Zürich.",
+      "de": {
+        "title": "Full-stack Product Engineer - TypeScript",
+        "summary": "Full-Stack-Product-Engineer mit TypeScript bei Everyman Health in Zürich."
+      },
+      "id": "5f18f0b5fd74",
+      "foundAt": "2026-11-12T14:48:49.350Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Lagermitarbeiter:in",
+      "titleEs": "Mozo de almacén",
+      "company": "Import Parfumerie",
+      "location": "Zürich",
+      "postedAt": "2026-11-12",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/4481168814",
+      "summary": "Puesto de almacén en Import Parfumerie, Zürich.",
+      "de": {
+        "title": "Lagermitarbeiter:in",
+        "summary": "Lagermitarbeiter:in bei Import Parfumerie in Zürich."
+      },
+      "id": "999c5bc51e87",
+      "foundAt": "2026-11-12T14:48:49.350Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Flugzeug Kabinenreiniger:in mit Groupleader Funktion",
+      "titleEs": "Limpiador/a de cabinas de avión con función de jefe de grupo",
+      "company": "ISS Schweiz AG",
+      "location": "8060 Zürich",
+      "postedAt": "2026-11-12",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/b1063354-bd22-441f-854f-2b6f802e0fd8",
+      "summary": "Limpieza de cabinas de avión con función de jefe de grupo en ISS, aeropuerto de Zürich.",
+      "de": {
+        "title": "Flugzeug Kabinenreiniger:in mit Groupleader Funktion",
+        "summary": "Flugzeug-Kabinenreinigung mit Groupleader-Funktion bei ISS am Flughafen Zürich."
+      },
+      "id": "b3209a0975fa",
+      "foundAt": "2026-11-12T14:48:49.350Z"
+    },
     {
       "searchId": "frontend-react",
       "title": "Software Engineer Backend & Frontend (a) 80–100 %",
@@ -1288,6 +1339,23 @@
         ],
         "language": "Deutsch A2 oder Englisch B1"
       }
+    },
+    {
+      "searchId": "frontend-react",
+      "title": "Fullstack Engineer Go / React (m/w/d)",
+      "titleEs": "Ingeniero/a Fullstack Go / React",
+      "company": "traconiq",
+      "location": "Dällikon ZH",
+      "postedAt": "2026-11-06",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/fullstack-engineer-go-react-m-w-d-at-traconiq-4487777345",
+      "summary": "Puesto fullstack con Go y React en traconiq, Dällikon (cerca de Zürich).",
+      "de": {
+        "title": "Fullstack Engineer Go / React (m/w/d)",
+        "summary": "Fullstack Engineer mit Go und React bei traconiq in Dällikon."
+      },
+      "id": "65f3ce07aef5",
+      "foundAt": "2026-11-12T14:48:49.350Z"
     },
     {
       "searchId": "lager",
