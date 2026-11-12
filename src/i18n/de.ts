@@ -16,7 +16,7 @@ export const de: Dictionary = {
   // Suchknopf
   searchNow: '🔎 Jetzt suchen',
   searching: 'Suche läuft…',
-  searchHint: 'Öffnet die Aufgabe auf claude.ai: «Run now» drücken, um zu suchen',
+  searchHint: 'Öffnet deine Aufgaben auf claude.ai: IT oder allgemein wählen und «Run now» drücken',
 
   // Filter
   filterLabel: 'Nach Suche filtern',

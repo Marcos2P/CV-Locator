@@ -18,7 +18,7 @@ export const es = {
   // Botón de búsqueda
   searchNow: '🔎 Buscar ahora',
   searching: 'Buscando…',
-  searchHint: 'Abre la tarea en claude.ai: pulsa «Run now» para buscar',
+  searchHint: 'Abre tus tareas en claude.ai: elige IT o general y pulsa «Run now»',
 
   // Filtro
   filterLabel: 'Filtrar por búsqueda',
