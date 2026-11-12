@@ -19,7 +19,7 @@ Sigue los pasos **en orden y sin saltarte ninguno**. Si cambias algo de cómo se
    ```
 
    Ábrela: cada búsqueda tiene sus **webs** (`sources`; si una búsqueda no tiene `sources`, los portales por
-   defecto: jobs.ch, linkedin.com/jobs, jobscout24.ch y job-room.ch) y sus **empresas** (`companies`), todas en `"pending"`.
+   defecto: jobs.ch, linkedin.com/jobs, jobscout24.ch, job-room.ch y finest-jobs.com) y sus **empresas** (`companies`), todas en `"pending"`.
    **Esa es tu lista de comprobación.**
 
 ## Paso 2 · Recorrer la lista, búsqueda por búsqueda
@@ -45,7 +45,7 @@ Direcciones útiles:
 - **jobs.ch**: `https://www.jobs.ch/de/stellenangebote/?term=<TÉRMINO>&location=<LUGAR>&sort-by=date` (y `&page=2`, `&page=3`)
 - **linkedin.com/jobs**: `https://www.linkedin.com/jobs/search/?keywords=<TÉRMINO>&location=<LUGAR>&f_TPR=r604800`
 - **jobscout24.ch**: `https://www.jobscout24.ch/de/jobs/<TÉRMINO>/<LUGAR>/`
-- **job-room.ch** (portal oficial del RAV), **swissdevjobs.ch** (IT), **gastrojob.ch**, **hotelcareer.ch**…:
+- **job-room.ch** (portal oficial del RAV), **finest-jobs.com**, **swissdevjobs.ch** (IT), **gastrojob.ch**, **hotelcareer.ch**…:
   usa su buscador o búscalo con WebSearch.
 
 **Agencias de trabajo temporal** (Coople, Adecco, Manpower, Randstad, Kelly, Interiman, Persona Service,
