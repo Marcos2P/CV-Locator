@@ -10,6 +10,10 @@ Si quieres cambiar cómo se busca, cambia este archivo: la tarea lo lee en cada 
 2. Para cada búsqueda, busca ofertas **publicadas en los últimos 7 días** que encajen con
    `title` y `keywords`, en `location` (± `radiusKm`).
 
+   **Webs donde buscar:** si la búsqueda tiene `sources`, busca **solo en esas webs** (en el orden de la lista;
+   pueden ser portales como `gastrojob.ch` o la web de empleo de una empresa). Si una de ellas no se puede leer,
+   dilo en el resumen final y sigue con las demás. Si la búsqueda **no** tiene `sources`, usa los portales por defecto:
+
    **No te fíes solo del buscador web**: suele devolver anuncios viejos que ya dan 404/410.
    Empieza abriendo con WebFetch las **páginas de resultados de los portales**, ordenadas por fecha,
    y saca de ahí título, empresa, lugar, fecha y enlace de cada oferta:

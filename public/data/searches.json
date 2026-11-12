@@ -68,6 +68,12 @@
     ],
     "location": "Sirnach TG",
     "radiusKm": 50,
+    "sources": [
+      "jobs.ch",
+      "gastrojob.ch",
+      "hotelcareer.ch",
+      "linkedin.com/jobs"
+    ],
     "active": true
   },
   {
@@ -88,6 +94,12 @@
     ],
     "location": "Sirnach TG",
     "radiusKm": 50,
+    "sources": [
+      "jobs.ch",
+      "hotelcareer.ch",
+      "gastrojob.ch",
+      "linkedin.com/jobs"
+    ],
     "active": true
   }
 ]

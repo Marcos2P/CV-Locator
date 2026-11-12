@@ -11,6 +11,11 @@ export interface Search {
   location: string
   /** Radio alrededor de la ubicación, en km */
   radiusKm?: number
+  /**
+   * Webs donde buscar (p. ej. "jobs.ch", "gastrojob.ch" o la web de empleo de una empresa).
+   * Si no se indica, la búsqueda diaria usa los portales por defecto de ROUTINE.md.
+   */
+  sources?: string[]
   /** Si es false, la búsqueda diaria la ignora */
   active: boolean
 }

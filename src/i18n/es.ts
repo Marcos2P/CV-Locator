@@ -24,6 +24,7 @@ export const es = {
   filterLabel: 'Filtrar por búsqueda',
   filterAll: 'Todas',
   keywords: (list: string) => `Palabras clave: ${list}`,
+  sources: (list: string) => `Webs: ${list}`,
 
   // Estados de la lista
   loading: 'Cargando ofertas…',

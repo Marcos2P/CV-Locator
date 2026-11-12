@@ -30,7 +30,9 @@ function SearchFilter({ searches, selected, onSelect }: Props) {
           className={selected === s.id ? `${styles.chip} ${styles.on}` : styles.chip}
           aria-pressed={selected === s.id}
           onClick={() => onSelect(s.id)}
-          title={t.keywords(s.keywords.join(', '))}
+          title={[t.keywords(s.keywords.join(', ')), s.sources && t.sources(s.sources.join(', '))]
+            .filter(Boolean)
+            .join('\n')}
         >
           {s.labels?.[lang] ?? s.title} <span className={styles.loc}>· {s.location}</span>
         </button>

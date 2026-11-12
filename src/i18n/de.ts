@@ -22,6 +22,7 @@ export const de: Dictionary = {
   filterLabel: 'Nach Suche filtern',
   filterAll: 'Alle',
   keywords: (list) => `Stichwörter: ${list}`,
+  sources: (list) => `Websites: ${list}`,
 
   // Listenstatus
   loading: 'Stellen werden geladen…',
