@@ -3,25 +3,21 @@
     "id": "frontend-react",
     "title": "Frontend Developer",
     "labels": {
-      "es": "Desarrollador Frontend",
-      "de": "Frontend-Entwickler"
+      "es": "Frontend",
+      "de": "Frontend"
     },
     "keywords": [
       "Frontend Developer",
       "Frontend Engineer",
       "React Developer",
-      "Web Developer",
-      "Webentwickler",
       "Frontend-Entwickler",
-      "Software Engineer Frontend",
+      "Webentwickler Frontend",
       "UI Developer",
+      "UI Engineer",
       "JavaScript Developer",
-      "TypeScript Developer",
-      "Full-Stack Developer",
-      "Junior Software Engineer",
-      "Applikationsentwickler",
-      "QA Engineer",
-      "Test Automation Engineer"
+      "Angular Developer",
+      "Vue.js Developer",
+      "Web Developer"
     ],
     "areas": [
       {
@@ -31,6 +27,10 @@
       {
         "place": "Winterthur",
         "radiusKm": 20
+      },
+      {
+        "place": "Remote (Schweiz, CET)",
+        "radiusKm": 0
       }
     ],
     "sources": [
@@ -38,20 +38,180 @@
       "linkedin.com/jobs",
       "swissdevjobs.ch",
       "jobscout24.ch",
-      "job-room.ch",
-      "finest-jobs.com"
+      "wearedevelopers.com",
+      "Startup-Plattformen (join.com, homerun.co, greenhouse.io, lever.co, ashbyhq.com, personio, recruitee, workable)"
     ],
     "companies": [
-      "Art of Work Personalberatung AG",
-      "Rockstar Recruiting AG",
-      "Impact Recruitment",
-      "Experis (ManpowerGroup)",
-      "Digitec Galaxus AG",
-      "Pareto Labs",
-      "Andeo AG",
-      "ELCA Informatique SA",
-      "Prime21"
+      {
+        "name": "Art of Work Personalberatung AG",
+        "careersUrl": "https://www.art-of-work.ch/bewerber/offene-stellen"
+      },
+      {
+        "name": "Rockstar Recruiting AG",
+        "careersUrl": "https://rockstar.jobs"
+      },
+      {
+        "name": "Experis (ManpowerGroup)",
+        "careersUrl": "https://jobscout24.ch/de/company/experis-ag/61186/"
+      },
+      {
+        "name": "Digitec Galaxus AG",
+        "careersUrl": "https://www.galaxus.ch/en/jobs"
+      },
+      {
+        "name": "Pareto Labs",
+        "careersUrl": "https://join.com/companies/paretolabs"
+      },
+      {
+        "name": "Andeo AG",
+        "careersUrl": "https://www.jobs.ch/de/stellenangebote/?term=Andeo%20AG"
+      },
+      {
+        "name": "ELCA Informatique SA",
+        "careersUrl": "https://careers.elca.ch"
+      },
+      {
+        "name": "Prime21",
+        "careersUrl": "https://www.jobup.ch/de/stellenangebote/?term=Prime21"
+      },
+      {
+        "name": "Impact Recruitment"
+      }
     ],
+    "maxAgeDays": 14,
+    "active": true
+  },
+  {
+    "id": "fullstack-ts",
+    "title": "Full-Stack Developer",
+    "labels": {
+      "es": "Full-stack / TypeScript",
+      "de": "Full-Stack / TypeScript"
+    },
+    "keywords": [
+      "Full-Stack Developer",
+      "Fullstack Engineer",
+      "TypeScript Developer",
+      "Node.js Developer",
+      "Product Engineer",
+      "Software Engineer",
+      "Softwareentwickler",
+      "Applikationsentwickler",
+      "Webentwickler Fullstack",
+      "Software Developer"
+    ],
+    "areas": [
+      {
+        "place": "Zürich",
+        "radiusKm": 20
+      },
+      {
+        "place": "Winterthur",
+        "radiusKm": 20
+      },
+      {
+        "place": "Remote (Schweiz, CET)",
+        "radiusKm": 0
+      }
+    ],
+    "sources": [
+      "jobs.ch",
+      "linkedin.com/jobs",
+      "swissdevjobs.ch",
+      "jobscout24.ch",
+      "wearedevelopers.com",
+      "Startup-Plattformen (join.com, homerun.co, greenhouse.io, lever.co, ashbyhq.com, personio, recruitee, workable)"
+    ],
+    "maxAgeDays": 14,
+    "active": true
+  },
+  {
+    "id": "qa-test",
+    "title": "QA / Test Automation Engineer",
+    "labels": {
+      "es": "QA / Testing",
+      "de": "QA / Testing"
+    },
+    "keywords": [
+      "QA Engineer",
+      "Test Automation Engineer",
+      "Testautomatisierung",
+      "Software Tester",
+      "Test Engineer",
+      "Quality Assurance",
+      "Cypress",
+      "Playwright",
+      "Software-Tester",
+      "Testingenieur"
+    ],
+    "areas": [
+      {
+        "place": "Zürich",
+        "radiusKm": 20
+      },
+      {
+        "place": "Winterthur",
+        "radiusKm": 20
+      },
+      {
+        "place": "Remote (Schweiz, CET)",
+        "radiusKm": 0
+      }
+    ],
+    "sources": [
+      "jobs.ch",
+      "linkedin.com/jobs",
+      "swissdevjobs.ch",
+      "jobscout24.ch",
+      "wearedevelopers.com",
+      "Startup-Plattformen (join.com, homerun.co, greenhouse.io, lever.co, ashbyhq.com, personio, recruitee, workable)"
+    ],
+    "maxAgeDays": 14,
+    "active": true
+  },
+  {
+    "id": "junior-it",
+    "title": "Junior Developer / IT-Einstieg",
+    "labels": {
+      "es": "Junior / entrada IT",
+      "de": "Junior / IT-Einstieg"
+    },
+    "keywords": [
+      "Junior Developer",
+      "Junior Software Engineer",
+      "Junior Frontend",
+      "Junior Webentwickler",
+      "Graduate Software Engineer",
+      "Trainee Software",
+      "Praktikum Softwareentwicklung",
+      "Developer Intern",
+      "IT Support",
+      "1st Level Support",
+      "Helpdesk"
+    ],
+    "areas": [
+      {
+        "place": "Zürich",
+        "radiusKm": 20
+      },
+      {
+        "place": "Winterthur",
+        "radiusKm": 20
+      },
+      {
+        "place": "Remote (Schweiz, CET)",
+        "radiusKm": 0
+      }
+    ],
+    "sources": [
+      "jobs.ch",
+      "linkedin.com/jobs",
+      "swissdevjobs.ch",
+      "jobscout24.ch",
+      "wearedevelopers.com",
+      "Startup-Plattformen (join.com, homerun.co, greenhouse.io, lever.co, ashbyhq.com, personio, recruitee, workable)"
+    ],
+    "maxAgeDays": 14,
     "active": true
   },
   {
@@ -88,15 +248,33 @@
       }
     ],
     "companies": [
-      "Express Personal AG",
-      "Coople",
-      "Adecco",
-      "Manpower",
-      "Randstad",
-      "Kelly Services",
-      "Interiman Group",
-      "Persona Service",
-      "Gi Group"
+      {
+        "name": "Express Personal AG"
+      },
+      {
+        "name": "Coople"
+      },
+      {
+        "name": "Adecco"
+      },
+      {
+        "name": "Manpower"
+      },
+      {
+        "name": "Randstad"
+      },
+      {
+        "name": "Kelly Services"
+      },
+      {
+        "name": "Interiman Group"
+      },
+      {
+        "name": "Persona Service"
+      },
+      {
+        "name": "Gi Group"
+      }
     ],
     "active": true
   },
@@ -133,19 +311,45 @@
       }
     ],
     "companies": [
-      "Vebego AG",
-      "ISS Facility Services",
-      "Gate Group",
-      "Swissport",
-      "Express Personal AG",
-      "Coople",
-      "Adecco",
-      "Manpower",
-      "Randstad",
-      "Kelly Services",
-      "Interiman Group",
-      "Persona Service",
-      "Gi Group"
+      {
+        "name": "Vebego AG"
+      },
+      {
+        "name": "ISS Facility Services"
+      },
+      {
+        "name": "Gate Group"
+      },
+      {
+        "name": "Swissport"
+      },
+      {
+        "name": "Express Personal AG"
+      },
+      {
+        "name": "Coople"
+      },
+      {
+        "name": "Adecco"
+      },
+      {
+        "name": "Manpower"
+      },
+      {
+        "name": "Randstad"
+      },
+      {
+        "name": "Kelly Services"
+      },
+      {
+        "name": "Interiman Group"
+      },
+      {
+        "name": "Persona Service"
+      },
+      {
+        "name": "Gi Group"
+      }
     ],
     "active": true
   },
@@ -189,25 +393,51 @@
       "gastrojob.ch",
       "hotelcareer.ch",
       "linkedin.com/jobs",
-      "job-room.ch",
-      "jobscout24.ch",
-      "finest-jobs.com"
+      "jobscout24.ch"
     ],
     "companies": [
-      "Migros",
-      "Coop",
-      "SV Group",
-      "Compass Group",
-      "ZFV-Unternehmungen",
-      "Express Personal AG",
-      "Coople",
-      "Adecco",
-      "Manpower",
-      "Randstad",
-      "Kelly Services",
-      "Interiman Group",
-      "Persona Service",
-      "Gi Group"
+      {
+        "name": "Migros"
+      },
+      {
+        "name": "Coop"
+      },
+      {
+        "name": "SV Group"
+      },
+      {
+        "name": "Compass Group"
+      },
+      {
+        "name": "ZFV-Unternehmungen"
+      },
+      {
+        "name": "Express Personal AG"
+      },
+      {
+        "name": "Coople"
+      },
+      {
+        "name": "Adecco"
+      },
+      {
+        "name": "Manpower"
+      },
+      {
+        "name": "Randstad"
+      },
+      {
+        "name": "Kelly Services"
+      },
+      {
+        "name": "Interiman Group"
+      },
+      {
+        "name": "Persona Service"
+      },
+      {
+        "name": "Gi Group"
+      }
     ],
     "active": true
   },
@@ -248,20 +478,36 @@
       "gastrojob.ch",
       "hotelcareer.ch",
       "linkedin.com/jobs",
-      "job-room.ch",
-      "jobscout24.ch",
-      "finest-jobs.com"
+      "jobscout24.ch"
     ],
     "companies": [
-      "Express Personal AG",
-      "Coople",
-      "Adecco",
-      "Manpower",
-      "Randstad",
-      "Kelly Services",
-      "Interiman Group",
-      "Persona Service",
-      "Gi Group"
+      {
+        "name": "Express Personal AG"
+      },
+      {
+        "name": "Coople"
+      },
+      {
+        "name": "Adecco"
+      },
+      {
+        "name": "Manpower"
+      },
+      {
+        "name": "Randstad"
+      },
+      {
+        "name": "Kelly Services"
+      },
+      {
+        "name": "Interiman Group"
+      },
+      {
+        "name": "Persona Service"
+      },
+      {
+        "name": "Gi Group"
+      }
     ],
     "active": true
   }

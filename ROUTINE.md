@@ -19,7 +19,7 @@ Sigue los pasos **en orden y sin saltarte ninguno**. Si cambias algo de cómo se
    ```
 
    Ábrela: cada búsqueda tiene sus **webs** (`sources`; si una búsqueda no tiene `sources`, los portales por
-   defecto: jobs.ch, linkedin.com/jobs, jobscout24.ch, job-room.ch y finest-jobs.com) y sus **empresas** (`companies`), todas en `"pending"`.
+   defecto: jobs.ch, linkedin.com/jobs y jobscout24.ch) y sus **empresas** (`companies`), todas en `"pending"`.
    **Esa es tu lista de comprobación.**
 
 ## Paso 2 · Recorrer la lista, búsqueda por búsqueda
@@ -37,6 +37,8 @@ viejos que ya dan 404/410).
   - **Zürich + 20 km:** Zürich, Kloten, Flughafen Zürich, Opfikon, Wallisellen, Dübendorf, Schlieren, Dietikon,
     Regensdorf, Uster, Volketswil, Adliswil, Thalwil, Bülach.
   - **Winterthur + 20 km:** Winterthur, Effretikon, Illnau, Seuzach, Pfäffikon ZH, Elgg, Andelfingen, Frauenfeld.
+  - **Remote (Schweiz, CET)** (solo en búsquedas de IT): ofertas 100 % remotas o "remote-first" de empresas
+    suizas o que aceptan trabajar desde Suiza / zona horaria CET. En LinkedIn usa el filtro remoto (`&f_WT=2`).
 - **Varias páginas:** revisa al menos las páginas 1 a 3 de resultados (hasta la 5 si siguen saliendo ofertas
   de los últimos 7 días).
 
@@ -45,17 +47,29 @@ Direcciones útiles:
 - **jobs.ch**: `https://www.jobs.ch/de/stellenangebote/?term=<TÉRMINO>&location=<LUGAR>&sort-by=date` (y `&page=2`, `&page=3`)
 - **linkedin.com/jobs**: `https://www.linkedin.com/jobs/search/?keywords=<TÉRMINO>&location=<LUGAR>&f_TPR=r604800`
 - **jobscout24.ch**: `https://www.jobscout24.ch/de/jobs/<TÉRMINO>/<LUGAR>/`
-- **job-room.ch** (portal oficial del RAV), **finest-jobs.com**, **swissdevjobs.ch** (IT), **gastrojob.ch**, **hotelcareer.ch**…:
-  usa su buscador o búscalo con WebSearch.
+- **swissdevjobs.ch** (IT), **wearedevelopers.com** (IT), **gastrojob.ch**, **hotelcareer.ch**…: usa su buscador o
+  búscalo con WebSearch.
+- **Startup-Plattformen** (join.com, homerun.co, greenhouse.io, lever.co, ashbyhq.com, personio, recruitee,
+  workable): muchas empresas tecnológicas publican **solo** ahí. Búscalas con WebSearch combinando la plataforma,
+  el término y la zona, por ejemplo: `site:join.com Zürich React`, `site:jobs.ashbyhq.com Zurich frontend`,
+  `site:boards.greenhouse.io Zurich TypeScript`, `site:jobs.lever.co Zurich engineer`, `site:homerun.co Zürich`,
+  `"jobs.personio" Zürich Frontend`. Haz al menos una búsqueda por plataforma y búsqueda de IT, y abre las ofertas
+  para comprobar fecha y lugar. En la cobertura, esta "web" cuenta como **ok** si hiciste esas búsquedas.
 
 **Agencias de trabajo temporal** (Coople, Adecco, Manpower, Randstad, Kelly, Interiman, Persona Service,
 Gi Group, Express Personal): tienen muchas ofertas de almacén, limpieza, cocina y hotel. Usa el buscador de su web
 con los términos y la zona.
 
 ### 2b · Cada empresa de la búsqueda (una por una)
-Busca la **página de empleo** de la empresa (WebSearch: `"<empresa> jobs"` o `"<empresa> Stellen"`), ábrela
-con WebFetch y revisa **todas** sus ofertas abiertas. Añade las que encajen con la búsqueda y la zona, con
-`source` = nombre de la empresa (p. ej. `"Experis"`).
+Si la empresa tiene `careersUrl`, **empieza por esa dirección** (está verificada). Si no tiene, o falla, busca su
+página de empleo con WebSearch (`"<empresa> jobs"`, `"<empresa> Stellen"`, `"<empresa> join.com"`…) y prueba
+**las direcciones que encuentres**. **Nunca te inventes una dirección**: marcar una empresa como `error` solo vale
+si en `note` pones las direcciones reales que probaste y qué respondieron.
+
+Revisa **todas** sus ofertas abiertas y añade las que encajen con la zona, con `source` = nombre de la empresa
+(p. ej. `"Experis"`). En las búsquedas de IT, si una oferta de una empresa encaja mejor con otra búsqueda de IT
+(por ejemplo, un puesto de QA encontrado en la lista de empresas de `frontend-react`), añádela con el `searchId`
+de esa otra búsqueda.
 
 **Empresas repetidas:** varias agencias (Coople, Adecco, Manpower…) aparecen en varias búsquedas. Para no repetir
 trabajo, revisa la web de cada una **una sola vez**, buscando los términos de **todas** las búsquedas en las que
@@ -78,8 +92,9 @@ como `blocked` o `error`. **Nunca** intentes saltarte bloqueos (nada de cambiar 
 
 ## Paso 3 · Comprobar cada oferta candidata
 
-- Debe estar **publicada en los últimos 7 días** (fecha de la página de resultados o de la propia oferta)
-  y seguir abierta. Si no hay fecha fiable, descártala.
+- Debe estar publicada dentro de la **vida máxima de su búsqueda**: `maxAgeDays` en `searches.json`
+  (7 días si no lo indica; las búsquedas de IT usan 14). Usa la fecha de la página de resultados o de la propia
+  oferta, y comprueba que siga abierta. Si no hay fecha fiable, descártala.
 - Debe estar **en alguna de las zonas** (`areas`: lugar ± radio). Las de fuera se descartan.
 - No debe estar ya en `jobs.json` (misma URL o mismo puesto + empresa).
 - Si la página de la oferta no se abre pero la web la lista hoy con fecha reciente, vale: usa los datos de
@@ -106,6 +121,8 @@ Escríbelas en `/tmp/candidatas.json` como array JSON (`[]` si no hay ninguna):
   "employmentType": "Contrato fijo",
   "salary": "CHF 80'000–95'000",
   "language": "Alemán B2, inglés",
+  "englishOk": false,
+  "seniority": "junior",
   "de": {
     "title": "Junior Frontend Entwickler (React)",
     "summary": "Dieselbe Zusammenfassung auf Deutsch.",
@@ -124,6 +141,11 @@ Escríbelas en `/tmp/candidatas.json` como array JSON (`[]` si no hay ninguna):
   (en alemán; si el original ya está en alemán, el mismo texto).
 - `summary`, `description`, `requirements`, `workload`, `employmentType` y `language` **en español** (sin mezclar
   idiomas), y los mismos campos en alemán dentro de `de`.
+- `englishOk`: `true` si la oferta **no exige alemán** (anuncio en inglés y "English is our working language",
+  "German is a plus", "Deutsch oder Englisch"…); `false` si exige alemán. Omítelo si no está claro.
+  Es importante: el usuario se comunica mejor en inglés.
+- `seniority`: `"intern"`, `"junior"`, `"mid"`, `"senior"` o `"lead"`, según el título y los años que pide.
+  Omítelo si no está claro. Incluye también ofertas mid y senior: el usuario decide.
 
 ## Paso 5 · Guardar
 

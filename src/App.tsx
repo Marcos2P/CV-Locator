@@ -29,6 +29,7 @@ function App() {
   const [tab, setTab] = useState<Tab>('new')
   const [searchId, setSearchId] = useState<string | null>(null)
   const [openJob, setOpenJob] = useState<Job | null>(null)
+  const [englishOnly, setEnglishOnly] = useState(false)
 
   const searches = state.status === 'ready' ? state.data.searches : NO_SEARCHES
   const allJobs = state.status === 'ready' ? state.data.jobs.jobs : NO_JOBS
@@ -50,13 +51,13 @@ function App() {
 
   // "Nuevos": de la última semana y sin decidir todavía, los más recientes primero.
   // useMemo evita recalcular la lista en cada render si los datos no cambian.
-  const newJobs = useMemo(
-    () =>
-      allJobs
-        .filter((j) => isFresh(j.postedAt) && !statuses[j.id])
-        .sort((a, b) => b.postedAt.localeCompare(a.postedAt)),
-    [allJobs, statuses],
-  )
+  // Cada búsqueda puede tener su propia "vida" de oferta (p. ej. 14 días para IT).
+  const newJobs = useMemo(() => {
+    const maxAge = new Map(searches.map((s) => [s.id, s.maxAgeDays]))
+    return allJobs
+      .filter((j) => isFresh(j.postedAt, maxAge.get(j.searchId)) && !statuses[j.id])
+      .sort((a, b) => b.postedAt.localeCompare(a.postedAt))
+  }, [allJobs, searches, statuses])
 
   // "Solicitados" y "No me interesan": salen de localStorage, aunque ya no estén en jobs.json.
   const savedByStatus = useMemo(() => {
@@ -72,11 +73,10 @@ function App() {
     dismissed: savedByStatus.dismissed.length,
   }
 
-  const visibleNew = searchId ? newJobs.filter((j) => j.searchId === searchId) : newJobs
-  const visibleSaved =
-    tab === 'new'
-      ? []
-      : savedByStatus[tab].filter((s) => !searchId || s.job.searchId === searchId)
+  const matches = (j: Job) =>
+    (!searchId || j.searchId === searchId) && (!englishOnly || j.englishOk === true)
+  const visibleNew = newJobs.filter(matches)
+  const visibleSaved = tab === 'new' ? [] : savedByStatus[tab].filter((s) => matches(s.job))
 
   return (
     <>
@@ -103,7 +103,13 @@ function App() {
 
         {state.status === 'ready' && (
           <>
-            <SearchFilter searches={searches} selected={searchId} onSelect={setSearchId} />
+            <SearchFilter
+              searches={searches}
+              selected={searchId}
+              onSelect={setSearchId}
+              englishOnly={englishOnly}
+              onEnglishOnlyChange={setEnglishOnly}
+            />
 
             {tab === 'new' ? (
               <JobGrid

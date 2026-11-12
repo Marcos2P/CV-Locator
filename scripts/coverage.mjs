@@ -23,9 +23,12 @@
  */
 
 /** Portales que se usan cuando una búsqueda no tiene `sources` */
-export const DEFAULT_SOURCES = ['jobs.ch', 'linkedin.com/jobs', 'jobscout24.ch', 'job-room.ch', 'finest-jobs.com']
+export const DEFAULT_SOURCES = ['jobs.ch', 'linkedin.com/jobs', 'jobscout24.ch']
 
 const STATUSES = new Set(['ok', 'blocked', 'not_found', 'error'])
+
+/** Las empresas pueden ser un texto o { name, careersUrl } */
+export const companyName = (c) => (typeof c === 'string' ? c : c.name)
 
 /** Webs que hay que revisar para una búsqueda */
 export function sourcesFor(search) {
@@ -39,7 +42,7 @@ export function coverageTemplate(searches) {
   for (const s of searches.filter((x) => x.active)) {
     out.searches[s.id] = {
       sources: Object.fromEntries(sourcesFor(s).map((src) => [src, entry()])),
-      companies: Object.fromEntries((s.companies ?? []).map((c) => [c, entry()])),
+      companies: Object.fromEntries((s.companies ?? []).map((c) => [companyName(c), entry()])),
     }
   }
   return out
@@ -58,7 +61,7 @@ export function validateCoverage(coverage, searches) {
     }
     const groups = [
       ['web', sourcesFor(s), cov.sources ?? {}],
-      ['empresa', s.companies ?? [], cov.companies ?? {}],
+      ['empresa', (s.companies ?? []).map(companyName), cov.companies ?? {}],
     ]
     for (const [kind, required, entries] of groups) {
       for (const name of required) {

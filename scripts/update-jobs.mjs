@@ -9,7 +9,7 @@
  * - Valida los campos obligatorios de cada oferta.
  * - Genera un id estable a partir de la URL (misma oferta = mismo id).
  * - Ignora duplicados (misma URL, o mismo título + empresa).
- * - Borra las ofertas publicadas hace más de 7 días.
+ * - Borra las ofertas más antiguas que `maxAgeDays` de su búsqueda (7 días por defecto).
  * - Actualiza `updatedAt` aunque no haya ofertas nuevas.
  */
 import { createHash } from 'node:crypto'
@@ -18,7 +18,8 @@ import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { validateCoverage } from './coverage.mjs'
 
-const MAX_AGE_DAYS = 7
+const DEFAULT_MAX_AGE_DAYS = 7
+const SENIORITIES = new Set(['intern', 'junior', 'mid', 'senior', 'lead'])
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..')
 const JOBS_PATH = join(ROOT, 'public/data/jobs.json')
 const SEARCHES_PATH = join(ROOT, 'public/data/searches.json')
@@ -57,6 +58,8 @@ const now = new Date()
 const current = readJson(JOBS_PATH)
 const searches = readJson(SEARCHES_PATH)
 const searchIds = new Set(searches.map((s) => s.id))
+const maxAgeFor = (searchId) =>
+  searches.find((s) => s.id === searchId)?.maxAgeDays ?? DEFAULT_MAX_AGE_DAYS
 const candidates = readJson(candidatesPath)
 const coverage = readJson(coveragePath)
 
@@ -74,7 +77,7 @@ if (!Array.isArray(candidates)) {
 }
 
 // 1. Limpiar lo que ya había: fuera las de más de 7 días.
-const kept = current.jobs.filter((j) => ageInDays(j.postedAt, now) <= MAX_AGE_DAYS)
+const kept = current.jobs.filter((j) => ageInDays(j.postedAt, now) <= maxAgeFor(j.searchId))
 const removed = current.jobs.length - kept.length
 
 const byId = new Map(kept.map((j) => [j.id, j]))
@@ -104,7 +107,15 @@ for (const c of candidates) {
     continue
   }
   const age = ageInDays(c.postedAt, now)
-  if (age > MAX_AGE_DAYS || age < -1) {
+  if ('englishOk' in c && typeof c.englishOk !== 'boolean') {
+    report.invalid.push(`${c.title}: englishOk debe ser true o false`)
+    continue
+  }
+  if ('seniority' in c && !SENIORITIES.has(c.seniority)) {
+    report.invalid.push(`${c.title}: seniority debe ser intern, junior, mid, senior o lead`)
+    continue
+  }
+  if (age > maxAgeFor(c.searchId) || age < -1) {
     report.tooOld++
     continue
   }

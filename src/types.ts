@@ -18,15 +18,27 @@ export interface Search {
    * Empresas cuya página de empleo se revisa además de las webs (agencias, empresas concretas).
    * Las ofertas que encajen con la búsqueda se añaden igual que las de los portales.
    */
-  companies?: string[]
+  companies?: Company[]
+  /** Días que una oferta sigue siendo "nueva" (por defecto 7) */
+  maxAgeDays?: number
   /** Si es false, la búsqueda diaria la ignora */
   active: boolean
 }
 
 export interface Area {
+  /** Lugar, o "Remote" para ofertas en remoto */
   place: string
+  /** Radio en km (0 para Remote) */
   radiusKm: number
 }
+
+export interface Company {
+  name: string
+  /** Página de empleo verificada, para que la búsqueda no tenga que adivinarla */
+  careersUrl?: string
+}
+
+export type Seniority = 'intern' | 'junior' | 'mid' | 'senior' | 'lead'
 
 /** Una oferta encontrada por la búsqueda diaria (public/data/jobs.json) */
 export interface Job {
@@ -60,6 +72,10 @@ export interface Job {
   salary?: string
   /** Idioma de la oferta o requerido, p. ej. "Deutsch B1" */
   language?: string
+  /** true si basta con inglés (no exige alemán) */
+  englishOk?: boolean
+  /** Nivel que pide la oferta */
+  seniority?: Seniority
   /** Los mismos textos en alemán (summary, description y requirements en español van arriba) */
   de?: JobTexts
 }

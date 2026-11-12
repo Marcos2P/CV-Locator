@@ -16,7 +16,9 @@
         "summary": "Full-Stack-Product-Engineer mit TypeScript bei Everyman Health in Zürich."
       },
       "id": "5f18f0b5fd74",
-      "foundAt": "2026-11-12T14:48:49.350Z"
+      "foundAt": "2026-11-12T14:48:49.350Z",
+      "englishOk": true,
+      "seniority": "mid"
     },
     {
       "searchId": "lager",
@@ -85,7 +87,9 @@
         "language": "Gutes Deutsch und Englisch"
       },
       "id": "657a32370b11",
-      "foundAt": "2026-11-12T11:44:58.393Z"
+      "foundAt": "2026-11-12T11:44:58.393Z",
+      "englishOk": false,
+      "seniority": "mid"
     },
     {
       "searchId": "lager",
@@ -232,7 +236,9 @@
         "language": "Fliessend Englisch, gutes Deutsch von Vorteil"
       },
       "id": "d94452509aa3",
-      "foundAt": "2026-11-12T11:44:58.393Z"
+      "foundAt": "2026-11-12T11:44:58.393Z",
+      "englishOk": true,
+      "seniority": "senior"
     },
     {
       "searchId": "lager",
@@ -518,7 +524,9 @@
         "language": "Fliessend Englisch"
       },
       "id": "91747b4de70f",
-      "foundAt": "2026-11-12T11:44:58.393Z"
+      "foundAt": "2026-11-12T11:44:58.393Z",
+      "englishOk": true,
+      "seniority": "mid"
     },
     {
       "searchId": "frontend-react",
@@ -551,7 +559,9 @@
         "language": "Sehr gute Deutsch- und Englischkenntnisse"
       },
       "id": "29d7aef34ec2",
-      "foundAt": "2026-11-12T11:44:58.393Z"
+      "foundAt": "2026-11-12T11:44:58.393Z",
+      "englishOk": false,
+      "seniority": "junior"
     },
     {
       "searchId": "lager",
@@ -738,7 +748,9 @@
         "language": "Deutsch (Inserat auf Deutsch)"
       },
       "id": "471303f2dcd7",
-      "foundAt": "2026-11-12T11:44:58.393Z"
+      "foundAt": "2026-11-12T11:44:58.393Z",
+      "englishOk": false,
+      "seniority": "mid"
     },
     {
       "searchId": "lager",
@@ -1806,7 +1818,9 @@
         "language": "Deutsch fliessend, Englisch Grundkenntnisse"
       },
       "id": "e72fcb377c1f",
-      "foundAt": "2026-11-11T16:15:03.750Z"
+      "foundAt": "2026-11-11T16:15:03.750Z",
+      "englishOk": false,
+      "seniority": "mid"
     },
     {
       "searchId": "lager",
@@ -1917,7 +1931,9 @@
         "workload": "80–100 %",
         "employmentType": "Festanstellung",
         "language": "Deutsch fliessend, Englisch fortgeschritten"
-      }
+      },
+      "englishOk": false,
+      "seniority": "lead"
     }
   ]
 }

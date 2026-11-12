@@ -41,6 +41,13 @@ function JobCard({ job, onOpen, saved }: Props) {
         <li>🗓 {relativeDay(job.postedAt, t)}</li>
       </ul>
 
+      {(job.englishOk || job.seniority) && (
+        <div className={styles.tags}>
+          {job.englishOk && <span className={styles.tagEnglish}>{t.englishOkBadge}</span>}
+          {job.seniority && <span className={styles.tag}>{t.seniority[job.seniority]}</span>}
+        </div>
+      )}
+
       <span className={styles.source}>{job.source}</span>
     </button>
   )

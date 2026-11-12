@@ -13,8 +13,8 @@ export function daysAgo(date: string, now = new Date()): number {
   return Math.round((startOfToday.getTime() - startOfThen.getTime()) / DAY_MS)
 }
 
-export function isFresh(postedAt: string, now = new Date()): boolean {
-  return daysAgo(postedAt, now) <= MAX_AGE_DAYS
+export function isFresh(postedAt: string, maxAgeDays = MAX_AGE_DAYS, now = new Date()): boolean {
+  return daysAgo(postedAt, now) <= maxAgeDays
 }
 
 /** "hoy" / "ayer" / "hace 3 días" en el idioma del diccionario */

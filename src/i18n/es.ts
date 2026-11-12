@@ -27,6 +27,9 @@ export const es = {
   keywords: (list: string) => `Palabras clave: ${list}`,
   sources: (list: string) => `Webs: ${list}`,
   companies: (list: string) => `Empresas: ${list}`,
+  englishOnly: '🇬🇧 Solo con inglés',
+  englishOkBadge: '🇬🇧 Inglés OK',
+  seniority: { intern: 'Prácticas', junior: 'Junior', mid: 'Intermedio', senior: 'Senior', lead: 'Lead' },
 
   // Estados de la lista
   loading: 'Cargando ofertas…',

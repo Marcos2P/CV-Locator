@@ -25,6 +25,9 @@ export const de: Dictionary = {
   keywords: (list) => `Stichwörter: ${list}`,
   sources: (list) => `Websites: ${list}`,
   companies: (list) => `Firmen: ${list}`,
+  englishOnly: '🇬🇧 Nur mit Englisch',
+  englishOkBadge: '🇬🇧 Englisch OK',
+  seniority: { intern: 'Praktikum', junior: 'Junior', mid: 'Mid-Level', senior: 'Senior', lead: 'Lead' },
 
   // Listenstatus
   loading: 'Stellen werden geladen…',
