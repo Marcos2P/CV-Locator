@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-11-13T06:05:42.270Z",
+  "updatedAt": "2026-11-13T07:15:00.506Z",
   "jobs": [
+    {
+      "searchId": "hotel",
+      "title": "Mitarbeiter/in Hauswirtschaft",
+      "titleEs": "Personal de economía doméstica",
+      "company": "Tertianum",
+      "location": "Dübendorf ZH",
+      "postedAt": "2026-11-13",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/mitarbeiter-in-hauswirtschaft-at-tertianum-4490549455",
+      "summary": "Puesto de economía doméstica/limpieza en Tertianum, Dübendorf.",
+      "de": {
+        "title": "Mitarbeiter/in Hauswirtschaft",
+        "summary": "Mitarbeiter/in Hauswirtschaft bei Tertianum in Dübendorf."
+      },
+      "id": "39f1353abe89",
+      "foundAt": "2026-11-13T07:15:00.506Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Hilfskraft Hausbäckerei (m/w/d) ca. 35 %",
+      "titleEs": "Ayudante de panadería propia (≈35 %)",
+      "company": "Randstad (Schweiz) AG",
+      "location": "Stadt Zürich / Zürichsee",
+      "postedAt": "2026-11-13",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/f0fba778-f550-4e02-bb95-515ddf315eb3",
+      "summary": "Ayudante de panadería, tiempo parcial (≈35 %), vía Randstad.",
+      "de": {
+        "title": "Hilfskraft Hausbäckerei (m/w/d) ca. 35 %",
+        "summary": "Hilfskraft Hausbäckerei, Teilzeit (ca. 35 %), über Randstad."
+      },
+      "id": "a5ac0ccbc9bd",
+      "foundAt": "2026-11-13T07:15:00.506Z"
+    },
     {
       "searchId": "frontend-react",
       "title": "Software Engineer II - Frontend - Developer Platform",
