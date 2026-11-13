@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T19:38:18.262Z",
+  "updatedAt": "2026-11-13T19:38:54.119Z",
   "jobs": [
     {
       "searchId": "fullstack-ts",
@@ -4527,6 +4527,81 @@
     },
     {
       "searchId": "fullstack-ts",
+      "title": "Rust Engineer - FinTech",
+      "titleEs": "Ingeniero/a Rust – FinTech",
+      "company": "Academic Work Switzerland SA",
+      "location": "Zürich",
+      "postedAt": "2026-11-06",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/154f36a4-fa7f-4d3d-907a-31506b75b003",
+      "summary": "Desarrollo backend en Rust para una plataforma de trading institucional (datos de mercado, conectividad con bolsas y routing de órdenes).",
+      "description": "Desarrollar y mantener servicios de producción en Rust, diseñar sistemas backend concurrentes y orientados a eventos, integrar APIs de trading, optimizar rendimiento y colaborar con DevOps.",
+      "requirements": [
+        "Mínimo 3 años de backend o ingeniería de sistemas",
+        "Rust práctico (async, concurrencia)",
+        "Linux, redes y sistemas distribuidos",
+        "Inglés fluido; alemán es una ventaja"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Inglés fluido; alemán deseable",
+      "englishOk": true,
+      "seniority": "mid",
+      "de": {
+        "title": "Rust Engineer - FinTech",
+        "summary": "Backend-Entwicklung in Rust für eine institutionelle Trading-Plattform (Marktdaten, Exchange-Anbindung, Order-Routing).",
+        "description": "Entwicklung und Wartung von Produktionsservices in Rust, nebenläufige ereignisgesteuerte Backend-Systeme, Integration von Trading-APIs, Performance-Optimierung und Zusammenarbeit mit DevOps.",
+        "requirements": [
+          "Mind. 3 Jahre Backend- oder Systems-Engineering",
+          "Praktische Rust-Erfahrung (Async, Concurrency)",
+          "Linux, Netzwerke und verteilte Systeme",
+          "Flüssiges Englisch; Deutsch von Vorteil"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Englisch fliessend; Deutsch von Vorteil"
+      },
+      "id": "38d269ba960b",
+      "foundAt": "2026-11-13T19:38:54.119Z"
+    },
+    {
+      "searchId": "junior-it",
+      "title": "Lehrstelle Informatik EFZ - Fachrichtung Plattformentwicklung (f/m/d) | 100% | Start: 1. August 2027 | Zürich",
+      "titleEs": "Aprendizaje Informática EFZ – Desarrollo de plataformas (inicio agosto 2027)",
+      "company": "SMG Swiss Marketplace Group",
+      "location": "Zürich",
+      "postedAt": "2026-11-06",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/e809df58-d89c-443b-b76c-a37616a76bc7",
+      "summary": "Plaza de aprendizaje en informática (inicio 1 agosto 2027); las tareas descritas se centran en servidores, redes y soporte IT.",
+      "description": "Montar y operar servidores virtuales (Linux/Windows), planificar y monitorizar redes LAN, participar en proyectos IT y trabajar en helpdesk, gestión de aplicaciones y operaciones.",
+      "requirements": [
+        "Capacidad de análisis y resolución de problemas",
+        "Interés por la programación y la tecnología",
+        "Buen alemán e inglés escritos"
+      ],
+      "workload": "100 %",
+      "employmentType": "Aprendizaje (Lehrstelle)",
+      "language": "Alemán e inglés escritos buenos",
+      "seniority": "junior",
+      "de": {
+        "title": "Lehrstelle Informatik EFZ - Fachrichtung Plattformentwicklung (f/m/d) | 100% | Start: 1. August 2027 | Zürich",
+        "summary": "Lehrstelle als Informatiker/in EFZ (Start 1. August 2027); die Aufgaben betreffen Server, Netzwerke und IT-Support.",
+        "description": "Aufbau und Betrieb virtueller Server (Linux/Windows), Planung und Überwachung von LAN-Netzwerken, Mitarbeit in IT-Projekten sowie in Helpdesk, Applikationsmanagement und IT-Betrieb.",
+        "requirements": [
+          "Analytisches Denken und Problemlösungsfähigkeit",
+          "Begeisterung für Programmierung und Technologie",
+          "Gutes schriftliches Deutsch und Englisch"
+        ],
+        "workload": "100 %",
+        "employmentType": "Lehrstelle",
+        "language": "Gutes schriftliches Deutsch und Englisch"
+      },
+      "id": "5a05d44d3959",
+      "foundAt": "2026-11-13T19:38:54.119Z"
+    },
+    {
+      "searchId": "fullstack-ts",
       "title": "Senior Java Engineer - Enterprise Software",
       "titleEs": "Ingeniero/a Java senior - software empresarial",
       "company": "SUMEX AG",
@@ -7327,6 +7402,45 @@
       },
       "id": "c1b675281d09",
       "foundAt": "2026-11-12T15:20:33.966Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior .Net Engineer",
+      "titleEs": "Ingeniero/a .NET senior",
+      "company": "ti&m AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-02",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/ee9933bb-0007-4550-9b18-4eca2f2baea4",
+      "summary": "Desarrollo de soluciones a medida en el stack Microsoft (.NET, Azure) con experiencia en frontend (React, Angular o Blazor).",
+      "description": "Apoyar a clientes en análisis, diseño e implementación de proyectos, crear soluciones técnicas, introducir estándares de arquitectura y participar en revisiones y prototipos.",
+      "requirements": [
+        "Titulación en informática",
+        "Experiencia en .NET y Azure",
+        "Frontend con React, Angular o Blazor",
+        "APIs REST, arquitectura limpia, SQL/ORM"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán fluido, inglés avanzado",
+      "englishOk": false,
+      "seniority": "senior",
+      "de": {
+        "title": "Senior .Net Engineer",
+        "summary": "Entwicklung individueller Lösungen im Microsoft-Stack (.NET, Azure) mit Frontend-Erfahrung (React, Angular oder Blazor).",
+        "description": "Kunden bei Analyse, Konzeption und Umsetzung von Softwareprojekten unterstützen, technische Lösungskonzepte erstellen, Architekturstandards einführen und an Reviews und Prototypen mitwirken.",
+        "requirements": [
+          "Hochschulabschluss in Informatik",
+          "Erfahrung mit .NET und Azure",
+          "Frontend mit React, Angular oder Blazor",
+          "REST-APIs, Clean Architecture, SQL/ORM"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch fliessend, Englisch fortgeschritten"
+      },
+      "id": "64ab29e5bf9c",
+      "foundAt": "2026-11-13T19:38:54.119Z"
     },
     {
       "searchId": "frontend-react",
