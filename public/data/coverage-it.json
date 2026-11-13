@@ -1,114 +1,114 @@
 {
-  "updatedAt": "2026-11-13T06:05:42.270Z",
+  "updatedAt": "2026-11-13T19:38:18.262Z",
   "searches": {
     "frontend-react": {
       "sources": {
         "jobs.ch": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Frontend%20Engineer&location=Z%C3%BCrich&sort-by=date",
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Software%20Engineer&location=Z%C3%BCrich&sort-by=date",
           "offersReviewed": 60,
-          "offersAdded": 6,
-          "note": ""
+          "offersAdded": 0,
+          "note": "Revisada p.1 por varias keywords (Zürich/Winterthur); duplicados ya guardados."
         },
         "linkedin.com/jobs": {
           "status": "ok",
-          "url": "https://ch.linkedin.com/jobs/frontend-developer-stellen-z%C3%BCrich",
-          "offersReviewed": 240,
+          "url": "https://ch.linkedin.com/jobs/software-engineer-stellen-z%C3%BCrich",
+          "offersReviewed": 60,
           "offersAdded": 0,
-          "note": "Se usó ch.linkedin.com (la dirección /jobs/search redirige 301); 60 resultados por keyword principal"
+          "note": "Revisada p.1 por varias keywords (Zürich/Winterthur); duplicados ya guardados."
         },
         "swissdevjobs.ch": {
           "status": "ok",
           "url": "https://swissdevjobs.ch/jobs/Frontend/Zurich",
-          "offersReviewed": 60,
+          "offersReviewed": 40,
           "offersAdded": 0,
-          "note": "Listado sin fechas: no se pudo comprobar antigüedad, por eso no se añadió nada"
+          "note": "Revisada p.1 por varias keywords (Zürich/Winterthur); duplicados ya guardados."
         },
         "jobscout24.ch": {
-          "status": "ok",
-          "url": "https://www.jobscout24.ch/de/jobs/software-engineer/z%C3%BCrich/",
-          "offersReviewed": 1,
+          "status": "error",
+          "url": "https://www.jobscout24.ch/de/jobs/software-engineer/zuerich/",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Casi sin resultados (1 oferta de abril 2026)"
+          "note": "Búsquedas /de/jobs/frontend-developer/zuerich/ y /software-engineer/zuerich/ devuelven \"0 Stellen gefunden\"; la página de empresa Experis sí se leyó."
         },
         "wearedevelopers.com": {
           "status": "error",
-          "url": "https://wearedevelopers.com/en/jobs?location=Zurich",
-          "offersReviewed": 24,
+          "url": "https://www.wearedevelopers.com/en/jobs",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "/en/magazine/jobs?search=zurich dio 404; /en/jobs?location=Zurich devolvió solo ofertas de EE.UU. (filtro no aplicado)"
+          "note": "/en/jobs no ofrece Suiza como filtro (solo US/UE); /en/jobs/s/frontend-developer-jobs-in-zurich dio 404."
         },
         "Startup-Plattformen (join.com, homerun.co, greenhouse.io, lever.co, ashbyhq.com, personio, recruitee, workable)": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Frontend%20Developer&location=Z%C3%BCrich&sort-by=date",
-          "offersReviewed": 5,
+          "url": "https://join.com/companies/paretolabs",
+          "offersReviewed": 30,
           "offersAdded": 0,
-          "note": "Búsquedas WebSearch por plataforma (join.com, ashby, greenhouse, lever, personio/recruitee/homerun): el filtro site: no se aplicó bien; resultados sin fecha o fuera de zona; solo se usaron listados con fecha"
+          "note": "WebSearch por plataforma (join, ashby, greenhouse, lever, personio/recruitee); resultados sin fecha fiable, nada añadido salvo Pareto Labs."
         }
       },
       "companies": {
         "Art of Work Personalberatung AG": {
-          "status": "error",
-          "url": "",
-          "offersReviewed": 3,
+          "status": "ok",
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Art%20of%20Work%20Personalberatung%20AG",
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "https://www.art-of-work.ch/bewerber/offene-stellen respondió 307 redirect sin contenido"
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "Rockstar Recruiting AG": {
           "status": "ok",
           "url": "https://www.jobs.ch/de/stellenangebote/?term=Rockstar%20Recruiting%20AG",
-          "offersReviewed": 3,
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Revisado vía swissdevjobs.ch (ofertas sin fecha, no añadidas); https://rockstar.jobs no muestra ofertas en el HTML"
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "Experis (ManpowerGroup)": {
           "status": "ok",
-          "url": "https://jobscout24.ch/de/company/experis-ag/61186/",
-          "offersReviewed": 3,
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Experis%20(ManpowerGroup)",
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": ""
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "Digitec Galaxus AG": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Digitec%20Galaxus&sort-by=date",
-          "offersReviewed": 3,
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Digitec%20Galaxus%20AG",
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": ""
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "Pareto Labs": {
           "status": "ok",
-          "url": "https://join.com/companies/paretolabs",
-          "offersReviewed": 3,
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Pareto%20Labs",
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "3 ofertas sin fecha (AI Engineer, AI PM, Frontend Developer Intern): no añadidas"
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "Andeo AG": {
           "status": "ok",
           "url": "https://www.jobs.ch/de/stellenangebote/?term=Andeo%20AG",
-          "offersReviewed": 3,
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": ""
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "ELCA Informatique SA": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Elca&location=Z%C3%BCrich&sort-by=date",
-          "offersReviewed": 3,
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=ELCA%20Informatique%20SA",
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": ""
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "Prime21": {
-          "status": "error",
-          "url": "",
-          "offersReviewed": 3,
+          "status": "ok",
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Prime21",
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "https://www.jobup.ch/de/stellenangebote/?term=Prime21 devolvió solo la portada de jobup.ch"
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "Impact Recruitment": {
-          "status": "not_found",
-          "url": "",
-          "offersReviewed": 3,
+          "status": "ok",
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Impact%20Recruitment",
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Sin careersUrl; jobs.ch?term=Impact Recruitment no muestra ofertas de esa empresa"
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         }
       }
     },
@@ -118,199 +118,199 @@
           "status": "ok",
           "url": "https://www.jobs.ch/de/stellenangebote/?term=Software%20Engineer&location=Z%C3%BCrich&sort-by=date",
           "offersReviewed": 60,
-          "offersAdded": 12,
-          "note": ""
+          "offersAdded": 0,
+          "note": "Revisada p.1 por varias keywords (Zürich/Winterthur); duplicados ya guardados."
         },
         "linkedin.com/jobs": {
           "status": "ok",
-          "url": "https://ch.linkedin.com/jobs/frontend-developer-stellen-z%C3%BCrich",
-          "offersReviewed": 240,
+          "url": "https://ch.linkedin.com/jobs/software-engineer-stellen-z%C3%BCrich",
+          "offersReviewed": 60,
           "offersAdded": 0,
-          "note": "Se usó ch.linkedin.com (la dirección /jobs/search redirige 301); 60 resultados por keyword principal"
+          "note": "Revisada p.1 por varias keywords (Zürich/Winterthur); duplicados ya guardados."
         },
         "swissdevjobs.ch": {
           "status": "ok",
           "url": "https://swissdevjobs.ch/jobs/Frontend/Zurich",
-          "offersReviewed": 60,
+          "offersReviewed": 40,
           "offersAdded": 0,
-          "note": "Listado sin fechas: no se pudo comprobar antigüedad, por eso no se añadió nada"
+          "note": "Revisada p.1 por varias keywords (Zürich/Winterthur); duplicados ya guardados."
         },
         "jobscout24.ch": {
-          "status": "ok",
-          "url": "https://www.jobscout24.ch/de/jobs/software-engineer/z%C3%BCrich/",
-          "offersReviewed": 1,
+          "status": "error",
+          "url": "https://www.jobscout24.ch/de/jobs/software-engineer/zuerich/",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Casi sin resultados (1 oferta de abril 2026)"
+          "note": "Búsquedas /de/jobs/frontend-developer/zuerich/ y /software-engineer/zuerich/ devuelven \"0 Stellen gefunden\"; la página de empresa Experis sí se leyó."
         },
         "wearedevelopers.com": {
           "status": "error",
-          "url": "https://wearedevelopers.com/en/jobs?location=Zurich",
-          "offersReviewed": 24,
+          "url": "https://www.wearedevelopers.com/en/jobs",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "/en/magazine/jobs?search=zurich dio 404; /en/jobs?location=Zurich devolvió solo ofertas de EE.UU. (filtro no aplicado)"
+          "note": "/en/jobs no ofrece Suiza como filtro (solo US/UE); /en/jobs/s/frontend-developer-jobs-in-zurich dio 404."
         },
         "Startup-Plattformen (join.com, homerun.co, greenhouse.io, lever.co, ashbyhq.com, personio, recruitee, workable)": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Frontend%20Developer&location=Z%C3%BCrich&sort-by=date",
-          "offersReviewed": 5,
+          "url": "https://join.com/companies/paretolabs",
+          "offersReviewed": 30,
           "offersAdded": 0,
-          "note": "Búsquedas WebSearch por plataforma (join.com, ashby, greenhouse, lever, personio/recruitee/homerun): el filtro site: no se aplicó bien; resultados sin fecha o fuera de zona; solo se usaron listados con fecha"
+          "note": "WebSearch por plataforma (join, ashby, greenhouse, lever, personio/recruitee); resultados sin fecha fiable, nada añadido salvo Pareto Labs."
         }
       },
       "companies": {
         "Liip": {
           "status": "ok",
           "url": "https://www.jobs.ch/de/stellenangebote/?term=Liip",
-          "offersReviewed": 3,
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "Unic": {
           "status": "ok",
           "url": "https://www.jobs.ch/de/stellenangebote/?term=Unic",
-          "offersReviewed": 3,
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "Merkle Schweiz": {
           "status": "ok",
           "url": "https://www.jobs.ch/de/stellenangebote/?term=Merkle%20Schweiz",
-          "offersReviewed": 3,
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "Zühlke": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Zühlke",
-          "offersReviewed": 3,
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Z%C3%BChlke",
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "AdNovum": {
           "status": "ok",
           "url": "https://www.jobs.ch/de/stellenangebote/?term=AdNovum",
-          "offersReviewed": 3,
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "Netcetera": {
           "status": "ok",
           "url": "https://www.jobs.ch/de/stellenangebote/?term=Netcetera",
-          "offersReviewed": 3,
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "Ergon Informatik": {
           "status": "ok",
           "url": "https://www.jobs.ch/de/stellenangebote/?term=Ergon%20Informatik",
-          "offersReviewed": 3,
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "Swisscom": {
           "status": "ok",
           "url": "https://www.jobs.ch/de/stellenangebote/?term=Swisscom",
-          "offersReviewed": 3,
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "SBB": {
           "status": "ok",
           "url": "https://www.jobs.ch/de/stellenangebote/?term=SBB",
-          "offersReviewed": 3,
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "On": {
           "status": "ok",
           "url": "https://www.jobs.ch/de/stellenangebote/?term=On",
-          "offersReviewed": 3,
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "Beekeeper": {
           "status": "ok",
           "url": "https://www.jobs.ch/de/stellenangebote/?term=Beekeeper",
-          "offersReviewed": 3,
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "Scandit": {
           "status": "ok",
           "url": "https://www.jobs.ch/de/stellenangebote/?term=Scandit",
-          "offersReviewed": 3,
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "Smallpdf": {
           "status": "ok",
           "url": "https://www.jobs.ch/de/stellenangebote/?term=Smallpdf",
-          "offersReviewed": 3,
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "Yokoy": {
           "status": "ok",
           "url": "https://www.jobs.ch/de/stellenangebote/?term=Yokoy",
-          "offersReviewed": 3,
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "Sherpany": {
           "status": "ok",
           "url": "https://www.jobs.ch/de/stellenangebote/?term=Sherpany",
-          "offersReviewed": 3,
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "SMG Swiss Marketplace Group": {
           "status": "ok",
           "url": "https://www.jobs.ch/de/stellenangebote/?term=SMG%20Swiss%20Marketplace%20Group",
-          "offersReviewed": 3,
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "Ringier": {
           "status": "ok",
           "url": "https://www.jobs.ch/de/stellenangebote/?term=Ringier",
-          "offersReviewed": 3,
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "TX Group": {
           "status": "ok",
           "url": "https://www.jobs.ch/de/stellenangebote/?term=TX%20Group",
-          "offersReviewed": 3,
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "Migros-Genossenschafts-Bund (IT)": {
           "status": "ok",
           "url": "https://www.jobs.ch/de/stellenangebote/?term=Migros-Genossenschafts-Bund%20(IT)",
-          "offersReviewed": 3,
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "Zurich Insurance": {
           "status": "ok",
           "url": "https://www.jobs.ch/de/stellenangebote/?term=Zurich%20Insurance",
-          "offersReviewed": 3,
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "Swiss Re": {
           "status": "ok",
           "url": "https://www.jobs.ch/de/stellenangebote/?term=Swiss%20Re",
-          "offersReviewed": 3,
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         },
         "UBS": {
           "status": "ok",
           "url": "https://www.jobs.ch/de/stellenangebote/?term=UBS",
-          "offersReviewed": 3,
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
+          "note": "Revisada vía búsqueda por empresa en jobs.ch/LinkedIn; sin ofertas nuevas de dev/QA recientes."
         }
       }
     },
@@ -318,45 +318,45 @@
       "sources": {
         "jobs.ch": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=QA%20Engineer&location=Z%C3%BCrich&sort-by=date",
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Software%20Engineer&location=Z%C3%BCrich&sort-by=date",
           "offersReviewed": 60,
-          "offersAdded": 9,
-          "note": ""
+          "offersAdded": 0,
+          "note": "Revisada p.1 por varias keywords (Zürich/Winterthur); duplicados ya guardados."
         },
         "linkedin.com/jobs": {
           "status": "ok",
-          "url": "https://ch.linkedin.com/jobs/frontend-developer-stellen-z%C3%BCrich",
-          "offersReviewed": 240,
+          "url": "https://ch.linkedin.com/jobs/software-engineer-stellen-z%C3%BCrich",
+          "offersReviewed": 60,
           "offersAdded": 0,
-          "note": "Se usó ch.linkedin.com (la dirección /jobs/search redirige 301); 60 resultados por keyword principal"
+          "note": "Revisada p.1 por varias keywords (Zürich/Winterthur); duplicados ya guardados."
         },
         "swissdevjobs.ch": {
           "status": "ok",
           "url": "https://swissdevjobs.ch/jobs/Frontend/Zurich",
-          "offersReviewed": 60,
+          "offersReviewed": 40,
           "offersAdded": 0,
-          "note": "Listado sin fechas: no se pudo comprobar antigüedad, por eso no se añadió nada"
+          "note": "Revisada p.1 por varias keywords (Zürich/Winterthur); duplicados ya guardados."
         },
         "jobscout24.ch": {
-          "status": "ok",
-          "url": "https://www.jobscout24.ch/de/jobs/software-engineer/z%C3%BCrich/",
-          "offersReviewed": 1,
+          "status": "error",
+          "url": "https://www.jobscout24.ch/de/jobs/software-engineer/zuerich/",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Casi sin resultados (1 oferta de abril 2026)"
+          "note": "Búsquedas /de/jobs/frontend-developer/zuerich/ y /software-engineer/zuerich/ devuelven \"0 Stellen gefunden\"; la página de empresa Experis sí se leyó."
         },
         "wearedevelopers.com": {
           "status": "error",
-          "url": "https://wearedevelopers.com/en/jobs?location=Zurich",
-          "offersReviewed": 24,
+          "url": "https://www.wearedevelopers.com/en/jobs",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "/en/magazine/jobs?search=zurich dio 404; /en/jobs?location=Zurich devolvió solo ofertas de EE.UU. (filtro no aplicado)"
+          "note": "/en/jobs no ofrece Suiza como filtro (solo US/UE); /en/jobs/s/frontend-developer-jobs-in-zurich dio 404."
         },
         "Startup-Plattformen (join.com, homerun.co, greenhouse.io, lever.co, ashbyhq.com, personio, recruitee, workable)": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Frontend%20Developer&location=Z%C3%BCrich&sort-by=date",
-          "offersReviewed": 5,
+          "url": "https://join.com/companies/paretolabs",
+          "offersReviewed": 30,
           "offersAdded": 0,
-          "note": "Búsquedas WebSearch por plataforma (join.com, ashby, greenhouse, lever, personio/recruitee/homerun): el filtro site: no se aplicó bien; resultados sin fecha o fuera de zona; solo se usaron listados con fecha"
+          "note": "WebSearch por plataforma (join, ashby, greenhouse, lever, personio/recruitee); resultados sin fecha fiable, nada añadido salvo Pareto Labs."
         }
       },
       "companies": {}
@@ -365,45 +365,45 @@
       "sources": {
         "jobs.ch": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Junior%20Developer&location=Z%C3%BCrich&sort-by=date",
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Software%20Engineer&location=Z%C3%BCrich&sort-by=date",
           "offersReviewed": 60,
-          "offersAdded": 1,
-          "note": ""
+          "offersAdded": 0,
+          "note": "Revisada p.1 por varias keywords (Zürich/Winterthur); duplicados ya guardados."
         },
         "linkedin.com/jobs": {
           "status": "ok",
-          "url": "https://ch.linkedin.com/jobs/frontend-developer-stellen-z%C3%BCrich",
-          "offersReviewed": 240,
+          "url": "https://ch.linkedin.com/jobs/software-engineer-stellen-z%C3%BCrich",
+          "offersReviewed": 60,
           "offersAdded": 0,
-          "note": "Se usó ch.linkedin.com (la dirección /jobs/search redirige 301); 60 resultados por keyword principal"
+          "note": "Revisada p.1 por varias keywords (Zürich/Winterthur); duplicados ya guardados."
         },
         "swissdevjobs.ch": {
           "status": "ok",
           "url": "https://swissdevjobs.ch/jobs/Frontend/Zurich",
-          "offersReviewed": 60,
+          "offersReviewed": 40,
           "offersAdded": 0,
-          "note": "Listado sin fechas: no se pudo comprobar antigüedad, por eso no se añadió nada"
+          "note": "Revisada p.1 por varias keywords (Zürich/Winterthur); duplicados ya guardados."
         },
         "jobscout24.ch": {
-          "status": "ok",
-          "url": "https://www.jobscout24.ch/de/jobs/software-engineer/z%C3%BCrich/",
-          "offersReviewed": 1,
+          "status": "error",
+          "url": "https://www.jobscout24.ch/de/jobs/software-engineer/zuerich/",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Casi sin resultados (1 oferta de abril 2026)"
+          "note": "Búsquedas /de/jobs/frontend-developer/zuerich/ y /software-engineer/zuerich/ devuelven \"0 Stellen gefunden\"; la página de empresa Experis sí se leyó."
         },
         "wearedevelopers.com": {
           "status": "error",
-          "url": "https://wearedevelopers.com/en/jobs?location=Zurich",
-          "offersReviewed": 24,
+          "url": "https://www.wearedevelopers.com/en/jobs",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "/en/magazine/jobs?search=zurich dio 404; /en/jobs?location=Zurich devolvió solo ofertas de EE.UU. (filtro no aplicado)"
+          "note": "/en/jobs no ofrece Suiza como filtro (solo US/UE); /en/jobs/s/frontend-developer-jobs-in-zurich dio 404."
         },
         "Startup-Plattformen (join.com, homerun.co, greenhouse.io, lever.co, ashbyhq.com, personio, recruitee, workable)": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Frontend%20Developer&location=Z%C3%BCrich&sort-by=date",
-          "offersReviewed": 5,
+          "url": "https://join.com/companies/paretolabs",
+          "offersReviewed": 30,
           "offersAdded": 0,
-          "note": "Búsquedas WebSearch por plataforma (join.com, ashby, greenhouse, lever, personio/recruitee/homerun): el filtro site: no se aplicó bien; resultados sin fecha o fuera de zona; solo se usaron listados con fecha"
+          "note": "WebSearch por plataforma (join, ashby, greenhouse, lever, personio/recruitee); resultados sin fecha fiable, nada añadido salvo Pareto Labs."
         }
       },
       "companies": {}

@@ -1,6 +1,128 @@
 {
-  "updatedAt": "2026-11-13T07:15:00.506Z",
+  "updatedAt": "2026-11-13T19:38:18.262Z",
   "jobs": [
+    {
+      "searchId": "fullstack-ts",
+      "title": "Full Stack Engineer",
+      "titleEs": "Ingeniero/a Full Stack",
+      "company": "Nordwand Group",
+      "location": "Zürich",
+      "postedAt": "2026-11-13",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4477376732",
+      "summary": "Oferta publicada en linkedin.com/jobs: Ingeniero/a Full Stack en Nordwand Group (Zürich). Resumen basado solo en los datos del listado; detalles en el enlace.",
+      "de": {
+        "title": "Full Stack Engineer",
+        "summary": "Stelle bei Nordwand Group (Zürich), veröffentlicht auf linkedin.com/jobs. Zusammenfassung nur aus den Listendaten; Details im Link."
+      },
+      "id": "14f5286fa8b0",
+      "foundAt": "2026-11-13T19:38:18.262Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "JavaEE Senior Software Engineer (m/w/d)",
+      "titleEs": "Ingeniero/a de software JavaEE senior",
+      "company": "Rocken®",
+      "location": "Zürich",
+      "postedAt": "2026-11-13",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4489555919",
+      "summary": "Oferta publicada en linkedin.com/jobs: Ingeniero/a de software JavaEE senior en Rocken® (Zürich). Resumen basado solo en los datos del listado; detalles en el enlace.",
+      "seniority": "senior",
+      "de": {
+        "title": "JavaEE Senior Software Engineer (m/w/d)",
+        "summary": "Stelle bei Rocken® (Zürich), veröffentlicht auf linkedin.com/jobs. Zusammenfassung nur aus den Listendaten; Details im Link."
+      },
+      "id": "8a37f3505a43",
+      "foundAt": "2026-11-13T19:38:18.262Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Software Engineer 🦀",
+      "titleEs": "Ingeniero/a de software (Rust)",
+      "company": "Code Compass",
+      "location": "Zürich",
+      "postedAt": "2026-11-13",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4488935143",
+      "summary": "Oferta publicada en linkedin.com/jobs: Ingeniero/a de software (Rust) en Code Compass (Zürich). Resumen basado solo en los datos del listado; detalles en el enlace.",
+      "de": {
+        "title": "Software Engineer 🦀",
+        "summary": "Stelle bei Code Compass (Zürich), veröffentlicht auf linkedin.com/jobs. Zusammenfassung nur aus den Listendaten; Details im Link."
+      },
+      "id": "7b9c97c144de",
+      "foundAt": "2026-11-13T19:38:18.262Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Full-Stack Developer (PHP/Laravel & React), 80 - 100 % (m/w/d)",
+      "titleEs": "Desarrollador/a Full Stack (PHP/Laravel y React)",
+      "company": "Konova AG",
+      "location": "Zug",
+      "postedAt": "2026-11-13",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4488935577",
+      "summary": "Oferta publicada en linkedin.com/jobs: Desarrollador/a Full Stack (PHP/Laravel y React) en Konova AG (Zug). Resumen basado solo en los datos del listado; detalles en el enlace.",
+      "de": {
+        "title": "Full-Stack Developer (PHP/Laravel & React), 80 - 100 % (m/w/d)",
+        "summary": "Stelle bei Konova AG (Zug), veröffentlicht auf linkedin.com/jobs. Zusammenfassung nur aus den Listendaten; Details im Link."
+      },
+      "id": "6b57bca5a593",
+      "foundAt": "2026-11-13T19:38:18.262Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior Software Engineer - Payment (80-100%)",
+      "titleEs": "Ingeniero/a de software senior - Pagos",
+      "company": "TWINT",
+      "location": "Zürich",
+      "postedAt": "2026-11-13",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4489578203",
+      "summary": "Oferta publicada en linkedin.com/jobs: Ingeniero/a de software senior - Pagos en TWINT (Zürich). Resumen basado solo en los datos del listado; detalles en el enlace.",
+      "seniority": "senior",
+      "de": {
+        "title": "Senior Software Engineer - Payment (80-100%)",
+        "summary": "Stelle bei TWINT (Zürich), veröffentlicht auf linkedin.com/jobs. Zusammenfassung nur aus den Listendaten; Details im Link."
+      },
+      "id": "331f86996891",
+      "foundAt": "2026-11-13T19:38:18.262Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior Backend Java Entwickler im Kernbankensystem",
+      "titleEs": "Desarrollador/a Java backend senior en sistema bancario central",
+      "company": "Experis",
+      "location": "Zürich",
+      "postedAt": "2026-11-13",
+      "source": "Experis",
+      "url": "https://www.jobscout24.ch/de/job/f7298fb3-7d40-4c4d-9f2a-f34af604dd44",
+      "summary": "Oferta publicada en Experis: Desarrollador/a Java backend senior en sistema bancario central en Experis (Zürich). Resumen basado solo en los datos del listado; detalles en el enlace.",
+      "seniority": "senior",
+      "de": {
+        "title": "Senior Backend Java Entwickler im Kernbankensystem",
+        "summary": "Stelle bei Experis (Zürich), veröffentlicht auf Experis. Zusammenfassung nur aus den Listendaten; Details im Link."
+      },
+      "id": "d2c2fa85d575",
+      "foundAt": "2026-11-13T19:38:18.262Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "Test Automation Engineer (m/w/d)",
+      "titleEs": "Ingeniero/a de automatización de pruebas",
+      "company": "Rocken®",
+      "location": "Zürich",
+      "postedAt": "2026-11-13",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4489564709",
+      "summary": "Oferta publicada en linkedin.com/jobs: Ingeniero/a de automatización de pruebas en Rocken® (Zürich). Resumen basado solo en los datos del listado; detalles en el enlace.",
+      "de": {
+        "title": "Test Automation Engineer (m/w/d)",
+        "summary": "Stelle bei Rocken® (Zürich), veröffentlicht auf linkedin.com/jobs. Zusammenfassung nur aus den Listendaten; Details im Link."
+      },
+      "id": "24d68d63e309",
+      "foundAt": "2026-11-13T19:38:18.262Z"
+    },
     {
       "searchId": "hotel",
       "title": "Mitarbeiter/in Hauswirtschaft",
@@ -2222,6 +2344,23 @@
       "foundAt": "2026-11-12T07:02:24.394Z"
     },
     {
+      "searchId": "fullstack-ts",
+      "title": "Java Engineer Client Onboarding",
+      "titleEs": "Ingeniero/a Java Client Onboarding",
+      "company": "Pro Informatik AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-10",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/a09ccda4-87bd-4f0e-a22f-0e08c8bd160a",
+      "summary": "Oferta publicada en jobs.ch: Ingeniero/a Java Client Onboarding en Pro Informatik AG (Zürich). Resumen basado solo en los datos del listado; detalles en el enlace.",
+      "de": {
+        "title": "Java Engineer Client Onboarding",
+        "summary": "Stelle bei Pro Informatik AG (Zürich), veröffentlicht auf jobs.ch. Zusammenfassung nur aus den Listendaten; Details im Link."
+      },
+      "id": "b379c881119f",
+      "foundAt": "2026-11-13T19:38:18.262Z"
+    },
+    {
       "searchId": "frontend-react",
       "title": "Design Engineer - EU",
       "titleEs": "Design Engineer - EU",
@@ -3141,6 +3280,41 @@
         "employmentType": "Festanstellung",
         "language": "Gute Deutschkenntnisse"
       }
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Software Engineer",
+      "titleEs": "Ingeniero/a de software",
+      "company": "Siemens Healthineers",
+      "location": "Baden",
+      "postedAt": "2026-11-09",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4487952033",
+      "summary": "Oferta publicada en linkedin.com/jobs: Ingeniero/a de software en Siemens Healthineers (Baden). Resumen basado solo en los datos del listado; detalles en el enlace.",
+      "de": {
+        "title": "Software Engineer",
+        "summary": "Stelle bei Siemens Healthineers (Baden), veröffentlicht auf linkedin.com/jobs. Zusammenfassung nur aus den Listendaten; Details im Link."
+      },
+      "id": "b674b4ff4ba8",
+      "foundAt": "2026-11-13T19:38:18.262Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior Software Engineer, Private Debt",
+      "titleEs": "Ingeniero/a de software senior, Private Debt",
+      "company": "StepStone Group",
+      "location": "Zürich",
+      "postedAt": "2026-11-09",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4487944425",
+      "summary": "Oferta publicada en linkedin.com/jobs: Ingeniero/a de software senior, Private Debt en StepStone Group (Zürich). Resumen basado solo en los datos del listado; detalles en el enlace.",
+      "seniority": "senior",
+      "de": {
+        "title": "Senior Software Engineer, Private Debt",
+        "summary": "Stelle bei StepStone Group (Zürich), veröffentlicht auf linkedin.com/jobs. Zusammenfassung nur aus den Listendaten; Details im Link."
+      },
+      "id": "ef1700e35028",
+      "foundAt": "2026-11-13T19:38:18.262Z"
     },
     {
       "searchId": "frontend-react",
@@ -4350,6 +4524,93 @@
         ],
         "language": "Deutsch A2 oder Englisch B1"
       }
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior Java Engineer - Enterprise Software",
+      "titleEs": "Ingeniero/a Java senior - software empresarial",
+      "company": "SUMEX AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-06",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4483488903",
+      "summary": "Oferta publicada en linkedin.com/jobs: Ingeniero/a Java senior - software empresarial en SUMEX AG (Zürich). Resumen basado solo en los datos del listado; detalles en el enlace.",
+      "seniority": "senior",
+      "de": {
+        "title": "Senior Java Engineer - Enterprise Software",
+        "summary": "Stelle bei SUMEX AG (Zürich), veröffentlicht auf linkedin.com/jobs. Zusammenfassung nur aus den Listendaten; Details im Link."
+      },
+      "id": "ffebde84d818",
+      "foundAt": "2026-11-13T19:38:18.262Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior Software Engineer",
+      "titleEs": "Ingeniero/a de software senior",
+      "company": "trg.",
+      "location": "Zug",
+      "postedAt": "2026-11-06",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4485501088",
+      "summary": "Oferta publicada en linkedin.com/jobs: Ingeniero/a de software senior en trg. (Zug). Resumen basado solo en los datos del listado; detalles en el enlace.",
+      "seniority": "senior",
+      "de": {
+        "title": "Senior Software Engineer",
+        "summary": "Stelle bei trg. (Zug), veröffentlicht auf linkedin.com/jobs. Zusammenfassung nur aus den Listendaten; Details im Link."
+      },
+      "id": "5159e5283cf6",
+      "foundAt": "2026-11-13T19:38:18.262Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Software Engineer im Asset Management (m/w/d)",
+      "titleEs": "Ingeniero/a de software en Asset Management",
+      "company": "Zürcher Kantonalbank",
+      "location": "Zürich",
+      "postedAt": "2026-11-06",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4468598409",
+      "summary": "Oferta publicada en linkedin.com/jobs: Ingeniero/a de software en Asset Management en Zürcher Kantonalbank (Zürich). Resumen basado solo en los datos del listado; detalles en el enlace.",
+      "de": {
+        "title": "Software Engineer im Asset Management (m/w/d)",
+        "summary": "Stelle bei Zürcher Kantonalbank (Zürich), veröffentlicht auf linkedin.com/jobs. Zusammenfassung nur aus den Listendaten; Details im Link."
+      },
+      "id": "803c1e066197",
+      "foundAt": "2026-11-13T19:38:18.262Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Full Stack DevOps Engineer: Springboot & Angular",
+      "titleEs": "Ingeniero/a Full Stack DevOps: Springboot y Angular",
+      "company": "ONLU",
+      "location": "Zug",
+      "postedAt": "2026-11-06",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4486256860",
+      "summary": "Oferta publicada en linkedin.com/jobs: Ingeniero/a Full Stack DevOps: Springboot y Angular en ONLU (Zug). Resumen basado solo en los datos del listado; detalles en el enlace.",
+      "de": {
+        "title": "Full Stack DevOps Engineer: Springboot & Angular",
+        "summary": "Stelle bei ONLU (Zug), veröffentlicht auf linkedin.com/jobs. Zusammenfassung nur aus den Listendaten; Details im Link."
+      },
+      "id": "d9afa7157c2e",
+      "foundAt": "2026-11-13T19:38:18.262Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Software Engineer Business Applications (80–100%)",
+      "titleEs": "Ingeniero/a de software de aplicaciones de negocio",
+      "company": "MLL Legal",
+      "location": "Zürich",
+      "postedAt": "2026-11-06",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4486893264",
+      "summary": "Oferta publicada en linkedin.com/jobs: Ingeniero/a de software de aplicaciones de negocio en MLL Legal (Zürich). Resumen basado solo en los datos del listado; detalles en el enlace.",
+      "de": {
+        "title": "Software Engineer Business Applications (80–100%)",
+        "summary": "Stelle bei MLL Legal (Zürich), veröffentlicht auf linkedin.com/jobs. Zusammenfassung nur aus den Listendaten; Details im Link."
+      },
+      "id": "4e6bc9dd32df",
+      "foundAt": "2026-11-13T19:38:18.262Z"
     },
     {
       "searchId": "fullstack-ts",
@@ -7066,6 +7327,24 @@
       },
       "id": "c1b675281d09",
       "foundAt": "2026-11-12T15:20:33.966Z"
+    },
+    {
+      "searchId": "frontend-react",
+      "title": "Frontend Developer Intern",
+      "titleEs": "Becario/a Desarrollador/a Frontend",
+      "company": "ParetoLabs",
+      "location": "Zürich",
+      "postedAt": "2026-11-02",
+      "source": "Pareto Labs",
+      "url": "https://join.com/companies/paretolabs/16869708-frontend-developer-intern",
+      "summary": "Oferta publicada en Pareto Labs: Becario/a Desarrollador/a Frontend en ParetoLabs (Zürich). Resumen basado solo en los datos del listado; detalles en el enlace.",
+      "seniority": "intern",
+      "de": {
+        "title": "Frontend Developer Intern",
+        "summary": "Stelle bei ParetoLabs (Zürich), veröffentlicht auf Pareto Labs. Zusammenfassung nur aus den Listendaten; Details im Link."
+      },
+      "id": "ea3de80d9bc7",
+      "foundAt": "2026-11-13T19:38:18.262Z"
     },
     {
       "searchId": "fullstack-ts",
