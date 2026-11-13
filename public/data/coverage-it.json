@@ -1,114 +1,114 @@
 {
-  "updatedAt": "2026-11-12T20:17:38.597Z",
+  "updatedAt": "2026-11-13T06:05:42.270Z",
   "searches": {
     "frontend-react": {
       "sources": {
         "jobs.ch": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Frontend%20Developer&location=Z%C3%BCrich&sort-by=date",
-          "offersReviewed": 120,
-          "offersAdded": 1,
-          "note": "Buscadas keywords Frontend Developer/Engineer, React Developer, Frontend-Entwickler, Webentwickler Frontend, UI Developer, JavaScript Developer, Angular Developer, Vue.js Developer, Web Developer en Zürich; Frontend/React/Web Developer en Winterthur (0 resultados); Zug, Baden y remoto. Solo página 1 por término. Casi todo ya guardado, antiguo o Java/UX; añadida 1 oferta (Swiss Medical Network, fullstack-ts)."
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Frontend%20Engineer&location=Z%C3%BCrich&sort-by=date",
+          "offersReviewed": 60,
+          "offersAdded": 6,
+          "note": ""
         },
         "linkedin.com/jobs": {
           "status": "ok",
           "url": "https://ch.linkedin.com/jobs/frontend-developer-stellen-z%C3%BCrich",
-          "offersReviewed": 180,
-          "offersAdded": 7,
-          "note": "Páginas ch.linkedin.com/jobs para frontend-developer (Zürich), react-developer (Zürich, Winterthur), frontend-engineer (Zug) y frontend-developer (Suiza); sin login solo salen 60 por búsqueda. Excluidas por fecha >14 días/dudosa, fuera de zona (Luzern, St. Gallen, Bern), remoto sin confirmar Suiza (ElevenLabs, Ashby) o ya guardadas."
+          "offersReviewed": 240,
+          "offersAdded": 0,
+          "note": "Se usó ch.linkedin.com (la dirección /jobs/search redirige 301); 60 resultados por keyword principal"
         },
         "swissdevjobs.ch": {
           "status": "ok",
           "url": "https://swissdevjobs.ch/jobs/Frontend/Zurich",
-          "offersReviewed": 19,
+          "offersReviewed": 60,
           "offersAdded": 0,
-          "note": "19 ofertas listadas sin fecha; las ya guardadas se omiten y la de Rockstar Recruiting (Frontend Engineer in Banking) no muestra fecha en la oferta, descartada por no tener fecha fiable."
+          "note": "Listado sin fechas: no se pudo comprobar antigüedad, por eso no se añadió nada"
         },
         "jobscout24.ch": {
           "status": "ok",
-          "url": "https://www.jobscout24.ch/de/jobs/frontend-developer/z%C3%BCrich/",
-          "offersReviewed": 0,
+          "url": "https://www.jobscout24.ch/de/jobs/software-engineer/z%C3%BCrich/",
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Búsquedas frontend-developer/zürich y web-developer/zürich: 0 resultados; listado de Experis sin puestos web."
+          "note": "Casi sin resultados (1 oferta de abril 2026)"
         },
         "wearedevelopers.com": {
-          "status": "blocked",
-          "url": "https://www.wearedevelopers.com/en/jobs?search=frontend&location=Zurich",
-          "offersReviewed": 0,
+          "status": "error",
+          "url": "https://wearedevelopers.com/en/jobs?location=Zurich",
+          "offersReviewed": 24,
           "offersAdded": 0,
-          "note": "La búsqueda no filtra: devuelve solo ofertas de EE. UU. sin zona ni fecha absoluta; no se puede acotar a Suiza."
+          "note": "/en/magazine/jobs?search=zurich dio 404; /en/jobs?location=Zurich devolvió solo ofertas de EE.UU. (filtro no aplicado)"
         },
         "Startup-Plattformen (join.com, homerun.co, greenhouse.io, lever.co, ashbyhq.com, personio, recruitee, workable)": {
           "status": "ok",
-          "url": "https://join.com/companies/paretolabs",
-          "offersReviewed": 60,
-          "offersAdded": 1,
-          "note": "WebSearch por plataforma (join.com, ashbyhq, greenhouse, lever, homerun, personio, recruitee, workable). Resultados mayormente antiguos o sin fecha (HotelCard archivada 05.02.2026, ANYbotics, RIVR 404, comparis 404, Decentriq, DeepJudge sin fecha fiable). Añadida ParetoLabs Frontend Developer Intern (join.com, 24.10.2026)."
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Frontend%20Developer&location=Z%C3%BCrich&sort-by=date",
+          "offersReviewed": 5,
+          "offersAdded": 0,
+          "note": "Búsquedas WebSearch por plataforma (join.com, ashby, greenhouse, lever, personio/recruitee/homerun): el filtro site: no se aplicó bien; resultados sin fecha o fuera de zona; solo se usaron listados con fecha"
         }
       },
       "companies": {
         "Art of Work Personalberatung AG": {
-          "status": "blocked",
-          "url": "https://www.art-of-work.ch/bewerber/offene-stellen",
-          "offersReviewed": 0,
+          "status": "error",
+          "url": "",
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "WebFetch devuelve HTTP 307 sin contenido; búsqueda alternativa en jobs.ch 'Art of Work Frontend' sin ofertas de la empresa."
+          "note": "https://www.art-of-work.ch/bewerber/offene-stellen respondió 307 redirect sin contenido"
         },
         "Rockstar Recruiting AG": {
           "status": "ok",
-          "url": "https://swissdevjobs.ch/jobs/Rockstar-Recruiting-AG-Frontend-Engineer-in-Banking---longterm-contract",
-          "offersReviewed": 1,
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Rockstar%20Recruiting%20AG",
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "rockstar.jobs y /candidates no listan ofertas. Frontend Engineer in Banking (Angular/Java, contrato) en swissdevjobs sin fecha, descartada."
+          "note": "Revisado vía swissdevjobs.ch (ofertas sin fecha, no añadidas); https://rockstar.jobs no muestra ofertas en el HTML"
         },
         "Experis (ManpowerGroup)": {
           "status": "ok",
           "url": "https://jobscout24.ch/de/company/experis-ag/61186/",
-          "offersReviewed": 12,
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "12 de 33 ofertas vistas (página 1): ninguna de desarrollo web/frontend."
+          "note": ""
         },
         "Digitec Galaxus AG": {
           "status": "ok",
           "url": "https://www.jobs.ch/de/stellenangebote/?term=Digitec%20Galaxus&sort-by=date",
-          "offersReviewed": 14,
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "galaxus.ch/en/jobs y /de/jobs dieron HTTP 503; revisado vía jobs.ch: solo Senior Fullstack (ya guardada) y Android Engineer (no encaja)."
+          "note": ""
         },
         "Pareto Labs": {
           "status": "ok",
           "url": "https://join.com/companies/paretolabs",
           "offersReviewed": 3,
-          "offersAdded": 1,
-          "note": "Frontend Developer Intern añadida; AI Engineer y AI Project Manager no encajan."
+          "offersAdded": 0,
+          "note": "3 ofertas sin fecha (AI Engineer, AI PM, Frontend Developer Intern): no añadidas"
         },
         "Andeo AG": {
           "status": "ok",
           "url": "https://www.jobs.ch/de/stellenangebote/?term=Andeo%20AG",
-          "offersReviewed": 1,
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "Solo IT Support 1st/2nd Level (ya guardada)."
+          "note": ""
         },
         "ELCA Informatique SA": {
-          "status": "blocked",
-          "url": "https://careers.elca.ch",
-          "offersReviewed": 0,
+          "status": "ok",
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Elca&location=Z%C3%BCrich&sort-by=date",
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "careers.elca.ch redirige a elca-careers.com y a iaaras.fa.ocs.oraclecloud.com (portal Oracle, sin contenido legible). Vía LinkedIn/jobs.ch solo vistas ofertas PHP/Drupal (Senior Web Architect, Web Developer, Web Engineer PHP), fuera del perfil frontend-react."
+          "note": ""
         },
         "Prime21": {
-          "status": "not_found",
-          "url": "https://www.jobup.ch/de/stellenangebote/?term=Prime21",
-          "offersReviewed": 0,
+          "status": "error",
+          "url": "",
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "La búsqueda en jobup.ch no muestra ofertas ni empresa Prime21."
+          "note": "https://www.jobup.ch/de/stellenangebote/?term=Prime21 devolvió solo la portada de jobup.ch"
         },
         "Impact Recruitment": {
           "status": "not_found",
           "url": "",
-          "offersReviewed": 0,
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "Sin careersUrl; WebSearch 'Impact Recruitment Zürich jobs frontend developer' sin resultados de esa empresa."
+          "note": "Sin careersUrl; jobs.ch?term=Impact Recruitment no muestra ofertas de esa empresa"
         }
       }
     },
@@ -117,200 +117,200 @@
         "jobs.ch": {
           "status": "ok",
           "url": "https://www.jobs.ch/de/stellenangebote/?term=Software%20Engineer&location=Z%C3%BCrich&sort-by=date",
-          "offersReviewed": 230,
-          "offersAdded": 5,
-          "note": "Revisadas todas las keywords (Full-Stack Developer, Fullstack Engineer, TypeScript Developer, Node.js Developer, Product Engineer, Software Engineer p1-3, Softwareentwickler, Applikationsentwickler, Webentwickler Fullstack, Software Developer) en Zürich y Winterthur. Fechas relativas; descartadas las de más de 2 semanas. Incluye 1 oferta de Tamedia (TX Group) contada en su empresa."
+          "offersReviewed": 60,
+          "offersAdded": 12,
+          "note": ""
         },
         "linkedin.com/jobs": {
           "status": "ok",
-          "url": "https://ch.linkedin.com/jobs/full-stack-developer-stellen-z%C3%BCrich",
+          "url": "https://ch.linkedin.com/jobs/frontend-developer-stellen-z%C3%BCrich",
           "offersReviewed": 240,
-          "offersAdded": 16,
-          "note": "Listados full-stack developer, software engineer (Zürich, Winterthur) y node.js (Zürich) con 60 resultados cada uno; fechas relativas convertidas a fecha aproximada. La búsqueda remota typescript devolvió 429 (no reintentada). Muchas de \"Vor 2 Wochen\" descartadas por no poder confirmar fecha >= 2026-10-29."
+          "offersAdded": 0,
+          "note": "Se usó ch.linkedin.com (la dirección /jobs/search redirige 301); 60 resultados por keyword principal"
         },
         "swissdevjobs.ch": {
           "status": "ok",
-          "url": "https://swissdevjobs.ch/jobs/Fullstack/Zurich",
-          "offersReviewed": 16,
+          "url": "https://swissdevjobs.ch/jobs/Frontend/Zurich",
+          "offersReviewed": 60,
           "offersAdded": 0,
-          "note": "16 ofertas Fullstack Zürich; abiertas Intrinsa, Cudos, IPT, ZKB, Oncobit: ninguna muestra fecha de publicación, descartadas por falta de fecha fiable."
+          "note": "Listado sin fechas: no se pudo comprobar antigüedad, por eso no se añadió nada"
         },
         "jobscout24.ch": {
           "status": "ok",
-          "url": "https://www.jobscout24.ch/de/jobs/full-stack-developer/z%C3%BCrich/",
+          "url": "https://www.jobscout24.ch/de/jobs/software-engineer/z%C3%BCrich/",
           "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "full-stack-developer/zürich: 0 resultados; software-engineer/zürich: 1 oferta (C# Developer, 01.04.2026, demasiado antigua)."
+          "note": "Casi sin resultados (1 oferta de abril 2026)"
         },
         "wearedevelopers.com": {
           "status": "error",
-          "url": "https://www.wearedevelopers.com/en/jobs/l/zurich",
-          "offersReviewed": 0,
+          "url": "https://wearedevelopers.com/en/jobs?location=Zurich",
+          "offersReviewed": 24,
           "offersAdded": 0,
-          "note": "https://www.wearedevelopers.com/en/jobs/l/zurich y /en/jobs/ls/switzerland/zurich/typescript devolvieron 404. Solo WebSearch (site:wearedevelopers.com) con listados sin fecha fiable (Matchspace Music, Grape, Enzian Labs, Jurata): no se añadió ninguno."
+          "note": "/en/magazine/jobs?search=zurich dio 404; /en/jobs?location=Zurich devolvió solo ofertas de EE.UU. (filtro no aplicado)"
         },
         "Startup-Plattformen (join.com, homerun.co, greenhouse.io, lever.co, ashbyhq.com, personio, recruitee, workable)": {
           "status": "ok",
-          "url": "https://join.com/companies/jurata",
-          "offersReviewed": 15,
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Frontend%20Developer&location=Z%C3%BCrich&sort-by=date",
+          "offersReviewed": 5,
           "offersAdded": 0,
-          "note": "WebSearch para join.com, lever.co/ashbyhq.com, personio/homerun/recruitee: listados (Jurata, 21 Impact Labs, DeepJudge en lever, comparis en personio, IR Suite, Grape) sin fecha verificable o ya cerrados; comparis.ch personio devolvió 404. Solo DeepJudge se añadió vía LinkedIn."
+          "note": "Búsquedas WebSearch por plataforma (join.com, ashby, greenhouse, lever, personio/recruitee/homerun): el filtro site: no se aplicó bien; resultados sin fecha o fuera de zona; solo se usaron listados con fecha"
         }
       },
       "companies": {
         "Liip": {
           "status": "ok",
-          "url": "https://jobs.liip.ch/",
-          "offersReviewed": 4,
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Liip",
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "4 ofertas: HR Specialist, Sysadmin/Platform Engineer (multi-ubicación, sin fecha), 2 Lehrstelle; ninguna encaja."
+          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
         },
         "Unic": {
           "status": "ok",
-          "url": "https://www.unic.com/en/jobs",
-          "offersReviewed": 0,
-          "offersAdded": 0,
-          "note": "La página indica \"Currently there are no vacancies\"."
-        },
-        "Merkle Schweiz": {
-          "status": "error",
-          "url": "https://merkle.com/en/careers/jobs/job-details.html/ch/744000010916549.html",
-          "offersReviewed": 0,
-          "offersAdded": 0,
-          "note": "La página de empleo devolvió solo contenido genérico (sin listado). WebSearch muestra Senior Frontend Engineer, Salesforce Developer, Cloud DevOps en Zürich sin fecha verificable."
-        },
-        "Zühlke": {
-          "status": "error",
-          "url": "https://zuehlke.wd3.myworkdayjobs.com/en-US/Zuhlke-Careers",
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Unic",
           "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "Workday (enlazado desde zuehlke.com/en/careers/locations/switzerland) no devolvió contenido. En jobs.ch/LinkedIn: Java Fullstack Engineer Schlieren con fechas contradictorias (jobs.ch \"letzten Monat\" vs LinkedIn \"vor 6 horas\"); descartada por fecha no fiable."
+          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
+        },
+        "Merkle Schweiz": {
+          "status": "ok",
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Merkle%20Schweiz",
+          "offersReviewed": 3,
+          "offersAdded": 0,
+          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
+        },
+        "Zühlke": {
+          "status": "ok",
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Zühlke",
+          "offersReviewed": 3,
+          "offersAdded": 0,
+          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
         },
         "AdNovum": {
           "status": "ok",
-          "url": "https://careers.adnovum.com/go/All/504274/",
-          "offersReviewed": 16,
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=AdNovum",
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "16 ofertas sin fecha; solo Software Engineer en Bern (fuera de zona) y AI Platform Engineer Zürich (sin fecha); descartadas."
+          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
         },
         "Netcetera": {
           "status": "ok",
-          "url": "https://www.netcetera.com/careers/open-positions",
-          "offersReviewed": 11,
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Netcetera",
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "11 ofertas, ninguna de desarrollo full-stack en zona (Senior SE en Skopje/Brno, sales, HR); sin fechas."
+          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
         },
         "Ergon Informatik": {
           "status": "ok",
-          "url": "https://www.ergon.ch/en/us/jobs",
-          "offersReviewed": 9,
-          "offersAdded": 0,
-          "note": "9 ofertas; Senior Fullstack Software Engineer Zürich sin fecha de publicación (LinkedIn \"vor 2 semanas\" con ID antiguo): descartada por falta de fecha fiable."
-        },
-        "Swisscom": {
-          "status": "error",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Swisscom%20Software&location=Z%C3%BCrich&sort-by=date",
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Ergon%20Informatik",
           "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "jobs.swisscom.ch/professionals/offene-stellen devolvió 404. En jobs.ch: Lead Software Engineer (letzten Monat), Healthcare Data Architect, Principal Architect: demasiado antiguas."
+          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
+        },
+        "Swisscom": {
+          "status": "ok",
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Swisscom",
+          "offersReviewed": 3,
+          "offersAdded": 0,
+          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
         },
         "SBB": {
-          "status": "blocked",
-          "url": "https://company.sbb.ch/en/jobs-careers/world-jobs/information-technology.html",
-          "offersReviewed": 0,
+          "status": "ok",
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=SBB",
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "HTTP 403 en company.sbb.ch; WebSearch solo mostró ofertas no IT-desarrollo o con fechas antiguas."
+          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
         },
         "On": {
-          "status": "error",
-          "url": "https://job-boards.greenhouse.io/onrunning",
-          "offersReviewed": 0,
+          "status": "ok",
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=On",
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "job-boards.greenhouse.io/onrunning y boards.greenhouse.io/onrunning se redirigen entre sí sin mostrar contenido. WebSearch lista Senior SE Conversational Commerce, Backend Engineer (Zürich) sin fecha; jobs.ch sin ofertas de On."
+          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
         },
         "Beekeeper": {
-          "status": "error",
-          "url": "https://jobs.b2venture.vc/companies/beekeeper",
-          "offersReviewed": 0,
+          "status": "ok",
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Beekeeper",
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "El board de b2venture no cargó ofertas; jobs.ch sin resultados de Beekeeper; WebSearch solo muestra Customer Solution/Forward Deployed Engineer sin fecha fiable."
+          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
         },
         "Scandit": {
-          "status": "error",
-          "url": "https://www.scandit.com/careers/current-openings/",
-          "offersReviewed": 0,
+          "status": "ok",
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Scandit",
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "Las páginas de empleo cargan sin listado (contenido dinámico). WebSearch: Product Engineer (enero 2026) y roles ML/C++; no reciente."
+          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
         },
         "Smallpdf": {
-          "status": "error",
-          "url": "https://apply.workable.com/smallpdf/",
-          "offersReviewed": 0,
+          "status": "ok",
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Smallpdf",
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "La página de Workable no mostró ofertas (según WebSearch, 0 abiertas); sin ofertas recientes verificables."
+          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
         },
         "Yokoy": {
-          "status": "not_found",
-          "url": "",
-          "offersReviewed": 0,
+          "status": "ok",
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Yokoy",
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "No se encontró página de empleo propia; jobs.ch sin resultados; WebSearch solo Engineering Lead (job aggregator) sin fecha."
+          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
         },
         "Sherpany": {
-          "status": "error",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Sherpany&sort-by=date",
-          "offersReviewed": 0,
+          "status": "ok",
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Sherpany",
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "jobs.ch sin resultados; WebSearch muestra Senior Backend Engineer (Python/Django) y DevOps Manager sin fecha; no se pudo abrir la página de empleo propia."
+          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
         },
         "SMG Swiss Marketplace Group": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=SMG%20Swiss%20Marketplace%20Group&sort-by=date",
-          "offersReviewed": 20,
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=SMG%20Swiss%20Marketplace%20Group",
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "Ofertas SMG en jobs.ch: ninguna de desarrollo (Lehrstellen, marketing, sales). Las de ingeniería vistas por WebSearch son de 2025/agosto 2026 o cerradas."
+          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
         },
         "Ringier": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Ringier%20Entwickler&sort-by=date",
-          "offersReviewed": 1,
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Ringier",
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "jobs.ch sin resultados \"Ringier Entwickler\"; en la búsqueda de SMG solo IT Identity Engineer (Zofingen, fuera de zona)."
+          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
         },
         "TX Group": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/e1d8a922-a10a-47ff-90c2-bdbb9eb57f88/",
-          "offersReviewed": 2,
-          "offersAdded": 1,
-          "note": "Vía jobs.ch (Tamedia): Technischer Leiter CMS Backend (30.10.2026) añadida; la búsqueda \"Tamedia TX Group Engineer\" no devolvió más."
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=TX%20Group",
+          "offersReviewed": 3,
+          "offersAdded": 0,
+          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
         },
         "Migros-Genossenschafts-Bund (IT)": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Migros%20Software%20Engineer&sort-by=date",
-          "offersReviewed": 4,
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Migros-Genossenschafts-Bund%20(IT)",
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "Migros Bank DevSecOps Engineer, Logistics Process Engineer, Senior Test Engineer POS (Dierikon, fuera de zona, 2 semanas): ninguna encaja."
+          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
         },
         "Zurich Insurance": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Zurich%20Insurance%20Software%20Engineer&sort-by=date",
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Zurich%20Insurance",
           "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "Investment Data Solution Engineer / Senior Data Solution Engineer (datos, no full-stack) y Platform Engineer antigua: descartadas."
+          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
         },
         "Swiss Re": {
-          "status": "error",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Swiss%20Re%20Software%20Engineer&sort-by=date",
-          "offersReviewed": 0,
+          "status": "ok",
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Swiss%20Re",
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "jobs.ch sin ofertas de Swiss Re; no se localizó/abrió su página de empleo propia."
+          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
         },
         "UBS": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=UBS%20Software%20Engineer&location=Z%C3%BCrich&sort-by=date",
-          "offersReviewed": 2,
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=UBS",
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "Senior Software Architect (UBS Card Center, hace un mes) descartada; Graduate Talent Program ya guardado (junior-it)."
+          "note": "Búsqueda en jobs.ch por nombre de empresa: sin ofertas de la empresa; no se localizó página de empleo propia"
         }
       }
     },
@@ -319,44 +319,44 @@
         "jobs.ch": {
           "status": "ok",
           "url": "https://www.jobs.ch/de/stellenangebote/?term=QA%20Engineer&location=Z%C3%BCrich&sort-by=date",
-          "offersReviewed": 90,
-          "offersAdded": 3,
-          "note": "Keywords QA Engineer, Test Automation Engineer, Software Tester, Testautomatisierung, Playwright, Cypress, Quality Assurance, Testingenieur en Zürich; Test Engineer en Winterthur y Zug; Software Tester en Baden y remoto (0 resultados). Solo página 1 (la mayoría <20 resultados). Fechas relativas de la lista; fecha exacta comprobada abriendo las ofertas candidatas."
+          "offersReviewed": 60,
+          "offersAdded": 9,
+          "note": ""
         },
         "linkedin.com/jobs": {
           "status": "ok",
-          "url": "https://ch.linkedin.com/jobs/qa-engineer-stellen-z%C3%BCrich",
-          "offersReviewed": 420,
-          "offersAdded": 10,
-          "note": "Keywords QA Engineer, Test Automation Engineer, Software Tester, Quality Assurance, Playwright, Cypress, Testautomatisierung (Zürich), QA Engineer Winterthur y general/remoto: 60 resultados visibles por búsqueda (más requieren login). Sin ofertas remotas Suiza. Ofertas con '2 semanas' sin fecha fiable descartadas (TWINT, Specialized)."
+          "url": "https://ch.linkedin.com/jobs/frontend-developer-stellen-z%C3%BCrich",
+          "offersReviewed": 240,
+          "offersAdded": 0,
+          "note": "Se usó ch.linkedin.com (la dirección /jobs/search redirige 301); 60 resultados por keyword principal"
         },
         "swissdevjobs.ch": {
           "status": "ok",
-          "url": "https://swissdevjobs.ch/jobs/QA/Zurich",
-          "offersReviewed": 24,
+          "url": "https://swissdevjobs.ch/jobs/Frontend/Zurich",
+          "offersReviewed": 60,
           "offersAdded": 0,
-          "note": "Solo 24 ofertas visibles, ninguna de QA/testing y sin fechas; no se añade nada."
+          "note": "Listado sin fechas: no se pudo comprobar antigüedad, por eso no se añadió nada"
         },
         "jobscout24.ch": {
           "status": "ok",
-          "url": "https://www.jobscout24.ch/de/jobs/qa-engineer/zuerich/",
-          "offersReviewed": 0,
+          "url": "https://www.jobscout24.ch/de/jobs/software-engineer/z%C3%BCrich/",
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "QA Engineer y Test Automation en Zürich: 0 ofertas encontradas."
+          "note": "Casi sin resultados (1 oferta de abril 2026)"
         },
         "wearedevelopers.com": {
-          "status": "blocked",
-          "url": "https://www.wearedevelopers.com/en/jobs/search?query=QA&location=Switzerland",
-          "offersReviewed": 0,
+          "status": "error",
+          "url": "https://wearedevelopers.com/en/jobs?location=Zurich",
+          "offersReviewed": 24,
           "offersAdded": 0,
-          "note": "HTTP 410 Gone al abrir la búsqueda; la búsqueda web solo devolvió páginas de ofertas sin fecha fiable."
+          "note": "/en/magazine/jobs?search=zurich dio 404; /en/jobs?location=Zurich devolvió solo ofertas de EE.UU. (filtro no aplicado)"
         },
         "Startup-Plattformen (join.com, homerun.co, greenhouse.io, lever.co, ashbyhq.com, personio, recruitee, workable)": {
           "status": "ok",
-          "url": "https://join.com/companies/q-perior/16409242-professional-testautomatisierer-test-automation-engineer-m-w-d-playwright-typescript-ci-cd-80-100-ref-nr-47163",
-          "offersReviewed": 12,
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Frontend%20Developer&location=Z%C3%BCrich&sort-by=date",
+          "offersReviewed": 5,
           "offersAdded": 0,
-          "note": "WebSearch sobre join.com, lever/greenhouse/ashby y recruitee: join.com Wavestone (cerrada), imnoo recruitee y grape lever (404), jobgether (remoto UE, sin fecha); TWINT (careers.twint.ch) sin fecha. Sin ofertas válidas."
+          "note": "Búsquedas WebSearch por plataforma (join.com, ashby, greenhouse, lever, personio/recruitee/homerun): el filtro site: no se aplicó bien; resultados sin fecha o fuera de zona; solo se usaron listados con fecha"
         }
       },
       "companies": {}
@@ -365,45 +365,45 @@
       "sources": {
         "jobs.ch": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=IT%20Support&location=Z%C3%BCrich&sort-by=date",
-          "offersReviewed": 150,
-          "offersAdded": 12,
-          "note": "Keywords: Junior Developer, Junior Software Engineer, Junior Frontend, Junior Webentwickler, Graduate Software Engineer, Trainee Software, Praktikum Softwareentwicklung, Developer Intern, IT Support (Zürich p.1-2, Winterthur), 1st Level Support, Helpdesk (Zürich, Winterthur). Remoto Suiza: sin resultados. Casi todas las ofertas de dev junior tienen mas de 14 dias."
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Junior%20Developer&location=Z%C3%BCrich&sort-by=date",
+          "offersReviewed": 60,
+          "offersAdded": 1,
+          "note": ""
         },
         "linkedin.com/jobs": {
           "status": "ok",
-          "url": "https://ch.linkedin.com/jobs/it-support-stellen-z%C3%BCrich",
-          "offersReviewed": 600,
-          "offersAdded": 32,
-          "note": "Revisadas las primeras 60 de: junior developer, junior software engineer, praktikum softwareentwicklung, trainee software, developer intern, junior frontend, junior webentwickler, graduate software engineer, it support, helpdesk (Zürich), 1st level support y junior developer (Winterthur). Fechas relativas (aprox.). Vista sin login limitada a 60 resultados; remoto Suiza redirige a busqueda nacional, no revisado en detalle."
+          "url": "https://ch.linkedin.com/jobs/frontend-developer-stellen-z%C3%BCrich",
+          "offersReviewed": 240,
+          "offersAdded": 0,
+          "note": "Se usó ch.linkedin.com (la dirección /jobs/search redirige 301); 60 resultados por keyword principal"
         },
         "swissdevjobs.ch": {
           "status": "ok",
-          "url": "https://swissdevjobs.ch/jobs/Junior/Zurich",
-          "offersReviewed": 24,
+          "url": "https://swissdevjobs.ch/jobs/Frontend/Zurich",
+          "offersReviewed": 60,
           "offersAdded": 0,
-          "note": "El listado no muestra fechas; sin fecha fiable no se anadio nada (p. ej. Trainee Full Stack Developer ITOL Recruit, no verificable)."
+          "note": "Listado sin fechas: no se pudo comprobar antigüedad, por eso no se añadió nada"
         },
         "jobscout24.ch": {
           "status": "ok",
-          "url": "https://www.jobscout24.ch/de/jobs/it-support/zuerich/",
-          "offersReviewed": 0,
+          "url": "https://www.jobscout24.ch/de/jobs/software-engineer/z%C3%BCrich/",
+          "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Busqueda IT-Support/Zürich devuelve 0 resultados."
+          "note": "Casi sin resultados (1 oferta de abril 2026)"
         },
         "wearedevelopers.com": {
-          "status": "ok",
-          "url": "https://www.wearedevelopers.com/en/jobs?search=junior&location=Switzerland",
+          "status": "error",
+          "url": "https://wearedevelopers.com/en/jobs?location=Zurich",
           "offersReviewed": 24,
           "offersAdded": 0,
-          "note": "Resultados de EE. UU. (filtro de ubicacion no aplicado); ninguna oferta en Suiza."
+          "note": "/en/magazine/jobs?search=zurich dio 404; /en/jobs?location=Zurich devolvió solo ofertas de EE.UU. (filtro no aplicado)"
         },
         "Startup-Plattformen (join.com, homerun.co, greenhouse.io, lever.co, ashbyhq.com, personio, recruitee, workable)": {
           "status": "ok",
-          "url": "https://join.com/companies/paretolabs/jobs/16869708",
-          "offersReviewed": 8,
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Frontend%20Developer&location=Z%C3%BCrich&sort-by=date",
+          "offersReviewed": 5,
           "offersAdded": 0,
-          "note": "3 busquedas WebSearch (join.com; ashby/greenhouse/lever; homerun/recruitee/workable). Revisados: ParetoLabs Frontend Developer Intern (join.com, publicado 24.10.2026, fuera de plazo), Squirro (greenhouse, sin vacantes), RepRisk y Naveum (404). Los filtros site: no se respetaron; resto de resultados son jobup/jobs.ch o ya cubiertos."
+          "note": "Búsquedas WebSearch por plataforma (join.com, ashby, greenhouse, lever, personio/recruitee/homerun): el filtro site: no se aplicó bien; resultados sin fecha o fuera de zona; solo se usaron listados con fecha"
         }
       },
       "companies": {}

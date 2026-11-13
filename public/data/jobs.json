@@ -1,6 +1,129 @@
 {
-  "updatedAt": "2026-11-12T20:17:38.597Z",
+  "updatedAt": "2026-11-13T06:05:42.270Z",
   "jobs": [
+    {
+      "searchId": "frontend-react",
+      "title": "Software Engineer II - Frontend - Developer Platform",
+      "titleEs": "Software Engineer II - Frontend - Developer Platform",
+      "company": "Kraken",
+      "location": "Schweiz (remoto)",
+      "postedAt": "2026-11-13",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/software-engineer-ii-frontend-developer-platform-at-kraken-4489509089",
+      "summary": "Oferta de «Software Engineer II - Frontend - Developer Platform» en Kraken (Schweiz (remoto)), publicada en linkedin.com/jobs. Consulta el anuncio para ver tareas y requisitos.",
+      "de": {
+        "title": "Software Engineer II - Frontend - Developer Platform",
+        "summary": "Stellenausschreibung «Software Engineer II - Frontend - Developer Platform» bei Kraken (Schweiz (remoto)), veröffentlicht auf linkedin.com/jobs. Details in der Anzeige."
+      },
+      "seniority": "mid",
+      "id": "d12faec4ad6f",
+      "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior Full Stack Developer",
+      "titleEs": "Senior Full Stack Developer",
+      "company": "Delta Labs",
+      "location": "Zürich",
+      "postedAt": "2026-11-13",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/senior-full-stack-developer-at-delta-labs-4489502551",
+      "summary": "Oferta de «Senior Full Stack Developer» en Delta Labs (Zürich), publicada en linkedin.com/jobs. Consulta el anuncio para ver tareas y requisitos.",
+      "de": {
+        "title": "Senior Full Stack Developer",
+        "summary": "Stellenausschreibung «Senior Full Stack Developer» bei Delta Labs (Zürich), veröffentlicht auf linkedin.com/jobs. Details in der Anzeige."
+      },
+      "seniority": "senior",
+      "id": "f3e26ced39cd",
+      "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior .NET Developer (m/w/d)",
+      "titleEs": "Senior .NET Developer (m/w/d)",
+      "company": "Rocken®",
+      "location": "Baar ZG",
+      "postedAt": "2026-11-13",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/senior-net-developer-m-w-d-at-rocken%C2%AE-4489239885",
+      "summary": "Oferta de «Senior .NET Developer (m/w/d)» en Rocken® (Baar ZG), publicada en linkedin.com/jobs. Consulta el anuncio para ver tareas y requisitos.",
+      "de": {
+        "title": "Senior .NET Developer (m/w/d)",
+        "summary": "Stellenausschreibung «Senior .NET Developer (m/w/d)» bei Rocken® (Baar ZG), veröffentlicht auf linkedin.com/jobs. Details in der Anzeige."
+      },
+      "seniority": "senior",
+      "id": "e653e04cdfd3",
+      "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "frontend-react",
+      "title": "Web Software Engineer - Italy",
+      "titleEs": "Web Software Engineer - Italy",
+      "company": "ndd Medizintechnik AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-12",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/8bb83421-cf1b-4286-abc6-db20570eddbb",
+      "summary": "Oferta de «Web Software Engineer - Italy» en ndd Medizintechnik AG (Zürich), publicada en jobs.ch. Consulta el anuncio para ver tareas y requisitos.",
+      "de": {
+        "title": "Web Software Engineer - Italy",
+        "summary": "Stellenausschreibung «Web Software Engineer - Italy» bei ndd Medizintechnik AG (Zürich), veröffentlicht auf jobs.ch. Details in der Anzeige."
+      },
+      "id": "c301cebf5505",
+      "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Software Engineer - ASP.NET (m/w/d)",
+      "titleEs": "Software Engineer - ASP.NET (m/w/d)",
+      "company": "Rocken®",
+      "location": "Birmensdorf ZH",
+      "postedAt": "2026-11-12",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/software-engineer-asp-net-m-w-d-at-rocken%C2%AE-4489030304",
+      "summary": "Oferta de «Software Engineer - ASP.NET (m/w/d)» en Rocken® (Birmensdorf ZH), publicada en linkedin.com/jobs. Consulta el anuncio para ver tareas y requisitos.",
+      "de": {
+        "title": "Software Engineer - ASP.NET (m/w/d)",
+        "summary": "Stellenausschreibung «Software Engineer - ASP.NET (m/w/d)» bei Rocken® (Birmensdorf ZH), veröffentlicht auf linkedin.com/jobs. Details in der Anzeige."
+      },
+      "id": "b2dd557fae17",
+      "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "C# Senior Software Engineer",
+      "titleEs": "C# Senior Software Engineer",
+      "company": "Mettler-Toledo International Inc.",
+      "location": "Greifensee ZH",
+      "postedAt": "2026-11-12",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/c%23-senior-software-engineer-at-mettler-toledo-international-inc-4489251536",
+      "summary": "Oferta de «C# Senior Software Engineer» en Mettler-Toledo International Inc. (Greifensee ZH), publicada en linkedin.com/jobs. Consulta el anuncio para ver tareas y requisitos.",
+      "de": {
+        "title": "C# Senior Software Engineer",
+        "summary": "Stellenausschreibung «C# Senior Software Engineer» bei Mettler-Toledo International Inc. (Greifensee ZH), veröffentlicht auf linkedin.com/jobs. Details in der Anzeige."
+      },
+      "seniority": "senior",
+      "id": "ae9e0695a2e1",
+      "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "Test Engineer 50%",
+      "titleEs": "Test Engineer 50%",
+      "company": "Experis Switzerland",
+      "location": "Zürich",
+      "postedAt": "2026-11-12",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4489087658",
+      "summary": "Oferta de «Test Engineer 50%» en Experis Switzerland (Zürich), publicada en linkedin.com/jobs. Consulta el anuncio para ver tareas y requisitos.",
+      "de": {
+        "title": "Test Engineer 50%",
+        "summary": "Stellenausschreibung «Test Engineer 50%» bei Experis Switzerland (Zürich), veröffentlicht auf linkedin.com/jobs. Details in der Anzeige."
+      },
+      "id": "e46490e773de",
+      "foundAt": "2026-11-13T06:05:42.270Z"
+    },
     {
       "searchId": "fullstack-ts",
       "title": "Senior Full Stack Developer TypeScript (Vue / NestJS) (w/m/d) 80-100%",
@@ -1052,6 +1175,40 @@
     },
     {
       "searchId": "frontend-react",
+      "title": "Full-Stack Engineer (Frontend Leaning) - Studio",
+      "titleEs": "Full-Stack Engineer (Frontend Leaning) - Studio",
+      "company": "ElevenLabs",
+      "location": "Schweiz (remoto)",
+      "postedAt": "2026-11-11",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/full-stack-engineer-frontend-leaning-studio-at-elevenlabs-4489640429",
+      "summary": "Oferta de «Full-Stack Engineer (Frontend Leaning) - Studio» en ElevenLabs (Schweiz (remoto)), publicada en linkedin.com/jobs. Consulta el anuncio para ver tareas y requisitos.",
+      "de": {
+        "title": "Full-Stack Engineer (Frontend Leaning) - Studio",
+        "summary": "Stellenausschreibung «Full-Stack Engineer (Frontend Leaning) - Studio» bei ElevenLabs (Schweiz (remoto)), veröffentlicht auf linkedin.com/jobs. Details in der Anzeige."
+      },
+      "id": "fa04f9d6e3a6",
+      "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Java Developer",
+      "titleEs": "Java Developer",
+      "company": "Sopra Steria AG",
+      "location": "Urdorf ZH",
+      "postedAt": "2026-11-11",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/cad62227-c589-49a5-9f2b-4f3ce6b708ab",
+      "summary": "Oferta de «Java Developer» en Sopra Steria AG (Urdorf ZH), publicada en jobs.ch. Consulta el anuncio para ver tareas y requisitos.",
+      "de": {
+        "title": "Java Developer",
+        "summary": "Stellenausschreibung «Java Developer» bei Sopra Steria AG (Urdorf ZH), veröffentlicht auf jobs.ch. Details in der Anzeige."
+      },
+      "id": "5f9f6dd35f4b",
+      "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "frontend-react",
       "title": "Senior Frontend Developer",
       "titleEs": "Desarrollador/a Frontend senior",
       "company": "Jobgether (empresa socia sin nombre)",
@@ -2029,6 +2186,59 @@
       },
       "id": "1c7767491686",
       "foundAt": "2026-11-12T07:02:24.394Z"
+    },
+    {
+      "searchId": "frontend-react",
+      "title": "Design Engineer - EU",
+      "titleEs": "Design Engineer - EU",
+      "company": "Ashby",
+      "location": "Schweiz (remoto)",
+      "postedAt": "2026-11-10",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/design-engineer-eu-at-ashby-4427232288",
+      "summary": "Oferta de «Design Engineer - EU» en Ashby (Schweiz (remoto)), publicada en linkedin.com/jobs. Consulta el anuncio para ver tareas y requisitos.",
+      "de": {
+        "title": "Design Engineer - EU",
+        "summary": "Stellenausschreibung «Design Engineer - EU» bei Ashby (Schweiz (remoto)), veröffentlicht auf linkedin.com/jobs. Details in der Anzeige."
+      },
+      "id": "392b7ed48227",
+      "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "frontend-react",
+      "title": "Senior Web Architect (Drupal, Symfony, React)",
+      "titleEs": "Senior Web Architect (Drupal, Symfony, React)",
+      "company": "ELCA Group",
+      "location": "Zürich",
+      "postedAt": "2026-11-10",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/senior-web-architect-drupal-symfony-react-at-elca-group-4475686559",
+      "summary": "Oferta de «Senior Web Architect (Drupal, Symfony, React)» en ELCA Group (Zürich), publicada en linkedin.com/jobs. Consulta el anuncio para ver tareas y requisitos.",
+      "de": {
+        "title": "Senior Web Architect (Drupal, Symfony, React)",
+        "summary": "Stellenausschreibung «Senior Web Architect (Drupal, Symfony, React)» bei ELCA Group (Zürich), veröffentlicht auf linkedin.com/jobs. Details in der Anzeige."
+      },
+      "seniority": "senior",
+      "id": "8b9effbac577",
+      "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior Java/Kotlin Fullstack Entwickler (m/w/d) - Angular / Spring Boot / Azure",
+      "titleEs": "Senior Java/Kotlin Fullstack Entwickler (m/w/d) - Angular / Spring Boot / Azure",
+      "company": "Wavestone",
+      "location": "Zürich",
+      "postedAt": "2026-11-10",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/senior-java-kotlin-fullstack-entwickler-m-w-d-angular-spring-boot-azure-ref-nr-48191-at-wavestone-4487147713",
+      "summary": "Oferta de «Senior Java/Kotlin Fullstack Entwickler (m/w/d) - Angular / Spring Boot / Azure» en Wavestone (Zürich), publicada en linkedin.com/jobs. Consulta el anuncio para ver tareas y requisitos.",
+      "de": {
+        "title": "Senior Java/Kotlin Fullstack Entwickler (m/w/d) - Angular / Spring Boot / Azure",
+        "summary": "Stellenausschreibung «Senior Java/Kotlin Fullstack Entwickler (m/w/d) - Angular / Spring Boot / Azure» bei Wavestone (Zürich), veröffentlicht auf linkedin.com/jobs. Details in der Anzeige."
+      },
+      "seniority": "senior",
+      "id": "6aaaed5c7f14",
+      "foundAt": "2026-11-13T06:05:42.270Z"
     },
     {
       "searchId": "frontend-react",
@@ -4106,6 +4316,110 @@
         ],
         "language": "Deutsch A2 oder Englisch B1"
       }
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior Full-Stack SW Engineer E-Banking",
+      "titleEs": "Senior Full-Stack SW Engineer E-Banking",
+      "company": "Vontobel",
+      "location": "Zürich",
+      "postedAt": "2026-11-06",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/senior-full-stack-sw-engineer-e-banking-at-vontobel-4466693712",
+      "summary": "Oferta de «Senior Full-Stack SW Engineer E-Banking» en Vontobel (Zürich), publicada en linkedin.com/jobs. Consulta el anuncio para ver tareas y requisitos.",
+      "de": {
+        "title": "Senior Full-Stack SW Engineer E-Banking",
+        "summary": "Stellenausschreibung «Senior Full-Stack SW Engineer E-Banking» bei Vontobel (Zürich), veröffentlicht auf linkedin.com/jobs. Details in der Anzeige."
+      },
+      "seniority": "senior",
+      "id": "1089b9a8f01e",
+      "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "Software Engineer in Test, Robotics Middleware & Systems - Humanoid",
+      "titleEs": "Software Engineer in Test, Robotics Middleware & Systems - Humanoid",
+      "company": "NEURA Robotics",
+      "location": "Zürich",
+      "postedAt": "2026-11-06",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4443548839",
+      "summary": "Oferta de «Software Engineer in Test, Robotics Middleware & Systems - Humanoid» en NEURA Robotics (Zürich), publicada en linkedin.com/jobs. Consulta el anuncio para ver tareas y requisitos.",
+      "de": {
+        "title": "Software Engineer in Test, Robotics Middleware & Systems - Humanoid",
+        "summary": "Stellenausschreibung «Software Engineer in Test, Robotics Middleware & Systems - Humanoid» bei NEURA Robotics (Zürich), veröffentlicht auf linkedin.com/jobs. Details in der Anzeige."
+      },
+      "id": "4a27f28a2c24",
+      "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "UiPath Test Automation Engineer (Professional/Senior)",
+      "titleEs": "UiPath Test Automation Engineer (Professional/Senior)",
+      "company": "Infometis",
+      "location": "Zürich",
+      "postedAt": "2026-11-06",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4483433061",
+      "summary": "Oferta de «UiPath Test Automation Engineer (Professional/Senior)» en Infometis (Zürich), publicada en linkedin.com/jobs. Consulta el anuncio para ver tareas y requisitos.",
+      "de": {
+        "title": "UiPath Test Automation Engineer (Professional/Senior)",
+        "summary": "Stellenausschreibung «UiPath Test Automation Engineer (Professional/Senior)» bei Infometis (Zürich), veröffentlicht auf linkedin.com/jobs. Details in der Anzeige."
+      },
+      "id": "ea6aab858161",
+      "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "Tech Lead Testing, RIVR",
+      "titleEs": "Tech Lead Testing, RIVR",
+      "company": "RIVR",
+      "location": "Zürich",
+      "postedAt": "2026-11-06",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4487280948",
+      "summary": "Oferta de «Tech Lead Testing, RIVR» en RIVR (Zürich), publicada en linkedin.com/jobs. Consulta el anuncio para ver tareas y requisitos.",
+      "de": {
+        "title": "Tech Lead Testing, RIVR",
+        "summary": "Stellenausschreibung «Tech Lead Testing, RIVR» bei RIVR (Zürich), veröffentlicht auf linkedin.com/jobs. Details in der Anzeige."
+      },
+      "seniority": "lead",
+      "id": "960ddd63844d",
+      "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "Quality Analyst (w/m/d)",
+      "titleEs": "Quality Analyst (w/m/d)",
+      "company": "Digitec Galaxus AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-06",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/ee72d6dd-18f0-46b0-97b7-ac070bdd9253",
+      "summary": "Oferta de «Quality Analyst (w/m/d)» en Digitec Galaxus AG (Zürich), publicada en jobs.ch. Consulta el anuncio para ver tareas y requisitos.",
+      "de": {
+        "title": "Quality Analyst (w/m/d)",
+        "summary": "Stellenausschreibung «Quality Analyst (w/m/d)» bei Digitec Galaxus AG (Zürich), veröffentlicht auf jobs.ch. Details in der Anzeige."
+      },
+      "id": "b62b499ce0b6",
+      "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "junior-it",
+      "title": "Softwareentwickler (m/w) 100%",
+      "titleEs": "Softwareentwickler (m/w) 100%",
+      "company": "jobcourier.ch",
+      "location": "Zug",
+      "postedAt": "2026-11-06",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/softwareentwickler-m-w-100%25-at-jobcourier-ch-4487374736",
+      "summary": "Oferta de «Softwareentwickler (m/w) 100%» en jobcourier.ch (Zug), publicada en linkedin.com/jobs. Consulta el anuncio para ver tareas y requisitos.",
+      "de": {
+        "title": "Softwareentwickler (m/w) 100%",
+        "summary": "Stellenausschreibung «Softwareentwickler (m/w) 100%» bei jobcourier.ch (Zug), veröffentlicht auf linkedin.com/jobs. Details in der Anzeige."
+      },
+      "id": "699b0abc9930",
+      "foundAt": "2026-11-13T06:05:42.270Z"
     },
     {
       "searchId": "fullstack-ts",
@@ -6375,320 +6689,6 @@
       "foundAt": "2026-11-12T15:20:33.966Z"
     },
     {
-      "title": "Logistiker / Logistikerin",
-      "titleEs": "Logista (almacén y expedición)",
-      "company": "Allega GmbH",
-      "location": "Niederglatt ZH",
-      "postedAt": "2026-11-05",
-      "source": "jobs.ch",
-      "url": "https://www.jobs.ch/de/stellenangebote/detail/4ea083de-1d97-4041-935d-e88df4b63c00",
-      "summary": "Logista 100 % en Niederglatt: entrada de mercancía, preparación de expediciones y gestión del almacén de accesorios.",
-      "description": "Entrada de mercancía con control y almacenaje, preparación de mercancía saliente y carga segura, manejo del sistema ERP, gestión del almacén de accesorios (productos especiales) y manejo de carretillas, tractores de arrastre y grúas respetando las normas de seguridad.",
-      "requirements": [
-        "Formación de logista con varios años de experiencia",
-        "Carné de carretillero (obligatorio); carné de grúa (ventaja)",
-        "Buenos conocimientos prácticos de PC",
-        "Experiencia con equipos de medición",
-        "Trabajo estructurado, autónomo y orientado a la calidad"
-      ],
-      "workload": "100 %",
-      "employmentType": "Contrato fijo",
-      "language": "Alemán avanzado",
-      "englishOk": false,
-      "seniority": "mid",
-      "de": {
-        "title": "Logistiker / Logistikerin",
-        "summary": "Logistiker 100 % in Niederglatt: Wareneingang, Versandvorbereitung und Zubehörlager.",
-        "description": "Wareneingang mit Kontrolle und Einlagerung, Bereitstellung der Ausgangsware und sicheres Verladen, Bedienung des ERP-Systems, Bewirtschaftung des Zubehörlagers (Spezialprodukte) sowie Bedienung von Flurförderzeugen, Schleppern und Kranen nach Sicherheitsvorschriften.",
-        "requirements": [
-          "Grundausbildung als Logistiker mit mehrjähriger Erfahrung",
-          "Staplerausweis (zwingend); Kranausweis (von Vorteil)",
-          "Gute praktische PC-Kenntnisse",
-          "Erfahrung mit Messmitteln",
-          "Strukturierte, qualitätsbewusste und selbständige Arbeitsweise"
-        ],
-        "workload": "100 %",
-        "employmentType": "Festanstellung",
-        "language": "Fortgeschrittenes Deutsch"
-      },
-      "searchId": "lager",
-      "id": "a2c18aecad3a",
-      "foundAt": "2026-11-12T15:20:33.966Z"
-    },
-    {
-      "title": "Logistiker:in EFZ",
-      "titleEs": "Logista EFZ (puesto de bolsa, Winterthur)",
-      "company": "Randstad",
-      "location": "Winterthur",
-      "postedAt": "2026-11-05",
-      "source": "Randstad",
-      "url": "https://www.randstad.com/jobs/logistikerin-efz_winterthur_47714284",
-      "summary": "Vacante tipo 'pool' para asignaciones temporales de logística en clientes de Winterthur/Zürich: picking, carretilla, SAP y almacenes de gran altura.",
-      "description": "Entrada y salida de mercancía, picking y preparación, manejo de carretillas y transpaletas, carga y descarga, escáner y SAP/SAP WM, almacenaje en almacén de gran altura, de palets o Kardex, embalaje y etiquetado, y controles de inventario.",
-      "requirements": [
-        "Formación de Logistiker EFZ o experiencia equivalente",
-        "Carné de carretillero SUVA (según asignación)",
-        "Experiencia con SAP o WMS similar",
-        "Buena forma física y trabajo fiable",
-        "Disposición a turnos (ventaja)",
-        "Alemán mínimo B1 oral y escrito"
-      ],
-      "workload": "Tiempo parcial o completo",
-      "employmentType": "Temporal",
-      "language": "Alemán mínimo B1",
-      "englishOk": false,
-      "seniority": "mid",
-      "de": {
-        "title": "Logistiker:in EFZ",
-        "summary": "Pool-Vakanz für temporäre Logistikeinsätze bei Kunden in Winterthur/Zürich: Kommissionieren, Stapler, SAP und Hochregallager.",
-        "description": "Warenein- und -ausgang, Kommissionieren und Bereitstellen, Bedienung von Staplern und Hubwagen, Be- und Entladen, Scanner und SAP/SAP WM, Lagerung im Hochregal-, Paletten- oder Kardexlager, Verpacken und Etikettieren sowie Bestandskontrollen.",
-        "requirements": [
-          "Ausbildung als Logistiker:in EFZ oder vergleichbare Erfahrung",
-          "SUVA-Staplerausweis (je nach Einsatz)",
-          "Erfahrung mit SAP oder ähnlichen LVS",
-          "Körperliche Fitness und zuverlässige Arbeitsweise",
-          "Bereitschaft zu Schichtarbeit (von Vorteil)",
-          "Deutsch mind. B1 in Wort und Schrift"
-        ],
-        "workload": "Teilzeit oder Vollzeit",
-        "employmentType": "Temporär",
-        "language": "Deutsch mind. B1"
-      },
-      "searchId": "lager",
-      "id": "9fd73896bedf",
-      "foundAt": "2026-11-12T15:20:33.966Z"
-    },
-    {
-      "searchId": "reinigung-flughafen",
-      "title": "Reinigungsmitarbeiter:in (m/w/d)",
-      "titleEs": "Personal de limpieza (m/f/d)",
-      "company": "Randstad",
-      "location": "Zürich",
-      "postedAt": "2026-11-05",
-      "source": "Randstad",
-      "url": "https://www.randstad.ch/jobs/reinigungsmitarbeiterin_zuerich_dae491e8-de17-4931-8109-3f23ccbb9aa1",
-      "summary": "Limpieza a fondo y bajo demanda de trenes o edificios para una gran empresa ferroviaria suiza; puesto temporal de larga duración.",
-      "description": "Limpiezas a fondo y bajo demanda en trenes o edificios, con posibilidad de prórroga. Buena conexión de transporte público y procesos de trabajo claros.",
-      "requirements": [
-        "Buen alemán hablado",
-        "Resistencia física"
-      ],
-      "employmentType": "Temporal",
-      "language": "Alemán hablado (bueno)",
-      "englishOk": false,
-      "seniority": "junior",
-      "de": {
-        "title": "Reinigungsmitarbeiter:in (m/w/d)",
-        "summary": "Grund- und Bedarfsreinigung in Zügen oder Gebäuden bei einem grossen Schweizer Bahnunternehmen; langfristiger Temporäreinsatz.",
-        "description": "Grund- und Bedarfsreinigungen im Zug oder an Gebäuden, mit Option auf Verlängerung. Gute ÖV-Anbindung und klare Abläufe.",
-        "requirements": [
-          "Gute mündliche Deutschkenntnisse",
-          "Körperliche Belastbarkeit"
-        ],
-        "employmentType": "Temporär",
-        "language": "Deutsch mündlich (gut)"
-      },
-      "id": "f82af522c0d3",
-      "foundAt": "2026-11-12T15:20:33.966Z"
-    },
-    {
-      "searchId": "reinigung-flughafen",
-      "title": "Fachmitarbeiterin Reinigung und Lingerie 50% per 1.2.27 oder nach Vereinbarung, in Russikon bei Fehraltorf",
-      "titleEs": "Especialista de limpieza y lencería 50 % desde el 1.2.2027 o a convenir, en Russikon",
-      "company": "Stiftung Buechweid",
-      "location": "Russikon",
-      "postedAt": "2026-11-05",
-      "source": "jobs.ch",
-      "url": "https://www.jobs.ch/de/stellenangebote/detail/b85831d3-26b8-4dca-a476-14e9b09f1e18",
-      "summary": "Limpieza de mantenimiento y a fondo y trabajos de lavandería en un internado y escuela especial; 50 % desde febrero 2027.",
-      "description": "Limpieza de mantenimiento y a fondo, trabajos en la lavandería y, puntualmente, acompañamiento de jóvenes en días de formación laboral; apoyo en otras áreas del hogar y en eventos. Horario habitual 06:45-16:00.",
-      "requirements": [
-        "Titulación EBA en economía doméstica o equivalente",
-        "Experiencia en limpieza de mantenimiento y a fondo",
-        "Conocimiento de procesos de lavandería",
-        "Alemán B2",
-        "Paciencia con niños y jóvenes"
-      ],
-      "workload": "50 %",
-      "employmentType": "Contrato fijo",
-      "language": "Alemán B2",
-      "englishOk": false,
-      "seniority": "junior",
-      "de": {
-        "title": "Fachmitarbeiterin Reinigung und Lingerie 50% per 1.2.27 oder nach Vereinbarung, in Russikon bei Fehraltorf",
-        "summary": "Unterhalts- und Grundreinigung sowie Wäscherei in Internat und Sonderschule; 50 % ab Februar 2027.",
-        "description": "Unterhalts- und Grundreinigung, Arbeiten in der Wäscherei und punktuell Begleitung von Jugendlichen an Arbeitstrainingstagen; Unterstützung in weiteren Bereichen der Hauswirtschaft und bei Anlässen. Reguläre Arbeitszeit 06:45-16:00 Uhr.",
-        "requirements": [
-          "Berufsabschluss EBA Hauswirtschaft oder gleichwertig",
-          "Erfahrung in Unterhalts- und Grundreinigung",
-          "Vertrautheit mit Abläufen der Wäscheversorgung",
-          "Deutsch B2",
-          "Geduld im Umgang mit Kindern und Jugendlichen"
-        ],
-        "workload": "50 %",
-        "employmentType": "Festanstellung",
-        "language": "Deutsch B2"
-      },
-      "id": "06f3cc925dda",
-      "foundAt": "2026-11-12T15:20:33.966Z"
-    },
-    {
-      "searchId": "kueche",
-      "title": "Mitarbeiter*in Produktion",
-      "titleEs": "Empleado/a de producción (cocina, restaurante Migros)",
-      "company": "Migros Zürich (Migros Restaurant Glatt)",
-      "location": "Wallisellen",
-      "postedAt": "2026-11-05",
-      "source": "Migros",
-      "url": "https://www.jobs.ch/de/stellenangebote/detail/8746cf5f-a929-4b54-b7cf-f277852dd156",
-      "summary": "Puesto de producción en el Migros Restaurant Glatt: preparación de platos fríos y calientes y atención de buffets.",
-      "description": "Preparar platos fríos y calientes, servir menús de mediodía y asesorar a los clientes, montar y mantener los buffets, apoyar la gestión de mercancía y entregas, mise en place y cumplir los estándares de calidad y APPCC.",
-      "requirements": [
-        "No se exige formación",
-        "1-2 años de experiencia, preferiblemente en gastronomía o cocina",
-        "Experiencia en comida rápida/restauración de sistema, una ventaja",
-        "Turnos flexibles de lunes a sábado",
-        "Alemán A2"
-      ],
-      "workload": "80–100 %",
-      "employmentType": "Contrato fijo",
-      "language": "Alemán A2",
-      "englishOk": false,
-      "seniority": "junior",
-      "de": {
-        "title": "Mitarbeiter*in Produktion",
-        "summary": "Produktionsstelle im Migros Restaurant Glatt: Zubereitung kalter und warmer Speisen und Betreuung der Buffets.",
-        "description": "Kalte und warme Speisen zubereiten, Mittagsmenüs servieren und Gäste beraten, Free-Flow-Buffets einrichten und pflegen, Warenbewirtschaftung und Anlieferungen unterstützen, Mise en place sowie GMZ-Qualitäts- und HACCP-Hygienestandards einhalten.",
-        "requirements": [
-          "Keine Ausbildung erforderlich",
-          "1–2 Jahre Erfahrung, vorzugsweise in Gastronomie oder Küche",
-          "Erfahrung in Fast Food/Systemgastronomie von Vorteil",
-          "Flexible Schichten (früh und spät) Montag bis Samstag",
-          "Deutsch A2"
-        ],
-        "workload": "80–100 %",
-        "employmentType": "Festanstellung",
-        "language": "Deutsch A2"
-      },
-      "id": "4f7cbe7ff6f8",
-      "foundAt": "2026-11-12T15:20:33.966Z"
-    },
-    {
-      "searchId": "kueche",
-      "title": "Mitarbeiter:in Gastronomie",
-      "titleEs": "Empleado/a de gastronomía",
-      "company": "Coop Restaurant",
-      "location": "Affoltern am Albis",
-      "postedAt": "2026-11-05",
-      "source": "Coop",
-      "url": "https://www.jobs.ch/de/stellenangebote/detail/0115aa2f-9a23-48c5-a7ec-297e32f54c27",
-      "summary": "Puesto en el Coop Restaurant de Affoltern am Albis: atención del buffet y la caja y ayuda general en el restaurante.",
-      "description": "Atender y asesorar a los clientes en el buffet y la caja, presentar el buffet de venta, ayudar en el restaurante donde haga falta y mantener la sala limpia e higiénica.",
-      "requirements": [
-        "Experiencia en gastronomía (deseable)",
-        "Bienestar del cliente en el centro",
-        "Entusiasmo por los alimentos",
-        "Buen alemán hablado y escrito"
-      ],
-      "workload": "60 %",
-      "employmentType": "Contrato fijo",
-      "language": "Alemán bueno (en el encabezado: nociones básicas)",
-      "englishOk": false,
-      "seniority": "junior",
-      "de": {
-        "title": "Mitarbeiter:in Gastronomie",
-        "summary": "Stelle im Coop Restaurant Affoltern am Albis: Betreuung von Buffet und Kasse sowie allgemeine Mithilfe im Restaurant.",
-        "description": "Gäste am Buffet bedienen und beraten sowie an der Kasse betreuen, das Verkaufsbuffet ansprechend gestalten, im Restaurant überall dort aushelfen, wo Bedarf besteht, und den Gastraum sauber und hygienisch halten.",
-        "requirements": [
-          "Gastronomieerfahrung (erwünscht)",
-          "Das Wohl der Gäste steht im Mittelpunkt",
-          "Begeisterung für Lebensmittel",
-          "Gute Deutschkenntnisse in Wort und Schrift"
-        ],
-        "workload": "60 %",
-        "employmentType": "Festanstellung",
-        "language": "Gutes Deutsch (Kopfzeile: Grundkenntnisse)"
-      },
-      "id": "40587a46a690",
-      "foundAt": "2026-11-12T15:20:33.966Z"
-    },
-    {
-      "searchId": "lager",
-      "title": "Logistik & Kommissionierung",
-      "titleEs": "Logística y preparación de pedidos",
-      "company": "Randstad",
-      "location": "Winterthur",
-      "postedAt": "2026-11-05",
-      "source": "Randstad",
-      "url": "https://www.randstad.com/jobs/logistik-kommissionierung_winterthur_47714856",
-      "summary": "Vacante de bolsa (pool) temporal al 60–100 % en logística y picking en la zona de Winterthur/Turgovia.",
-      "description": "Preparación de pedidos con escáner de mano, embalaje y preparación de envíos, trabajos generales de almacén, sistemas de gestión de almacén (p. ej. WAMAS) y transpaletas.",
-      "requirements": [
-        "Experiencia en logística, picking o embalaje",
-        "Trabajo físico (hasta unos 25 kg)",
-        "Alemán mínimo B1",
-        "Conocimientos básicos de PC"
-      ],
-      "workload": "60–100 %",
-      "employmentType": "Temporal (bolsa de candidatos)",
-      "language": "Alemán mínimo B1",
-      "de": {
-        "title": "Logistik & Kommissionierung",
-        "summary": "Temporärer Pool-Vakanz 60–100 % in Logistik und Kommissionierung im Raum Winterthur/Thurgau.",
-        "description": "Kommissionieren mit MDE-Gerät, Verpacken und Bereitstellen von Sendungen, allgemeine Lagerarbeiten, Lagerverwaltungssysteme (z. B. WAMAS), Arbeiten mit Hubwagen.",
-        "requirements": [
-          "Erfahrung in Logistik, Kommissionierung oder Verpackung",
-          "Körperliche Arbeit (bis ca. 25 kg)",
-          "Deutsch mind. B1",
-          "Grundkenntnisse am PC"
-        ],
-        "workload": "60–100 %",
-        "employmentType": "Temporär (Pool-Vakanz)",
-        "language": "Deutsch mind. B1"
-      },
-      "id": "979cc4348f88",
-      "foundAt": "2026-11-12T11:44:58.393Z"
-    },
-    {
-      "searchId": "kueche",
-      "title": "Hilfskoch im Stundenlohn (m/w) - CIRCUS CONELLI (befristet bis 31.12.2026)",
-      "titleEs": "Ayudante de cocina por horas - Circus Conelli (temporal hasta 31.12.2026)",
-      "company": "Candrian Catering",
-      "location": "Zürich (Bahnhofplatz)",
-      "postedAt": "2026-11-05",
-      "source": "jobs.ch",
-      "url": "https://www.jobs.ch/de/stellenangebote/detail/1233349a-89a4-4cd4-8000-d3e1f6761a78",
-      "summary": "Ayudante de cocina por horas en el Circus Conelli de Zürich, contrato temporal hasta el 31.12.2026.",
-      "description": "Apoyar al equipo de cocina y preparar platos, mise en place, tareas de limpieza según normas de higiene y transporte de mercancías.",
-      "requirements": [
-        "Experiencia previa en cocina",
-        "Fiable, rápido, puntual y buen compañero",
-        "Buen alemán",
-        "Aspecto cuidado",
-        "Flexibilidad de turnos"
-      ],
-      "workload": "60–100 %",
-      "employmentType": "Temporal, por horas, hasta 31.12.2026",
-      "language": "Alemán",
-      "de": {
-        "title": "Hilfskoch im Stundenlohn (m/w) - CIRCUS CONELLI (befristet bis 31.12.2026)",
-        "summary": "Hilfskoch im Stundenlohn beim Circus Conelli in Zürich, befristet bis 31.12.2026.",
-        "description": "Unterstützung des Küchenteams und Zubereiten von Gerichten, Mise en place, Reinigungsarbeiten nach Hygienevorschriften und Warentransport.",
-        "requirements": [
-          "Küchenerfahrung",
-          "Zuverlässig, schnell, pünktlich, teamfähig",
-          "Gute Deutschkenntnisse",
-          "Gepflegtes Auftreten",
-          "Flexibilität bei Schichten"
-        ],
-        "workload": "60–100 %",
-        "employmentType": "Befristet, Stundenlohn, bis 31.12.2026",
-        "language": "Deutsch"
-      },
-      "id": "ae5ffc227f5a",
-      "foundAt": "2026-11-12T11:44:58.393Z"
-    },
-    {
       "searchId": "frontend-react",
       "title": "Lead Frontend Engineer",
       "company": "Brack.Alltron AG",
@@ -7184,6 +7184,182 @@
       "foundAt": "2026-11-12T15:20:33.966Z"
     },
     {
+      "searchId": "frontend-react",
+      "title": "Senior Frontend (Full-stack) Engineer",
+      "titleEs": "Senior Frontend (Full-stack) Engineer",
+      "company": "Rivia",
+      "location": "Zürich",
+      "postedAt": "2026-10-30",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/senior-frontend-full-stack-engineer-at-rivia-4399398793",
+      "summary": "Oferta de «Senior Frontend (Full-stack) Engineer» en Rivia (Zürich), publicada en linkedin.com/jobs. Consulta el anuncio para ver tareas y requisitos.",
+      "de": {
+        "title": "Senior Frontend (Full-stack) Engineer",
+        "summary": "Stellenausschreibung «Senior Frontend (Full-stack) Engineer» bei Rivia (Zürich), veröffentlicht auf linkedin.com/jobs. Details in der Anzeige."
+      },
+      "seniority": "senior",
+      "id": "41ce1b5bae78",
+      "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Full-Stack Software Engineer - AI-Native Product Development",
+      "titleEs": "Full-Stack Software Engineer - AI-Native Product Development",
+      "company": "xorlab",
+      "location": "Zürich",
+      "postedAt": "2026-10-30",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/full-stack-software-engineer-ai-native-product-development-at-xorlab-4480674486",
+      "summary": "Oferta de «Full-Stack Software Engineer - AI-Native Product Development» en xorlab (Zürich), publicada en linkedin.com/jobs. Consulta el anuncio para ver tareas y requisitos.",
+      "de": {
+        "title": "Full-Stack Software Engineer - AI-Native Product Development",
+        "summary": "Stellenausschreibung «Full-Stack Software Engineer - AI-Native Product Development» bei xorlab (Zürich), veröffentlicht auf linkedin.com/jobs. Details in der Anzeige."
+      },
+      "id": "b8686f209603",
+      "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior Full-stack Java Software Engineer (m/w/d) - Eviden",
+      "titleEs": "Senior Full-stack Java Software Engineer (m/w/d) - Eviden",
+      "company": "Eviden",
+      "location": "Zürich",
+      "postedAt": "2026-10-30",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/senior-full-stack-java-software-engineer-m-w-d-eviden-at-eviden-4482532051",
+      "summary": "Oferta de «Senior Full-stack Java Software Engineer (m/w/d) - Eviden» en Eviden (Zürich), publicada en linkedin.com/jobs. Consulta el anuncio para ver tareas y requisitos.",
+      "de": {
+        "title": "Senior Full-stack Java Software Engineer (m/w/d) - Eviden",
+        "summary": "Stellenausschreibung «Senior Full-stack Java Software Engineer (m/w/d) - Eviden» bei Eviden (Zürich), veröffentlicht auf linkedin.com/jobs. Details in der Anzeige."
+      },
+      "seniority": "senior",
+      "id": "67790ce8de91",
+      "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Fullstack Software Engineer (Java & Spring, Angular) (all genders)",
+      "titleEs": "Fullstack Software Engineer (Java & Spring, Angular) (all genders)",
+      "company": "adesso Schweiz AG",
+      "location": "Zürich",
+      "postedAt": "2026-10-30",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/fullstack-software-engineer-java-spring-angular-all-genders-at-adesso-schweiz-ag-4182010922",
+      "summary": "Oferta de «Fullstack Software Engineer (Java & Spring, Angular) (all genders)» en adesso Schweiz AG (Zürich), publicada en linkedin.com/jobs. Consulta el anuncio para ver tareas y requisitos.",
+      "de": {
+        "title": "Fullstack Software Engineer (Java & Spring, Angular) (all genders)",
+        "summary": "Stellenausschreibung «Fullstack Software Engineer (Java & Spring, Angular) (all genders)» bei adesso Schweiz AG (Zürich), veröffentlicht auf linkedin.com/jobs. Details in der Anzeige."
+      },
+      "id": "0ccc9ddb77e0",
+      "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior Software-Engineer 80–100 %",
+      "titleEs": "Senior Software-Engineer 80–100 %",
+      "company": "Abraxas Informatik AG",
+      "location": "Zürich-Flughafen",
+      "postedAt": "2026-10-30",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/senior-software-engineer-80%E2%80%93100-%25-at-abraxas-informatik-ag-4483591425",
+      "summary": "Oferta de «Senior Software-Engineer 80–100 %» en Abraxas Informatik AG (Zürich-Flughafen), publicada en linkedin.com/jobs. Consulta el anuncio para ver tareas y requisitos.",
+      "de": {
+        "title": "Senior Software-Engineer 80–100 %",
+        "summary": "Stellenausschreibung «Senior Software-Engineer 80–100 %» bei Abraxas Informatik AG (Zürich-Flughafen), veröffentlicht auf linkedin.com/jobs. Details in der Anzeige."
+      },
+      "seniority": "senior",
+      "id": "70923e415600",
+      "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior Software Engineer - VS Private Customers 80-100%",
+      "titleEs": "Senior Software Engineer - VS Private Customers 80-100%",
+      "company": "TWINT",
+      "location": "Zürich",
+      "postedAt": "2026-10-30",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/senior-software-engineer-vs-private-customers-80-100%25-at-twint-4484513863",
+      "summary": "Oferta de «Senior Software Engineer - VS Private Customers 80-100%» en TWINT (Zürich), publicada en linkedin.com/jobs. Consulta el anuncio para ver tareas y requisitos.",
+      "de": {
+        "title": "Senior Software Engineer - VS Private Customers 80-100%",
+        "summary": "Stellenausschreibung «Senior Software Engineer - VS Private Customers 80-100%» bei TWINT (Zürich), veröffentlicht auf linkedin.com/jobs. Details in der Anzeige."
+      },
+      "seniority": "senior",
+      "id": "43113f6e1663",
+      "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "QA Engineer – Mobile Testing",
+      "titleEs": "QA Engineer – Mobile Testing",
+      "company": "Specialized Bicycle Components",
+      "location": "Cham ZG",
+      "postedAt": "2026-10-30",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4419855030",
+      "summary": "Oferta de «QA Engineer – Mobile Testing» en Specialized Bicycle Components (Cham ZG), publicada en linkedin.com/jobs. Consulta el anuncio para ver tareas y requisitos.",
+      "de": {
+        "title": "QA Engineer – Mobile Testing",
+        "summary": "Stellenausschreibung «QA Engineer – Mobile Testing» bei Specialized Bicycle Components (Cham ZG), veröffentlicht auf linkedin.com/jobs. Details in der Anzeige."
+      },
+      "id": "9e857791d6be",
+      "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "Senior Automation QA Engineer – Mobile Testing",
+      "titleEs": "Senior Automation QA Engineer – Mobile Testing",
+      "company": "Specialized Bicycle Components",
+      "location": "Cham ZG",
+      "postedAt": "2026-10-30",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4419834911",
+      "summary": "Oferta de «Senior Automation QA Engineer – Mobile Testing» en Specialized Bicycle Components (Cham ZG), publicada en linkedin.com/jobs. Consulta el anuncio para ver tareas y requisitos.",
+      "de": {
+        "title": "Senior Automation QA Engineer – Mobile Testing",
+        "summary": "Stellenausschreibung «Senior Automation QA Engineer – Mobile Testing» bei Specialized Bicycle Components (Cham ZG), veröffentlicht auf linkedin.com/jobs. Details in der Anzeige."
+      },
+      "seniority": "senior",
+      "id": "6637a2222d2b",
+      "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "Test Automation Engineer 80-100%",
+      "titleEs": "Test Automation Engineer 80-100%",
+      "company": "TWINT",
+      "location": "Zürich",
+      "postedAt": "2026-10-30",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4484929393",
+      "summary": "Oferta de «Test Automation Engineer 80-100%» en TWINT (Zürich), publicada en linkedin.com/jobs. Consulta el anuncio para ver tareas y requisitos.",
+      "de": {
+        "title": "Test Automation Engineer 80-100%",
+        "summary": "Stellenausschreibung «Test Automation Engineer 80-100%» bei TWINT (Zürich), veröffentlicht auf linkedin.com/jobs. Details in der Anzeige."
+      },
+      "id": "6743d6c910e9",
+      "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "Senior Automation Test Engineer - Java, Selenium, Playwright 90-100% (f/m/d)",
+      "titleEs": "Senior Automation Test Engineer - Java, Selenium, Playwright 90-100% (f/m/d)",
+      "company": "Julius Baer",
+      "location": "Zürich",
+      "postedAt": "2026-10-30",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4483723055",
+      "summary": "Oferta de «Senior Automation Test Engineer - Java, Selenium, Playwright 90-100% (f/m/d)» en Julius Baer (Zürich), publicada en linkedin.com/jobs. Consulta el anuncio para ver tareas y requisitos.",
+      "de": {
+        "title": "Senior Automation Test Engineer - Java, Selenium, Playwright 90-100% (f/m/d)",
+        "summary": "Stellenausschreibung «Senior Automation Test Engineer - Java, Selenium, Playwright 90-100% (f/m/d)» bei Julius Baer (Zürich), veröffentlicht auf linkedin.com/jobs. Details in der Anzeige."
+      },
+      "seniority": "senior",
+      "id": "a061c8778afc",
+      "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
       "searchId": "fullstack-ts",
       "title": "Fullstack Developer - AI & Digital Health - DE",
       "titleEs": "Desarrollador/a Fullstack - IA y salud digital",
@@ -7381,45 +7557,6 @@
       },
       "id": "51ecb4a69a10",
       "foundAt": "2026-11-12T15:20:33.966Z"
-    },
-    {
-      "title": "IT-Allrounderin/-Allrounder 50-60%",
-      "titleEs": "Generalista IT (50–60 %)",
-      "company": "Spital Affoltern AG",
-      "location": "Affoltern am Albis ZH",
-      "postedAt": "2026-10-29",
-      "source": "jobs.ch",
-      "url": "https://www.jobs.ch/de/stellenangebote/detail/27f734f7-4cb5-46a5-88be-c5b6436c252d",
-      "summary": "Generalista IT a tiempo parcial en un hospital: soporte de 2.º nivel y apoyo de 1.er nivel, participación en proyectos de infraestructura.",
-      "description": "Mantener estable y segura la operación IT, dar soporte de 2.º nivel, analizar fallos, mejorar la infraestructura y participar en proyectos IT.",
-      "requirements": [
-        "Formación en informática o equivalente",
-        "Experiencia práctica en soporte IT de 1.er/2.º nivel e infraestructura",
-        "Buen conocimiento de entornos Windows; Microsoft 365/Azure deseable",
-        "Alemán fluido"
-      ],
-      "workload": "50–60 %",
-      "employmentType": "Contrato fijo",
-      "language": "Alemán fluido",
-      "englishOk": false,
-      "seniority": "mid",
-      "de": {
-        "title": "IT-Allrounderin/-Allrounder 50-60%",
-        "summary": "IT-Allrounder im Teilzeitpensum in einem Spital: 2nd-Level-Support, 1st-Level-Unterstützung, Mitarbeit in Infrastrukturprojekten.",
-        "description": "IT-Betrieb stabil und sicher halten, 2nd-Level-Support leisten, technische Störungen analysieren, die IT-Landschaft weiterentwickeln und in IT-Projekten mitarbeiten.",
-        "requirements": [
-          "Informatikausbildung oder vergleichbar",
-          "Praktische Erfahrung im IT-Support (1st/2nd Level) und mit IT-Infrastruktur",
-          "Gute Kenntnisse von Windows-Umgebungen; Microsoft 365/Azure ideal",
-          "Fliessend Deutsch"
-        ],
-        "workload": "50–60 %",
-        "employmentType": "Festanstellung",
-        "language": "Deutsch fliessend"
-      },
-      "searchId": "junior-it",
-      "id": "3a8983c9a7d5",
-      "foundAt": "2026-11-12T20:17:38.597Z"
     }
   ]
 }
