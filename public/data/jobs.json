@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T07:15:53.588Z",
+  "updatedAt": "2026-11-14T19:04:18.118Z",
   "jobs": [
     {
       "searchId": "lager",
@@ -18,6 +18,216 @@
       "englishOk": true,
       "id": "af7b05fd7715",
       "foundAt": "2026-11-14T07:15:53.588Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Software Engineer (m/w/d), Java Developer / Datenintegration / Apache Kafka",
+      "titleEs": "Ingeniero/a de software Java (integración de datos / Kafka)",
+      "company": "ITech Consult AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-13",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/4706fe47-3043-4760-96cb-bd398d48c185",
+      "summary": "Contrato freelance de 12 meses (inicio 01.12.2026) para construir un adaptador de datos en Java con Spring Boot y Apache Kafka y componentes de integración backend.",
+      "workload": "70–80 %",
+      "employmentType": "Freelance (12 meses)",
+      "language": "Alemán C1, inglés B1",
+      "englishOk": false,
+      "seniority": "senior",
+      "requirements": [
+        "5–8 años como ingeniero de software",
+        "Java y Spring Boot",
+        "Integración de datos/ETL y Apache Kafka"
+      ],
+      "de": {
+        "title": "Software Engineer (m/w/d), Java Developer / Datenintegration / Apache Kafka",
+        "summary": "Freelance-Einsatz (12 Monate, Start 01.12.2026): Entwicklung eines Java-Datenadapters mit Spring Boot und Apache Kafka sowie Backend-Integrationskomponenten.",
+        "workload": "70–80 %",
+        "employmentType": "Freelance (12 Monate)",
+        "language": "Deutsch C1, Englisch B1",
+        "requirements": [
+          "5–8 Jahre Erfahrung als Software Engineer",
+          "Java und Spring Boot",
+          "Datenintegration/ETL und Apache Kafka"
+        ]
+      },
+      "id": "505bfdad5f6a",
+      "foundAt": "2026-11-14T19:04:18.118Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Software Engineer - C# / .Net (m/w/d)",
+      "titleEs": "Ingeniero/a de software C# / .NET",
+      "company": "Schlatter Industries AG",
+      "location": "Schlieren ZH",
+      "postedAt": "2026-11-13",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/c19b893f-07e5-40c9-9ded-4bd27ec071c9",
+      "summary": "Desarrollo y mantenimiento de software de control de planta (HMI) en C# y .NET para maquinaria industrial, con soporte de segundo nivel.",
+      "workload": "80–100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán fluido, inglés muy bueno",
+      "englishOk": false,
+      "seniority": "senior",
+      "requirements": [
+        "5+ años con C# y .NET",
+        "Windows Forms y SQL",
+        "Scrum, Git, Azure DevOps, CI/CD"
+      ],
+      "de": {
+        "title": "Software Engineer - C# / .Net (m/w/d)",
+        "summary": "Entwicklung und Pflege von Anlagensteuerungssoftware (HMI) in C# und .NET für Industriemaschinen inkl. Second-Level-Support.",
+        "workload": "80–100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch fliessend, Englisch sehr gut",
+        "requirements": [
+          "5+ Jahre C# und .NET",
+          "Windows Forms und SQL",
+          "Scrum, Git, Azure DevOps, CI/CD"
+        ]
+      },
+      "id": "14f7ae0db689",
+      "foundAt": "2026-11-14T19:04:18.118Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Java Entwickler Datenadapter (80%)",
+      "titleEs": "Desarrollador/a Java – adaptador de datos (80%)",
+      "company": "Pro Informatik AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-13",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/e78d53b5-156a-4ea1-9628-8cfc0279acd1",
+      "summary": "Construcción de un adaptador de datos en Java entre sistemas de datos y una solución cloud MS Dynamics 365 en banca, con Spring Boot y Kafka.",
+      "workload": "80 %",
+      "employmentType": "Contrato fijo / freelance",
+      "language": "Alemán muy bueno",
+      "englishOk": false,
+      "seniority": "mid",
+      "requirements": [
+        "Varios años de Java y Spring Boot",
+        "Integración/transformación de datos",
+        "Apache Kafka"
+      ],
+      "de": {
+        "title": "Java Entwickler Datenadapter (80%)",
+        "summary": "Aufbau eines Java-Datenadapters zwischen Datensystemen und einer MS-Dynamics-365-Cloudlösung im Banking mit Spring Boot und Kafka.",
+        "workload": "80 %",
+        "employmentType": "Festanstellung / Freelance",
+        "language": "Sehr gutes Deutsch",
+        "requirements": [
+          "Mehrjährige Java-Erfahrung mit Spring Boot",
+          "Datenintegration/-transformation",
+          "Apache Kafka"
+        ]
+      },
+      "id": "9c268054b3b8",
+      "foundAt": "2026-11-14T19:04:18.118Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Full-Stack Software Engineer (Frontend & Mobile Focus)",
+      "titleEs": "Ingeniero/a Full-Stack (foco frontend y móvil)",
+      "company": "Jobgether (empresa socia sin nombre)",
+      "location": "Suiza (remoto)",
+      "postedAt": "2026-11-13",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/full-stack-software-engineer-frontend-mobile-focus-at-jobgether-4489551627",
+      "summary": "Startup remote-first de software con IA para quirófanos: arquitectura frontend React/TypeScript, sistema de diseño y preparación móvil.",
+      "employmentType": "Jornada completa",
+      "language": "Inglés",
+      "englishOk": true,
+      "seniority": "senior",
+      "requirements": [
+        "React y TypeScript avanzados",
+        "Sistemas de diseño",
+        "Fundamentos de testing"
+      ],
+      "de": {
+        "title": "Full-Stack Software Engineer (Frontend & Mobile Focus)",
+        "summary": "Remote-first-Startup für KI-Software im OP: React/TypeScript-Frontend-Architektur, Designsystem und Mobile-Readiness.",
+        "employmentType": "Vollzeit",
+        "language": "Englisch",
+        "requirements": [
+          "Fundierte React- und TypeScript-Kenntnisse",
+          "Designsysteme",
+          "Testing-Grundlagen"
+        ]
+      },
+      "id": "f38fc5227d90",
+      "foundAt": "2026-11-14T19:04:18.118Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "Senior Test Automation Engineer (w/m/d) - 902090/1",
+      "titleEs": "Ingeniero/a senior de automatización de pruebas",
+      "company": "Hays",
+      "location": "Hinwil ZH",
+      "postedAt": "2026-11-13",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/senior-test-automation-engineer-w-m-d-902090-1-at-hays-4490733460",
+      "summary": "Contrato de 8 meses (inicio 01.12.2026), 100 % presencial: automatizar pruebas de verificación con Python y Robot Framework, CI/CD y análisis de causa raíz.",
+      "workload": "100 %",
+      "employmentType": "Contrato temporal (8 meses)",
+      "language": "Inglés",
+      "englishOk": true,
+      "seniority": "senior",
+      "requirements": [
+        "5–8 años como test engineer",
+        "Python y Robot Framework",
+        "CI/CD"
+      ],
+      "de": {
+        "title": "Senior Test Automation Engineer (w/m/d) - 902090/1",
+        "summary": "Befristet 8 Monate (Start 01.12.2026), 100 % vor Ort: automatisierte Verifikationstests mit Python und Robot Framework, CI/CD, Ursachenanalyse.",
+        "workload": "100 %",
+        "employmentType": "Befristet (8 Monate)",
+        "language": "Englisch",
+        "requirements": [
+          "5–8 Jahre als Test Engineer",
+          "Python und Robot Framework",
+          "CI/CD"
+        ]
+      },
+      "id": "6dfd408a2ee9",
+      "foundAt": "2026-11-14T19:04:18.118Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "Python Test Engineer - Medical Devices",
+      "titleEs": "Ingeniero/a de pruebas Python – dispositivos médicos",
+      "company": "Darwin Engineering",
+      "location": "Zürich",
+      "postedAt": "2026-11-13",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/python-test-engineer-medical-devices-at-darwin-engineering-4489574052",
+      "summary": "Pruebas manuales de instrumentos médicos (UI y funciones) y ayuda a desarrollar automatización en Python; temporal 6 meses prorrogable.",
+      "workload": "100 %",
+      "employmentType": "Temporal (6 meses, prorrogable)",
+      "salary": "CHF 80–100 / hora",
+      "language": "Inglés; alemán B1 (requisito contradictorio en el anuncio)",
+      "englishOk": false,
+      "seniority": "mid",
+      "requirements": [
+        "Pruebas manuales",
+        "Python básico-intermedio",
+        "Revisión de casos de prueba"
+      ],
+      "de": {
+        "title": "Python Test Engineer - Medical Devices",
+        "summary": "Manuelle Tests medizinischer Instrumente (UI und Funktionen) und Mitarbeit an Python-Testautomatisierung; befristet 6 Monate, verlängerbar.",
+        "workload": "100 %",
+        "employmentType": "Temporär (6 Monate, verlängerbar)",
+        "salary": "CHF 80–100 / Std.",
+        "language": "Englisch; Deutsch B1 (widersprüchlich im Inserat)",
+        "requirements": [
+          "Manuelles Testen",
+          "Python Grundkenntnisse",
+          "Review von Testfällen"
+        ]
+      },
+      "id": "62bf9db6d75d",
+      "foundAt": "2026-11-14T19:04:18.118Z"
     },
     {
       "searchId": "lager",
@@ -354,6 +564,72 @@
       "seniority": "senior",
       "id": "e653e04cdfd3",
       "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior Fullstack Engineer",
+      "titleEs": "Ingeniero/a Fullstack senior (React/TypeScript, Rails)",
+      "company": "Jobgether (empresa socia sin nombre)",
+      "location": "Suiza (remoto)",
+      "postedAt": "2026-11-12",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/senior-fullstack-engineer-at-jobgether-4489086318",
+      "summary": "Puesto 100 % remoto para una empresa con base en Suiza: front-end React/TypeScript y APIs Ruby on Rails/GraphQL, con liderazgo técnico.",
+      "employmentType": "Jornada completa",
+      "language": "Inglés",
+      "englishOk": true,
+      "seniority": "senior",
+      "requirements": [
+        "5+ años de desarrollo web",
+        "React y TypeScript",
+        "Ruby on Rails"
+      ],
+      "de": {
+        "title": "Senior Fullstack Engineer",
+        "summary": "100 % remote für ein Unternehmen mit Sitz in der Schweiz: React/TypeScript-Frontend und Ruby-on-Rails-/GraphQL-APIs, mit technischer Führung.",
+        "employmentType": "Vollzeit",
+        "language": "Englisch",
+        "requirements": [
+          "5+ Jahre Webentwicklung",
+          "React und TypeScript",
+          "Ruby on Rails"
+        ]
+      },
+      "id": "bf80fd081620",
+      "foundAt": "2026-11-14T19:04:18.118Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Fullstack Developer – Taplio & TweetHunter",
+      "titleEs": "Desarrollador/a Fullstack – Taplio & TweetHunter",
+      "company": "Jobgether (empresa socia sin nombre)",
+      "location": "Suiza (remoto)",
+      "postedAt": "2026-11-12",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/fullstack-developer-%E2%80%93-taplio-tweethunter-at-jobgether-4489088599",
+      "summary": "SaaS rentable y 100 % remoto: refactorizar y ampliar una base TypeScript/Node.js/React/Next.js en GCP y construir funciones con IA.",
+      "employmentType": "Jornada completa",
+      "salary": "Hasta 65.000 € base + bonus",
+      "language": "Inglés fluido",
+      "englishOk": true,
+      "seniority": "senior",
+      "requirements": [
+        "5+ años de desarrollo",
+        "JavaScript/TypeScript, Node.js, React, Next.js"
+      ],
+      "de": {
+        "title": "Fullstack Developer – Taplio & TweetHunter",
+        "summary": "Profitables, voll remotes SaaS: Refactoring und Ausbau einer TypeScript/Node.js/React/Next.js-Codebasis auf GCP sowie KI-Funktionen.",
+        "employmentType": "Vollzeit",
+        "salary": "Bis 65.000 € Basis + Bonus",
+        "language": "Fliessend Englisch",
+        "requirements": [
+          "5+ Jahre Entwicklung",
+          "JavaScript/TypeScript, Node.js, React, Next.js"
+        ]
+      },
+      "id": "38712d339d82",
+      "foundAt": "2026-11-14T19:04:18.118Z"
     },
     {
       "searchId": "frontend-react",
@@ -1474,6 +1750,39 @@
       "foundAt": "2026-11-12T10:00:08.920Z"
     },
     {
+      "searchId": "fullstack-ts",
+      "title": "Full-Stack Engineer - ElevenAPI",
+      "titleEs": "Ingeniero/a Full-Stack – ElevenAPI",
+      "company": "ElevenLabs",
+      "location": "Suiza (remoto)",
+      "postedAt": "2026-11-11",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/full-stack-engineer-elevenapi-at-elevenlabs-4489645243",
+      "summary": "Mejora del panel ElevenAPI (onboarding, claves API, suscripciones) en el equipo Developer Growth; remoto, enfoque frontend y backend.",
+      "employmentType": "Jornada completa",
+      "language": "Inglés",
+      "englishOk": true,
+      "seniority": "senior",
+      "requirements": [
+        "Full-stack con foco en frontend",
+        "Criterio de producto y UX",
+        "Experiencia mentorizando"
+      ],
+      "de": {
+        "title": "Full-Stack Engineer - ElevenAPI",
+        "summary": "Verbesserung des ElevenAPI-Dashboards (Onboarding, API-Keys, Abos) im Developer-Growth-Team; remote, Frontend und Backend.",
+        "employmentType": "Vollzeit",
+        "language": "Englisch",
+        "requirements": [
+          "Full-Stack mit Frontend-Schwerpunkt",
+          "Produktgespür und UX",
+          "Mentoring-Erfahrung"
+        ]
+      },
+      "id": "36cf2088214b",
+      "foundAt": "2026-11-14T19:04:18.118Z"
+    },
+    {
       "searchId": "frontend-react",
       "title": "Full-Stack Engineer (Frontend Leaning) - Studio",
       "titleEs": "Full-Stack Engineer (Frontend Leaning) - Studio",
@@ -2489,6 +2798,39 @@
     },
     {
       "searchId": "fullstack-ts",
+      "title": "Senior Web Engineer",
+      "titleEs": "Ingeniero/a web senior",
+      "company": "Canonical",
+      "location": "Zürich (remoto EMEA)",
+      "postedAt": "2026-11-10",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/senior-web-engineer-at-canonical-4489466702",
+      "summary": "Ingeniero web senior en Canonical, remoto dentro de EMEA: diseñar y construir software bien probado y liderar calidad con revisiones de código.",
+      "employmentType": "Jornada completa",
+      "language": "Inglés",
+      "englishOk": true,
+      "seniority": "senior",
+      "requirements": [
+        "Arquitectura y estándares de calidad",
+        "Grado en informática o equivalente",
+        "Linux (Debian/Ubuntu)"
+      ],
+      "de": {
+        "title": "Senior Web Engineer",
+        "summary": "Senior Web Engineer bei Canonical, remote innerhalb EMEA: gut getestete Software entwerfen und Qualität über Code-Reviews steuern.",
+        "employmentType": "Vollzeit",
+        "language": "Englisch",
+        "requirements": [
+          "Architektur und Qualitätsstandards",
+          "Informatik-Abschluss oder gleichwertig",
+          "Linux (Debian/Ubuntu)"
+        ]
+      },
+      "id": "9f4afc08cb23",
+      "foundAt": "2026-11-14T19:04:18.118Z"
+    },
+    {
+      "searchId": "fullstack-ts",
       "title": "Java Engineer Client Onboarding",
       "titleEs": "Ingeniero/a Java Client Onboarding",
       "company": "Pro Informatik AG",
@@ -3424,6 +3766,39 @@
         "employmentType": "Festanstellung",
         "language": "Gute Deutschkenntnisse"
       }
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "(Senior) Fullstack Software Engineer (w/m/d)",
+      "titleEs": "Ingeniero/a Fullstack (senior)",
+      "company": "Migros-Genossenschafts-Bund",
+      "location": "Zürich",
+      "postedAt": "2026-11-09",
+      "source": "Migros (jobs.migros.ch)",
+      "url": "https://jobs.migros.ch/de/unsere-unternehmen/job/migros-genossenschafts-bund/senior-fullstack-software-engineer-wmd/09ccf7b4-dac3-4044-8c6b-e99ce019a15e",
+      "summary": "Ingeniero/a fullstack senior para el IT de Migros: requisitos, diseño y ciclo de vida completo; backend escalable (ideal Go) y frontend (React/Next.js). Fecha sin etiqueta en la página.",
+      "workload": "60–100 %",
+      "language": "Alemán (nivel negociación) e inglés fluido",
+      "englishOk": false,
+      "seniority": "senior",
+      "requirements": [
+        "Varios años como fullstack",
+        "Backend escalable, CI/CD y Kubernetes",
+        "Deseable React o Next.js"
+      ],
+      "de": {
+        "title": "(Senior) Fullstack Software Engineer (w/m/d)",
+        "summary": "Senior Fullstack Engineer für die Migros-IT: Anforderungen, Design und gesamter Lebenszyklus; skalierbares Backend (idealerweise Go) und Frontend (React/Next.js). Datum auf der Seite nicht beschriftet.",
+        "workload": "60–100 %",
+        "language": "Deutsch (verhandlungssicher) und Englisch fliessend",
+        "requirements": [
+          "Mehrjährige Fullstack-Erfahrung",
+          "Skalierbares Backend, CI/CD und Kubernetes",
+          "Wünschenswert React oder Next.js"
+        ]
+      },
+      "id": "c13ef844ed5b",
+      "foundAt": "2026-11-14T19:04:18.118Z"
     },
     {
       "searchId": "fullstack-ts",
@@ -4409,6 +4784,40 @@
       },
       "id": "7f6f936f7662",
       "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "junior-it",
+      "title": "Lehrstelle Informatik EFZ - Fachrichtung Applikationsentwicklung (f/m/d) | 100% | Start: 1. August 2027 | Zürich",
+      "titleEs": "Aprendizaje Informática EFZ – desarrollo de aplicaciones (inicio ago. 2027)",
+      "company": "SMG Swiss Marketplace Group",
+      "location": "Zürich",
+      "postedAt": "2026-11-07",
+      "source": "linkedin.com/jobs",
+      "url": "https://www.linkedin.com/jobs/view/4486976502",
+      "summary": "Plaza de formación profesional en desarrollo de aplicaciones: participar en plataformas online y servicios IT internos, con proyectos reales.",
+      "workload": "100 %",
+      "employmentType": "Aprendizaje (Lehrstelle)",
+      "language": "Alemán e inglés (sin nivel exigido)",
+      "seniority": "intern",
+      "requirements": [
+        "Entusiasmo por la programación",
+        "Pensamiento analítico",
+        "Gusto por el trabajo en equipo"
+      ],
+      "de": {
+        "title": "Lehrstelle Informatik EFZ - Fachrichtung Applikationsentwicklung (f/m/d) | 100% | Start: 1. August 2027 | Zürich",
+        "summary": "Lehrstelle in der Applikationsentwicklung: Mitarbeit an Online-Plattformen und internen IT-Services in realen Projekten.",
+        "workload": "100 %",
+        "employmentType": "Lehrstelle",
+        "language": "Deutsch und Englisch (kein Niveau genannt)",
+        "requirements": [
+          "Begeisterung für Programmieren",
+          "Analytisches Denken",
+          "Freude an Teamarbeit"
+        ]
+      },
+      "id": "39a6d46adb56",
+      "foundAt": "2026-11-14T19:04:18.118Z"
     },
     {
       "searchId": "fullstack-ts",
