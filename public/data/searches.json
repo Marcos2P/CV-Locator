@@ -40,7 +40,8 @@
       "swissdevjobs.ch",
       "jobscout24.ch",
       "wearedevelopers.com",
-      "Startup-Plattformen (join.com, homerun.co, greenhouse.io, lever.co, ashbyhq.com, personio, recruitee, workable)"
+      "join.com",
+      "Startup-Plattformen (homerun.co, greenhouse.io, lever.co, ashbyhq.com, personio, recruitee, workable)"
     ],
     "companies": [
       {
@@ -122,7 +123,8 @@
       "swissdevjobs.ch",
       "jobscout24.ch",
       "wearedevelopers.com",
-      "Startup-Plattformen (join.com, homerun.co, greenhouse.io, lever.co, ashbyhq.com, personio, recruitee, workable)"
+      "join.com",
+      "Startup-Plattformen (homerun.co, greenhouse.io, lever.co, ashbyhq.com, personio, recruitee, workable)"
     ],
     "maxAgeDays": 14,
     "companies": [
@@ -191,6 +193,10 @@
       },
       {
         "name": "UBS"
+      },
+      {
+        "name": "Benetics AI",
+        "careersUrl": "https://join.com/companies/benetics"
       }
     ],
     "active": true
@@ -235,7 +241,8 @@
       "swissdevjobs.ch",
       "jobscout24.ch",
       "wearedevelopers.com",
-      "Startup-Plattformen (join.com, homerun.co, greenhouse.io, lever.co, ashbyhq.com, personio, recruitee, workable)"
+      "join.com",
+      "Startup-Plattformen (homerun.co, greenhouse.io, lever.co, ashbyhq.com, personio, recruitee, workable)"
     ],
     "maxAgeDays": 14,
     "active": true
@@ -281,7 +288,8 @@
       "swissdevjobs.ch",
       "jobscout24.ch",
       "wearedevelopers.com",
-      "Startup-Plattformen (join.com, homerun.co, greenhouse.io, lever.co, ashbyhq.com, personio, recruitee, workable)"
+      "join.com",
+      "Startup-Plattformen (homerun.co, greenhouse.io, lever.co, ashbyhq.com, personio, recruitee, workable)"
     ],
     "maxAgeDays": 14,
     "active": true
@@ -468,7 +476,8 @@
       "gastrojob.ch",
       "hotelcareer.ch",
       "linkedin.com/jobs",
-      "jobscout24.ch"
+      "jobscout24.ch",
+      "join.com"
     ],
     "companies": [
       {
@@ -554,7 +563,8 @@
       "gastrojob.ch",
       "hotelcareer.ch",
       "linkedin.com/jobs",
-      "jobscout24.ch"
+      "jobscout24.ch",
+      "join.com"
     ],
     "companies": [
       {

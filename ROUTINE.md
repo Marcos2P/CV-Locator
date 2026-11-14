@@ -29,7 +29,7 @@ En todos los comandos de abajo, sustituye `<GRUPO>` por `it` o `general`.
    ```
 
    Ábrela: cada búsqueda tiene sus **webs** (`sources`; si una búsqueda no tiene `sources`, los portales por
-   defecto: jobs.ch, linkedin.com/jobs y jobscout24.ch) y sus **empresas** (`companies`), todas en `"pending"`.
+   defecto: jobs.ch, linkedin.com/jobs, jobscout24.ch y join.com) y sus **empresas** (`companies`), todas en `"pending"`.
    **Esa es tu lista de comprobación.**
 
 ## Paso 2 · Recorrer la lista, búsqueda por búsqueda
@@ -65,9 +65,21 @@ Direcciones útiles:
 - **jobscout24.ch**: `https://www.jobscout24.ch/de/jobs/<TÉRMINO>/<LUGAR>/`
 - **swissdevjobs.ch** (IT), **wearedevelopers.com** (IT), **gastrojob.ch**, **hotelcareer.ch**…: usa su buscador o
   búscalo con WebSearch.
-- **Startup-Plattformen** (join.com, homerun.co, greenhouse.io, lever.co, ashbyhq.com, personio, recruitee,
+- **join.com**: muchas startups y pymes suizas publican **solo** aquí. JOIN **no tiene buscador público**
+  (`join.com/jobs` pide login), pero la página de cada empresa sí es pública y trae fecha y lugar. Hazlo así:
+  1. **Descubre empresas** con WebSearch, una búsqueda por keyword y zona: `site:join.com/companies <TÉRMINO> Zürich`,
+     `site:join.com <TÉRMINO> Winterthur`, `site:join.com "Zürich" Stelle <TÉRMINO>`… Quédate con el *slug* de
+     cada empresa (`join.com/companies/<slug>/...`). Los anuncios sueltos que da el buscador suelen estar viejos
+     (410): no los uses directamente.
+  2. **Abre la página de la empresa** `https://join.com/companies/<slug>` con WebFetch. Lista **todas** sus ofertas
+     abiertas con título, ciudad (`cityName`), tipo (`workplaceType`: ONSITE/HYBRID/REMOTE) y fecha (`createdAt`).
+  3. Añade las que encajen en zona y `maxAgeDays`. La URL de la oferta es
+     `https://join.com/companies/<slug>/<idParam>` (el `idParam` viene en la página, p. ej. `16922228-software-engineer`).
+  En la cobertura, `join.com` cuenta como **ok** si hiciste las búsquedas y abriste las páginas de empresa; pon en
+  `note` qué empresas revisaste.
+- **Startup-Plattformen** (homerun.co, greenhouse.io, lever.co, ashbyhq.com, personio, recruitee,
   workable): muchas empresas tecnológicas publican **solo** ahí. Búscalas con WebSearch combinando la plataforma,
-  el término y la zona, por ejemplo: `site:join.com Zürich React`, `site:jobs.ashbyhq.com Zurich frontend`,
+  el término y la zona, por ejemplo: `site:jobs.ashbyhq.com Zurich frontend`,
   `site:boards.greenhouse.io Zurich TypeScript`, `site:jobs.lever.co Zurich engineer`, `site:homerun.co Zürich`,
   `"jobs.personio" Zürich Frontend`. Haz al menos una búsqueda por plataforma y búsqueda de IT, y abre las ofertas
   para comprobar fecha y lugar. En la cobertura, esta "web" cuenta como **ok** si hiciste esas búsquedas.
