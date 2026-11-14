@@ -1,6 +1,115 @@
 {
-  "updatedAt": "2026-11-14T06:18:20.600Z",
+  "updatedAt": "2026-11-14T07:15:53.588Z",
   "jobs": [
+    {
+      "searchId": "lager",
+      "title": "Warehouse Team Member",
+      "titleEs": "Miembro del equipo de almacén",
+      "company": "GreenChef GmbH",
+      "location": "Regensdorf",
+      "postedAt": "2026-11-14",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/warehouse-team-member-4246226555",
+      "summary": "Puesto de almacén en GreenChef, Regensdorf (anuncio en inglés, publicado hoy).",
+      "de": {
+        "title": "Warehouse Team Member",
+        "summary": "Lagerstelle bei GreenChef in Regensdorf (englische Anzeige, heute veröffentlicht)."
+      },
+      "englishOk": true,
+      "id": "af7b05fd7715",
+      "foundAt": "2026-11-14T07:15:53.588Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Lagermitarbeiter/in",
+      "titleEs": "Empleado/a de almacén",
+      "company": "Randstad (cliente no nombrado)",
+      "location": "Winterthur",
+      "postedAt": "2026-11-13",
+      "source": "Randstad",
+      "url": "https://www.randstad.ch/jobs/lagermitarbeiterin_winterthur_f6c19fdf-f920-4502-8fd7-4ae3f29342ad",
+      "summary": "Puesto de almacén en Winterthur a través de Randstad.",
+      "de": {
+        "title": "Lagermitarbeiter/in",
+        "summary": "Lagerstelle in Winterthur über Randstad."
+      },
+      "id": "b35fbfcf75d2",
+      "foundAt": "2026-11-14T07:15:53.588Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Kommissionierer Frische- und Kühllager 100% (m/w/d)",
+      "titleEs": "Preparador/a de pedidos en almacén frigorífico 100%",
+      "company": "Randstad (cliente no nombrado)",
+      "location": "Dietlikon",
+      "postedAt": "2026-11-13",
+      "source": "Randstad",
+      "url": "https://www.randstad.ch/jobs/kommissionierer-frische-und-kuehllager-100-mwd_dietlikon_9c4d5b2b-9f6c-4367-a5b0-350588cbd87c",
+      "summary": "Preparación de pedidos en almacén de productos frescos y refrigerados en Dietlikon.",
+      "de": {
+        "title": "Kommissionierer Frische- und Kühllager 100% (m/w/d)",
+        "summary": "Kommissionierung im Frische- und Kühllager in Dietlikon.",
+        "workload": "100 %"
+      },
+      "workload": "100 %",
+      "id": "8d138d2485aa",
+      "foundAt": "2026-11-14T07:15:53.588Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Lagerist 100% (m/w/d)",
+      "titleEs": "Almacenero/a 100%",
+      "company": "Randstad (cliente no nombrado)",
+      "location": "Zürich",
+      "postedAt": "2026-11-13",
+      "source": "Randstad",
+      "url": "https://www.randstad.ch/jobs/lagerist-100-mwd_zuerich_1f09d097-fc3c-44a3-ae54-97999970b34d",
+      "summary": "Puesto de almacenero/a a jornada completa en Zürich a través de Randstad.",
+      "de": {
+        "title": "Lagerist 100% (m/w/d)",
+        "summary": "Vollzeitstelle als Lagerist in Zürich über Randstad.",
+        "workload": "100 %"
+      },
+      "workload": "100 %",
+      "id": "f9a1a968b1b3",
+      "foundAt": "2026-11-14T07:15:53.588Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Lagermitarbeiter/in 80-100% (Nachtschicht)",
+      "titleEs": "Empleado/a de almacén 80-100% (turno de noche)",
+      "company": "Manpower (cliente no nombrado)",
+      "location": "Dietikon",
+      "postedAt": "2026-11-13",
+      "source": "Manpower",
+      "url": "https://www.manpower.ch/fr/job/dietikon/lagermitarbeiter-in-80-100-nachtschicht-/634074",
+      "summary": "Puesto de almacén en turno de noche en Dietikon a través de Manpower.",
+      "de": {
+        "title": "Lagermitarbeiter/in 80-100% (Nachtschicht)",
+        "summary": "Lagerstelle in der Nachtschicht in Dietikon über Manpower.",
+        "workload": "80–100 %"
+      },
+      "workload": "80–100 %",
+      "id": "33869b85a04f",
+      "foundAt": "2026-11-14T07:15:53.588Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Reinigungsmitarbeiter:in",
+      "titleEs": "Empleado/a de limpieza",
+      "company": "Randstad (cliente no nombrado)",
+      "location": "Zürich",
+      "postedAt": "2026-11-13",
+      "source": "Randstad",
+      "url": "https://www.randstad.ch/jobs/reinigungsmitarbeiterin_zuerich_a36e8cd7-df2c-440a-8487-26afce8eac8a",
+      "summary": "Puesto de limpieza en Zürich a través de Randstad.",
+      "de": {
+        "title": "Reinigungsmitarbeiter:in",
+        "summary": "Reinigungsstelle in Zürich über Randstad."
+      },
+      "id": "377dfab500d7",
+      "foundAt": "2026-11-14T07:15:53.588Z"
+    },
     {
       "searchId": "fullstack-ts",
       "title": "Software Engineer Full-Stack (60%)",
@@ -4038,6 +4147,42 @@
       "salary": "CHF 22 por hora",
       "id": "6914925339cc",
       "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Fachperson Reinigung (a), 80-100%",
+      "titleEs": "Especialista de limpieza 80-100%",
+      "company": "Stiftung Werkheim Uster",
+      "location": "Uster",
+      "postedAt": "2026-11-08",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/8c043bfd-88d0-4189-9a1b-5499d7661d9d",
+      "summary": "Puesto de limpieza en la fundación Werkheim Uster.",
+      "de": {
+        "title": "Fachperson Reinigung (a), 80-100%",
+        "summary": "Reinigungsstelle bei der Stiftung Werkheim Uster.",
+        "workload": "80–100 %"
+      },
+      "workload": "80–100 %",
+      "id": "4a4e3572561d",
+      "foundAt": "2026-11-14T07:15:53.588Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Haushalts- und Küchenhilfe",
+      "titleEs": "Ayudante de hogar y cocina",
+      "company": "Stadt Bülach",
+      "location": "Bülach",
+      "postedAt": "2026-11-08",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/39be75da-4916-45cd-871c-88056eae0a26",
+      "summary": "Puesto de ayuda doméstica y de cocina en la ciudad de Bülach.",
+      "de": {
+        "title": "Haushalts- und Küchenhilfe",
+        "summary": "Stelle als Haushalts- und Küchenhilfe bei der Stadt Bülach."
+      },
+      "id": "384f04e4a1fc",
+      "foundAt": "2026-11-14T07:15:53.588Z"
     },
     {
       "searchId": "qa-test",
