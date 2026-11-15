@@ -1,6 +1,144 @@
 {
-  "updatedAt": "2026-11-14T19:04:18.118Z",
+  "updatedAt": "2026-11-15T06:20:08.663Z",
   "jobs": [
+    {
+      "searchId": "junior-it",
+      "title": "IT Support Engineer (m/w/d)",
+      "titleEs": "Ingeniero/a de soporte IT",
+      "company": "Rocken®",
+      "location": "Dietlikon ZH",
+      "postedAt": "2026-11-14",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/it-support-engineer-m-w-d-at-rocken%C2%AE-4487950498",
+      "summary": "Puesto de soporte IT en Dietlikon a través de Rocken. (Datos tomados del listado; sin detalle ampliado.)",
+      "de": {
+        "title": "IT Support Engineer (m/w/d)",
+        "summary": "IT Support Engineer in Dietlikon über Rocken."
+      },
+      "id": "6a0e160dc578",
+      "foundAt": "2026-11-15T06:20:08.663Z"
+    },
+    {
+      "searchId": "junior-it",
+      "title": "Spezialist IT Support (m/w/d)",
+      "titleEs": "Especialista de soporte IT",
+      "company": "Rocken®",
+      "location": "Baden AG",
+      "postedAt": "2026-11-14",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/spezialist-it-support-m-w-d-at-rocken%C2%AE-4487943637",
+      "summary": "Especialista de soporte IT en Baden a través de Rocken. (Datos tomados del listado; sin detalle ampliado.)",
+      "de": {
+        "title": "Spezialist IT Support (m/w/d)",
+        "summary": "Spezialist IT Support in Baden über Rocken."
+      },
+      "id": "12a8f517534c",
+      "foundAt": "2026-11-15T06:20:08.663Z"
+    },
+    {
+      "searchId": "junior-it",
+      "title": "ICT Supporter – Windows, Microsoft 365 & IT-Arbeitsplätze (m/w/d)",
+      "titleEs": "Soporte ICT – Windows, Microsoft 365 y puestos de trabajo",
+      "company": "Rocken®",
+      "location": "Elsau ZH",
+      "postedAt": "2026-11-14",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/ict-supporter-%E2%80%93-windows-microsoft-365-it-arbeitspl%C3%A4tze-m-w-d-at-rocken%C2%AE-4489820262",
+      "summary": "Soporte ICT para Windows y Microsoft 365 en Elsau (cerca de Winterthur). (Datos tomados del listado; sin detalle ampliado.)",
+      "de": {
+        "title": "ICT Supporter – Windows, Microsoft 365 & IT-Arbeitsplätze (m/w/d)",
+        "summary": "ICT-Supporter für Windows und Microsoft 365 in Elsau bei Winterthur."
+      },
+      "id": "bbfcf7e3e558",
+      "foundAt": "2026-11-15T06:20:08.663Z"
+    },
+    {
+      "searchId": "junior-it",
+      "title": "IT Supporter (80-100%) m/w",
+      "titleEs": "Soporte IT 80–100%",
+      "company": "yellowshark® AG",
+      "location": "Uetikon am See ZH",
+      "postedAt": "2026-11-14",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/it-supporter-80-100%25-m-w-at-yellowshark%C2%AE-ag-4488982754",
+      "summary": "Puesto de soporte IT en Uetikon am See. (Datos tomados del listado; sin detalle ampliado.)",
+      "de": {
+        "title": "IT Supporter (80-100%) m/w",
+        "summary": "IT Supporter in Uetikon am See."
+      },
+      "id": "0cf983cd0206",
+      "foundAt": "2026-11-15T06:20:08.663Z"
+    },
+    {
+      "searchId": "junior-it",
+      "title": "Service Desk Engineer 80-100 % (m/w/d)",
+      "titleEs": "Ingeniero/a de Service Desk 80–100%",
+      "company": "iTrust",
+      "location": "Cham ZG",
+      "postedAt": "2026-11-14",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/service-desk-engineer-80-100-%25-m-w-d-at-itrust-4489323664",
+      "summary": "Puesto de service desk en Cham. (Datos tomados del listado; sin detalle ampliado.)",
+      "de": {
+        "title": "Service Desk Engineer 80-100 % (m/w/d)",
+        "summary": "Service Desk Engineer in Cham."
+      },
+      "id": "563e8c159919",
+      "foundAt": "2026-11-15T06:20:08.663Z"
+    },
+    {
+      "searchId": "junior-it",
+      "title": "Analyst, Desktop Support – Information & Technology",
+      "titleEs": "Analista de soporte de escritorio",
+      "company": "StepStone Group",
+      "location": "Zürich",
+      "postedAt": "2026-11-14",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/analyst-desktop-support-information-technology-at-stepstone-group-4443218643",
+      "summary": "Soporte de escritorio en StepStone Zürich. (Datos tomados del listado; sin detalle ampliado.)",
+      "de": {
+        "title": "Analyst, Desktop Support – Information & Technology",
+        "summary": "Desktop Support Analyst bei StepStone in Zürich."
+      },
+      "englishOk": true,
+      "id": "30bc76cc46c5",
+      "foundAt": "2026-11-15T06:20:08.663Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior Software Engineer, Tacit Knowledge & Knowledge Graph",
+      "titleEs": "Ingeniero/a de software senior, conocimiento tácito y grafos",
+      "company": "Squirro",
+      "location": "Zürich",
+      "postedAt": "2026-11-14",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/senior-software-engineer-tacit-knowledge-knowledge-graph-at-squirro-4489588583",
+      "summary": "Puesto senior de ingeniería de software en Squirro, Zürich. (Datos del listado.)",
+      "de": {
+        "title": "Senior Software Engineer, Tacit Knowledge & Knowledge Graph",
+        "summary": "Senior Software Engineer bei Squirro in Zürich."
+      },
+      "seniority": "senior",
+      "id": "2c6488a69b67",
+      "foundAt": "2026-11-15T06:20:08.663Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Software Engineer (w/m/d) 80 – 100%",
+      "titleEs": "Ingeniero/a de software 80–100%",
+      "company": "BMS Building Materials Suisse",
+      "location": "Rümlang ZH",
+      "postedAt": "2026-11-14",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/software-engineer-w-m-d-80-%E2%80%93-100%25-at-bms-building-materials-suisse-4490703874",
+      "summary": "Puesto de ingeniería de software en Rümlang. (Datos del listado.)",
+      "de": {
+        "title": "Software Engineer (w/m/d) 80 – 100%",
+        "summary": "Software Engineer in Rümlang."
+      },
+      "id": "dabc85ad87ba",
+      "foundAt": "2026-11-15T06:20:08.663Z"
+    },
     {
       "searchId": "lager",
       "title": "Warehouse Team Member",
@@ -18,6 +156,23 @@
       "englishOk": true,
       "id": "af7b05fd7715",
       "foundAt": "2026-11-14T07:15:53.588Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Java Fullstack Engineer",
+      "titleEs": "Ingeniero/a Java full-stack",
+      "company": "Zühlke Group",
+      "location": "Schlieren ZH",
+      "postedAt": "2026-11-13",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/java-fullstack-engineer-at-z%C3%BChlke-group-4463298997",
+      "summary": "Puesto Java full-stack en Zühlke, Schlieren. (Datos del listado.)",
+      "de": {
+        "title": "Java Fullstack Engineer",
+        "summary": "Java Fullstack Engineer bei Zühlke in Schlieren."
+      },
+      "id": "15064ef48047",
+      "foundAt": "2026-11-15T06:20:08.663Z"
     },
     {
       "searchId": "fullstack-ts",
@@ -564,6 +719,23 @@
       "seniority": "senior",
       "id": "e653e04cdfd3",
       "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Cloud Software Engineer",
+      "titleEs": "Ingeniero/a de software cloud",
+      "company": "Snap Inc.",
+      "location": "Zürich",
+      "postedAt": "2026-11-12",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/cloud-software-engineer-at-snap-inc-4482095482",
+      "summary": "Puesto de ingeniería de software cloud en Snap, Zürich. (Datos del listado.)",
+      "de": {
+        "title": "Cloud Software Engineer",
+        "summary": "Cloud Software Engineer bei Snap in Zürich."
+      },
+      "id": "4168cb478326",
+      "foundAt": "2026-11-15T06:20:08.663Z"
     },
     {
       "searchId": "fullstack-ts",
@@ -2798,6 +2970,23 @@
     },
     {
       "searchId": "fullstack-ts",
+      "title": "Fullstack Software Engineer mit DevOps Mindset (a) (80 – 100%)",
+      "titleEs": "Ingeniero/a de software full-stack con mentalidad DevOps",
+      "company": "Consult & Pepper AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-10",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/fullstack-software-engineer-mit-devops-mindset-a-80-%E2%80%93-100%25-at-consult-pepper-ag-4467098880",
+      "summary": "Puesto full-stack con enfoque DevOps en Zürich. (Datos del listado.)",
+      "de": {
+        "title": "Fullstack Software Engineer mit DevOps Mindset (a) (80 – 100%)",
+        "summary": "Fullstack Software Engineer mit DevOps Mindset in Zürich."
+      },
+      "id": "09913a8d2098",
+      "foundAt": "2026-11-15T06:20:08.663Z"
+    },
+    {
+      "searchId": "fullstack-ts",
       "title": "Senior Web Engineer",
       "titleEs": "Ingeniero/a web senior",
       "company": "Canonical",
@@ -4524,6 +4713,43 @@
       "foundAt": "2026-11-12T11:44:58.393Z"
     },
     {
+      "searchId": "fullstack-ts",
+      "title": "Senior Software Engineer, Engineering Productivity",
+      "titleEs": "Ingeniero/a de software senior, productividad de ingeniería",
+      "company": "Snowflake",
+      "location": "Zürich",
+      "postedAt": "2026-11-08",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/senior-software-engineer-engineering-productivity-at-snowflake-4478520079",
+      "summary": "Puesto de ingeniería de software senior en el equipo de productividad de ingeniería de Snowflake en Zürich. (Datos tomados del listado; sin detalle ampliado.)",
+      "de": {
+        "title": "Senior Software Engineer, Engineering Productivity",
+        "summary": "Senior Software Engineer im Team Engineering Productivity bei Snowflake in Zürich."
+      },
+      "englishOk": true,
+      "seniority": "senior",
+      "id": "2de52833def2",
+      "foundAt": "2026-11-15T06:20:08.663Z"
+    },
+    {
+      "searchId": "junior-it",
+      "title": "Praktikum Software Engineering",
+      "titleEs": "Prácticas de ingeniería de software",
+      "company": "ti&m",
+      "location": "Zürich",
+      "postedAt": "2026-11-08",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/praktikum-software-engineering-at-ti-m-4486962997",
+      "summary": "Prácticas de ingeniería de software en ti&m Zürich. (Datos del listado.)",
+      "de": {
+        "title": "Praktikum Software Engineering",
+        "summary": "Praktikum Software Engineering bei ti&m in Zürich."
+      },
+      "seniority": "intern",
+      "id": "e57a182b35f6",
+      "foundAt": "2026-11-15T06:20:08.663Z"
+    },
+    {
       "searchId": "reinigung-flughafen",
       "title": "Fachperson Reinigung (a), 80-100%",
       "titleEs": "Especialista de limpieza 80-100%",
@@ -4897,222 +5123,6 @@
       },
       "id": "ae1fd61914be",
       "foundAt": "2026-11-12T15:20:33.966Z"
-    },
-    {
-      "searchId": "lager",
-      "title": "Mitarbeiter Lager und Verkauf befristet bis 30. Juni 2027 w/m/d 100%",
-      "titleEs": "Mozo de almacén y ventas, temporal hasta 30.06.2027",
-      "company": "LANDI Weinland Genossenschaft",
-      "location": "Marthalen",
-      "postedAt": "2026-11-07",
-      "source": "jobs.ch",
-      "url": "https://www.jobs.ch/de/stellenangebote/detail/d1e840bc-0898-472b-963c-5736f91426b2",
-      "summary": "Puesto al 100 % hasta el 30 de junio de 2027 en almacén y ventas en la tienda LANDI de Marthalen (Weinland zuriqués).",
-      "description": "Apoyo en el almacén y la venta, asesoramiento a clientes en la tienda LANDI y presentación atractiva de la mercancía.",
-      "requirements": [
-        "Experiencia en ventas o almacén (una ventaja, no imprescindible)",
-        "Trabajo en equipo y amabilidad",
-        "Flexibilidad y compromiso"
-      ],
-      "workload": "100 %",
-      "employmentType": "Temporal hasta 30.06.2027",
-      "language": "Alemán",
-      "de": {
-        "title": "Mitarbeiter Lager und Verkauf befristet bis 30. Juni 2027 w/m/d 100%",
-        "summary": "100-%-Stelle bis 30. Juni 2027 in Lager und Verkauf im LANDI Laden Marthalen (Zürcher Weinland).",
-        "description": "Unterstützung in Lager und Verkauf, Kundenberatung im LANDI Laden und ansprechende Warenpräsentation.",
-        "requirements": [
-          "Verkaufs- oder Lagererfahrung von Vorteil, nicht zwingend",
-          "Teamfähigkeit und Freundlichkeit",
-          "Flexibilität und Einsatzbereitschaft"
-        ],
-        "workload": "100 %",
-        "employmentType": "Befristet bis 30. Juni 2027",
-        "language": "Deutsch"
-      },
-      "id": "307847c8a651",
-      "foundAt": "2026-11-12T11:44:58.393Z"
-    },
-    {
-      "searchId": "reinigung-flughafen",
-      "title": "Mitarbeiter*in Reinigung & Aufsicht",
-      "titleEs": "Personal de limpieza y supervisión",
-      "company": "Fitnesspark",
-      "location": "Regensdorf",
-      "postedAt": "2026-11-07",
-      "source": "jobs.ch",
-      "url": "https://www.jobs.ch/de/stellenangebote/detail/37773998-8212-426e-a134-a58087df9473",
-      "summary": "Empleo secundario (10–20 %) de limpieza y supervisión en el Fitnesspark de Regensdorf.",
-      "description": "Mantener la instalación limpia e higiénica durante el horario de apertura, controlar las normas de higiene, asesorar a los clientes en el uso de los aparatos, ayudar en la lavandería y prestar primeros auxilios.",
-      "requirements": [
-        "Formación profesional básica o superior (sin especialidad)",
-        "1–3 años de experiencia en un puesto comparable",
-        "Certificado BLS/AED vigente",
-        "Turnos de 7 días y cada segundo fin de semana",
-        "Alemán C1"
-      ],
-      "workload": "10–20 %",
-      "employmentType": "Empleo secundario",
-      "language": "Alemán C1",
-      "de": {
-        "title": "Mitarbeiter*in Reinigung & Aufsicht",
-        "summary": "Nebenerwerb (10–20 %) in Reinigung und Aufsicht im Fitnesspark Regensdorf.",
-        "description": "Anlage während der Öffnungszeiten sauber und hygienisch halten, Hygienestandards kontrollieren, Gäste bei der Gerätenutzung beraten, in der Wäscherei mithelfen, Erste Hilfe leisten.",
-        "requirements": [
-          "Berufliche Grund- oder Weiterbildung (beliebige Richtung)",
-          "1–3 Jahre Erfahrung in vergleichbarer Rolle",
-          "Gültiges BLS/AED-Zertifikat",
-          "7-Tage-Schichten und jedes zweite Wochenende",
-          "Deutsch C1"
-        ],
-        "workload": "10–20 %",
-        "employmentType": "Nebenerwerb",
-        "language": "Deutsch C1"
-      },
-      "id": "9d1fadc6dece",
-      "foundAt": "2026-11-12T11:44:58.393Z"
-    },
-    {
-      "searchId": "kueche",
-      "title": "Mitarbeiter*in Küchenproduktion / Traiteur",
-      "titleEs": "Empleado/a de producción de cocina / Traiteur",
-      "company": "Kubista Gastro GmbH",
-      "location": "Zürich (Binz)",
-      "postedAt": "2026-11-07",
-      "source": "jobs.ch",
-      "url": "https://www.jobs.ch/de/stellenangebote/detail/624f9794-181e-4027-99c8-e7df6311701a",
-      "summary": "Producción de cocina para bocadillos y catering en el centro de producción de Babu's; turnos desde las 06:00.",
-      "description": "Preparar la gama de bocadillos, mise en place para el día siguiente, trabajos generales de producción de cocina y limpieza en producción, respetando higiene y seguridad. Lunes a domingo, aprox. 06:00–15:00 según planificación.",
-      "requirements": [
-        "Experiencia previa en cocina o producción",
-        "Trabajo preciso, limpio y eficiente",
-        "Fiable y flexible",
-        "Alemán o inglés; carnet B deseable"
-      ],
-      "workload": "100 %",
-      "employmentType": "Contrato fijo",
-      "language": "Alemán (inglés ventajoso)",
-      "de": {
-        "title": "Mitarbeiter*in Küchenproduktion / Traiteur",
-        "summary": "Küchenproduktion für Sandwiches und Traiteur im Produktionsbetrieb von Babu's; Schichten ab ca. 06:00 Uhr.",
-        "description": "Zubereiten des Sandwich-Sortiments, Mise en place für den Folgetag, allgemeine Küchenproduktion und Reinigung in der Produktion, Einhaltung von Hygiene und Arbeitssicherheit. Montag bis Sonntag, ca. 06:00–15:00 Uhr je nach Produktionsplanung.",
-        "requirements": [
-          "Vorkenntnisse in Küche oder Produktion",
-          "Genaue, saubere und effiziente Arbeitsweise",
-          "Zuverlässig und flexibel",
-          "Deutsch oder Englisch; Führerschein B ideal"
-        ],
-        "workload": "100 %",
-        "employmentType": "Festanstellung",
-        "language": "Deutsch (Englisch von Vorteil)"
-      },
-      "id": "101577d7f298",
-      "foundAt": "2026-11-12T11:44:58.393Z"
-    },
-    {
-      "searchId": "hotel",
-      "title": "Mitarbeiter:in Housekeeping | Placid Hotel",
-      "titleEs": "Empleado/a de housekeeping | Placid Hotel",
-      "company": "Stiftung Diakonie Bethanien",
-      "location": "Zürich-Altstetten ZH",
-      "postedAt": "2026-11-07",
-      "source": "jobs.ch",
-      "url": "https://www.jobs.ch/de/stellenangebote/detail/76d5bc11-b1f8-44c7-8eda-07efd4f172a6",
-      "summary": "Limpieza de habitaciones y zonas del Placid Hotel de Zúrich, pago por horas, con turnos de fin de semana.",
-      "description": "Limpieza de habitaciones y zonas asignadas, trabajos de housekeeping y limpieza de ventanas, apoyo en zonas públicas y cumplimiento de normas de higiene. Horario 07:00–19:00 con turnos regulares de fin de semana. Inicio inmediato o a convenir.",
-      "requirements": [
-        "Experiencia en housekeeping de hotel",
-        "Experiencia con máquinas de limpieza",
-        "Buen alemán hablado, inglés una ventaja",
-        "Preferible vivir en la zona de Zúrich"
-      ],
-      "workload": "50–80 %",
-      "employmentType": "Pago por horas",
-      "language": "Alemán hablado bueno, inglés una ventaja",
-      "de": {
-        "title": "Mitarbeiter:in Housekeeping | Placid Hotel",
-        "summary": "Zimmerreinigung und Housekeeping im Placid Hotel Zürich, Stundenlohn mit regelmässigen Wochenenddiensten.",
-        "description": "Reinigung zugeteilter Zimmer und Bereiche, Housekeeping und Fensterreinigung, Unterstützung der öffentlichen Bereiche, Einhaltung der Hygienevorschriften. Arbeitszeit 07:00–19:00 mit regelmässigen Wochenenddiensten. Eintritt per sofort oder nach Vereinbarung.",
-        "requirements": [
-          "Erfahrung im Hotel-Housekeeping",
-          "Erfahrung mit Reinigungsmaschinen",
-          "Gute mündliche Deutschkenntnisse, Englisch von Vorteil",
-          "Idealerweise Wohnort im Raum Zürich"
-        ],
-        "workload": "50–80 %",
-        "employmentType": "Stundenlohn",
-        "language": "Gute mündliche Deutschkenntnisse, Englisch von Vorteil"
-      },
-      "id": "4aaf4e17fb99",
-      "foundAt": "2026-11-12T10:00:08.920Z"
-    },
-    {
-      "searchId": "reinigung-flughafen",
-      "title": "Mitarbeiter*in Flugzeugreinigung LKW-Beifahrer (m/w/d)",
-      "company": "Vebego AG",
-      "location": "Zürich Flughafen",
-      "postedAt": "2026-11-07",
-      "source": "jobs.ch",
-      "url": "https://www.jobs.ch/de/stellenangebote/detail/bf634ee7-4f45-4316-8d94-104a6779f7eb",
-      "summary": "Limpieza de cocinas y cabinas de aviones en el aeropuerto de Zúrich como acompañante del camión.",
-      "description": "Guiar al conductor del camión en maniobras, equipar el camión, limpiar y retirar residuos de las galleys y limpieza general del interior de aviones. Turnos de 06:30-12:00 o 16:00-21:00, también fines de semana y festivos.",
-      "requirements": [
-        "Alemán A2 o inglés B1",
-        "Sin antecedentes penales (necesario para la acreditación del aeropuerto)",
-        "Buena condición física y fiabilidad",
-        "Permiso C o B con autorización de trabajo"
-      ],
-      "workload": "20–32 h/semana",
-      "language": "Alemán A2 o inglés B1",
-      "id": "51fa8f1aa794",
-      "foundAt": "2026-11-11T15:58:35.846Z",
-      "titleEs": "Limpiador/a de aviones y acompañante de camión",
-      "de": {
-        "title": "Mitarbeiter*in Flugzeugreinigung LKW-Beifahrer (m/w/d)",
-        "summary": "Reinigung von Bordküchen und Flugzeugkabinen am Flughafen Zürich als LKW-Beifahrer/in.",
-        "description": "Den LKW-Fahrer beim Manövrieren einweisen, den LKW ausrüsten, Galleys reinigen und Abfälle entsorgen sowie allgemeine Innenreinigung von Flugzeugen. Schichten 06:30–12:00 oder 16:00–21:00, auch an Wochenenden und Feiertagen.",
-        "requirements": [
-          "Deutsch A2 oder Englisch B1",
-          "Keine Vorstrafen (nötig für den Flughafenausweis)",
-          "Gute körperliche Verfassung und Zuverlässigkeit",
-          "Bewilligung C oder B mit Arbeitserlaubnis"
-        ],
-        "workload": "20–32 Std./Woche",
-        "language": "Deutsch A2 oder Englisch B1"
-      }
-    },
-    {
-      "searchId": "reinigung-flughafen",
-      "title": "Mitarbeiter*in Flugzeugreinigung (m/w/d)",
-      "company": "Vebego AG",
-      "location": "Zürich Flughafen",
-      "postedAt": "2026-11-07",
-      "source": "jobs.ch",
-      "url": "https://www.jobs.ch/de/stellenangebote/detail/62288ded-e006-47a5-9aa2-50bf299023e7",
-      "summary": "Limpieza general del interior de aviones en el aeropuerto de Zúrich, con turnos irregulares.",
-      "description": "Limpieza general de aviones de distintas aerolíneas, manteniendo estándares de higiene, trabajando en equipo. Turnos de mañana (06:30-12:00) o tarde (16:00-21:00), incluidos fines de semana y festivos.",
-      "requirements": [
-        "Alemán A2 o inglés B1",
-        "Sin antecedentes penales",
-        "Buena condición física y fiabilidad",
-        "Permiso C o B con autorización de trabajo"
-      ],
-      "language": "Alemán A2 o inglés B1",
-      "id": "8c24e473a9da",
-      "foundAt": "2026-11-11T15:58:35.846Z",
-      "titleEs": "Limpiador/a de aviones",
-      "de": {
-        "title": "Mitarbeiter*in Flugzeugreinigung (m/w/d)",
-        "summary": "Allgemeine Innenreinigung von Flugzeugen am Flughafen Zürich, mit unregelmässigen Schichten.",
-        "description": "Allgemeine Reinigung von Flugzeugen verschiedener Airlines unter Einhaltung der Hygienestandards, im Team. Früh- (06:30–12:00) oder Spätschicht (16:00–21:00), auch an Wochenenden und Feiertagen.",
-        "requirements": [
-          "Deutsch A2 oder Englisch B1",
-          "Keine Vorstrafen",
-          "Gute körperliche Verfassung und Zuverlässigkeit",
-          "Bewilligung C oder B mit Arbeitserlaubnis"
-        ],
-        "language": "Deutsch A2 oder Englisch B1"
-      }
     },
     {
       "searchId": "fullstack-ts",
@@ -7506,6 +7516,41 @@
       },
       "id": "fd7c9fabf0c3",
       "foundAt": "2026-11-12T15:20:33.966Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "QA Engineer – Mobile Testing",
+      "titleEs": "Ingeniero/a QA – pruebas móviles",
+      "company": "Specialized Bicycle Components",
+      "location": "Cham ZG",
+      "postedAt": "2026-11-01",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/qa-engineer-%E2%80%93-mobile-testing-at-specialized-bicycle-components-4419855030",
+      "summary": "Puesto de QA centrado en pruebas móviles en Cham. (Datos tomados del listado; sin detalle ampliado.)",
+      "de": {
+        "title": "QA Engineer – Mobile Testing",
+        "summary": "QA Engineer mit Fokus Mobile Testing in Cham."
+      },
+      "id": "71f3c75e9ce9",
+      "foundAt": "2026-11-15T06:20:08.663Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "Senior Automation QA Engineer – Mobile Testing",
+      "titleEs": "Ingeniero/a QA de automatización senior – pruebas móviles",
+      "company": "Specialized Bicycle Components",
+      "location": "Cham ZG",
+      "postedAt": "2026-11-01",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/senior-automation-qa-engineer-%E2%80%93-mobile-testing-at-specialized-bicycle-components-4419834911",
+      "summary": "Puesto senior de automatización QA para pruebas móviles en Cham. (Datos tomados del listado; sin detalle ampliado.)",
+      "de": {
+        "title": "Senior Automation QA Engineer – Mobile Testing",
+        "summary": "Senior Automation QA Engineer für Mobile Testing in Cham."
+      },
+      "seniority": "senior",
+      "id": "2d9b0fb9a271",
+      "foundAt": "2026-11-15T06:20:08.663Z"
     },
     {
       "searchId": "qa-test",
