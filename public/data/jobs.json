@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-11-15T06:20:08.663Z",
+  "updatedAt": "2026-11-15T07:14:04.871Z",
   "jobs": [
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Reinigung",
+      "titleEs": "Limpieza",
+      "company": "Coople (cliente no nombrado)",
+      "location": "8048 Zürich",
+      "postedAt": "2026-11-15",
+      "source": "Coople",
+      "url": "https://www.coople.com/ch/jobs/de/2509fc7a-dd0e-4a02-a223-538bcef1452b",
+      "summary": "Puesto temporal de limpieza en Zúrich a través de Coople.",
+      "de": {
+        "title": "Reinigung",
+        "summary": "Temporäre Reinigungsstelle in Zürich über Coople."
+      },
+      "id": "eb99a3fcc283",
+      "foundAt": "2026-11-15T07:14:04.871Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Agent de nettoyage",
+      "titleEs": "Agente de limpieza",
+      "company": "Vareno Facility Management",
+      "location": "Dietikon ZH",
+      "postedAt": "2026-11-14",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/agent-de-nettoyage-at-vareno-facility-management-4491075646",
+      "summary": "Puesto de limpieza en Dietikon (anuncio en francés).",
+      "de": {
+        "title": "Agent de nettoyage",
+        "summary": "Reinigungsstelle in Dietikon (Anzeige auf Französisch)."
+      },
+      "id": "5a45fbae4377",
+      "foundAt": "2026-11-15T07:14:04.871Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Küchenmitarbeiter/in 80-100% - Produktion und Foodtruck",
+      "titleEs": "Ayudante de cocina 80-100% - producción y foodtruck",
+      "company": "THE THAI, Take Away & Catering AG",
+      "location": "Regensdorf ZH",
+      "postedAt": "2026-11-14",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4489344294",
+      "summary": "Puesto de cocina en producción y foodtruck al 80-100% en Regensdorf.",
+      "de": {
+        "title": "Küchenmitarbeiter/in 80-100% - Produktion und Foodtruck",
+        "summary": "Küchenstelle in Produktion und Foodtruck 80-100% in Regensdorf."
+      },
+      "workload": "80–100 %",
+      "id": "111dc88d0e88",
+      "foundAt": "2026-11-15T07:14:04.871Z"
+    },
     {
       "searchId": "junior-it",
       "title": "IT Support Engineer (m/w/d)",
@@ -156,6 +208,213 @@
       "englishOk": true,
       "id": "af7b05fd7715",
       "foundAt": "2026-11-14T07:15:53.588Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistiker/in EFZ",
+      "titleEs": "Logista/o EFZ (logística)",
+      "company": "Randstad (cliente no nombrado)",
+      "location": "Winterthur ZH",
+      "postedAt": "2026-11-13",
+      "source": "Randstad",
+      "url": "https://www.randstad.ch/jobs/logistikerin-efz_winterthur_719b1b80-f153-4b7c-9d5f-4a48968bbad4",
+      "summary": "Puesto de logística/almacén ofrecido por Randstad en Winterthur ZH. Detalles en la oferta original.",
+      "de": {
+        "title": "Logistiker/in EFZ",
+        "summary": "Stelle im Bereich Logistik/Lager, angeboten von Randstad in Winterthur ZH. Details in der Originalanzeige."
+      },
+      "id": "037f47ac28f9",
+      "foundAt": "2026-11-15T07:14:04.871Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistiker:in EFZ",
+      "titleEs": "Logista/o EFZ (logística)",
+      "company": "Randstad (cliente no nombrado)",
+      "location": "Winterthur ZH",
+      "postedAt": "2026-11-13",
+      "source": "Randstad",
+      "url": "https://www.randstad.ch/jobs/logistikerin-efz_winterthur_64d3e438-9a93-4e7a-9d41-05ec7e3499f4",
+      "summary": "Puesto de logística/almacén ofrecido por Randstad en Winterthur ZH. Detalles en la oferta original.",
+      "de": {
+        "title": "Logistiker:in EFZ",
+        "summary": "Stelle im Bereich Logistik/Lager, angeboten von Randstad in Winterthur ZH. Details in der Originalanzeige."
+      },
+      "id": "d9fda25509da",
+      "foundAt": "2026-11-15T07:14:04.871Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Mitarbeiter Logistikadministrator / Lagerkoordination 100% (m/w/d)",
+      "titleEs": "Administrador/a de logística / coordinación de almacén 100%",
+      "company": "Randstad (cliente no nombrado)",
+      "location": "Embrach ZH",
+      "postedAt": "2026-11-13",
+      "source": "Randstad",
+      "url": "https://www.randstad.ch/jobs/mitarbeiter-logistikadministrator-lagerkoordination-100-mwd_embrach_14d9c368-c657-4d02-992a-0c2210218fa8",
+      "summary": "Puesto de logística/almacén ofrecido por Randstad en Embrach ZH. Detalles en la oferta original.",
+      "de": {
+        "title": "Mitarbeiter Logistikadministrator / Lagerkoordination 100% (m/w/d)",
+        "summary": "Stelle im Bereich Logistik/Lager, angeboten von Randstad in Embrach ZH. Details in der Originalanzeige."
+      },
+      "id": "ba15546a2fd8",
+      "foundAt": "2026-11-15T07:14:04.871Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistiker Stelle in Bülach 100% (m/w/d)",
+      "titleEs": "Puesto de logística en Bülach 100%",
+      "company": "Randstad (cliente no nombrado)",
+      "location": "Bülach ZH",
+      "postedAt": "2026-11-13",
+      "source": "Randstad",
+      "url": "https://www.randstad.ch/jobs/logistiker-stelle-in-buelach-100-mwd_buelach_4d8bcdd4-1afc-496d-8230-86b7477dd63e",
+      "summary": "Puesto de logística/almacén ofrecido por Randstad en Bülach ZH. Detalles en la oferta original.",
+      "de": {
+        "title": "Logistiker Stelle in Bülach 100% (m/w/d)",
+        "summary": "Stelle im Bereich Logistik/Lager, angeboten von Randstad in Bülach ZH. Details in der Originalanzeige."
+      },
+      "id": "08a405dd84af",
+      "foundAt": "2026-11-15T07:14:04.871Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistik-Mitarbeiter in Rümlang 100% (m/w/d)",
+      "titleEs": "Empleado/a de logística en Rümlang 100%",
+      "company": "Randstad (cliente no nombrado)",
+      "location": "Zürich (Rümlang) ZH",
+      "postedAt": "2026-11-13",
+      "source": "Randstad",
+      "url": "https://www.randstad.ch/jobs/logistik-mitarbeiter-in-ruemlang-100-mwd_zuerich_d6a81aeb-6e7b-4cdd-933c-63f4454c4d8c",
+      "summary": "Puesto de logística/almacén ofrecido por Randstad en Zürich (Rümlang) ZH. Detalles en la oferta original.",
+      "de": {
+        "title": "Logistik-Mitarbeiter in Rümlang 100% (m/w/d)",
+        "summary": "Stelle im Bereich Logistik/Lager, angeboten von Randstad in Zürich (Rümlang) ZH. Details in der Originalanzeige."
+      },
+      "id": "efe16baae345",
+      "foundAt": "2026-11-15T07:14:04.871Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistik Stelle in Embrach 100% (m/w/d)",
+      "titleEs": "Puesto de logística en Embrach 100%",
+      "company": "Randstad (cliente no nombrado)",
+      "location": "Embrach ZH",
+      "postedAt": "2026-11-13",
+      "source": "Randstad",
+      "url": "https://www.randstad.ch/jobs/logistik-stelle-in-embrach-100-mwd_embrach_92ece6f6-b80a-4d7e-b9d6-db2e6af1bfef",
+      "summary": "Puesto de logística/almacén ofrecido por Randstad en Embrach ZH. Detalles en la oferta original.",
+      "de": {
+        "title": "Logistik Stelle in Embrach 100% (m/w/d)",
+        "summary": "Stelle im Bereich Logistik/Lager, angeboten von Randstad in Embrach ZH. Details in der Originalanzeige."
+      },
+      "id": "8d963afa2e29",
+      "foundAt": "2026-11-15T07:14:04.871Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistikhelfer /Allrounder 100% (m/w/d)",
+      "titleEs": "Ayudante de logística / polivalente 100%",
+      "company": "Randstad (cliente no nombrado)",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-13",
+      "source": "Randstad",
+      "url": "https://www.randstad.ch/jobs/logistikhelfer-allrounder-100-mwd_zuerich_aaf39531-956c-4790-b1c6-176200e94736",
+      "summary": "Puesto de logística/almacén ofrecido por Randstad en Zürich ZH. Detalles en la oferta original.",
+      "de": {
+        "title": "Logistikhelfer /Allrounder 100% (m/w/d)",
+        "summary": "Stelle im Bereich Logistik/Lager, angeboten von Randstad in Zürich ZH. Details in der Originalanzeige."
+      },
+      "id": "1414833126da",
+      "foundAt": "2026-11-15T07:14:04.871Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistiker/in EFZ 100% (m/w/d)",
+      "titleEs": "Logista/o EFZ 100%",
+      "company": "Randstad (cliente no nombrado)",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-13",
+      "source": "Randstad",
+      "url": "https://www.randstad.ch/jobs/logistikerin-efz-100-mwd_zuerich_d819ba59-1250-4c38-bcf5-1ec9f00524c1",
+      "summary": "Puesto de logística/almacén ofrecido por Randstad en Zürich ZH. Detalles en la oferta original.",
+      "de": {
+        "title": "Logistiker/in EFZ 100% (m/w/d)",
+        "summary": "Stelle im Bereich Logistik/Lager, angeboten von Randstad in Zürich ZH. Details in der Originalanzeige."
+      },
+      "id": "d8ff8679265f",
+      "foundAt": "2026-11-15T07:14:04.871Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistiker/in EFZ 100%",
+      "titleEs": "Logista/o EFZ 100%",
+      "company": "Randstad (cliente no nombrado)",
+      "location": "Bülach ZH",
+      "postedAt": "2026-11-13",
+      "source": "Randstad",
+      "url": "https://www.randstad.ch/jobs/logistikerin-efz-100_buelach_d0378e97-459d-44e4-9db1-df93b5fbfbdf",
+      "summary": "Puesto de logística/almacén ofrecido por Randstad en Bülach ZH. Detalles en la oferta original.",
+      "de": {
+        "title": "Logistiker/in EFZ 100%",
+        "summary": "Stelle im Bereich Logistik/Lager, angeboten von Randstad in Bülach ZH. Details in der Originalanzeige."
+      },
+      "id": "9bd92225d241",
+      "foundAt": "2026-11-15T07:14:04.871Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Mitarbeiter*in Reinigung (30%)",
+      "titleEs": "Empleado/a de limpieza (30%)",
+      "company": "Confiserie Sprüngli AG",
+      "location": "Dietikon ZH",
+      "postedAt": "2026-11-13",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/cdc57c72-9e43-4db0-bf5f-3e661f782adb",
+      "summary": "Puesto de limpieza al 30% en Confiserie Sprüngli, Dietikon.",
+      "de": {
+        "title": "Mitarbeiter*in Reinigung (30%)",
+        "summary": "Reinigungsstelle 30% bei der Confiserie Sprüngli in Dietikon."
+      },
+      "workload": "30 %",
+      "id": "d4f2d4c29a1d",
+      "foundAt": "2026-11-15T07:14:04.871Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Tagesempfang / Reinigung 40-60%",
+      "titleEs": "Recepción de día / limpieza 40-60%",
+      "company": "Hammam Basar AG",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-13",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/7f3f15a8-1919-47bb-89c0-329662cda341",
+      "summary": "Puesto combinado de recepción y limpieza al 40-60% en Zúrich.",
+      "de": {
+        "title": "Tagesempfang / Reinigung 40-60%",
+        "summary": "Kombinierte Stelle Tagesempfang und Reinigung 40-60% in Zürich."
+      },
+      "workload": "40–60 %",
+      "id": "5d439bf8ec39",
+      "foundAt": "2026-11-15T07:14:04.871Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "HOUSEKEEPER (20–100%) – ZÜRICH",
+      "titleEs": "Housekeeper (20–100%) – Zúrich",
+      "company": "City Pop AG",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-13",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/5e424093-b70a-4bfc-9797-db08aee48ab8",
+      "summary": "Puesto de housekeeping con jornada flexible 20-100% en Zúrich.",
+      "de": {
+        "title": "HOUSEKEEPER (20–100%) – ZÜRICH",
+        "summary": "Housekeeping-Stelle mit flexiblem Pensum 20-100% in Zürich."
+      },
+      "workload": "20–100 %",
+      "id": "d4e3f704f6ac",
+      "foundAt": "2026-11-15T07:14:04.871Z"
     },
     {
       "searchId": "fullstack-ts",
@@ -1920,6 +2179,23 @@
       },
       "id": "c196e710d9cc",
       "foundAt": "2026-11-12T10:00:08.920Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Lager / Speditionsmitarbeiter 100% (m/w/d)",
+      "titleEs": "Empleado/a de almacén y expedición 100%",
+      "company": "news Personal AG",
+      "location": "Affoltern am Albis ZH",
+      "postedAt": "2026-11-11",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/e9e8e11b-7da1-4237-a130-e283b8cfa5ed",
+      "summary": "Puesto de almacén y expedición al 100% a través de la agencia news Personal.",
+      "de": {
+        "title": "Lager / Speditionsmitarbeiter 100% (m/w/d)",
+        "summary": "Stelle im Lager/Spedition 100% über news Personal."
+      },
+      "id": "af065364f3a2",
+      "foundAt": "2026-11-15T07:14:04.871Z"
     },
     {
       "searchId": "fullstack-ts",
@@ -3957,6 +4233,23 @@
       }
     },
     {
+      "searchId": "lager",
+      "title": "Mitarbeiter:in Zentrallager 80-100%",
+      "titleEs": "Empleado/a de almacén central 80-100%",
+      "company": "Universitätsspital Zürich",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-09",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/c1832826-0b6b-4044-8b4f-d57c05f71cbd",
+      "summary": "Puesto en el almacén central del hospital universitario de Zúrich, 80-100%.",
+      "de": {
+        "title": "Mitarbeiter:in Zentrallager 80-100%",
+        "summary": "Stelle im Zentrallager des Universitätsspitals Zürich, 80-100%."
+      },
+      "id": "1baff04ff303",
+      "foundAt": "2026-11-15T07:14:04.871Z"
+    },
+    {
       "searchId": "fullstack-ts",
       "title": "(Senior) Fullstack Software Engineer (w/m/d)",
       "titleEs": "Ingeniero/a Fullstack (senior)",
@@ -4711,6 +5004,59 @@
       "salary": "CHF 22 por hora",
       "id": "6914925339cc",
       "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Hilfskoch/Hilfsköchin 100%",
+      "titleEs": "Ayudante de cocina 100%",
+      "company": "Hiltl",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-08",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4485808785",
+      "summary": "Puesto de ayudante de cocina al 100% en Hiltl, Zúrich.",
+      "de": {
+        "title": "Hilfskoch/Hilfsköchin 100%",
+        "summary": "Stelle als Hilfskoch/Hilfsköchin 100% bei Hiltl in Zürich."
+      },
+      "workload": "100 %",
+      "id": "60b44b62a3e9",
+      "foundAt": "2026-11-15T07:14:04.871Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Küche (d/w/m)",
+      "titleEs": "Cocina (ayudante)",
+      "company": "Tenz Momo",
+      "location": "Zürich (Langstrasse) ZH",
+      "postedAt": "2026-11-08",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4486410552",
+      "summary": "Puesto en la cocina de Tenz Momo, Langstrasse, Zúrich.",
+      "de": {
+        "title": "Küche (d/w/m)",
+        "summary": "Stelle in der Küche bei Tenz Momo an der Langstrasse in Zürich."
+      },
+      "id": "e9b3ea86f68a",
+      "foundAt": "2026-11-15T07:14:04.871Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Room Attendant 80-100% (all genders)",
+      "titleEs": "Room attendant 80-100%",
+      "company": "The Living Circle",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-08",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4488135280",
+      "summary": "Puesto de room attendant al 80-100% en Zúrich.",
+      "de": {
+        "title": "Room Attendant 80-100% (all genders)",
+        "summary": "Room-Attendant-Stelle 80-100% in Zürich."
+      },
+      "workload": "80–100 %",
+      "id": "eed1ce75a572",
+      "foundAt": "2026-11-15T07:14:04.871Z"
     },
     {
       "searchId": "fullstack-ts",
