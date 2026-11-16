@@ -9,7 +9,7 @@ El mensaje de la tarea te dice cuál es tu **GRUPO**:
 | Tarea | GRUPO | Hora (Europe/Zurich) | Búsquedas |
 |---|---|---|---|
 | Cv-Locator · IT | `it` | 7:00 | frontend-react, fullstack-ts, qa-test, junior-it |
-| Cv-Locator · general | `general` | 8:00 | lager, reinigung-flughafen, kueche, hotel |
+| Cv-Locator · general | `general` | 8:00 | lager, reinigung-flughafen, kueche, hotel, temporada-invierno |
 
 En todos los comandos de abajo, sustituye `<GRUPO>` por `it` o `general`.
 
@@ -49,6 +49,18 @@ viejos que ya dan 404/410).
   - **Zürich + 40 km** (grupo IT): todo lo anterior y además Zug, Baar, Cham, Baden, Wettingen, Brugg, Lenzburg,
     Rapperswil-Jona, Pfäffikon SZ, Wädenswil, Horgen, Wetzikon, Schaffhausen, Frauenfeld y Winterthur.
   - **Winterthur + 20 km:** Winterthur, Effretikon, Illnau, Seuzach, Pfäffikon ZH, Elgg, Andelfingen, Frauenfeld.
+  - **Regiones enteras (`radiusKm: 0`)** — búsqueda `temporada-invierno` (trabajos de temporada en estaciones de esquí):
+    vale **cualquier lugar de la región**. Busca por la región y por sus estaciones:
+    - **Graubünden:** Davos, Klosters, St. Moritz, Pontresina, Samnaun, Scuol, Arosa, Lenzerheide, Flims, Laax,
+      Savognin, Disentis, Bergün.
+    - **Wallis:** Zermatt, Saas-Fee, Verbier, Crans-Montana, Leukerbad, Riederalp, Bettmeralp, Fiesch, Grächen.
+    - **Berner Oberland:** Grindelwald, Wengen, Mürren, Lauterbrunnen, Adelboden, Lenk, Gstaad, Kandersteg, Meiringen.
+    - **Zentralschweiz:** Engelberg, Andermatt, Sörenberg, Stoos, Melchsee-Frutt.
+    - **Ostschweiz:** Flumserberg, Wildhaus, Unterwasser, Alt St. Johann, Braunwald, Elm, Pizol.
+    Solo puestos **de temporada de invierno** (Wintersaison, Saisonstelle, befristet Dez–April) o fijos en esas
+    estaciones; en hoteles, restaurantes, bergrestaurants, bergbahnen o alquiler de esquís. Sin requisito de
+    formación profesional obligatoria (EFZ) ni de experiencia de varios años como jefe/a. Muchas incluyen
+    alojamiento (Personalzimmer / Kost und Logis): ponlo en `summary` si lo dicen.
   - **Remote (Schweiz, CET)** (solo en búsquedas de IT): ofertas 100 % remotas o "remote-first" de empresas
     suizas o que aceptan trabajar desde Suiza / zona horaria CET. En LinkedIn usa el filtro remoto (`&f_WT=2`).
 - **Varias páginas:** revisa al menos las páginas 1 a 3 de resultados (hasta la 5 si siguen saliendo ofertas
@@ -63,7 +75,7 @@ Direcciones útiles:
 - **jobs.ch**: `https://www.jobs.ch/de/stellenangebote/?term=<TÉRMINO>&location=<LUGAR>&sort-by=date` (y `&page=2`, `&page=3`)
 - **linkedin.com/jobs**: `https://www.linkedin.com/jobs/search/?keywords=<TÉRMINO>&location=<LUGAR>&f_TPR=r604800`
 - **jobscout24.ch**: `https://www.jobscout24.ch/de/jobs/<TÉRMINO>/<LUGAR>/`
-- **swissdevjobs.ch** (IT), **wearedevelopers.com** (IT), **gastrojob.ch**, **hotelcareer.ch**…: usa su buscador o
+- **swissdevjobs.ch** (IT), **wearedevelopers.com** (IT), **gastrojob.ch**, **hotelcareer.ch**, **hoteljob.ch**…: usa su buscador o
   búscalo con WebSearch.
 - **join.com**: muchas startups y pymes suizas publican **solo** aquí. JOIN **no tiene buscador público**
   (`join.com/jobs` pide login), pero la página de cada empresa sí es pública y trae fecha y lugar. Hazlo así:
@@ -209,7 +221,7 @@ Responde en español con:
 
 - Grupo general: calidad antes que cantidad, máximo ~15 ofertas nuevas por búsqueda y día. Grupo IT: sin máximo.
 - Solo añadas ofertas a búsquedas **de tu GRUPO** (el script rechaza las demás).
-- Solo cuentan ofertas dentro de las `areas` de cada búsqueda (general: Zürich/Winterthur + 20 km;
+- Solo cuentan ofertas dentro de las `areas` de cada búsqueda (general: Zürich/Winterthur + 20 km, y las regiones de montaña en `temporada-invierno`;
   IT: Zürich + 40 km, Winterthur + 20 km y remoto en Suiza).
 - El usuario vive en Sirnach TG y habla español (nativo), inglés (B2) y alemán (A1). Si una oferta exige
   alemán C1 o nativo, inclúyela igualmente pero indícalo en `language`.

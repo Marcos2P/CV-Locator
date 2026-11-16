@@ -30,7 +30,7 @@ export interface Search {
 export interface Area {
   /** Lugar, o "Remote" para ofertas en remoto */
   place: string
-  /** Radio en km (0 para Remote) */
+  /** Radio en km (0 para Remote o para una región entera, p. ej. "Graubünden") */
   radiusKm: number
 }
 

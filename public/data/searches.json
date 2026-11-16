@@ -596,5 +596,92 @@
       }
     ],
     "active": true
+  },
+  {
+    "id": "temporada-invierno",
+    "group": "general",
+    "title": "Wintersaison Hotel & Gastronomie",
+    "labels": {
+      "es": "Temporada de invierno",
+      "de": "Wintersaison"
+    },
+    "keywords": [
+      "Wintersaison",
+      "Saisonstelle Winter",
+      "Saisonmitarbeiter",
+      "Saisonnier",
+      "Hotelmitarbeiter Wintersaison",
+      "Zimmermädchen Wintersaison",
+      "Room Attendant Wintersaison",
+      "Housekeeping Saison",
+      "Küchenhilfe Wintersaison",
+      "Abwasch Wintersaison",
+      "Casserolier",
+      "Hilfskoch Saison",
+      "Servicemitarbeiter Wintersaison",
+      "Frühstücksservice Saison",
+      "Mitarbeiter Bergrestaurant",
+      "Mitarbeiter Bergbahnen",
+      "Skivermietung",
+      "Winter season job"
+    ],
+    "areas": [
+      {
+        "place": "Graubünden",
+        "radiusKm": 0
+      },
+      {
+        "place": "Wallis",
+        "radiusKm": 0
+      },
+      {
+        "place": "Berner Oberland",
+        "radiusKm": 0
+      },
+      {
+        "place": "Zentralschweiz (Engelberg, Andermatt)",
+        "radiusKm": 0
+      },
+      {
+        "place": "Ostschweiz (Flumserberg, Toggenburg, Braunwald)",
+        "radiusKm": 0
+      }
+    ],
+    "sources": [
+      "jobs.ch",
+      "gastrojob.ch",
+      "hotelcareer.ch",
+      "hoteljob.ch",
+      "linkedin.com/jobs",
+      "jobscout24.ch"
+    ],
+    "companies": [
+      {
+        "name": "Weisse Arena Gruppe (Laax)"
+      },
+      {
+        "name": "Davos Klosters Mountains"
+      },
+      {
+        "name": "Engadin St. Moritz Mountains"
+      },
+      {
+        "name": "Arosa Lenzerheide (Arosa Bergbahnen / Lenzerheide Bergbahnen)"
+      },
+      {
+        "name": "Zermatt Bergbahnen"
+      },
+      {
+        "name": "Andermatt Swiss Alps"
+      },
+      {
+        "name": "Jungfraubahnen"
+      },
+      {
+        "name": "Coople"
+      }
+    ],
+    "maxAgeDays": 14,
+    "active": true
   }
 ]
