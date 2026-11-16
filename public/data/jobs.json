@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-11-16T17:18:08.311Z",
+  "updatedAt": "2026-11-16T18:54:16.150Z",
   "jobs": [
+    {
+      "searchId": "kueche",
+      "title": "Aushilfskoch",
+      "titleEs": "Ayudante de cocina (aushilfe)",
+      "company": "Coople",
+      "location": "Adliswil ZH",
+      "postedAt": "2026-11-16",
+      "source": "Coople",
+      "url": "https://www.coople.com/ch/jobs/en/4fd3a995-ac4e-49fa-9021-2c7434b905c1",
+      "summary": "Puesto temporal de ayudante de cocina en Adliswil a través de Coople.",
+      "de": {
+        "title": "Aushilfskoch",
+        "summary": "Temporärer Einsatz als Aushilfskoch in Adliswil über Coople."
+      },
+      "id": "8f1dcc415ad0",
+      "foundAt": "2026-11-16T18:54:16.150Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "PUBLIC AREA ATTENDANT",
+      "titleEs": "Auxiliar de limpieza de zonas comunes (hotel)",
+      "company": "Baur au Lac",
+      "location": "Zürich",
+      "postedAt": "2026-11-16",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/public-area-attendant-at-baur-au-lac-4490112999",
+      "summary": "Limpieza y cuidado de las zonas comunes del hotel de lujo Baur au Lac en Zúrich.",
+      "de": {
+        "title": "PUBLIC AREA ATTENDANT",
+        "summary": "Reinigung und Pflege der öffentlichen Bereiche im Luxushotel Baur au Lac in Zürich."
+      },
+      "id": "a508f9dd2c0f",
+      "foundAt": "2026-11-16T18:54:16.150Z"
+    },
     {
       "searchId": "lager",
       "title": "Lagerist:in",
@@ -2169,6 +2203,45 @@
       "seniority": "senior",
       "id": "e653e04cdfd3",
       "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Flugzeug Kabinenreiniger:in mit Groupleader Funktion 100%",
+      "titleEs": "Limpiador/a de cabinas de avión con función de jefe/a de grupo 100%",
+      "company": "ISS Schweiz AG",
+      "location": "Kloten ZH",
+      "postedAt": "2026-11-12",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/flugzeug-kabinenreiniger-in-mit-groupleader-funktion-100%25-at-iss-schweiz-ag-4489218111",
+      "summary": "Limpieza de cabinas de avión en el aeropuerto de Zúrich con función de jefe/a de grupo, 100 %, contrato fijo.",
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "seniority": "junior",
+      "de": {
+        "title": "Flugzeug Kabinenreiniger:in mit Groupleader Funktion 100%",
+        "summary": "Flugzeugkabinenreinigung am Flughafen Zürich mit Groupleader-Funktion, 100 %, Festanstellung.",
+        "workload": "100 %",
+        "employmentType": "Festanstellung"
+      },
+      "id": "cf41e1a46bf6",
+      "foundAt": "2026-11-16T18:54:16.150Z"
+    },
+    {
+      "searchId": "temporada-invierno",
+      "title": "Concierge / Ablöse Night Audit (m/w/d) Wintersaison 2026/2027",
+      "titleEs": "Conserje / relevo de night audit, temporada de invierno 2026/2027",
+      "company": "Tschuggen Collection AG",
+      "location": "Arosa GR",
+      "postedAt": "2026-11-12",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/d59dba57-af15-400b-a69c-7db13e65ea2c",
+      "summary": "Puesto de temporada de invierno 2026/2027 como conserje y relevo de night audit en un hotel de Arosa.",
+      "de": {
+        "title": "Concierge / Ablöse Night Audit (m/w/d) Wintersaison 2026/2027",
+        "summary": "Saisonstelle Winter 2026/2027 als Concierge und Ablöse Night Audit in einem Hotel in Arosa."
+      },
+      "id": "9af8245b20fe",
+      "foundAt": "2026-11-16T18:54:16.150Z"
     },
     {
       "searchId": "fullstack-ts",

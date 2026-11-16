@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T17:18:08.311Z",
+  "updatedAt": "2026-11-16T18:54:16.150Z",
   "companies": [
     {
       "key": "academic work",
@@ -98,6 +98,29 @@
       ]
     },
     {
+      "key": "baur au lac",
+      "name": "Baur au Lac",
+      "agency": false,
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "searchIds": [
+        "hotel"
+      ],
+      "locations": [
+        "Zürich"
+      ],
+      "jobs": [
+        {
+          "id": "a508f9dd2c0f",
+          "title": "Auxiliar de limpieza de zonas comunes (hotel)",
+          "searchId": "hotel",
+          "postedAt": "2026-11-16",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/public-area-attendant-at-baur-au-lac-4490112999"
+        }
+      ]
+    },
+    {
       "key": "cargologic",
       "name": "Cargologic AG",
       "agency": false,
@@ -156,7 +179,7 @@
     },
     {
       "key": "coople",
-      "name": "Coople (hotel en Zürich)",
+      "name": "Coople",
       "agency": true,
       "firstSeen": "2026-11-12",
       "lastSeen": "2026-11-16",
@@ -218,6 +241,14 @@
           "location": "Zürich ZH",
           "url": "https://www.coople.com/ch/jobs/en/b836bddd-d42b-486d-aa2c-1aa40486377c",
           "englishOk": false
+        },
+        {
+          "id": "8f1dcc415ad0",
+          "title": "Ayudante de cocina (aushilfe)",
+          "searchId": "kueche",
+          "postedAt": "2026-11-16",
+          "location": "Adliswil ZH",
+          "url": "https://www.coople.com/ch/jobs/en/4fd3a995-ac4e-49fa-9021-2c7434b905c1"
         },
         {
           "id": "eb99a3fcc283",
@@ -2123,6 +2154,14 @@
           "url": "https://www.jobs.ch/de/stellenangebote/detail/b1063354-bd22-441f-854f-2b6f802e0fd8"
         },
         {
+          "id": "cf41e1a46bf6",
+          "title": "Limpiador/a de cabinas de avión con función de jefe/a de grupo 100%",
+          "searchId": "reinigung-flughafen",
+          "postedAt": "2026-11-12",
+          "location": "Kloten ZH",
+          "url": "https://ch.linkedin.com/jobs/view/flugzeug-kabinenreiniger-in-mit-groupleader-funktion-100%25-at-iss-schweiz-ag-4489218111"
+        },
+        {
           "id": "0c1f0f790a62",
           "title": "Limpiador/a de cabinas de avión con función de jefe/a de grupo 100%",
           "searchId": "reinigung-flughafen",
@@ -2400,6 +2439,38 @@
           "postedAt": "2026-11-06",
           "location": "Zug",
           "url": "https://ch.linkedin.com/jobs/view/junior-developer-financial-markets-at-swisslinx-4487323233"
+        }
+      ]
+    },
+    {
+      "key": "tschuggen collection",
+      "name": "Tschuggen Collection AG",
+      "agency": false,
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-12",
+      "searchIds": [
+        "temporada-invierno"
+      ],
+      "locations": [
+        "Arosa GR"
+      ],
+      "jobs": [
+        {
+          "id": "9af8245b20fe",
+          "title": "Conserje / relevo de night audit, temporada de invierno 2026/2027",
+          "searchId": "temporada-invierno",
+          "postedAt": "2026-11-12",
+          "location": "Arosa GR",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/d59dba57-af15-400b-a69c-7db13e65ea2c"
+        },
+        {
+          "id": "4f749f61a38b",
+          "title": "Cocinero/a de desayunos, temporada de invierno 2026/2027",
+          "searchId": "temporada-invierno",
+          "postedAt": "2026-11-10",
+          "location": "Arosa GR",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/8402cb92-8931-4e48-9f70-f05651c9b1b8",
+          "englishOk": true
         }
       ]
     },
@@ -3632,30 +3703,6 @@
           "postedAt": "2026-11-10",
           "location": "Baar ZG",
           "url": "https://ch.linkedin.com/jobs/view/backend-developer-at-transferchain-4489442349",
-          "englishOk": true
-        }
-      ]
-    },
-    {
-      "key": "tschuggen collection",
-      "name": "Tschuggen Collection AG",
-      "agency": false,
-      "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
-      "searchIds": [
-        "temporada-invierno"
-      ],
-      "locations": [
-        "Arosa GR"
-      ],
-      "jobs": [
-        {
-          "id": "4f749f61a38b",
-          "title": "Cocinero/a de desayunos, temporada de invierno 2026/2027",
-          "searchId": "temporada-invierno",
-          "postedAt": "2026-11-10",
-          "location": "Arosa GR",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/8402cb92-8931-4e48-9f70-f05651c9b1b8",
           "englishOk": true
         }
       ]
