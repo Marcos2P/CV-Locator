@@ -1,6 +1,253 @@
 {
-  "updatedAt": "2026-11-16T17:14:51.404Z",
+  "updatedAt": "2026-11-16T17:18:08.311Z",
   "jobs": [
+    {
+      "searchId": "lager",
+      "title": "Lagerist:in",
+      "titleEs": "Almacenero/a",
+      "company": "Livique",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-16",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/lagerist-in-at-livique-4490279551",
+      "summary": "Recepción de mercancía, almacenaje y preparación de pedidos en un almacén de Zürich; indefinido, 80–100 %.",
+      "description": "Recibir mercancía y descargar contenedores, desembalar, contar existencias y controlar calidad, almacenar y preparar pedidos y apoyar al equipo de ventas.",
+      "requirements": [
+        "Experiencia en logística (ventaja)",
+        "Carné de carretillero (Staplerschein)",
+        "Disponibilidad flexible",
+        "Alemán hablado y escrito"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Contrato indefinido",
+      "language": "Alemán",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Lagerist:in",
+        "summary": "Wareneingang, Lagerung und Kommissionierung in einem Lager in Zürich; unbefristet, 80–100 %.",
+        "description": "Waren annehmen und Container entladen, auspacken, Bestand zählen und Qualität prüfen, einlagern und Aufträge kommissionieren, Verkaufsteam unterstützen.",
+        "requirements": [
+          "Logistikerfahrung von Vorteil",
+          "Staplerschein",
+          "Flexible Verfügbarkeit",
+          "Deutsch in Wort und Schrift"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Unbefristet",
+        "language": "Deutsch"
+      },
+      "id": "55c6ef4fa08b",
+      "foundAt": "2026-11-16T17:18:08.311Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Mitarbeiter Logistik (Staplerfahrer/in) – Migros Retourenlogistik",
+      "titleEs": "Operario/a de logística (carretillero/a) – logística de devoluciones Migros",
+      "company": "Coople (Einsatz bei Genossenschaft Migros Zürich)",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-16",
+      "source": "coople.com",
+      "url": "https://www.coople.com/ch/jobs/en/d17b566f-c98b-48ff-b16a-365f97d9118d",
+      "summary": "4 turnos a CHF 30/h desde el 17 de noviembre: alimentar un sistema automático con cajas vacías de Migros, clasificar a mano y descargar camiones con carretilla S2.",
+      "description": "Introducir cajas vacías de Migros en un sistema de clasificación automático, ordenarlas a mano en palés por tipo, descargar camiones con carretilla S2 y otras tareas a convenir. Dos turnos; horarios variables.",
+      "requirements": [
+        "Carné de carretillero SUVA reconocido",
+        "No se exige formación en logística"
+      ],
+      "employmentType": "Temporal por turnos (4 turnos)",
+      "salary": "CHF 30.00/h",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Mitarbeiter Logistik (Staplerfahrer/in) – Migros Retourenlogistik",
+        "summary": "4 Schichten zu CHF 30/h ab 17. November: leere Migros-Harassen in Sortieranlage einführen, von Hand sortieren und LKW mit S2-Stapler entladen.",
+        "description": "Leere Migros-Harassen in ein automatisches Sortiersystem einführen, von Hand sortenrein auf Paletten sortieren, LKW mit S2-Stapler entladen, weitere Arbeiten nach Absprache. Zwei Schichten, variable Einsatzzeiten.",
+        "requirements": [
+          "SUVA-anerkannter Staplerausweis",
+          "Keine Logistikausbildung nötig"
+        ],
+        "employmentType": "Temporär, 4 Schichten"
+      },
+      "id": "7c495c24784e",
+      "foundAt": "2026-11-16T17:18:08.311Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Mitarbeiter/in Reinigung 40-50%",
+      "titleEs": "Personal de limpieza 40–50 %",
+      "company": "Stiftung Heilsarmee Schweiz",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-16",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/d6a1057b-c53b-465c-a433-10eb4878cb49",
+      "summary": "Limpieza de habitaciones y zonas comunes en un centro de la Heilsarmee en Zürich, mañanas de lunes a viernes, 40–50 %, fijo.",
+      "description": "Limpiar junto con los residentes sus habitaciones, limpiar zonas comunes según estándares de higiene, limpiezas de entrada y salida, ayudar con el mantenimiento, gestión de residuos, reuniones de equipo y colaboración con el equipo de cuidados.",
+      "requirements": [
+        "Fachperson Hauswirtschaft EFZ (ventaja) o varios años de experiencia comparable",
+        "Gusto por trabajar con personas en situaciones difíciles",
+        "Autonomía y empatía",
+        "Alemán hablado y escrito (B1)"
+      ],
+      "workload": "40–50 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán B1",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Mitarbeiter/in Reinigung 40-50%",
+        "summary": "Reinigung von Zimmern und Gemeinschaftsräumen in einer Einrichtung der Heilsarmee in Zürich, Mo–Fr vormittags, 40–50 %, unbefristet.",
+        "description": "Zimmer gemeinsam mit den Bewohnenden reinigen, Gemeinschaftsräume nach Hygienestandard reinigen, Ein- und Auszugsreinigungen, Infrastruktur unterhalten, Entsorgung, Teamsitzungen und Zusammenarbeit mit dem Betreuungsteam.",
+        "requirements": [
+          "Fachperson Hauswirtschaft EFZ von Vorteil oder mehrjährige Erfahrung",
+          "Freude am Umgang mit Menschen in schwierigen Lebenslagen",
+          "Selbständig und empathisch",
+          "Deutsch in Wort und Schrift (B1)"
+        ],
+        "workload": "40–50 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch B1"
+      },
+      "id": "b8e60d000082",
+      "foundAt": "2026-11-16T17:18:08.311Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Spülhilfe / Spülküchen-Mitarbeiter",
+      "titleEs": "Ayudante de lavavajillas",
+      "company": "Coople",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-16",
+      "source": "coople.com",
+      "url": "https://www.coople.com/ch/jobs/en/704308dc-867a-4444-80c1-e784bb17d282",
+      "summary": "20 turnos (~140 h) desde el 17 de noviembre en una cocina de lavado de Zürich 8044, CHF 28/h; se pide experiencia y buena forma física.",
+      "description": "Reponer, recoger y limpiar carros de vajilla, manejar la cocina de lavado y hacer frente a una carga de trabajo alta. Los horarios pueden variar ±1 h.",
+      "requirements": [
+        "Experiencia previa en cocina de lavado",
+        "Buena forma física"
+      ],
+      "employmentType": "Temporal por turnos",
+      "salary": "CHF 28.00/h",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Spülhilfe / Spülküchen-Mitarbeiter",
+        "summary": "20 Schichten (ca. 140 Std.) ab 17. November in einer Spülküche in Zürich 8044, CHF 28/h; Erfahrung und körperliche Fitness gefragt.",
+        "description": "Geschirrwagen ersetzen, abräumen und reinigen, Spülküche bedienen, hohe Arbeitslast bewältigen. Einsatzzeiten können ±1 Std. variieren.",
+        "requirements": [
+          "Erfahrung in der Spülküche",
+          "Körperliche Fitness"
+        ],
+        "employmentType": "Temporär, Schichteinsätze"
+      },
+      "id": "6abd2386da3c",
+      "foundAt": "2026-11-16T17:18:08.311Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Spülküchen-Mitarbeiter/in mit Erfahrung (Office Mitarbeiter)",
+      "titleEs": "Ayudante de lavavajillas con experiencia (Office)",
+      "company": "Coople",
+      "location": "Dietikon ZH",
+      "postedAt": "2026-11-16",
+      "source": "coople.com",
+      "url": "https://www.coople.com/ch/jobs/en/e7f31270-148c-409b-9a08-ffe0599d7892",
+      "summary": "4 turnos desde el 16 de noviembre en una cocina de lavado de Dietikon (CHF 25/h): lavar vajilla y limpiar la zona.",
+      "description": "Lavar la vajilla de clientes y de cocina y hacer la limpieza general de la zona de lavado.",
+      "requirements": [
+        "Experiencia previa"
+      ],
+      "employmentType": "Temporal por turnos",
+      "salary": "CHF 25.00/h",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Spülküchen-Mitarbeiter/in mit Erfahrung (Office Mitarbeiter)",
+        "summary": "4 Schichten ab 16. November in einer Spülküche in Dietikon (CHF 25/h): Geschirr spülen und Bereich reinigen.",
+        "description": "Gäste- und Küchengeschirr spülen sowie allgemeine Reinigung im Spülbereich.",
+        "requirements": [
+          "Erfahrung"
+        ],
+        "employmentType": "Temporär, 4 Schichten"
+      },
+      "id": "e07088ef17cf",
+      "foundAt": "2026-11-16T17:18:08.311Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Turndownservice/Aufbettservice",
+      "titleEs": "Servicio de cobertura/turndown en hotel",
+      "company": "Coople (hotel en Zürich)",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-16",
+      "source": "coople.com",
+      "url": "https://www.coople.com/ch/jobs/en/b836bddd-d42b-486d-aa2c-1aa40486377c",
+      "summary": "Turno único de turndown en un hotel de Zürich 8002 (CHF 26/h): hacer camas, reponer artículos y limpieza intermedia de habitaciones.",
+      "description": "Preparar las camas de las habitaciones, reponer toallas, champú y jabón, limpieza intermedia (aspirar, fregar, desinfectar) y atender peticiones de clientes. Se pide al menos un año de experiencia hotelera, aunque la experiencia en limpieza hotelera se describe como ventaja.",
+      "requirements": [
+        "Idealmente un año de experiencia hotelera",
+        "Motivación, fiabilidad y atención al detalle"
+      ],
+      "employmentType": "Turno único",
+      "salary": "CHF 26.00/h",
+      "language": "Alemán",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Turndownservice/Aufbettservice",
+        "summary": "Einzelschicht Turndown-/Aufbettservice in einem Hotel in Zürich 8002 (CHF 26/h): Betten machen, Gästeartikel auffüllen, Zwischenreinigung.",
+        "description": "Gästezimmerbetten aufbetten, Gästeartikel wie Handtücher, Shampoo und Seife auffüllen, Zwischenreinigung (saugen, wischen, desinfizieren), Gästewünsche erfüllen. Mindestens ein Jahr Hotelerfahrung gewünscht.",
+        "requirements": [
+          "Idealerweise ein Jahr Hotelerfahrung",
+          "Motiviert, zuverlässig, detailorientiert"
+        ],
+        "employmentType": "Einzelschicht",
+        "language": "Deutsch"
+      },
+      "id": "d7a5e3ca2cd2",
+      "foundAt": "2026-11-16T17:18:08.311Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Mitarbeiter*in Abwasch (100%)",
+      "titleEs": "Personal de lavado de vajilla/contenedores 100 %",
+      "company": "Confiserie Sprüngli",
+      "location": "Dietikon ZH",
+      "postedAt": "2026-11-16",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/mitarbeiter-in-abwasch-100%25-at-confiserie-spr%C3%BCngli-4489775499",
+      "summary": "Limpieza a máquina de contenedores, bandejas y moldes en la producción de Sprüngli en Dietikon; lunes a viernes, dos turnos entre 06:30 y 18:00; bastan nociones básicas de alemán.",
+      "description": "Limpiar a máquina contenedores de transporte, bandejas, moldes y carros de horneado y transporte, mantener y revisar las máquinas de limpieza y asegurar que los contenedores limpios lleguen a los departamentos correctos. Fines de semana ocasionales; la empresa ofrece un curso de alemán gratuito.",
+      "requirements": [
+        "Motivación y gusto por el trabajo práctico",
+        "Autonomía, orden y responsabilidad",
+        "Experiencia en la industria alimentaria (ventaja, no obligatoria)",
+        "Flexibilidad, movilidad y buena resistencia física",
+        "Nociones básicas de alemán"
+      ],
+      "workload": "100 %",
+      "employmentType": "Jornada completa, turnos",
+      "language": "Alemán básico (curso gratuito ofrecido)",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Mitarbeiter*in Abwasch (100%)",
+        "summary": "Maschinelle Reinigung von Transportbehältern, Blechen und Formen in der Produktion von Sprüngli in Dietikon; Mo–Fr, zwei Schichten zwischen 06:30 und 18:00; Deutsch-Grundkenntnisse genügen.",
+        "description": "Transportbehälter, Backbleche, Formen sowie Back- und Transportwagen maschinell reinigen, Reinigungsmaschinen warten und sicherstellen, dass saubere Behälter in die richtigen Abteilungen gelangen. Gelegentlich Wochenendarbeit; kostenloser Deutschkurs für Mitarbeitende.",
+        "requirements": [
+          "Motiviert, Freude an praktischer Arbeit",
+          "Selbständig, strukturiert, verantwortungsbewusst",
+          "Erfahrung in der Lebensmittelbranche von Vorteil",
+          "Flexibel, mobil, körperlich belastbar",
+          "Grundkenntnisse in Deutsch"
+        ],
+        "workload": "100 %",
+        "employmentType": "Vollzeit, Schichtarbeit",
+        "language": "Deutsch Grundkenntnisse (kostenloser Deutschkurs)"
+      },
+      "id": "0f02d793f413",
+      "foundAt": "2026-11-16T17:18:08.311Z"
+    },
     {
       "searchId": "lager",
       "title": "Logistiker EFZ / Kommissionierer 100 % min. CHF 34.15 / Temporär",
@@ -881,6 +1128,162 @@
       "englishOk": true,
       "id": "af7b05fd7715",
       "foundAt": "2026-11-14T07:15:53.588Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Lagerist 100% (m/w/d)",
+      "titleEs": "Almacenero/a 100 %",
+      "company": "Randstad (Schweiz) AG",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-13",
+      "source": "randstad.com",
+      "url": "https://www.randstad.com/jobs/lagerist-100-mwd_zurich_47721051",
+      "summary": "Recepción, almacenaje, picking y embalaje en un almacén céntrico de Zürich; empleo temporal/de larga duración, 100 %.",
+      "description": "Recibir y controlar entregas, almacenar con control de calidad, preparar pedidos desde listas electrónicas, embalar para envíos puntuales y apoyar tareas generales de almacén y expedición. Inicio inmediato o a convenir.",
+      "requirements": [
+        "Experiencia en almacén (logística, ventaja)",
+        "Carné de carretillero, ventaja (no obligatorio)",
+        "Conocimientos básicos de PC",
+        "Buen alemán, resistencia física"
+      ],
+      "workload": "100 %",
+      "employmentType": "Temporal (agencia)",
+      "language": "Alemán bueno",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Lagerist 100% (m/w/d)",
+        "summary": "Wareneingang, Lagerung, Kommissionierung und Verpackung in einem zentral gelegenen Lager in Zürich; temporär/langfristig, 100 %.",
+        "description": "Lieferungen annehmen und prüfen, einlagern, Artikel nach elektronischen Listen kommissionieren, versandfertig verpacken, allgemeine Lager- und Speditionsarbeiten, Ordnung im Lager. Start sofort oder nach Vereinbarung.",
+        "requirements": [
+          "Lagererfahrung (Logistiklehre von Vorteil)",
+          "Staplerschein von Vorteil, nicht zwingend",
+          "PC-Grundkenntnisse",
+          "Gute Deutschkenntnisse, körperlich belastbar"
+        ],
+        "workload": "100 %",
+        "employmentType": "Temporär",
+        "language": "Gute Deutschkenntnisse"
+      },
+      "id": "3db3ccf63013",
+      "foundAt": "2026-11-16T17:18:08.311Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Kommissionierer Frische- und Kühllager 100% (m/w/d)",
+      "titleEs": "Preparador/a de pedidos en almacén de frescos y frío",
+      "company": "Randstad (Schweiz) AG",
+      "location": "Dietlikon ZH",
+      "postedAt": "2026-11-13",
+      "source": "randstad.com",
+      "url": "https://www.randstad.com/jobs/kommissionierer-frische-und-kuhllager-100-mwd_dietlikon_47721105",
+      "summary": "Picking de alimentos en cámara fría (−5 a +3 °C) con scanner y voz, horario regular de lunes a viernes desde las 06:30; puesto temporal.",
+      "description": "Preparar pedidos de alimentos y mercancía para filiales con picking por voz y scanner, asegurar, embalar y preparar palés, apoyar otros departamentos logísticos y cumplir normas de seguridad e higiene de la cadena de frío. Sábados 2–3 veces al mes.",
+      "requirements": [
+        "Resistencia física y tolerancia al frío",
+        "Horario lunes a viernes desde las 06:30; sábados ocasionales",
+        "Coche, ventaja",
+        "Alemán mínimo B1 (obligatorio para picking por voz)"
+      ],
+      "workload": "100 %",
+      "employmentType": "Temporal (agencia)",
+      "language": "Alemán mínimo B1",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Kommissionierer Frische- und Kühllager 100% (m/w/d)",
+        "summary": "Kommissionierung von Lebensmitteln im Kühllager (−5 bis +3 °C) mit Voice-Picking und Handscanner, Mo–Fr ab 06:30 Uhr; Temporäreinsatz.",
+        "description": "Kundenaufträge für Lebensmittel und Waren mit Voice-Picking und Handscanner kommissionieren, Paletten sichern, verpacken und bereitstellen, andere Logistikbereiche unterstützen, Sicherheits-, Hygiene- und Qualitätsstandards der Kühlkette einhalten. Samstagsarbeit 2–3 Mal pro Monat.",
+        "requirements": [
+          "Körperlich belastbar, kälteverträglich",
+          "Mo–Fr ab 06:30 Uhr, gelegentlich Samstag",
+          "Auto von Vorteil",
+          "Deutsch mindestens B1 (Pflicht für Voice-Picking)"
+        ],
+        "workload": "100 %",
+        "employmentType": "Temporär",
+        "language": "Deutsch mindestens B1"
+      },
+      "id": "dba7a69f88d6",
+      "foundAt": "2026-11-16T17:18:08.311Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistikhelfer / Allrounder 100% (m/w/d)",
+      "titleEs": "Ayudante de logística / Polivalente",
+      "company": "Randstad (Schweiz) AG",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-13",
+      "source": "randstad.com",
+      "url": "https://www.randstad.com/jobs/logistikhelfer-allrounder-100-mwd_zurich_47350813",
+      "summary": "Ayudante para cargar/descargar vehículos y mudanzas en la región de Zürich; temporal con opción a fijo, inicio inmediato.",
+      "description": "Cargar y descargar vehículos de transporte, transportar muebles y enseres de mudanza, ayudar a desmontar y montar muebles estándar y asegurar correctamente la carga.",
+      "requirements": [
+        "Buena forma física",
+        "Fiabilidad, puntualidad y flexibilidad",
+        "Buen alemán",
+        "Carné B, ventaja"
+      ],
+      "workload": "100 %",
+      "employmentType": "Temporal con opción a fijo",
+      "language": "Alemán bueno",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Logistikhelfer / Allrounder 100% (m/w/d)",
+        "summary": "Helfer für Be-/Entladen von Fahrzeugen und Umzüge in der Region Zürich; temporär mit Option auf Festanstellung, Start sofort.",
+        "description": "Transportfahrzeuge be- und entladen, Möbel und Umzugsgut tragen, einfache Demontage und Montage von Standardmöbeln, Ladung sichern.",
+        "requirements": [
+          "Körperlich fit",
+          "Zuverlässig, pünktlich, flexibel",
+          "Gute Deutschkenntnisse",
+          "Führerausweis B von Vorteil"
+        ],
+        "workload": "100 %",
+        "employmentType": "Temporär mit Option auf Festanstellung",
+        "language": "Gute Deutschkenntnisse"
+      },
+      "id": "08f4c5adc3bb",
+      "foundAt": "2026-11-16T17:18:08.311Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistik-Mitarbeiter in Rümlang 100% (m/w/d)",
+      "titleEs": "Operario/a de logística en Rümlang",
+      "company": "Randstad (Schweiz) AG",
+      "location": "Rümlang ZH",
+      "postedAt": "2026-11-13",
+      "source": "randstad.com",
+      "url": "https://www.randstad.com/jobs/logistik-mitarbeiter-in-rumlang-100-mwd_zurich_47721113",
+      "summary": "Carga/descarga, almacenaje con carretilla y picking en Rümlang; temporal con opción a fijo; carné de carretillero obligatorio.",
+      "description": "Cargar y descargar camiones, almacenar y sacar mercancía con carretilla, picking con listas o scanner, controlar la mercancía entrante, preparar envíos y apoyar inventarios y el sistema de gestión del almacén.",
+      "requirements": [
+        "Aprendizaje de logística (EFZ/EBA) o varios años de experiencia",
+        "Carné de carretillero SUVA (obligatorio)",
+        "Trabajo preciso y seguro, buena forma física",
+        "Alemán muy bueno"
+      ],
+      "workload": "100 %",
+      "employmentType": "Temporal con opción a fijo",
+      "language": "Alemán muy bueno",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Logistik-Mitarbeiter in Rümlang 100% (m/w/d)",
+        "summary": "Be-/Entladen, Ein-/Auslagern mit Stapler und Kommissionieren in Rümlang; temporär mit Option auf Festanstellung; Staplerausweis Pflicht.",
+        "description": "LKW be- und entladen, Ware mit Stapler ein- und auslagern, Kommissionierung mit Listen oder Scanner, Wareneingang kontrollieren, Versand vorbereiten, Inventur und Lagerverwaltungssystem unterstützen.",
+        "requirements": [
+          "Logistiklehre (EFZ/EBA) oder mehrjährige Erfahrung",
+          "SUVA-Staplerausweis (Pflicht)",
+          "Präzise, sicherheitsbewusst, körperlich fit",
+          "Sehr gute Deutschkenntnisse"
+        ],
+        "workload": "100 %",
+        "employmentType": "Temporär mit Option auf Festanstellung",
+        "language": "Sehr gute Deutschkenntnisse"
+      },
+      "id": "52e5b635f0e7",
+      "foundAt": "2026-11-16T17:18:08.311Z"
     },
     {
       "searchId": "fullstack-ts",

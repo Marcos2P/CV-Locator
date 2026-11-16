@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T17:14:51.404Z",
+  "updatedAt": "2026-11-16T17:18:08.311Z",
   "companies": [
     {
       "key": "academic work",
@@ -122,20 +122,56 @@
       ]
     },
     {
+      "key": "confiserie sprungli",
+      "name": "Confiserie Sprüngli",
+      "agency": false,
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-16",
+      "searchIds": [
+        "reinigung-flughafen",
+        "kueche"
+      ],
+      "locations": [
+        "Dietikon ZH"
+      ],
+      "jobs": [
+        {
+          "id": "0f02d793f413",
+          "title": "Personal de lavado de vajilla/contenedores 100 %",
+          "searchId": "kueche",
+          "postedAt": "2026-11-16",
+          "location": "Dietikon ZH",
+          "url": "https://ch.linkedin.com/jobs/view/mitarbeiter-in-abwasch-100%25-at-confiserie-spr%C3%BCngli-4489775499",
+          "englishOk": false
+        },
+        {
+          "id": "d4f2d4c29a1d",
+          "title": "Empleado/a de limpieza (30%)",
+          "searchId": "reinigung-flughafen",
+          "postedAt": "2026-11-13",
+          "location": "Dietikon ZH",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/cdc57c72-9e43-4db0-bf5f-3e661f782adb"
+        }
+      ]
+    },
+    {
       "key": "coople",
-      "name": "Coople",
+      "name": "Coople (hotel en Zürich)",
       "agency": true,
       "firstSeen": "2026-11-12",
       "lastSeen": "2026-11-16",
       "searchIds": [
         "hotel",
         "reinigung-flughafen",
-        "lager"
+        "lager",
+        "kueche"
       ],
       "locations": [
         "Adliswil ZH",
         "8048 Zürich",
-        "Volketswil ZH"
+        "Volketswil ZH",
+        "Zürich ZH",
+        "Dietikon ZH"
       ],
       "jobs": [
         {
@@ -145,6 +181,42 @@
           "postedAt": "2026-11-16",
           "location": "Volketswil ZH",
           "url": "https://www.coople.com/ch/jobs/en/c29ffb21-d87e-42d1-8cba-25319cae605d",
+          "englishOk": false
+        },
+        {
+          "id": "7c495c24784e",
+          "title": "Operario/a de logística (carretillero/a) – logística de devoluciones Migros",
+          "searchId": "lager",
+          "postedAt": "2026-11-16",
+          "location": "Zürich ZH",
+          "url": "https://www.coople.com/ch/jobs/en/d17b566f-c98b-48ff-b16a-365f97d9118d",
+          "englishOk": false
+        },
+        {
+          "id": "6abd2386da3c",
+          "title": "Ayudante de lavavajillas",
+          "searchId": "kueche",
+          "postedAt": "2026-11-16",
+          "location": "Zürich ZH",
+          "url": "https://www.coople.com/ch/jobs/en/704308dc-867a-4444-80c1-e784bb17d282",
+          "englishOk": false
+        },
+        {
+          "id": "e07088ef17cf",
+          "title": "Ayudante de lavavajillas con experiencia (Office)",
+          "searchId": "kueche",
+          "postedAt": "2026-11-16",
+          "location": "Dietikon ZH",
+          "url": "https://www.coople.com/ch/jobs/en/e7f31270-148c-409b-9a08-ffe0599d7892",
+          "englishOk": false
+        },
+        {
+          "id": "d7a5e3ca2cd2",
+          "title": "Servicio de cobertura/turndown en hotel",
+          "searchId": "hotel",
+          "postedAt": "2026-11-16",
+          "location": "Zürich ZH",
+          "url": "https://www.coople.com/ch/jobs/en/b836bddd-d42b-486d-aa2c-1aa40486377c",
           "englishOk": false
         },
         {
@@ -327,6 +399,39 @@
           "location": "Remoto (Suiza, CET ±1 h)",
           "url": "https://ch.linkedin.com/jobs/view/frontend-developer-react-at-jobgether-4487687394",
           "englishOk": true
+        }
+      ]
+    },
+    {
+      "key": "livique",
+      "name": "Livique",
+      "agency": false,
+      "firstSeen": "2026-11-08",
+      "lastSeen": "2026-11-16",
+      "searchIds": [
+        "lager"
+      ],
+      "locations": [
+        "Zürich",
+        "Zürich ZH"
+      ],
+      "jobs": [
+        {
+          "id": "55c6ef4fa08b",
+          "title": "Almacenero/a",
+          "searchId": "lager",
+          "postedAt": "2026-11-16",
+          "location": "Zürich ZH",
+          "url": "https://ch.linkedin.com/jobs/view/lagerist-in-at-livique-4490279551",
+          "englishOk": false
+        },
+        {
+          "id": "03c36056754b",
+          "title": "Almacenista (Lagerist/a)",
+          "searchId": "lager",
+          "postedAt": "2026-11-08",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/4479655549"
         }
       ]
     },
@@ -579,6 +684,30 @@
           "postedAt": "2026-11-05",
           "location": "Zürich",
           "url": "https://www.randstad.ch/jobs/reinigungsmitarbeiterin_zuerich_dae491e8-de17-4931-8109-3f23ccbb9aa1",
+          "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "stiftung heilsarmee",
+      "name": "Stiftung Heilsarmee Schweiz",
+      "agency": false,
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "searchIds": [
+        "reinigung-flughafen"
+      ],
+      "locations": [
+        "Zürich ZH"
+      ],
+      "jobs": [
+        {
+          "id": "b8e60d000082",
+          "title": "Personal de limpieza 40–50 %",
+          "searchId": "reinigung-flughafen",
+          "postedAt": "2026-11-16",
+          "location": "Zürich ZH",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/d6a1057b-c53b-465c-a433-10eb4878cb49",
           "englishOk": false
         }
       ]
@@ -1159,29 +1288,6 @@
           "location": "Zürich",
           "url": "https://ch.linkedin.com/jobs/view/software-engineer-at-code-compass-%F0%9F%A7%AD-4488244046",
           "englishOk": true
-        }
-      ]
-    },
-    {
-      "key": "confiserie sprungli",
-      "name": "Confiserie Sprüngli AG",
-      "agency": false,
-      "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-13",
-      "searchIds": [
-        "reinigung-flughafen"
-      ],
-      "locations": [
-        "Dietikon ZH"
-      ],
-      "jobs": [
-        {
-          "id": "d4f2d4c29a1d",
-          "title": "Empleado/a de limpieza (30%)",
-          "searchId": "reinigung-flughafen",
-          "postedAt": "2026-11-13",
-          "location": "Dietikon ZH",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/cdc57c72-9e43-4db0-bf5f-3e661f782adb"
         }
       ]
     },
@@ -3997,29 +4103,6 @@
           "postedAt": "2026-11-08",
           "location": "Dietikon",
           "url": "https://ch.linkedin.com/jobs/view/4486698125"
-        }
-      ]
-    },
-    {
-      "key": "livique",
-      "name": "Livique",
-      "agency": false,
-      "firstSeen": "2026-11-08",
-      "lastSeen": "2026-11-08",
-      "searchIds": [
-        "lager"
-      ],
-      "locations": [
-        "Zürich"
-      ],
-      "jobs": [
-        {
-          "id": "03c36056754b",
-          "title": "Almacenista (Lagerist/a)",
-          "searchId": "lager",
-          "postedAt": "2026-11-08",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/4479655549"
         }
       ]
     },
