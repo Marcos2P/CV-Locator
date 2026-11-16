@@ -1,6 +1,247 @@
 {
-  "updatedAt": "2026-11-16T07:21:48.026Z",
+  "updatedAt": "2026-11-16T15:49:27.099Z",
   "jobs": [
+    {
+      "searchId": "frontend-react",
+      "title": "Staff Frontend Engineer - Trading Platform",
+      "titleEs": "Staff Frontend Engineer - Plataforma de trading",
+      "company": "Jobgether (empresa socia sin nombre)",
+      "location": "Remoto (Europa / Suiza)",
+      "postedAt": "2026-11-16",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/staff-frontend-engineer-trading-platform-at-jobgether-4490277966",
+      "summary": "Puesto 100 % remoto desde Europa (la descripción habla de un puesto basado en Suiza) para liderar la arquitectura frontend de un terminal de trading web y su SDK de gráficos.",
+      "description": "Co-liderar la arquitectura, el código, las revisiones y los lanzamientos del terminal de trading web y del SDK de gráficos. Definir estándares frontend, construir las funcionalidades más complejas, optimizar el rendimiento con datos de mercado en vivo y mentorizar a otros ingenieros.",
+      "requirements": [
+        "8+ años con React y TypeScript en producción",
+        "Experiencia en arquitectura de frontends grandes",
+        "Experiencia con apps en tiempo real o con muchos datos (gráficos, trading)",
+        "Residir en Europa, con solape de al menos 4 h con horario IST",
+        "Inglés fluido"
+      ],
+      "employmentType": "Jornada completa",
+      "language": "Inglés",
+      "englishOk": true,
+      "seniority": "lead",
+      "de": {
+        "title": "Staff Frontend Engineer - Trading Platform",
+        "summary": "100 % Remote-Stelle aus Europa (laut Beschreibung in der Schweiz basiert) zur Leitung der Frontend-Architektur eines Web-Trading-Terminals und seines Chart-SDKs.",
+        "description": "Mitverantwortung für Architektur, Code, Reviews und Releases des Web-Trading-Terminals und des Chart-SDKs. Frontend-Standards definieren, anspruchsvollste Features bauen, Performance mit Live-Marktdaten optimieren und andere Engineers coachen.",
+        "requirements": [
+          "8+ Jahre Erfahrung mit React und TypeScript in Produktion",
+          "Erfahrung mit der Architektur grosser Frontends",
+          "Erfahrung mit Echtzeit- bzw. datenintensiven Apps (Charts, Trading)",
+          "Wohnsitz in Europa, mindestens 4 h Überlappung mit IST-Arbeitszeit",
+          "Fliessend Englisch"
+        ],
+        "employmentType": "Vollzeit",
+        "language": "Englisch"
+      },
+      "id": "f09c271a7f0d",
+      "foundAt": "2026-11-16T15:49:27.099Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior Software Engineer Java (all genders)",
+      "titleEs": "Ingeniero/a de software Java senior",
+      "company": "adesso Schweiz AG",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-16",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/senior-software-engineer-java-all-genders-at-adesso-schweiz-ag-4197043934",
+      "summary": "Desarrollo de aplicaciones Java/Spring Boot con Angular y/o React y microservicios en proyectos ágiles para clientes.",
+      "description": "Diseñar y desarrollar aplicaciones Java en proyectos ágiles, construir soluciones a medida y arquitecturas de microservicios hasta la puesta en producción, cubriendo todo el proceso desde requisitos hasta QA.",
+      "requirements": [
+        "Titulación en informática o equivalente",
+        "Experiencia sólida en backend Java con Spring/Spring Boot e Hibernate",
+        "Angular y/o React en proyectos ágiles",
+        "Scrum, Docker, CI/CD y Domain-Driven Design",
+        "Alemán C1 e inglés bueno"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Jornada completa",
+      "language": "Alemán C1, inglés bueno",
+      "englishOk": false,
+      "seniority": "senior",
+      "de": {
+        "title": "Senior Software Engineer Java (all genders)",
+        "summary": "Entwicklung von Java/Spring-Boot-Anwendungen mit Angular und/oder React sowie Microservices in agilen Kundenprojekten.",
+        "description": "Java-Anwendungen in agilen Projekten entwerfen und entwickeln, individuelle Softwarelösungen und Microservice-Architekturen bis zum Go-live umsetzen und den gesamten Engineering-Prozess von der Anforderungsanalyse bis zur QA abdecken.",
+        "requirements": [
+          "Informatikstudium oder vergleichbare Qualifikation",
+          "Solide Java-Backend-Erfahrung mit Spring/Spring Boot und Hibernate",
+          "Angular und/oder React in agilen Projekten",
+          "Scrum, Docker, CI/CD und Domain-Driven Design",
+          "Deutsch C1 und gutes Englisch"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Vollzeit",
+        "language": "Deutsch C1, Englisch gut"
+      },
+      "id": "6a9f4e558826",
+      "foundAt": "2026-11-16T15:49:27.099Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Software Engineer - Pirate & Architect",
+      "titleEs": "Ingeniero/a de software - Pirate & Architect",
+      "company": "Coresystems AG",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-16",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/software-engineer-pirate-architect-at-coresystems-ag-4489718449",
+      "summary": "Puesto end-to-end (frontend React, servicios Python, AWS) construyendo flujos de agentes de IA y pipelines de datos para clientes; anuncio en inglés.",
+      "description": "Construir flujos agénticos de IA, pipelines de datos para ingerir y enriquecer datos de clientes, entregar funcionalidades de punta a punta (React, Python, AWS), medir la calidad con evaluaciones y trazas e integrar con sistemas empresariales de clientes.",
+      "requirements": [
+        "Varios años como ingeniero/a de software, idealmente con decisiones de arquitectura",
+        "Experiencia práctica con desarrollo asistido por IA",
+        "Arquitectura cloud-native, idealmente AWS",
+        "Habilidades de frontend, backend e infraestructura",
+        "Buena comunicación"
+      ],
+      "employmentType": "Jornada completa",
+      "language": "Inglés",
+      "englishOk": true,
+      "seniority": "mid",
+      "de": {
+        "title": "Software Engineer - Pirate & Architect",
+        "summary": "End-to-End-Rolle (React-Frontend, Python-Services, AWS) für KI-Agenten-Workflows und Datenpipelines bei Kundenprojekten; Anzeige auf Englisch.",
+        "description": "Agentische KI-Workflows und Datenpipelines zur Aufbereitung von Kundendaten bauen, Features end-to-end liefern (React, Python, AWS), Qualität mit Evaluationssets und Tracing messbar machen und in Enterprise-Systeme der Kunden integrieren.",
+        "requirements": [
+          "Mehrjährige Erfahrung als Software Engineer, idealerweise mit Architekturverantwortung",
+          "Praktische Erfahrung mit KI-gestützter Entwicklung",
+          "Cloud-native Architektur, idealerweise AWS",
+          "Frontend-, Backend- und Infrastruktur-Skills",
+          "Gute Kommunikation"
+        ],
+        "employmentType": "Vollzeit",
+        "language": "Englisch"
+      },
+      "id": "7156a7fa7a0d",
+      "foundAt": "2026-11-16T15:49:27.099Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Product & Software Engineer (a), 80 - 100%",
+      "titleEs": "Ingeniero/a de producto y software (C#/.NET)",
+      "company": "Encontrol AG",
+      "location": "Baden AG",
+      "postedAt": "2026-11-16",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/product-software-engineer-a-80-100%25-at-encontrol-ag-4490583924",
+      "summary": "Evolución del software ERP e4 para el sector energético con C#/.NET y Svelte.",
+      "description": "Desarrollar el software ERP e4 (C#, .NET), orientar el desarrollo de producto al valor para el cliente, redactar conceptos de implementación, revisar pull requests y participar en decisiones de arquitectura.",
+      "requirements": [
+        "Titulación informática (universidad o FH)",
+        "C# muy bueno",
+        "Experiencia con soluciones de bases de datos",
+        "Capacidad analítica",
+        "Alemán nativo o fluido, inglés bueno"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Jornada completa",
+      "language": "Alemán fluido, inglés bueno",
+      "englishOk": false,
+      "de": {
+        "title": "Product & Software Engineer (a), 80 - 100%",
+        "summary": "Weiterentwicklung der ERP-Software e4 für die Energiebranche mit C#/.NET und Svelte.",
+        "description": "Die ERP-Software e4 (C#, .NET) weiterentwickeln, die Produktentwicklung am Kundennutzen ausrichten, Umsetzungskonzepte schreiben, Pull Requests prüfen und an Architekturentscheiden mitwirken.",
+        "requirements": [
+          "Informatikstudium (Uni oder FH)",
+          "Sehr gute C#-Kenntnisse",
+          "Erfahrung mit Datenbanklösungen",
+          "Analytische Stärke",
+          "Deutsch Muttersprache oder fliessend, gutes Englisch"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Vollzeit",
+        "language": "Deutsch fliessend, Englisch gut"
+      },
+      "id": "3ad0ff8d77a3",
+      "foundAt": "2026-11-16T15:49:27.099Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "QA Engineer – Mobile Testing",
+      "titleEs": "Ingeniero/a QA – Testing móvil",
+      "company": "Specialized Bicycle Components",
+      "location": "Cham ZG",
+      "postedAt": "2026-11-16",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/qa-engineer-%E2%80%93-mobile-testing-at-specialized-bicycle-components-4419855030",
+      "summary": "QA de apps móviles (Android/iOS) del equipo SBC App: planes de prueba y tests manuales y automatizados con Katalon y Appium.",
+      "description": "Revisar requisitos y diseños desde el punto de vista de la testabilidad, crear planes y scripts de prueba para apps móviles, ejecutar pruebas funcionales, de regresión, integración, smoke y estrés en dispositivos y emuladores, registrar y seguir defectos, acompañar el UAT y colaborar con desarrollo, UX/UI y producto.",
+      "requirements": [
+        "5+ años en QA de software",
+        "3+ años probando apps móviles iOS y Android",
+        "Experiencia práctica con Katalon Studio o Appium",
+        "Conocimientos de Xcode, Android Studio y REST APIs",
+        "Experiencia con Jira y Confluence"
+      ],
+      "workload": "100 %",
+      "employmentType": "Jornada completa",
+      "language": "Inglés",
+      "englishOk": true,
+      "seniority": "senior",
+      "de": {
+        "title": "QA Engineer – Mobile Testing",
+        "summary": "QA für mobile Apps (Android/iOS) im SBC-App-Team: Testpläne sowie manuelle und automatisierte Tests mit Katalon und Appium.",
+        "description": "Anforderungen und Designs auf Testbarkeit prüfen, Testpläne und Testskripte für mobile Apps erstellen, Funktions-, Regressions-, Integrations-, Smoke- und Stresstests auf Geräten und Emulatoren durchführen, Fehler erfassen und verfolgen, UAT begleiten und mit Entwicklung, UX/UI und Produkt zusammenarbeiten.",
+        "requirements": [
+          "5+ Jahre Erfahrung in Software-QA",
+          "3+ Jahre Erfahrung im Testen mobiler Apps (iOS und Android)",
+          "Praxiserfahrung mit Katalon Studio oder Appium",
+          "Kenntnisse in Xcode, Android Studio und REST-APIs",
+          "Erfahrung mit Jira und Confluence"
+        ],
+        "workload": "100 %",
+        "employmentType": "Vollzeit",
+        "language": "Englisch"
+      },
+      "id": "71f3c75e9ce9",
+      "foundAt": "2026-11-16T15:49:27.099Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "Senior Automation QA Engineer – Mobile Testing",
+      "titleEs": "Ingeniero/a QA de automatización senior – Testing móvil",
+      "company": "Specialized Bicycle Components",
+      "location": "Cham ZG",
+      "postedAt": "2026-11-16",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/senior-automation-qa-engineer-%E2%80%93-mobile-testing-at-specialized-bicycle-components-4419834911",
+      "summary": "Liderar la estrategia y los frameworks de test móvil (Android/iOS) con Katalon y Appium y mentorizar a QA junior y mid.",
+      "description": "Diseñar y ejecutar estrategias y frameworks de pruebas móviles, liderar QA en varios proyectos (funcional, regresión, rendimiento, estrés), mentorizar a ingenieros QA, revisar requisitos y arquitectura para mejorar la testabilidad y gestionar el UAT.",
+      "requirements": [
+        "8+ años en QA de software y 5+ en testing móvil",
+        "Automatización con Katalon Studio y Appium",
+        "Experiencia con Xcode, Android Studio y hardware conectado (Bluetooth, sensores, OTA)",
+        "REST APIs, apps React y CI/CD (GitHub Actions)",
+        "Jira, Confluence y métodos ágiles"
+      ],
+      "workload": "100 %",
+      "employmentType": "Jornada completa",
+      "language": "Inglés",
+      "englishOk": true,
+      "seniority": "senior",
+      "de": {
+        "title": "Senior Automation QA Engineer – Mobile Testing",
+        "summary": "Leitung der Teststrategie und Frameworks für mobile Tests (Android/iOS) mit Katalon und Appium; Mentoring von Junior- und Mid-QA.",
+        "description": "Mobile Teststrategien und Frameworks entwerfen und umsetzen, QA über mehrere Projekte leiten (funktional, Regression, Performance, Stress), QA-Engineers coachen, Anforderungen und Architektur auf Testbarkeit prüfen und UAT steuern.",
+        "requirements": [
+          "8+ Jahre Software-QA, 5+ Jahre mobiles Testing",
+          "Automatisierung mit Katalon Studio und Appium",
+          "Erfahrung mit Xcode, Android Studio und verbundener Hardware (Bluetooth, Sensoren, OTA)",
+          "REST-APIs, React-Apps und CI/CD (GitHub Actions)",
+          "Jira, Confluence und agile Methoden"
+        ],
+        "workload": "100 %",
+        "employmentType": "Vollzeit",
+        "language": "Englisch"
+      },
+      "id": "2d9b0fb9a271",
+      "foundAt": "2026-11-16T15:49:27.099Z"
+    },
     {
       "searchId": "lager",
       "title": "Lagermitarbeiter/in (m/w/d)",
@@ -121,6 +362,26 @@
     },
     {
       "searchId": "fullstack-ts",
+      "title": "Fullstack Software Engineer (Java & Spring, Angular) (all genders)",
+      "titleEs": "Ingeniero/a de software Fullstack (Java y Spring, Angular)",
+      "company": "adesso Schweiz AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-15",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/fullstack-software-engineer-java-spring-angular-all-genders-at-adesso-schweiz-ag-4182010922",
+      "summary": "Puesto de ingeniería de software fullstack con Java/Spring en el backend y Angular en el frontend en adesso Schweiz (Zürich). Datos tomados solo del listado de LinkedIn.",
+      "description": "Desarrollo fullstack con Java, Spring y Angular en proyectos de clientes de adesso Schweiz en Zürich. La página de la oferta no se pudo abrir (error 429), por lo que solo se conoce lo indicado en el título y el listado.",
+      "seniority": "mid",
+      "de": {
+        "title": "Fullstack Software Engineer (Java & Spring, Angular) (all genders)",
+        "summary": "Fullstack-Softwareentwicklung mit Java/Spring im Backend und Angular im Frontend bei adesso Schweiz in Zürich. Angaben nur aus der LinkedIn-Liste.",
+        "description": "Fullstack-Entwicklung mit Java, Spring und Angular in Kundenprojekten der adesso Schweiz in Zürich. Die Detailseite konnte nicht geöffnet werden (429), daher nur Angaben aus Titel und Liste."
+      },
+      "id": "0ccc9ddb77e0",
+      "foundAt": "2026-11-16T15:49:27.099Z"
+    },
+    {
+      "searchId": "fullstack-ts",
       "title": "Software-Ingenieur (m/w/d)",
       "titleEs": "Ingeniero/a de software",
       "company": "Schlatter Industries AG",
@@ -191,6 +452,47 @@
       },
       "id": "eb99a3fcc283",
       "foundAt": "2026-11-15T07:14:04.871Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior Python Software Engineer",
+      "titleEs": "Ingeniero/a de software Python senior",
+      "company": "Ontinue",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-14",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/senior-python-software-engineer-at-ontinue-4483119279",
+      "summary": "Backend Python cloud-native en Azure para una empresa de ciberseguridad gestionada; oficina 2 días por semana, anuncio en inglés.",
+      "description": "Hacerse cargo de proyectos de la idea a producción, construir servicios backend, APIs y sistemas orientados a eventos en Azure, colaborar con producto y operaciones de seguridad, escribir tests y mentorizar.",
+      "requirements": [
+        "6+ años de ingeniería de software",
+        "Python avanzado (tipado, async, testing)",
+        "Sistemas distribuidos, APIs y arquitecturas orientadas a eventos",
+        "Azure u otra nube principal",
+        "Uso crítico de asistentes de IA para programar",
+        "Inglés fluido"
+      ],
+      "employmentType": "Jornada completa",
+      "language": "Inglés fluido",
+      "englishOk": true,
+      "seniority": "senior",
+      "de": {
+        "title": "Senior Python Software Engineer",
+        "summary": "Cloud-native Python-Backend auf Azure bei einem Managed-Security-Unternehmen; 2 Tage pro Woche im Büro, Anzeige auf Englisch.",
+        "description": "Projekte von der Idee bis zur Produktion verantworten, Backend-Services, APIs und ereignisgesteuerte Systeme auf Azure bauen, mit Produkt und Security Operations zusammenarbeiten, Tests schreiben und Kolleg:innen mentoren.",
+        "requirements": [
+          "6+ Jahre Softwareentwicklung",
+          "Fortgeschrittenes Python (Typing, Async, Testing)",
+          "Verteilte Systeme, APIs und Event-Driven-Architekturen",
+          "Azure oder eine andere große Cloud",
+          "Kritischer Einsatz von KI-Coding-Assistenten",
+          "Fließendes Englisch"
+        ],
+        "employmentType": "Vollzeit",
+        "language": "Englisch fließend"
+      },
+      "id": "e8354a762d65",
+      "foundAt": "2026-11-16T15:49:27.099Z"
     },
     {
       "searchId": "lager",
@@ -461,6 +763,121 @@
       "englishOk": true,
       "id": "af7b05fd7715",
       "foundAt": "2026-11-14T07:15:53.588Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior Software Engineer .NET SDK - Langauge Clients",
+      "titleEs": "Ingeniero/a de software senior .NET SDK (clientes de lenguaje)",
+      "company": "ClickHouse",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-13",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/senior-software-engineer-net-sdk-langauge-clients-at-clickhouse-4489504220",
+      "summary": "Responsable del cliente .NET de ClickHouse (proveedor EF Core, integraciones ORM, paquetes NuGet) en un equipo remoto-friendly; anuncio en inglés.",
+      "description": "Ser dueño del cliente .NET y su ecosistema, definir la hoja de ruta con feedback y telemetría, revisar otros clientes de lenguaje, contribuir al driver ODBC y hacer el cliente apto para empresas (TLS, Entra ID, paquetes firmados).",
+      "requirements": [
+        "5+ años de experiencia, sobre todo en sistemas intensivos en datos",
+        "C# y .NET avanzados (async, Span, profiling)",
+        "Experiencia publicando librerías en NuGet",
+        "ADO.NET, Dapper y EF Core",
+        "Buena comunicación escrita en inglés"
+      ],
+      "employmentType": "Jornada completa",
+      "language": "Inglés",
+      "englishOk": true,
+      "seniority": "senior",
+      "de": {
+        "title": "Senior Software Engineer .NET SDK - Langauge Clients",
+        "summary": "Verantwortlich für den .NET-Client von ClickHouse (EF-Core-Provider, ORM-Integrationen, NuGet-Pakete) in einem remote-freundlichen Team; Anzeige auf Englisch.",
+        "description": "Den .NET-Client und sein Ökosystem verantworten, die Roadmap anhand von Feedback und Telemetrie steuern, andere Sprach-Clients reviewen, zum ODBC-Treiber beitragen und den Client enterprise-tauglich machen (TLS, Entra ID, signierte Pakete).",
+        "requirements": [
+          "5+ Jahre Erfahrung, vor allem mit datenintensiven Systemen",
+          "Fundierte C#- und .NET-Kenntnisse (async, Span, Profiling)",
+          "Erfahrung mit NuGet-Bibliotheken",
+          "ADO.NET, Dapper und EF Core",
+          "Gute schriftliche Kommunikation auf Englisch"
+        ],
+        "employmentType": "Vollzeit",
+        "language": "Englisch"
+      },
+      "id": "75261fda9120",
+      "foundAt": "2026-11-16T15:49:27.099Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": ".NET Developer",
+      "titleEs": "Desarrollador/a .NET",
+      "company": "Noir",
+      "location": "Zürich ZH (o remoto en Suiza)",
+      "postedAt": "2026-11-13",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/net-developer-at-noir-4490595274",
+      "summary": "Puesto .NET/C# en una fintech de gestión patrimonial (cliente de la agencia Noir) para construir desde cero una nueva aplicación; Zürich o remoto, anuncio en inglés.",
+      "description": "Ayudar a construir una nueva aplicación desde cero dentro de un proyecto técnicamente exigente, incluido un nuevo framework de gestión de activos para banca privada.",
+      "requirements": [
+        "Experiencia con .NET y .NET Core",
+        "Experiencia con C#",
+        "Experiencia con Azure SQL",
+        "Residir en Suiza y permiso de trabajo"
+      ],
+      "employmentType": "Jornada completa",
+      "salary": "CHF 90'000–120'000 más bonus",
+      "language": "Inglés",
+      "englishOk": true,
+      "de": {
+        "title": ".NET Developer",
+        "summary": ".NET/C#-Stelle bei einem Fintech im Private Wealth Management (Kunde der Agentur Noir) für den Aufbau einer neuen Applikation; Zürich oder remote, Anzeige auf Englisch.",
+        "description": "Beim Aufbau einer neuen Applikation von Grund auf in einem technisch anspruchsvollen Projekt mitwirken, inklusive eines neuen Asset-Management-Frameworks für Private Banking.",
+        "requirements": [
+          "Erfahrung mit .NET und .NET Core",
+          "Erfahrung mit C#",
+          "Erfahrung mit Azure SQL",
+          "Wohnsitz in der Schweiz und Arbeitsbewilligung"
+        ],
+        "employmentType": "Vollzeit",
+        "language": "Englisch"
+      },
+      "id": "d61fcb2950af",
+      "foundAt": "2026-11-16T15:49:27.099Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "Data QA Engineer",
+      "titleEs": "Ingeniero/a QA de datos",
+      "company": "Jobgether",
+      "location": "Schweiz (remoto)",
+      "postedAt": "2026-11-13",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/data-qa-engineer-at-jobgether-4489561241",
+      "summary": "Puesto 100 % remoto para alguien basado en Suiza: QA y validación de datos de scraping/extracción con Python y Pandas.",
+      "description": "Traducir requisitos de extracción de datos en estrategias de prueba, ejecutar planes de prueba y revisiones periódicas de datasets, reportar defectos, analizar calidad y deriva de datos, elaborar informes y mejorar herramientas y automatización de QA.",
+      "requirements": [
+        "5+ años en QA o validación de datos",
+        "Python con Pandas y Jupyter",
+        "SQL básico-intermedio",
+        "HTML, XPath, JSON, HTTP, CSS y pruebas de REST API",
+        "Experiencia en entornos ágiles"
+      ],
+      "employmentType": "Jornada completa, remoto",
+      "language": "Inglés",
+      "englishOk": true,
+      "seniority": "senior",
+      "de": {
+        "title": "Data QA Engineer",
+        "summary": "Vollständig remote für Personen mit Wohnsitz in der Schweiz: QA und Datenvalidierung von Scraping-/Extraktionsdaten mit Python und Pandas.",
+        "description": "Kundenanforderungen an die Datenextraktion in Teststrategien übersetzen, Testpläne und regelmässige Datenprüfungen durchführen, Fehler melden, Datenqualität und Drift analysieren, Qualitätsberichte erstellen und QA-Tools sowie Automatisierung verbessern.",
+        "requirements": [
+          "5+ Jahre QA oder Datenvalidierung",
+          "Python mit Pandas und Jupyter",
+          "SQL Grundkenntnisse bis fortgeschritten",
+          "HTML, XPath, JSON, HTTP, CSS und REST-API-Tests",
+          "Erfahrung in agilen Umgebungen"
+        ],
+        "employmentType": "Vollzeit, remote",
+        "language": "Englisch"
+      },
+      "id": "b8a1f33716a7",
+      "foundAt": "2026-11-16T15:49:27.099Z"
     },
     {
       "searchId": "lager",
@@ -1231,6 +1648,43 @@
       "seniority": "senior",
       "id": "e653e04cdfd3",
       "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Founding Engineer, AI Infra or Data",
+      "titleEs": "Founding Engineer, infraestructura de IA o datos",
+      "company": "Zenline AI",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-12",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/founding-engineer-ai-infra-or-data-at-zenline-ai-4489958528",
+      "summary": "Primer ingeniero/a en una startup de IA: plataforma de flujos agénticos y pipelines de datos para retail; presencial en Zürich, anuncio en inglés.",
+      "description": "Construir y evolucionar la plataforma de flujos de trabajo agénticos (herramientas reutilizables, llamadas a LLM, evaluaciones), componentes de infraestructura de IA y pipelines de datos para grandes conjuntos de datos de retail.",
+      "requirements": [
+        "2–4 años construyendo software de calidad (backend, infraestructura o datos)",
+        "Experiencia con aplicaciones LLM o agentes",
+        "Pipelines de datos, ETL o procesamiento por lotes",
+        "Mentalidad de plataforma: fiabilidad, observabilidad, tests"
+      ],
+      "employmentType": "Jornada completa, presencial",
+      "language": "Inglés",
+      "englishOk": true,
+      "seniority": "mid",
+      "de": {
+        "title": "Founding Engineer, AI Infra or Data",
+        "summary": "Erste Engineering-Stelle bei einem KI-Startup: Plattform für agentische Workflows und Datenpipelines im Retail; vor Ort in Zürich, Anzeige auf Englisch.",
+        "description": "Die Plattform für agentische Workflows (wiederverwendbare Tools, LLM-Aufrufe, Evaluationen), KI-Infrastrukturkomponenten und Datenpipelines für grosse Retail-Datensätze aufbauen und weiterentwickeln.",
+        "requirements": [
+          "2–4 Jahre Erfahrung mit hochwertiger Software (Backend, Infrastruktur oder Daten)",
+          "Erfahrung mit LLM-Anwendungen oder Agenten-Workflows",
+          "Datenpipelines, ETL oder Batch-Verarbeitung",
+          "Plattform-Denken: Zuverlässigkeit, Observability, Tests"
+        ],
+        "employmentType": "Vollzeit, vor Ort",
+        "language": "Englisch"
+      },
+      "id": "df2ddd0ffc55",
+      "foundAt": "2026-11-16T15:49:27.099Z"
     },
     {
       "searchId": "fullstack-ts",
@@ -2434,6 +2888,43 @@
       "foundAt": "2026-11-12T10:00:08.920Z"
     },
     {
+      "searchId": "fullstack-ts",
+      "title": "Senior Software Engineer - MAAS",
+      "titleEs": "Ingeniero/a de software senior - MAAS",
+      "company": "Canonical",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-11",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/senior-software-engineer-maas-at-canonical-4489640364",
+      "summary": "Desarrollo de MAAS (aprovisionamiento de servidores físicos) con Python y Go en backend o TypeScript y React en frontend; empresa distribuida, anuncio en inglés.",
+      "description": "Desarrollar componentes y funcionalidades centrales de MAAS, dar forma a su arquitectura, mejorar CI y tests, documentar y colaborar con otros equipos; viajes internacionales algunas veces al año.",
+      "requirements": [
+        "Experiencia profesional en Python y Go (backend) o TypeScript y React (frontend)",
+        "Interés en open source, Linux y automatización de centros de datos",
+        "Redes, almacenamiento y nube",
+        "Inglés escrito y hablado sólido"
+      ],
+      "employmentType": "Jornada completa",
+      "language": "Inglés",
+      "englishOk": true,
+      "seniority": "senior",
+      "de": {
+        "title": "Senior Software Engineer - MAAS",
+        "summary": "Entwicklung von MAAS (Provisionierung physischer Server) mit Python und Go im Backend oder TypeScript und React im Frontend; verteiltes Unternehmen, Anzeige auf Englisch.",
+        "description": "Kernkomponenten und Features von MAAS entwickeln, die Architektur mitgestalten, CI und Tests verbessern, dokumentieren und mit anderen Teams zusammenarbeiten; einige internationale Reisen pro Jahr.",
+        "requirements": [
+          "Berufserfahrung in Python und Go (Backend) oder TypeScript und React (Frontend)",
+          "Interesse an Open Source, Linux und Rechenzentrumsautomatisierung",
+          "Netzwerk, Storage und Cloud",
+          "Starke schriftliche und mündliche Englischkenntnisse"
+        ],
+        "employmentType": "Vollzeit",
+        "language": "Englisch"
+      },
+      "id": "1e38253721a4",
+      "foundAt": "2026-11-16T15:49:27.099Z"
+    },
+    {
       "searchId": "lager",
       "title": "Lager / Speditionsmitarbeiter 100% (m/w/d)",
       "titleEs": "Empleado/a de almacén y expedición 100%",
@@ -3499,6 +3990,84 @@
     },
     {
       "searchId": "fullstack-ts",
+      "title": "Backend Engineer - Integration Platform",
+      "titleEs": "Ingeniero/a Backend - plataforma de integración",
+      "company": "BLP",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-10",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/backend-engineer-integration-platform-at-blp-4487953681",
+      "summary": "Servicios backend en Go para integraciones ERP; híbrido (3+ días en oficina), contrato fijo, anuncio en inglés.",
+      "description": "Trabajar con ingenieros y equipos de implementación en integraciones ERP, diseñar y construir servicios backend mantenibles en Go (Docker, Kubernetes, GCP), liderar decisiones técnicas y mentorizar.",
+      "requirements": [
+        "3+ años como ingeniero/a de software",
+        "Go, o fuerte backend con ganas de aprender Go",
+        "Clean Code y Clean Architecture",
+        "Pensamiento de producto",
+        "Inglés fluido; alemán es un plus"
+      ],
+      "employmentType": "Contrato fijo",
+      "language": "Inglés fluido, alemán deseable",
+      "englishOk": true,
+      "seniority": "mid",
+      "de": {
+        "title": "Backend Engineer - Integration Platform",
+        "summary": "Backend-Services in Go für ERP-Integrationen; hybrid (3+ Bürotage), unbefristet, Anzeige auf Englisch.",
+        "description": "Mit Engineers und Implementierungsteams an ERP-Integrationen arbeiten, wartbare Backend-Services in Go (Docker, Kubernetes, GCP) entwerfen und bauen, technische Entscheide treffen und Teammitglieder mentoren.",
+        "requirements": [
+          "3+ Jahre als Software Engineer",
+          "Go oder starkes Backend mit Lernbereitschaft für Go",
+          "Clean Code und Clean Architecture",
+          "Produktdenken",
+          "Fließendes Englisch; Deutsch von Vorteil"
+        ],
+        "employmentType": "Festanstellung",
+        "language": "Englisch fließend, Deutsch von Vorteil"
+      },
+      "id": "33faa659a667",
+      "foundAt": "2026-11-16T15:49:27.099Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Backend Developer",
+      "titleEs": "Desarrollador/a Backend (Go)",
+      "company": "TransferChain",
+      "location": "Baar ZG",
+      "postedAt": "2026-11-10",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/backend-developer-at-transferchain-4489442349",
+      "summary": "Desarrollo backend en Go de un protocolo de red y arquitectura distribuida; presencial o remoto, anuncio en inglés.",
+      "description": "Diseñar, construir, probar, desplegar y mantener sistemas backend (protocolo de red central, arquitectura distribuida y herramientas para desarrolladores), mejorar escalabilidad y seguridad y documentar el código.",
+      "requirements": [
+        "3+ años de Go",
+        "5+ años de desarrollo de software",
+        "Fundamentos de informática y sistemas distribuidos",
+        "Diseño de APIs para comunicación con estado",
+        "Plus: PostgreSQL, cifrado, blockchain"
+      ],
+      "employmentType": "Jornada completa",
+      "language": "Inglés",
+      "englishOk": true,
+      "seniority": "senior",
+      "de": {
+        "title": "Backend Developer",
+        "summary": "Backend-Entwicklung in Go für ein Netzwerkprotokoll und eine verteilte Architektur; vor Ort oder remote, Anzeige auf Englisch.",
+        "description": "Backend-Systeme (zentrales Netzwerkprotokoll, verteilte Architektur, Entwickler-Tools) entwerfen, bauen, testen, deployen und warten, Skalierbarkeit und Sicherheit verbessern und Code dokumentieren.",
+        "requirements": [
+          "3+ Jahre Go",
+          "5+ Jahre Softwareentwicklung",
+          "Informatik-Grundlagen und verteilte Systeme",
+          "Entwurf von APIs für zustandsbehaftete Kommunikation",
+          "Plus: PostgreSQL, Verschlüsselung, Blockchain"
+        ],
+        "employmentType": "Vollzeit",
+        "language": "Englisch"
+      },
+      "id": "9ceef968e383",
+      "foundAt": "2026-11-16T15:49:27.099Z"
+    },
+    {
+      "searchId": "fullstack-ts",
       "title": "Fullstack Software Engineer mit DevOps Mindset (a) (80 – 100%)",
       "titleEs": "Ingeniero/a de software full-stack con mentalidad DevOps",
       "company": "Consult & Pepper AG",
@@ -4484,6 +5053,80 @@
         "employmentType": "Festanstellung",
         "language": "Gute Deutschkenntnisse"
       }
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Back End Developer",
+      "titleEs": "Desarrollador/a Backend (contrato temporal)",
+      "company": "KeyPartners",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-09",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/back-end-developer-at-keypartners-4486761253",
+      "summary": "Contrato freelance de 9 meses (ampliable) como desarrollador/a backend para un cliente del sector financiero; requiere alemán C1.",
+      "description": "Diseñar, construir y mantener servicios backend y APIs, contribuir a decisiones de arquitectura y revisiones de código, mejorar rendimiento y cobertura de tests y documentar el traspaso.",
+      "requirements": [
+        "5+ años de desarrollo backend",
+        "REST/microservicios",
+        "Bases de datos y nube",
+        "CI/CD, Docker y Kubernetes",
+        "Alemán C1 e inglés bueno"
+      ],
+      "employmentType": "Contrato temporal (freelance), 9 meses",
+      "language": "Alemán C1, inglés bueno",
+      "englishOk": false,
+      "seniority": "senior",
+      "de": {
+        "title": "Back End Developer",
+        "summary": "Neunmonatiger Freelance-Einsatz (verlängerbar) als Backend-Entwickler:in für einen Kunden aus der Finanzbranche; Deutsch C1 erforderlich.",
+        "description": "Backend-Services und APIs entwerfen, bauen und warten, an Architekturentscheiden und Code-Reviews mitwirken, Performance und Testabdeckung verbessern und die Übergabe dokumentieren.",
+        "requirements": [
+          "5+ Jahre Backend-Entwicklung",
+          "REST/Microservices",
+          "Datenbanken und Cloud",
+          "CI/CD, Docker und Kubernetes",
+          "Deutsch C1 und gutes Englisch"
+        ],
+        "employmentType": "Befristet (Freelance), 9 Monate",
+        "language": "Deutsch C1, Englisch gut"
+      },
+      "id": "837c334913df",
+      "foundAt": "2026-11-16T15:49:27.099Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Software Engineer III, Shopping Graph Feeds Infrastructure",
+      "titleEs": "Ingeniero/a de software III, infraestructura de feeds de Shopping Graph",
+      "company": "Google",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-09",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/software-engineer-iii-shopping-graph-feeds-infrastructure-at-google-4478117883",
+      "summary": "Infraestructura de feeds de Shopping Graph (Java/C++) y calidad de datos; anuncio en inglés.",
+      "description": "Diseñar e implementar nuevas capacidades de la infraestructura de feeds, mejorar la calidad de datos de Shopping Graph, escribir software robusto y testeable y participar en revisiones de diseño y código.",
+      "requirements": [
+        "Grado o experiencia práctica equivalente",
+        "2 años de desarrollo en Java o C++",
+        "2 años usando herramientas de IA"
+      ],
+      "employmentType": "Jornada completa",
+      "language": "Inglés",
+      "englishOk": true,
+      "seniority": "mid",
+      "de": {
+        "title": "Software Engineer III, Shopping Graph Feeds Infrastructure",
+        "summary": "Feeds-Infrastruktur für Shopping Graph (Java/C++) und Datenqualität; Anzeige auf Englisch.",
+        "description": "Neue Fähigkeiten der Feeds-Infrastruktur entwerfen und umsetzen, die Datenqualität im Shopping Graph verbessern, robuste und testbare Software schreiben und an Design- und Code-Reviews teilnehmen.",
+        "requirements": [
+          "Bachelor oder gleichwertige praktische Erfahrung",
+          "2 Jahre Entwicklung in Java oder C++",
+          "2 Jahre Erfahrung mit KI-Tools"
+        ],
+        "employmentType": "Vollzeit",
+        "language": "Englisch"
+      },
+      "id": "272492f6b054",
+      "foundAt": "2026-11-16T15:49:27.099Z"
     },
     {
       "searchId": "lager",
@@ -7713,6 +8356,49 @@
       },
       "id": "c1b675281d09",
       "foundAt": "2026-11-12T15:20:33.966Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Fullstack Software Architect (w/m/d)",
+      "titleEs": "Arquitecto/a de software Fullstack",
+      "company": "Digitec Galaxus AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-02",
+      "source": "Migros (jobs.migros.ch)",
+      "url": "https://jobs.migros.ch/de/unsere-unternehmen/job/galaxus/fullstack-software-architect-wmd/94109a59-cd6d-4bd2-8512-21a2f9b5edaa",
+      "summary": "Arquitecto/a de software hands-on en Galaxus (Zürich) que lidera la evolución técnica de las apps móviles y del módulo de notificaciones push, con TypeScript y React.",
+      "description": "Coaching de ingenieros de software, apoyo al equipo para entregar código limpio con arquitectura sostenible y buena cobertura de tests, responsabilidad técnica de las apps móviles y del módulo push (incluida la integración de la aplicación web en apps nativas mediante WebViews), diseño de las interfaces entre la tienda online y las apps móviles y coordinación del desarrollo nativo iOS y Android.",
+      "requirements": [
+        "Al menos 2 años como arquitecto/a de software, con trayectoria como ingeniero/a hands-on",
+        "Titulación en informática (universidad, FH o formación superior) o experiencia equivalente",
+        "Excelentes conocimientos de TypeScript y React",
+        "Experiencia en .NET/C#, MongoDB, GraphQL, Kotlin o Swift",
+        "Experiencia con el ciclo de vida de apps móviles (Android e iOS), preferible",
+        "Alemán fluido a nivel de negociación e inglés fluido"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán fluido (nivel negociación), inglés fluido",
+      "englishOk": false,
+      "seniority": "senior",
+      "de": {
+        "title": "Fullstack Software Architect (w/m/d)",
+        "summary": "Hands-on Software Architect bei Galaxus (Zürich), verantwortlich für die technische Weiterentwicklung der Mobile Apps und des Push-Moduls mit TypeScript und React.",
+        "description": "Coaching von Software Engineers, Unterstützung des Teams bei sauberem Code, nachhaltiger Architektur und angemessener Testabdeckung, technische Verantwortung für die Mobile Apps und das Push-Modul (inkl. Integration der Webanwendung via WebViews in native Apps), Gestaltung der Schnittstellen zwischen Online-Shop und Mobile Apps sowie Koordination der nativen iOS- und Android-Entwicklung.",
+        "requirements": [
+          "Mindestens 2 Jahre als Software Architect, mit Erfahrung als Hands-on-Engineer",
+          "Abgeschlossenes Informatikstudium (Uni, FH oder HF) oder gleichwertige Erfahrung",
+          "Ausgezeichnete TypeScript- und React-Kenntnisse",
+          "Erfahrung mit .NET/C#, MongoDB, GraphQL, Kotlin oder Swift",
+          "Erfahrung mit dem Lebenszyklus von Mobile Apps (Android und iOS) von Vorteil",
+          "Verhandlungssicheres Deutsch und fliessendes Englisch"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch verhandlungssicher, Englisch fliessend"
+      },
+      "id": "8a887f6e6452",
+      "foundAt": "2026-11-16T15:49:27.099Z"
     },
     {
       "searchId": "fullstack-ts",

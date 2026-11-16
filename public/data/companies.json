@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-11-16T15:15:53.851Z",
+  "updatedAt": "2026-11-16T15:49:27.099Z",
   "companies": [
+    {
+      "key": "adesso",
+      "name": "adesso Schweiz AG",
+      "agency": false,
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-11-16",
+      "searchIds": [
+        "qa-test",
+        "fullstack-ts"
+      ],
+      "locations": [
+        "Zürich",
+        "Zürich ZH"
+      ],
+      "jobs": [
+        {
+          "id": "6a9f4e558826",
+          "title": "Ingeniero/a de software Java senior",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-16",
+          "location": "Zürich ZH",
+          "url": "https://ch.linkedin.com/jobs/view/senior-software-engineer-java-all-genders-at-adesso-schweiz-ag-4197043934",
+          "englishOk": false
+        },
+        {
+          "id": "cd65b76714f9",
+          "title": "Consultor/a senior de automatización de pruebas con agentes de IA",
+          "searchId": "qa-test",
+          "postedAt": "2026-11-05",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/senior-consultant-agentic-test-automation-all-genders-at-adesso-schweiz-ag-4487266419",
+          "englishOk": false
+        },
+        {
+          "id": "45ee8df11392",
+          "title": "Líder de equipo Consulting / QA",
+          "searchId": "qa-test",
+          "postedAt": "2026-11-05",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/teamleader-consulting-qa-all-genders-at-adesso-schweiz-ag-4459168795",
+          "englishOk": false
+        },
+        {
+          "id": "0ccc9ddb77e0",
+          "title": "Fullstack Software Engineer (Java & Spring, Angular) (all genders)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-10-30",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/fullstack-software-engineer-java-spring-angular-all-genders-at-adesso-schweiz-ag-4182010922"
+        }
+      ]
+    },
     {
       "key": "coople",
       "name": "Coople",
@@ -42,6 +94,138 @@
           "postedAt": "2026-11-12",
           "location": "Adliswil ZH",
           "url": "https://www.coople.com/ch/jobs/en/25808e6f-dfae-4d6f-b88c-6c44c051ad42"
+        }
+      ]
+    },
+    {
+      "key": "coresystems",
+      "name": "Coresystems AG",
+      "agency": false,
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "searchIds": [
+        "fullstack-ts"
+      ],
+      "locations": [
+        "Zürich ZH"
+      ],
+      "jobs": [
+        {
+          "id": "7156a7fa7a0d",
+          "title": "Ingeniero/a de software - Pirate & Architect",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-16",
+          "location": "Zürich ZH",
+          "url": "https://ch.linkedin.com/jobs/view/software-engineer-pirate-architect-at-coresystems-ag-4489718449",
+          "englishOk": true
+        }
+      ]
+    },
+    {
+      "key": "encontrol",
+      "name": "Encontrol AG",
+      "agency": false,
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "searchIds": [
+        "fullstack-ts"
+      ],
+      "locations": [
+        "Baden AG"
+      ],
+      "jobs": [
+        {
+          "id": "3ad0ff8d77a3",
+          "title": "Ingeniero/a de producto y software (C#/.NET)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-16",
+          "location": "Baden AG",
+          "url": "https://ch.linkedin.com/jobs/view/product-software-engineer-a-80-100%25-at-encontrol-ag-4490583924",
+          "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "jobgether",
+      "name": "Jobgether",
+      "agency": true,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
+      "searchIds": [
+        "frontend-react",
+        "fullstack-ts",
+        "qa-test"
+      ],
+      "locations": [
+        "Remoto (Suiza)",
+        "Remoto (Suiza, CET ±1 h)",
+        "Suiza (remoto)",
+        "Remoto (Europa / Suiza)",
+        "Schweiz (remoto)"
+      ],
+      "jobs": [
+        {
+          "id": "f09c271a7f0d",
+          "title": "Staff Frontend Engineer - Plataforma de trading",
+          "searchId": "frontend-react",
+          "postedAt": "2026-11-16",
+          "location": "Remoto (Europa / Suiza)",
+          "url": "https://ch.linkedin.com/jobs/view/staff-frontend-engineer-trading-platform-at-jobgether-4490277966",
+          "englishOk": true
+        },
+        {
+          "id": "f38fc5227d90",
+          "title": "Ingeniero/a Full-Stack (foco frontend y móvil)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-13",
+          "location": "Suiza (remoto)",
+          "url": "https://ch.linkedin.com/jobs/view/full-stack-software-engineer-frontend-mobile-focus-at-jobgether-4489551627",
+          "englishOk": true
+        },
+        {
+          "id": "b8a1f33716a7",
+          "title": "Ingeniero/a QA de datos",
+          "searchId": "qa-test",
+          "postedAt": "2026-11-13",
+          "location": "Schweiz (remoto)",
+          "url": "https://ch.linkedin.com/jobs/view/data-qa-engineer-at-jobgether-4489561241",
+          "englishOk": true
+        },
+        {
+          "id": "bf80fd081620",
+          "title": "Ingeniero/a Fullstack senior (React/TypeScript, Rails)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-12",
+          "location": "Suiza (remoto)",
+          "url": "https://ch.linkedin.com/jobs/view/senior-fullstack-engineer-at-jobgether-4489086318",
+          "englishOk": true
+        },
+        {
+          "id": "38712d339d82",
+          "title": "Desarrollador/a Fullstack – Taplio & TweetHunter",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-12",
+          "location": "Suiza (remoto)",
+          "url": "https://ch.linkedin.com/jobs/view/fullstack-developer-%E2%80%93-taplio-tweethunter-at-jobgether-4489088599",
+          "englishOk": true
+        },
+        {
+          "id": "7b348200f866",
+          "title": "Desarrollador/a Frontend senior",
+          "searchId": "frontend-react",
+          "postedAt": "2026-11-11",
+          "location": "Remoto (Suiza)",
+          "url": "https://ch.linkedin.com/jobs/view/senior-frontend-developer-at-jobgether-4488663615",
+          "englishOk": true
+        },
+        {
+          "id": "5230c02d97c4",
+          "title": "Desarrollador/a Frontend (React)",
+          "searchId": "frontend-react",
+          "postedAt": "2026-11-09",
+          "location": "Remoto (Suiza, CET ±1 h)",
+          "url": "https://ch.linkedin.com/jobs/view/frontend-developer-react-at-jobgether-4487687394",
+          "englishOk": true
         }
       ]
     },
@@ -472,6 +656,30 @@
       ]
     },
     {
+      "key": "ontinue",
+      "name": "Ontinue",
+      "agency": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "searchIds": [
+        "fullstack-ts"
+      ],
+      "locations": [
+        "Zürich ZH"
+      ],
+      "jobs": [
+        {
+          "id": "e8354a762d65",
+          "title": "Ingeniero/a de software Python senior",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-14",
+          "location": "Zürich ZH",
+          "url": "https://ch.linkedin.com/jobs/view/senior-python-software-engineer-at-ontinue-4483119279",
+          "englishOk": true
+        }
+      ]
+    },
+    {
       "key": "planzer",
       "name": "Planzer",
       "agency": false,
@@ -798,6 +1006,30 @@
       ]
     },
     {
+      "key": "clickhouse",
+      "name": "ClickHouse",
+      "agency": false,
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-13",
+      "searchIds": [
+        "fullstack-ts"
+      ],
+      "locations": [
+        "Zürich ZH"
+      ],
+      "jobs": [
+        {
+          "id": "75261fda9120",
+          "title": "Ingeniero/a de software senior .NET SDK (clientes de lenguaje)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-13",
+          "location": "Zürich ZH",
+          "url": "https://ch.linkedin.com/jobs/view/senior-software-engineer-net-sdk-langauge-clients-at-clickhouse-4489504220",
+          "englishOk": true
+        }
+      ]
+    },
+    {
       "key": "code compass",
       "name": "Code Compass",
       "agency": false,
@@ -1036,69 +1268,6 @@
       ]
     },
     {
-      "key": "jobgether",
-      "name": "Jobgether",
-      "agency": true,
-      "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-13",
-      "searchIds": [
-        "frontend-react",
-        "fullstack-ts"
-      ],
-      "locations": [
-        "Remoto (Suiza)",
-        "Remoto (Suiza, CET ±1 h)",
-        "Suiza (remoto)"
-      ],
-      "jobs": [
-        {
-          "id": "f38fc5227d90",
-          "title": "Ingeniero/a Full-Stack (foco frontend y móvil)",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-13",
-          "location": "Suiza (remoto)",
-          "url": "https://ch.linkedin.com/jobs/view/full-stack-software-engineer-frontend-mobile-focus-at-jobgether-4489551627",
-          "englishOk": true
-        },
-        {
-          "id": "bf80fd081620",
-          "title": "Ingeniero/a Fullstack senior (React/TypeScript, Rails)",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-12",
-          "location": "Suiza (remoto)",
-          "url": "https://ch.linkedin.com/jobs/view/senior-fullstack-engineer-at-jobgether-4489086318",
-          "englishOk": true
-        },
-        {
-          "id": "38712d339d82",
-          "title": "Desarrollador/a Fullstack – Taplio & TweetHunter",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-12",
-          "location": "Suiza (remoto)",
-          "url": "https://ch.linkedin.com/jobs/view/fullstack-developer-%E2%80%93-taplio-tweethunter-at-jobgether-4489088599",
-          "englishOk": true
-        },
-        {
-          "id": "7b348200f866",
-          "title": "Desarrollador/a Frontend senior",
-          "searchId": "frontend-react",
-          "postedAt": "2026-11-11",
-          "location": "Remoto (Suiza)",
-          "url": "https://ch.linkedin.com/jobs/view/senior-frontend-developer-at-jobgether-4488663615",
-          "englishOk": true
-        },
-        {
-          "id": "5230c02d97c4",
-          "title": "Desarrollador/a Frontend (React)",
-          "searchId": "frontend-react",
-          "postedAt": "2026-11-09",
-          "location": "Remoto (Suiza, CET ±1 h)",
-          "url": "https://ch.linkedin.com/jobs/view/frontend-developer-react-at-jobgether-4487687394",
-          "englishOk": true
-        }
-      ]
-    },
-    {
       "key": "konova",
       "name": "Konova AG",
       "agency": false,
@@ -1193,6 +1362,59 @@
           "location": "Regensdorf",
           "url": "https://www.manpower.ch/en/job/regensdorf/logistiker-efz-100-m-w-d-/625971",
           "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "noir",
+      "name": "Noir",
+      "agency": false,
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-13",
+      "searchIds": [
+        "frontend-react",
+        "fullstack-ts"
+      ],
+      "locations": [
+        "Winterthur ZH",
+        "Zürich",
+        "Zug",
+        "Zürich ZH (o remoto en Suiza)"
+      ],
+      "jobs": [
+        {
+          "id": "d61fcb2950af",
+          "title": "Desarrollador/a .NET",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-13",
+          "location": "Zürich ZH (o remoto en Suiza)",
+          "url": "https://ch.linkedin.com/jobs/view/net-developer-at-noir-4490595274",
+          "englishOk": true
+        },
+        {
+          "id": "fe90cf8fba8a",
+          "title": ".NET Software Engineer (APIs, Blazor/React, MAUI)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-10",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/net-software-engineer-at-noir-4489456418"
+        },
+        {
+          "id": "d7dec818faac",
+          "title": "Senior Full Stack Developer (Angular / .NET)",
+          "searchId": "frontend-react",
+          "postedAt": "2026-11-06",
+          "location": "Winterthur ZH",
+          "url": "https://ch.linkedin.com/jobs/view/senior-full-stack-developer-at-noir-4488154010",
+          "englishOk": false
+        },
+        {
+          "id": "1527748f0ad9",
+          "title": "Ingeniero/a de software Full Stack .NET",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-06",
+          "location": "Zug",
+          "url": "https://ch.linkedin.com/jobs/view/full-stack-net-software-engineer-at-noir-4488128974"
         }
       ]
     },
@@ -2111,6 +2333,30 @@
       ]
     },
     {
+      "key": "zenline ai",
+      "name": "Zenline AI",
+      "agency": false,
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-12",
+      "searchIds": [
+        "fullstack-ts"
+      ],
+      "locations": [
+        "Zürich ZH"
+      ],
+      "jobs": [
+        {
+          "id": "df2ddd0ffc55",
+          "title": "Founding Engineer, infraestructura de IA o datos",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-12",
+          "location": "Zürich ZH",
+          "url": "https://ch.linkedin.com/jobs/view/founding-engineer-ai-infra-or-data-at-zenline-ai-4489958528",
+          "englishOk": true
+        }
+      ]
+    },
+    {
       "key": "alterszentrum lindenhof",
       "name": "Alterszentrum Lindenhof",
       "agency": false,
@@ -2158,6 +2404,50 @@
       ]
     },
     {
+      "key": "canonical",
+      "name": "Canonical",
+      "agency": false,
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
+      "searchIds": [
+        "fullstack-ts"
+      ],
+      "locations": [
+        "Zürich",
+        "Zürich (remoto EMEA)",
+        "Zürich ZH"
+      ],
+      "jobs": [
+        {
+          "id": "1e38253721a4",
+          "title": "Ingeniero/a de software senior - MAAS",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-11",
+          "location": "Zürich ZH",
+          "url": "https://ch.linkedin.com/jobs/view/senior-software-engineer-maas-at-canonical-4489640364",
+          "englishOk": true
+        },
+        {
+          "id": "a2346427045a",
+          "title": "Ingeniero/a de software senior - Digital Workplace",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-10",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/senior-software-engineer-digital-workplace-at-canonical-4489643144",
+          "englishOk": true
+        },
+        {
+          "id": "9f4afc08cb23",
+          "title": "Ingeniero/a web senior",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-10",
+          "location": "Zürich (remoto EMEA)",
+          "url": "https://ch.linkedin.com/jobs/view/senior-web-engineer-at-canonical-4489466702",
+          "englishOk": true
+        }
+      ]
+    },
+    {
       "key": "condecta",
       "name": "Condecta AG",
       "agency": false,
@@ -2184,11 +2474,12 @@
       "key": "digitec galaxus",
       "name": "Digitec Galaxus AG",
       "agency": false,
-      "firstSeen": "2026-11-06",
+      "firstSeen": "2026-11-02",
       "lastSeen": "2026-11-11",
       "searchIds": [
         "frontend-react",
-        "qa-test"
+        "qa-test",
+        "fullstack-ts"
       ],
       "locations": [
         "Zürich"
@@ -2209,6 +2500,15 @@
           "postedAt": "2026-11-06",
           "location": "Zürich",
           "url": "https://www.jobs.ch/de/stellenangebote/detail/ee72d6dd-18f0-46b0-97b7-ac070bdd9253"
+        },
+        {
+          "id": "8a887f6e6452",
+          "title": "Arquitecto/a de software Fullstack",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-02",
+          "location": "Zürich",
+          "url": "https://jobs.migros.ch/de/unsere-unternehmen/job/galaxus/fullstack-software-architect-wmd/94109a59-cd6d-4bd2-8512-21a2f9b5edaa",
+          "englishOk": false
         }
       ]
     },
@@ -2675,8 +2975,8 @@
       ]
     },
     {
-      "key": "canonical",
-      "name": "Canonical",
+      "key": "blp",
+      "name": "BLP",
       "agency": false,
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
@@ -2684,26 +2984,16 @@
         "fullstack-ts"
       ],
       "locations": [
-        "Zürich",
-        "Zürich (remoto EMEA)"
+        "Zürich ZH"
       ],
       "jobs": [
         {
-          "id": "a2346427045a",
-          "title": "Ingeniero/a de software senior - Digital Workplace",
+          "id": "33faa659a667",
+          "title": "Ingeniero/a Backend - plataforma de integración",
           "searchId": "fullstack-ts",
           "postedAt": "2026-11-10",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/senior-software-engineer-digital-workplace-at-canonical-4489643144",
-          "englishOk": true
-        },
-        {
-          "id": "9f4afc08cb23",
-          "title": "Ingeniero/a web senior",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-10",
-          "location": "Zürich (remoto EMEA)",
-          "url": "https://ch.linkedin.com/jobs/view/senior-web-engineer-at-canonical-4489466702",
+          "location": "Zürich ZH",
+          "url": "https://ch.linkedin.com/jobs/view/backend-engineer-integration-platform-at-blp-4487953681",
           "englishOk": true
         }
       ]
@@ -2945,49 +3235,6 @@
       ]
     },
     {
-      "key": "noir",
-      "name": "Noir",
-      "agency": false,
-      "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-10",
-      "searchIds": [
-        "frontend-react",
-        "fullstack-ts"
-      ],
-      "locations": [
-        "Winterthur ZH",
-        "Zürich",
-        "Zug"
-      ],
-      "jobs": [
-        {
-          "id": "fe90cf8fba8a",
-          "title": ".NET Software Engineer (APIs, Blazor/React, MAUI)",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-10",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/net-software-engineer-at-noir-4489456418"
-        },
-        {
-          "id": "d7dec818faac",
-          "title": "Senior Full Stack Developer (Angular / .NET)",
-          "searchId": "frontend-react",
-          "postedAt": "2026-11-06",
-          "location": "Winterthur ZH",
-          "url": "https://ch.linkedin.com/jobs/view/senior-full-stack-developer-at-noir-4488154010",
-          "englishOk": false
-        },
-        {
-          "id": "1527748f0ad9",
-          "title": "Ingeniero/a de software Full Stack .NET",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-06",
-          "location": "Zug",
-          "url": "https://ch.linkedin.com/jobs/view/full-stack-net-software-engineer-at-noir-4488128974"
-        }
-      ]
-    },
-    {
       "key": "oeko tex",
       "name": "OEKO-TEX AG",
       "agency": false,
@@ -3174,6 +3421,30 @@
       ]
     },
     {
+      "key": "transferchain",
+      "name": "TransferChain",
+      "agency": false,
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "searchIds": [
+        "fullstack-ts"
+      ],
+      "locations": [
+        "Baar ZG"
+      ],
+      "jobs": [
+        {
+          "id": "9ceef968e383",
+          "title": "Desarrollador/a Backend (Go)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-10",
+          "location": "Baar ZG",
+          "url": "https://ch.linkedin.com/jobs/view/backend-developer-at-transferchain-4489442349",
+          "englishOk": true
+        }
+      ]
+    },
+    {
       "key": "wavestone",
       "name": "Wavestone",
       "agency": false,
@@ -3292,6 +3563,30 @@
       ]
     },
     {
+      "key": "google",
+      "name": "Google",
+      "agency": false,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "searchIds": [
+        "fullstack-ts"
+      ],
+      "locations": [
+        "Zürich ZH"
+      ],
+      "jobs": [
+        {
+          "id": "272492f6b054",
+          "title": "Ingeniero/a de software III, infraestructura de feeds de Shopping Graph",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-09",
+          "location": "Zürich ZH",
+          "url": "https://ch.linkedin.com/jobs/view/software-engineer-iii-shopping-graph-feeds-infrastructure-at-google-4478117883",
+          "englishOk": true
+        }
+      ]
+    },
+    {
       "key": "hauswartprofis",
       "name": "Hauswartprofis AG",
       "agency": false,
@@ -3311,6 +3606,30 @@
           "postedAt": "2026-11-09",
           "location": "Nänikon (trabajo en la zona de servicio de Würenlos)",
           "url": "https://www.jobs.ch/de/stellenangebote/detail/2d3877fa-2dd2-4676-9a1c-a6130a7f391e",
+          "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "keypartners",
+      "name": "KeyPartners",
+      "agency": false,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "searchIds": [
+        "fullstack-ts"
+      ],
+      "locations": [
+        "Zürich ZH"
+      ],
+      "jobs": [
+        {
+          "id": "837c334913df",
+          "title": "Desarrollador/a Backend (contrato temporal)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-09",
+          "location": "Zürich ZH",
+          "url": "https://ch.linkedin.com/jobs/view/back-end-developer-at-keypartners-4486761253",
           "englishOk": false
         }
       ]
@@ -4461,48 +4780,6 @@
           "postedAt": "2026-11-06",
           "location": "Zürich",
           "url": "https://ch.linkedin.com/jobs/view/4468598409"
-        }
-      ]
-    },
-    {
-      "key": "adesso",
-      "name": "adesso Schweiz AG",
-      "agency": false,
-      "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-05",
-      "searchIds": [
-        "qa-test",
-        "fullstack-ts"
-      ],
-      "locations": [
-        "Zürich"
-      ],
-      "jobs": [
-        {
-          "id": "cd65b76714f9",
-          "title": "Consultor/a senior de automatización de pruebas con agentes de IA",
-          "searchId": "qa-test",
-          "postedAt": "2026-11-05",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/senior-consultant-agentic-test-automation-all-genders-at-adesso-schweiz-ag-4487266419",
-          "englishOk": false
-        },
-        {
-          "id": "45ee8df11392",
-          "title": "Líder de equipo Consulting / QA",
-          "searchId": "qa-test",
-          "postedAt": "2026-11-05",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/teamleader-consulting-qa-all-genders-at-adesso-schweiz-ag-4459168795",
-          "englishOk": false
-        },
-        {
-          "id": "0ccc9ddb77e0",
-          "title": "Fullstack Software Engineer (Java & Spring, Angular) (all genders)",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-10-30",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/fullstack-software-engineer-java-spring-angular-all-genders-at-adesso-schweiz-ag-4182010922"
         }
       ]
     },
