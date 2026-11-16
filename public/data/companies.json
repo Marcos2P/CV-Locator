@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-11-16T15:49:27.099Z",
+  "updatedAt": "2026-11-16T17:14:51.404Z",
   "companies": [
+    {
+      "key": "academic work",
+      "name": "Academic Work Switzerland SA",
+      "agency": true,
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-16",
+      "searchIds": [
+        "junior-it",
+        "fullstack-ts",
+        "lager"
+      ],
+      "locations": [
+        "Zürich"
+      ],
+      "jobs": [
+        {
+          "id": "7d296cd05d83",
+          "title": "Logistiker/a 60–80 %",
+          "searchId": "lager",
+          "postedAt": "2026-11-16",
+          "location": "Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/8d4a45a5-66ec-45d6-b358-8eb72d84ca9b",
+          "englishOk": false
+        },
+        {
+          "id": "8b1d7295fea3",
+          "title": "Soporte IT de 1.er nivel",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-12",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/it-1st-level-support-at-academic-work-4488516974",
+          "englishOk": false
+        },
+        {
+          "id": "38d269ba960b",
+          "title": "Ingeniero/a Rust – FinTech",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-06",
+          "location": "Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/154f36a4-fa7f-4d3d-907a-31506b75b003",
+          "englishOk": true
+        }
+      ]
+    },
     {
       "key": "adesso",
       "name": "adesso Schweiz AG",
@@ -50,6 +94,30 @@
           "postedAt": "2026-10-30",
           "location": "Zürich",
           "url": "https://ch.linkedin.com/jobs/view/fullstack-software-engineer-java-spring-angular-all-genders-at-adesso-schweiz-ag-4182010922"
+        }
+      ]
+    },
+    {
+      "key": "cargologic",
+      "name": "Cargologic AG",
+      "agency": false,
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "searchIds": [
+        "lager"
+      ],
+      "locations": [
+        "Zürich"
+      ],
+      "jobs": [
+        {
+          "id": "085094355102",
+          "title": "Empleado/a de mercancías peligrosas 80–100 %",
+          "searchId": "lager",
+          "postedAt": "2026-11-16",
+          "location": "Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/321c258f-fd61-443f-8c87-df2e4d8370fd",
+          "englishOk": false
         }
       ]
     },
@@ -118,6 +186,39 @@
           "location": "Zürich ZH",
           "url": "https://ch.linkedin.com/jobs/view/software-engineer-pirate-architect-at-coresystems-ag-4489718449",
           "englishOk": true
+        }
+      ]
+    },
+    {
+      "key": "employ me",
+      "name": "Employ Me AG",
+      "agency": true,
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-16",
+      "searchIds": [
+        "lager"
+      ],
+      "locations": [
+        "Nänikon",
+        "Winterthur"
+      ],
+      "jobs": [
+        {
+          "id": "a80a9bdb946f",
+          "title": "Logistiker/a EFZ / Preparador/a de pedidos 100 % (temporal)",
+          "searchId": "lager",
+          "postedAt": "2026-11-16",
+          "location": "Winterthur",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/caebb86b-9944-4da4-97b6-235cd5736b89",
+          "englishOk": false
+        },
+        {
+          "id": "185a58443fb7",
+          "title": "Logístico/a EFZ, temporal (mín. CHF 33,44/h)",
+          "searchId": "lager",
+          "postedAt": "2026-11-12",
+          "location": "Nänikon",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/caabe926-54dd-44ac-8c46-7be06caed84b"
         }
       ]
     },
@@ -1325,7 +1426,8 @@
       "locations": [
         "Dietikon",
         "Buchs ZH",
-        "Regensdorf"
+        "Regensdorf",
+        "Dübendorf"
       ],
       "jobs": [
         {
@@ -1355,12 +1457,30 @@
           "englishOk": false
         },
         {
+          "id": "5bb4bb28f615",
+          "title": "Carretillero/a 100 % en Buchs ZH",
+          "searchId": "lager",
+          "postedAt": "2026-11-10",
+          "location": "Buchs ZH",
+          "url": "https://www.manpower.ch/de/job/buchs/staplerfahrer-in-100-m-w-d-in-8107-buchs-zh/637405",
+          "englishOk": false
+        },
+        {
           "id": "50b45c62199a",
           "title": "Logista EFZ 100 %",
           "searchId": "lager",
           "postedAt": "2026-11-09",
           "location": "Regensdorf",
           "url": "https://www.manpower.ch/en/job/regensdorf/logistiker-efz-100-m-w-d-/625971",
+          "englishOk": false
+        },
+        {
+          "id": "c05c47ceb257",
+          "title": "Carretillero/a 80–100 %",
+          "searchId": "lager",
+          "postedAt": "2026-11-09",
+          "location": "Dübendorf",
+          "url": "https://www.manpower.ch/de/job/dubendorf/staplerfahrer-in-80-100-m-w-d-/626005",
           "englishOk": false
         }
       ]
@@ -1583,40 +1703,6 @@
       ]
     },
     {
-      "key": "academic work",
-      "name": "Academic Work",
-      "agency": true,
-      "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-12",
-      "searchIds": [
-        "junior-it",
-        "fullstack-ts"
-      ],
-      "locations": [
-        "Zürich"
-      ],
-      "jobs": [
-        {
-          "id": "8b1d7295fea3",
-          "title": "Soporte IT de 1.er nivel",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-12",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/it-1st-level-support-at-academic-work-4488516974",
-          "englishOk": false
-        },
-        {
-          "id": "38d269ba960b",
-          "title": "Ingeniero/a Rust – FinTech",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-06",
-          "location": "Zürich",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/154f36a4-fa7f-4d3d-907a-31506b75b003",
-          "englishOk": true
-        }
-      ]
-    },
-    {
       "key": "accenture",
       "name": "Accenture",
       "agency": false,
@@ -1791,29 +1877,6 @@
           "location": "Zürich",
           "url": "https://ch.linkedin.com/jobs/view/senior-web-developer-drupal-typo3-symfony-at-elca-group-4486058266",
           "englishOk": false
-        }
-      ]
-    },
-    {
-      "key": "employ me",
-      "name": "Employ Me AG",
-      "agency": true,
-      "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-12",
-      "searchIds": [
-        "lager"
-      ],
-      "locations": [
-        "Nänikon"
-      ],
-      "jobs": [
-        {
-          "id": "185a58443fb7",
-          "title": "Logístico/a EFZ, temporal (mín. CHF 33,44/h)",
-          "searchId": "lager",
-          "postedAt": "2026-11-12",
-          "location": "Nänikon",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/caabe926-54dd-44ac-8c46-7be06caed84b"
         }
       ]
     },
@@ -2928,6 +2991,29 @@
       ]
     },
     {
+      "key": "weisse arena",
+      "name": "Weisse Arena AG",
+      "agency": false,
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "searchIds": [
+        "temporada-invierno"
+      ],
+      "locations": [
+        "Laax GR"
+      ],
+      "jobs": [
+        {
+          "id": "0071baaf22ef",
+          "title": "Polivalente servicio/barra/cocina",
+          "searchId": "temporada-invierno",
+          "postedAt": "2026-11-11",
+          "location": "Laax GR",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/49c88d70-e96f-4973-ade1-a4fd74057634"
+        }
+      ]
+    },
+    {
       "key": "arztekasse genossenschaft",
       "name": "Ärztekasse Genossenschaft",
       "agency": false,
@@ -3440,6 +3526,30 @@
           "postedAt": "2026-11-10",
           "location": "Baar ZG",
           "url": "https://ch.linkedin.com/jobs/view/backend-developer-at-transferchain-4489442349",
+          "englishOk": true
+        }
+      ]
+    },
+    {
+      "key": "tschuggen collection",
+      "name": "Tschuggen Collection AG",
+      "agency": false,
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "searchIds": [
+        "temporada-invierno"
+      ],
+      "locations": [
+        "Arosa GR"
+      ],
+      "jobs": [
+        {
+          "id": "4f749f61a38b",
+          "title": "Cocinero/a de desayunos, temporada de invierno 2026/2027",
+          "searchId": "temporada-invierno",
+          "postedAt": "2026-11-10",
+          "location": "Arosa GR",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/8402cb92-8931-4e48-9f70-f05651c9b1b8",
           "englishOk": true
         }
       ]

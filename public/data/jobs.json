@@ -1,6 +1,124 @@
 {
-  "updatedAt": "2026-11-16T15:49:27.099Z",
+  "updatedAt": "2026-11-16T17:14:51.404Z",
   "jobs": [
+    {
+      "searchId": "lager",
+      "title": "Logistiker EFZ / Kommissionierer 100 % min. CHF 34.15 / Temporär",
+      "titleEs": "Logistiker/a EFZ / Preparador/a de pedidos 100 % (temporal)",
+      "company": "Employ Me AG",
+      "location": "Winterthur",
+      "postedAt": "2026-11-16",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/caebb86b-9944-4da4-97b6-235cd5736b89",
+      "summary": "Puesto temporal de larga duración como preparador/a de pedidos para producción en un fabricante de vehículos ferroviarios; lunes a viernes.",
+      "description": "Preparación de pedidos para producción y montaje, control de materiales con listas, gestión en sistema WMS/ERP, entradas de mercancía y carga/descarga con carretillas, siguiendo normas de calidad, seguridad y 5S.",
+      "requirements": [
+        "Formación Logistiker/a EFZ",
+        "Varios años de experiencia en picking, idealmente en producción industrial",
+        "Uso de WMS/ERP",
+        "Carnet de carretillero reconocido en Suiza"
+      ],
+      "workload": "100 %",
+      "employmentType": "Temporal",
+      "language": "Alemán bueno (oral y escrito)",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Logistiker EFZ / Kommissionierer 100 % min. CHF 34.15 / Temporär",
+        "summary": "Langfristiger Temporäreinsatz als Kommissionierer/in für die Produktion bei einem Schienenfahrzeug-Hersteller; Montag bis Freitag.",
+        "description": "Selbständige Kommissionierung für Produktions- und Rüstaufträge, Kontrolle von Material anhand von Listen, Erfassung im WMS/ERP, Wareneingang sowie Be- und Entladen mit Flurförderzeugen nach Qualitäts-, Sicherheits- und 5S-Standards.",
+        "requirements": [
+          "Abgeschlossene Lehre als Logistiker/in EFZ",
+          "Mehrjährige Kommissioniererfahrung, idealerweise in der Industrie",
+          "Sicherer Umgang mit WMS/ERP",
+          "In der Schweiz anerkannter Staplerausweis"
+        ],
+        "workload": "100 %",
+        "employmentType": "Temporär",
+        "language": "Gute Deutschkenntnisse in Wort und Schrift"
+      },
+      "salary": "CHF 34.15–39.00 / Stunde (brutto)",
+      "id": "a80a9bdb946f",
+      "foundAt": "2026-11-16T17:14:46.823Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Mitarbeiter Gefahrgut (w/m/d) 80 - 100%",
+      "titleEs": "Empleado/a de mercancías peligrosas 80–100 %",
+      "company": "Cargologic AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-16",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/321c258f-fd61-443f-8c87-df2e4d8370fd",
+      "summary": "Recepción y control de carga aérea, incluida mercancía peligrosa, en el aeropuerto de Zúrich; turnos escalonados.",
+      "description": "Aceptar y revisar carga aérea y mercancías peligrosas o especiales, controlar documentos, corregir envíos incompletos, registrar envíos en el sistema y atender a clientes internos y externos.",
+      "requirements": [
+        "Formación profesional en logística o equivalente",
+        "Experiencia inicial en mercancías peligrosas (ventaja)",
+        "Alemán e inglés buenos (oral y escrito)",
+        "Disponibilidad para turnos escalonados lunes–sábado"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán e inglés buenos",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Mitarbeiter Gefahrgut (w/m/d) 80 - 100%",
+        "summary": "Annahme und Kontrolle von Luftfracht inkl. Gefahrgut am Flughafen Zürich; versetzte Schichten.",
+        "description": "Annahme und Prüfung von Luftfracht inkl. Gefahr- und Sondergut, Kontrolle der Frachtpapiere, Korrektur unvollständiger Sendungen, Erfassung im System und Ansprechperson für interne und externe Kunden.",
+        "requirements": [
+          "Abgeschlossene Ausbildung in der Logistik oder gleichwertig",
+          "Erste Gefahrguterfahrung von Vorteil",
+          "Gute Deutsch- und Englischkenntnisse in Wort und Schrift",
+          "Bereitschaft zu versetzten Schichten Mo–Sa"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch und Englisch gut"
+      },
+      "id": "085094355102",
+      "foundAt": "2026-11-16T17:14:46.823Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistiker/in 60-80%",
+      "titleEs": "Logistiker/a 60–80 %",
+      "company": "Academic Work Switzerland SA",
+      "location": "Zürich",
+      "postedAt": "2026-11-16",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/8d4a45a5-66ec-45d6-b358-8eb72d84ca9b",
+      "summary": "Puesto de logística en un fabricante suizo B2B de hardware para almacenamiento de energía; gestión del almacén y envíos.",
+      "description": "Recibir y controlar entregas, contabilizar en ERP, preparar y embalar pedidos, coordinar con importación/exportación y transportistas, gestionar el almacén y hacer 1–2 inventarios al año.",
+      "requirements": [
+        "Logistiker EFZ o experiencia en logística industrial",
+        "Conocimientos de embalaje de exportación",
+        "ERP básico",
+        "Alemán fluido e inglés para albaranes"
+      ],
+      "workload": "60–80 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán fluido, inglés lectura",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Logistiker/in 60-80%",
+        "summary": "Logistikstelle bei einem Schweizer B2B-Hardwarehersteller für Energiespeicher; Lager- und Versandabläufe.",
+        "description": "Warenannahme und Kontrolle, Verbuchung im ERP, Kommissionierung und Verpackung, Koordination mit Import/Export und Spediteuren, eigenständige Lagerführung sowie ein bis zwei Inventuren pro Jahr.",
+        "requirements": [
+          "Logistiker EFZ oder Erfahrung in der Industrielogistik",
+          "Kenntnisse der Exportverpackungsvorschriften",
+          "Grundkenntnisse ERP",
+          "Fliessend Deutsch, gute Englischkenntnisse"
+        ],
+        "workload": "60–80 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch fliessend, Englisch gut"
+      },
+      "id": "7d296cd05d83",
+      "foundAt": "2026-11-16T17:14:46.823Z"
+    },
     {
       "searchId": "frontend-react",
       "title": "Staff Frontend Engineer - Trading Platform",
@@ -2888,6 +3006,44 @@
       "foundAt": "2026-11-12T10:00:08.920Z"
     },
     {
+      "searchId": "temporada-invierno",
+      "title": "Allrounder:in Service/Bar/Küche",
+      "titleEs": "Polivalente servicio/barra/cocina",
+      "company": "Weisse Arena AG",
+      "location": "Laax GR",
+      "postedAt": "2026-11-11",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/49c88d70-e96f-4973-ade1-a4fd74057634",
+      "summary": "Puesto polivalente en el restaurante Station Plaun / Steakhouse La Vacca (Laax); beneficios de personal como forfaits gratuitos.",
+      "description": "Apoyo en servicio, barra y cocina: ciabattas frescas, sopas del día y atención a clientes en el Steakhouse La Vacca.",
+      "requirements": [
+        "Motivación y espíritu de equipo",
+        "Experiencia, una ventaja",
+        "Buena comunicación",
+        "Flexibilidad"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "No indicado",
+      "seniority": "junior",
+      "de": {
+        "title": "Allrounder:in Service/Bar/Küche",
+        "summary": "Allrounder im Restaurant Station Plaun / Steakhouse La Vacca in Laax; Mitarbeitervorteile wie freie Bergbahnfahrten.",
+        "description": "Unterstützung in Service, Bar und Küche: frische Ciabatta-Variationen, wechselnde Suppen und Gästebetreuung im Steakhouse La Vacca.",
+        "requirements": [
+          "Motivation und Teamgeist",
+          "Erfahrung von Vorteil",
+          "Gute Kommunikationsfähigkeit",
+          "Flexibilität"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Nicht angegeben"
+      },
+      "id": "0071baaf22ef",
+      "foundAt": "2026-11-16T17:14:46.823Z"
+    },
+    {
       "searchId": "fullstack-ts",
       "title": "Senior Software Engineer - MAAS",
       "titleEs": "Ingeniero/a de software senior - MAAS",
@@ -3989,6 +4145,84 @@
       "foundAt": "2026-11-12T07:02:24.394Z"
     },
     {
+      "searchId": "lager",
+      "title": "Staplerfahrer/-in 100% (m/w/d) in 8107 Buchs ZH",
+      "titleEs": "Carretillero/a 100 % en Buchs ZH",
+      "company": "Manpower AG",
+      "location": "Buchs ZH",
+      "postedAt": "2026-11-10",
+      "source": "manpower.ch",
+      "url": "https://www.manpower.ch/de/job/buchs/staplerfahrer-in-100-m-w-d-in-8107-buchs-zh/637405",
+      "summary": "Puesto de carretillero/a en Buchs ZH, horario fijo lunes a viernes 07:30–17:30, incorporación inmediata.",
+      "description": "Almacenar mercancía con carretillas, preparar productos para envío, cargar camiones y tareas generales de expedición.",
+      "requirements": [
+        "Varios años de experiencia en logística",
+        "Carnet de carretillero reconocido por SUVA",
+        "Buena condición física",
+        "Alemán oral bueno"
+      ],
+      "workload": "100 %",
+      "employmentType": "Temporal (posible contrato fijo)",
+      "language": "Alemán oral bueno",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Staplerfahrer/-in 100% (m/w/d) in 8107 Buchs ZH",
+        "summary": "Staplerfahrer/in in Buchs ZH, fixe Arbeitszeiten Mo–Fr 07:30–17:30, Eintritt per sofort.",
+        "description": "Einlagerung mit Schub- und Gegengewichtsstapler, Bereitstellen für den Versand, LKW-Verlad und allgemeine Speditionsarbeiten.",
+        "requirements": [
+          "Mehrjährige Logistikerfahrung",
+          "Gültiger SUVA-anerkannter Staplerausweis",
+          "Körperliche Belastbarkeit",
+          "Gute Deutschkenntnisse in Wort"
+        ],
+        "workload": "100 %",
+        "employmentType": "Temporär (Option auf Festanstellung)",
+        "language": "Gutes Deutsch mündlich"
+      },
+      "id": "5bb4bb28f615",
+      "foundAt": "2026-11-16T17:14:46.823Z"
+    },
+    {
+      "searchId": "temporada-invierno",
+      "title": "Frühstückskoch (m/w/d) Wintersaison 2026/2027",
+      "titleEs": "Cocinero/a de desayunos, temporada de invierno 2026/2027",
+      "company": "Tschuggen Collection AG",
+      "location": "Arosa GR",
+      "postedAt": "2026-11-10",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/8402cb92-8931-4e48-9f70-f05651c9b1b8",
+      "summary": "Cocinero/a de desayunos en el Tschuggen Grand Hotel (5★ Superior), contrato hasta finales de marzo de 2027; alojamiento para empleados cerca del hotel.",
+      "description": "Preparar el mise en place del servicio de desayuno, cocinar platos calientes de desayuno, mantener el puesto limpio y cumplir los estándares HACCP.",
+      "requirements": [
+        "Formación profesional (ventaja)",
+        "Experiencia deseable, sobre todo en hoteles de 4/5 estrellas",
+        "Alemán o inglés fluido",
+        "Cuidado de la higiene"
+      ],
+      "workload": "100 %",
+      "employmentType": "Temporada (hasta fin de marzo 2027)",
+      "language": "Alemán o inglés fluido",
+      "englishOk": true,
+      "seniority": "junior",
+      "de": {
+        "title": "Frühstückskoch (m/w/d) Wintersaison 2026/2027",
+        "summary": "Frühstückskoch im Tschuggen Grand Hotel (5* Superior), befristet bis Ende März 2027; Mitarbeiterunterkunft in Hotelnähe.",
+        "description": "Tägliches Mise en Place für den Frühstücksservice, Zubereitung warmer Frühstücksgerichte, Posten sauber halten, HACCP-Standards einhalten.",
+        "requirements": [
+          "Abgeschlossene Berufslehre (von Vorteil)",
+          "Berufserfahrung erwünscht, v. a. in 4/5-Stern-Häusern",
+          "Fliessende Deutsch- oder Englischkenntnisse",
+          "Sorgfalt bei Hygienestandards"
+        ],
+        "workload": "100 %",
+        "employmentType": "Saison (bis Ende März 2027)",
+        "language": "Deutsch oder Englisch fliessend"
+      },
+      "id": "4f749f61a38b",
+      "foundAt": "2026-11-16T17:14:46.823Z"
+    },
+    {
       "searchId": "fullstack-ts",
       "title": "Backend Engineer - Integration Platform",
       "titleEs": "Ingeniero/a Backend - plataforma de integración",
@@ -5053,6 +5287,45 @@
         "employmentType": "Festanstellung",
         "language": "Gute Deutschkenntnisse"
       }
+    },
+    {
+      "searchId": "lager",
+      "title": "Staplerfahrer/-in 80-100% (m/w/d)",
+      "titleEs": "Carretillero/a 80–100 %",
+      "company": "Manpower AG",
+      "location": "Dübendorf",
+      "postedAt": "2026-11-09",
+      "source": "manpower.ch",
+      "url": "https://www.manpower.ch/de/job/dubendorf/staplerfahrer-in-80-100-m-w-d-/626005",
+      "summary": "Puesto temporal de carretillero/a en almacén: almacenaje, preparación de envíos y carga de camiones.",
+      "description": "Almacenar mercancía con carretillas, preparar productos para envío, cargar camiones, revisar y tramitar documentos de entrega y tareas generales de expedición.",
+      "requirements": [
+        "Varios años de experiencia en logística",
+        "Carnet de carretillero reconocido por SUVA",
+        "Buena condición física",
+        "Disponibilidad para turnos"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Temporal",
+      "language": "Alemán bueno",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Staplerfahrer/-in 80-100% (m/w/d)",
+        "summary": "Temporäre Stelle als Staplerfahrer/in: Einlagerung, Kommissionierung und LKW-Verlad.",
+        "description": "Fachgerechte Einlagerung mit Schub- und Gegengewichtsstapler, Bereitstellen von Waren für den Versand, LKW-Verlad, Prüfen und Bearbeiten von Lieferpapieren sowie allgemeine Speditionsarbeiten.",
+        "requirements": [
+          "Mehrjährige Logistikerfahrung",
+          "Gültiger SUVA-anerkannter Staplerausweis",
+          "Körperliche Belastbarkeit",
+          "Schichtbereitschaft"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Temporär",
+        "language": "Gute Deutschkenntnisse"
+      },
+      "id": "c05c47ceb257",
+      "foundAt": "2026-11-16T17:14:46.823Z"
     },
     {
       "searchId": "fullstack-ts",
