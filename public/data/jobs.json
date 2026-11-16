@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-11-15T07:14:04.871Z",
+  "updatedAt": "2026-11-16T06:17:50.470Z",
   "jobs": [
+    {
+      "searchId": "fullstack-ts",
+      "title": "Software-Ingenieur (m/w/d)",
+      "titleEs": "Ingeniero/a de software",
+      "company": "Schlatter Industries AG",
+      "location": "Schlieren",
+      "postedAt": "2026-11-15",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/35c74a9f-c16f-4f1a-a155-258d542711fb",
+      "summary": "Puesto de ingeniería de software en Schlieren. Datos tomados del listado de jobs.ch.",
+      "de": {
+        "title": "Software-Ingenieur (m/w/d)",
+        "summary": "Stelle als Software-Ingenieur in Schlieren. Angaben aus der jobs.ch-Liste."
+      },
+      "id": "70ac4d4cde3c",
+      "foundAt": "2026-11-16T06:17:50.470Z"
+    },
+    {
+      "searchId": "frontend-react",
+      "title": "Webdesigner / Webentwickler WordPress & Shopware 60-100% (w/m/d)",
+      "titleEs": "Diseñador/a web / Desarrollador/a web WordPress y Shopware",
+      "company": "Fresh Interactive AG",
+      "location": "Uster ZH",
+      "postedAt": "2026-11-15",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/webdesigner-webentwickler-wordpress-shopware-60-100%25-w-m-d-at-fresh-interactive-ag-4489375760",
+      "summary": "Puesto de desarrollo web con WordPress y Shopware en Uster (60–100 %). Datos tomados del listado de LinkedIn.",
+      "workload": "60–100 %",
+      "de": {
+        "title": "Webdesigner / Webentwickler WordPress & Shopware 60-100% (w/m/d)",
+        "summary": "Webentwicklung mit WordPress und Shopware in Uster (60–100 %). Angaben aus der LinkedIn-Liste.",
+        "workload": "60–100 %"
+      },
+      "id": "ccb07f673459",
+      "foundAt": "2026-11-16T06:17:50.470Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior Full Stack Developer (m/w/d) 50-100%",
+      "titleEs": "Desarrollador/a Full Stack senior",
+      "company": "Swissprime Technologies AG",
+      "location": "Horgen ZH",
+      "postedAt": "2026-11-15",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/senior-full-stack-developer-m-w-d-50-100%25-at-swissprime-technologies-ag-4489392548",
+      "summary": "Puesto full stack senior en Horgen (50–100 %). Datos tomados del listado de LinkedIn.",
+      "workload": "50–100 %",
+      "seniority": "senior",
+      "de": {
+        "title": "Senior Full Stack Developer (m/w/d) 50-100%",
+        "summary": "Senior-Fullstack-Stelle in Horgen (50–100 %). Angaben aus der LinkedIn-Liste.",
+        "workload": "50–100 %"
+      },
+      "id": "41dad4e25f95",
+      "foundAt": "2026-11-16T06:17:50.470Z"
+    },
     {
       "searchId": "reinigung-flughafen",
       "title": "Reinigung",
@@ -5006,59 +5062,6 @@
       "foundAt": "2026-11-12T11:44:58.393Z"
     },
     {
-      "searchId": "kueche",
-      "title": "Hilfskoch/Hilfsköchin 100%",
-      "titleEs": "Ayudante de cocina 100%",
-      "company": "Hiltl",
-      "location": "Zürich ZH",
-      "postedAt": "2026-11-08",
-      "source": "linkedin.com/jobs",
-      "url": "https://ch.linkedin.com/jobs/view/4485808785",
-      "summary": "Puesto de ayudante de cocina al 100% en Hiltl, Zúrich.",
-      "de": {
-        "title": "Hilfskoch/Hilfsköchin 100%",
-        "summary": "Stelle als Hilfskoch/Hilfsköchin 100% bei Hiltl in Zürich."
-      },
-      "workload": "100 %",
-      "id": "60b44b62a3e9",
-      "foundAt": "2026-11-15T07:14:04.871Z"
-    },
-    {
-      "searchId": "kueche",
-      "title": "Küche (d/w/m)",
-      "titleEs": "Cocina (ayudante)",
-      "company": "Tenz Momo",
-      "location": "Zürich (Langstrasse) ZH",
-      "postedAt": "2026-11-08",
-      "source": "linkedin.com/jobs",
-      "url": "https://ch.linkedin.com/jobs/view/4486410552",
-      "summary": "Puesto en la cocina de Tenz Momo, Langstrasse, Zúrich.",
-      "de": {
-        "title": "Küche (d/w/m)",
-        "summary": "Stelle in der Küche bei Tenz Momo an der Langstrasse in Zürich."
-      },
-      "id": "e9b3ea86f68a",
-      "foundAt": "2026-11-15T07:14:04.871Z"
-    },
-    {
-      "searchId": "hotel",
-      "title": "Room Attendant 80-100% (all genders)",
-      "titleEs": "Room attendant 80-100%",
-      "company": "The Living Circle",
-      "location": "Zürich ZH",
-      "postedAt": "2026-11-08",
-      "source": "linkedin.com/jobs",
-      "url": "https://ch.linkedin.com/jobs/view/4488135280",
-      "summary": "Puesto de room attendant al 80-100% en Zúrich.",
-      "de": {
-        "title": "Room Attendant 80-100% (all genders)",
-        "summary": "Room-Attendant-Stelle 80-100% in Zürich."
-      },
-      "workload": "80–100 %",
-      "id": "eed1ce75a572",
-      "foundAt": "2026-11-15T07:14:04.871Z"
-    },
-    {
       "searchId": "fullstack-ts",
       "title": "Senior Software Engineer, Engineering Productivity",
       "titleEs": "Ingeniero/a de software senior, productividad de ingeniería",
@@ -5094,42 +5097,6 @@
       "seniority": "intern",
       "id": "e57a182b35f6",
       "foundAt": "2026-11-15T06:20:08.663Z"
-    },
-    {
-      "searchId": "reinigung-flughafen",
-      "title": "Fachperson Reinigung (a), 80-100%",
-      "titleEs": "Especialista de limpieza 80-100%",
-      "company": "Stiftung Werkheim Uster",
-      "location": "Uster",
-      "postedAt": "2026-11-08",
-      "source": "jobs.ch",
-      "url": "https://www.jobs.ch/de/stellenangebote/detail/8c043bfd-88d0-4189-9a1b-5499d7661d9d",
-      "summary": "Puesto de limpieza en la fundación Werkheim Uster.",
-      "de": {
-        "title": "Fachperson Reinigung (a), 80-100%",
-        "summary": "Reinigungsstelle bei der Stiftung Werkheim Uster.",
-        "workload": "80–100 %"
-      },
-      "workload": "80–100 %",
-      "id": "4a4e3572561d",
-      "foundAt": "2026-11-14T07:15:53.588Z"
-    },
-    {
-      "searchId": "kueche",
-      "title": "Haushalts- und Küchenhilfe",
-      "titleEs": "Ayudante de hogar y cocina",
-      "company": "Stadt Bülach",
-      "location": "Bülach",
-      "postedAt": "2026-11-08",
-      "source": "jobs.ch",
-      "url": "https://www.jobs.ch/de/stellenangebote/detail/39be75da-4916-45cd-871c-88056eae0a26",
-      "summary": "Puesto de ayuda doméstica y de cocina en la ciudad de Bülach.",
-      "de": {
-        "title": "Haushalts- und Küchenhilfe",
-        "summary": "Stelle als Haushalts- und Küchenhilfe bei der Stadt Bülach."
-      },
-      "id": "384f04e4a1fc",
-      "foundAt": "2026-11-14T07:15:53.588Z"
     },
     {
       "searchId": "qa-test",
@@ -5210,152 +5177,6 @@
       "searchId": "junior-it",
       "id": "050e5b9dd064",
       "foundAt": "2026-11-12T20:17:38.597Z"
-    },
-    {
-      "searchId": "lager",
-      "title": "Mitarbeiter:in Lager / Logistiker:in",
-      "titleEs": "Mozo de almacén / Logístico/a",
-      "company": "Zweifel Weine & Getränke AG",
-      "location": "Volketswil",
-      "postedAt": "2026-11-08",
-      "source": "jobs.ch",
-      "url": "https://www.jobs.ch/de/stellenangebote/detail/dea504d9-0841-47e8-b8df-15e3b4d1db54",
-      "summary": "Puesto fijo al 100 % en almacén de bebidas en Volketswil: preparación de pedidos, carga y descarga, gestión de envases retornables.",
-      "description": "Preparación de pedidos de bebidas, gestión del almacén y control de entradas y salidas, carga y descarga de camiones, recogida y clasificación de envases retornables, ayuda en inventarios y trabajos generales de almacén y limpieza. Turno de 11:00 a 22:00.",
-      "requirements": [
-        "Experiencia en logística (Logistiker EFZ es una ventaja; comercio de bebidas, una ventaja)",
-        "Carnet de carretillero (Staplerausweis)",
-        "Buen alemán hablado y escrito",
-        "Buena condición física, flexibilidad horaria"
-      ],
-      "workload": "100 %",
-      "employmentType": "Contrato fijo",
-      "language": "Alemán fluido",
-      "de": {
-        "title": "Mitarbeiter:in Lager / Logistiker:in",
-        "summary": "Festanstellung 100 % im Getränkelager in Volketswil: Kommissionieren, Verladen und Leergutrücknahme.",
-        "description": "Kommissionierung des Getränkesortiments, Lagerbewirtschaftung und Kontrolle von Wareneingang/-ausgang, Be- und Entladen von LKW, Rücknahme und Sortierung von Leergut, Mithilfe bei Inventuren sowie allgemeine Lager- und Reinigungsarbeiten. Schichtarbeit von 11:00 bis 22:00 Uhr.",
-        "requirements": [
-          "Logistikerfahrung (Logistiker EFZ von Vorteil, Getränkehandel von Vorteil)",
-          "Staplerausweis",
-          "Gutes Deutsch in Wort und Schrift",
-          "Gute körperliche Verfassung, zeitliche Flexibilität"
-        ],
-        "workload": "100 %",
-        "employmentType": "Festanstellung",
-        "language": "Deutsch fliessend"
-      },
-      "id": "24c7b4b2a4f4",
-      "foundAt": "2026-11-12T11:44:58.393Z"
-    },
-    {
-      "searchId": "lager",
-      "title": "Lagerist:in",
-      "titleEs": "Almacenista (Lagerist/a)",
-      "company": "Livique",
-      "location": "Zürich",
-      "postedAt": "2026-11-08",
-      "source": "LinkedIn",
-      "url": "https://ch.linkedin.com/jobs/view/4479655549",
-      "summary": "Almacenista fijo al 80–100 % en Livique (Zúrich): recepción de mercancías, almacenaje y preparación de pedidos.",
-      "description": "Gestión de la entrada de mercancías, descarga de contenedores, desembalaje con recuento y control de calidad, almacenaje y preparación de pedidos, y apoyo en ventas.",
-      "requirements": [
-        "Experiencia en logística (una ventaja)",
-        "Conocimiento del sector",
-        "Carnet de carretillero (Staplerschein)",
-        "Buen alemán",
-        "Flexibilidad horaria y gusto por el trabajo en equipo"
-      ],
-      "workload": "80–100 %",
-      "employmentType": "Contrato indefinido",
-      "language": "Alemán bueno",
-      "de": {
-        "title": "Lagerist:in",
-        "summary": "Unbefristete Stelle als Lagerist:in 80–100 % bei Livique in Zürich: Wareneingang, Lagerung und Kommissionierung.",
-        "description": "Wareneingang bearbeiten, Container entladen, Waren auspacken sowie zählen und auf Qualität prüfen, Einlagern und Bestellungen kommissionieren, Unterstützung im Verkauf.",
-        "requirements": [
-          "Logistikerfahrung von Vorteil",
-          "Branchenkenntnisse",
-          "Staplerschein",
-          "Gute Deutschkenntnisse",
-          "Zeitliche Flexibilität und Freude an Teamarbeit"
-        ],
-        "workload": "80–100 %",
-        "employmentType": "Unbefristet",
-        "language": "Gutes Deutsch"
-      },
-      "id": "03c36056754b",
-      "foundAt": "2026-11-12T11:44:58.393Z"
-    },
-    {
-      "searchId": "lager",
-      "title": "Lager-Mitarbeiter (M/W/D) für unser Hauptlager in Dietikon (100%)",
-      "titleEs": "Mozo de almacén para el almacén principal en Dietikon (100 %)",
-      "company": "K. Lee Trading GmbH",
-      "location": "Dietikon",
-      "postedAt": "2026-11-08",
-      "source": "LinkedIn",
-      "url": "https://ch.linkedin.com/jobs/view/4486698125",
-      "summary": "Puesto al 100 % en el almacén principal de Dietikon: recepción y envío de mercancías, preparación de pedidos online y entregas.",
-      "description": "Entrega de mercancías a tiendas YumiHana (Berna, Basilea, Zúrich) y a clientes empresariales, recepción y expedición, gestión general de existencias, descarga de contenedores, eliminación de residuos, preparación, embalaje y envío de pedidos online.",
-      "requirements": [
-        "Carnet de conducir categoría B",
-        "Disponibilidad para turno de mañana desde las 06:00",
-        "Buena condición física",
-        "Experiencia en almacén o logística (deseable)",
-        "Buen alemán hablado y escrito; francés una ventaja"
-      ],
-      "workload": "100 %",
-      "language": "Alemán bueno, francés una ventaja",
-      "de": {
-        "title": "Lager-Mitarbeiter (M/W/D) für unser Hauptlager in Dietikon (100%)",
-        "summary": "100-%-Stelle im Hauptlager in Dietikon: Warenein- und -ausgang, Online-Bestellungen und Auslieferungen.",
-        "description": "Auslieferung von Waren an YumiHana-Filialen (Bern, Basel, Zürich) und Geschäftskunden, Warenannahme und -versand, allgemeine Lagerhaltung, Container entladen, Abfallentsorgung, Kommissionieren, Verpacken und Versenden von Online-Bestellungen.",
-        "requirements": [
-          "Führerschein Kategorie B",
-          "Bereitschaft zu Frühschicht ab 06:00 Uhr",
-          "Gute körperliche Fitness",
-          "Lager- oder Logistikerfahrung ideal",
-          "Gutes Deutsch in Wort und Schrift; Französisch von Vorteil"
-        ],
-        "workload": "100 %",
-        "language": "Gutes Deutsch, Französisch von Vorteil"
-      },
-      "id": "5d721933bc5c",
-      "foundAt": "2026-11-12T11:44:58.393Z"
-    },
-    {
-      "searchId": "reinigung-flughafen",
-      "title": "Reinigungskraft 60-100% im Stundenlohn",
-      "titleEs": "Personal de limpieza 60–100 % (por horas)",
-      "company": "Hiltl",
-      "location": "Zürich",
-      "postedAt": "2026-11-08",
-      "source": "LinkedIn",
-      "url": "https://ch.linkedin.com/jobs/view/4486691383",
-      "summary": "Limpieza en el restaurante Hiltl de Zúrich (cocina, zona de lavado, cámaras y oficinas), pago por horas.",
-      "description": "Limpiar la zona de lavado, cocina, cámaras frigoríficas, almacenes y oficinas, respetar normas de higiene y seguridad (HACCP), manejar máquinas de limpieza pequeñas y ayudar a recoger mesas en el servicio cuando haga falta.",
-      "requirements": [
-        "Al menos un año de experiencia en limpieza",
-        "Alemán básico (A2/B1)"
-      ],
-      "workload": "60–100 %",
-      "employmentType": "Pago por horas",
-      "language": "Alemán A2/B1",
-      "de": {
-        "title": "Reinigungskraft 60-100% im Stundenlohn",
-        "summary": "Reinigung im Restaurant Hiltl in Zürich (Küche, Abwaschbereich, Kühlräume, Büros), Stundenlohn.",
-        "description": "Reinigung von Abwaschbereich, Küche, Kühlräumen, Lagerräumen und Büros, Einhaltung von Hygiene- und Sicherheitsstandards (HACCP), Bedienung kleinerer Reinigungsmaschinen, bei Bedarf Tische abräumen im Service.",
-        "requirements": [
-          "Mindestens ein Jahr Reinigungserfahrung",
-          "Grundkenntnisse Deutsch (A2/B1)"
-        ],
-        "workload": "60–100 %",
-        "employmentType": "Stundenlohn",
-        "language": "Deutsch A2/B1"
-      },
-      "id": "7f6f936f7662",
-      "foundAt": "2026-11-12T11:44:58.393Z"
     },
     {
       "searchId": "junior-it",
@@ -7861,81 +7682,6 @@
         "employmentType": "Festanstellung"
       },
       "id": "fd7c9fabf0c3",
-      "foundAt": "2026-11-12T15:20:33.966Z"
-    },
-    {
-      "searchId": "qa-test",
-      "title": "QA Engineer – Mobile Testing",
-      "titleEs": "Ingeniero/a QA – pruebas móviles",
-      "company": "Specialized Bicycle Components",
-      "location": "Cham ZG",
-      "postedAt": "2026-11-01",
-      "source": "linkedin.com/jobs",
-      "url": "https://ch.linkedin.com/jobs/view/qa-engineer-%E2%80%93-mobile-testing-at-specialized-bicycle-components-4419855030",
-      "summary": "Puesto de QA centrado en pruebas móviles en Cham. (Datos tomados del listado; sin detalle ampliado.)",
-      "de": {
-        "title": "QA Engineer – Mobile Testing",
-        "summary": "QA Engineer mit Fokus Mobile Testing in Cham."
-      },
-      "id": "71f3c75e9ce9",
-      "foundAt": "2026-11-15T06:20:08.663Z"
-    },
-    {
-      "searchId": "qa-test",
-      "title": "Senior Automation QA Engineer – Mobile Testing",
-      "titleEs": "Ingeniero/a QA de automatización senior – pruebas móviles",
-      "company": "Specialized Bicycle Components",
-      "location": "Cham ZG",
-      "postedAt": "2026-11-01",
-      "source": "linkedin.com/jobs",
-      "url": "https://ch.linkedin.com/jobs/view/senior-automation-qa-engineer-%E2%80%93-mobile-testing-at-specialized-bicycle-components-4419834911",
-      "summary": "Puesto senior de automatización QA para pruebas móviles en Cham. (Datos tomados del listado; sin detalle ampliado.)",
-      "de": {
-        "title": "Senior Automation QA Engineer – Mobile Testing",
-        "summary": "Senior Automation QA Engineer für Mobile Testing in Cham."
-      },
-      "seniority": "senior",
-      "id": "2d9b0fb9a271",
-      "foundAt": "2026-11-15T06:20:08.663Z"
-    },
-    {
-      "searchId": "qa-test",
-      "title": "Qualitätssicherungsingenieur (Quality Assurance Engineer)",
-      "titleEs": "Ingeniero/a de Aseguramiento de Calidad (QA)",
-      "company": "Crypto Finance AG",
-      "location": "Zürich",
-      "postedAt": "2026-11-01",
-      "source": "jobs.ch",
-      "url": "https://www.jobs.ch/de/stellenangebote/detail/6b082fe9-06d0-4177-b25d-3d0b63d2a057",
-      "summary": "Puesto en el equipo QA que prueba herramientas de gestión de órdenes, infraestructura y riesgo en un entorno ágil, con pruebas manuales y automatizadas.",
-      "description": "Participar en el equipo QA que prueba y coordina herramientas de gestión de órdenes, infraestructura y riesgo. Pruebas automatizadas y manuales, gestión del proceso de release, análisis de resultados y rendimiento, seguimiento de defectos y comunicación con desarrollo.",
-      "requirements": [
-        "Formación técnica y más de 2 años de programación (preferible Python)",
-        "Experiencia redactando planes y casos de prueba",
-        "Herramientas de gestión de pruebas (TestRail, Zephyr)",
-        "Automatización de UI (Selenium, Cypress o Playwright)",
-        "Jira y Confluence; ISTQB deseable"
-      ],
-      "workload": "100 %",
-      "employmentType": "Contrato fijo",
-      "language": "Alemán/inglés (el anuncio no especifica nivel)",
-      "seniority": "mid",
-      "de": {
-        "title": "Qualitätssicherungsingenieur (Quality Assurance Engineer)",
-        "summary": "Stelle im QA-Team, das Order-Management-, Infrastruktur- und Risk-Tools in einem agilen Umfeld testet, manuell und automatisiert.",
-        "description": "Mitarbeit im QA-Team, das Order-Management-, Infrastruktur- und Risk-Tools testet und koordiniert. Automatisierte und manuelle Tests, Release-Prozess, Analyse von Test- und Performance-Ergebnissen, Defect-Tracking und Austausch mit der Entwicklung.",
-        "requirements": [
-          "Technische Ausbildung und über 2 Jahre Programmiererfahrung (Python bevorzugt)",
-          "Erfahrung mit Testplänen und Testfällen",
-          "Testmanagement-Tools (TestRail, Zephyr)",
-          "UI-Automatisierung (Selenium, Cypress oder Playwright)",
-          "Jira und Confluence; ISTQB von Vorteil"
-        ],
-        "workload": "100 %",
-        "employmentType": "Festanstellung",
-        "language": "Deutsch/Englisch (Niveau nicht angegeben)"
-      },
-      "id": "cb699a88fd78",
       "foundAt": "2026-11-12T15:20:33.966Z"
     }
   ]
