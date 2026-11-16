@@ -1,100 +1,100 @@
 {
-  "updatedAt": "2026-11-15T07:14:04.871Z",
+  "updatedAt": "2026-11-16T07:21:48.026Z",
   "searches": {
     "lager": {
       "sources": {
         "jobs.ch": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Lagermitarbeiter&location=Z%C3%BCrich&sort-by=date",
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Lagermitarbeiter&location=Zürich&sort-by=date",
           "offersReviewed": 20,
-          "offersAdded": 0,
-          "note": "Keywords principales por búsqueda; solo página 1 de cada una (no se recorrieron todas las keywords ni páginas 2-3)."
+          "offersAdded": 5,
+          "note": "Buscado Lagermitarbeiter en Zürich y también Winterthur/Kloten y otros términos (Kommissionierer, Reinigung, Küche Abwasch, Zimmerreinigung…), página 1."
         },
         "linkedin.com/jobs": {
           "status": "ok",
           "url": "https://ch.linkedin.com/jobs/lagermitarbeiter-stellen-z%C3%BCrich",
           "offersReviewed": 60,
-          "offersAdded": 0,
-          "note": "Keywords principales por búsqueda; solo página 1 de cada una (no se recorrieron todas las keywords ni páginas 2-3)."
+          "offersAdded": 2,
+          "note": "Página pública de LinkedIn (60 resultados, últimos días), solo Zürich; páginas siguientes piden login."
         },
         "jobscout24.ch": {
           "status": "ok",
-          "url": "https://www.jobscout24.ch/de/jobs/reinigung/z%C3%BCrich/",
-          "offersReviewed": 0,
+          "url": "https://www.jobscout24.ch/de/jobs/lagermitarbeiter/zürich/",
+          "offersReviewed": 20,
           "offersAdded": 0,
-          "note": "La búsqueda devuelve 0 resultados (Lagermitarbeiter, Reinigung, Küchenhilfe, Housekeeping en Zürich); otras keywords no probadas."
+          "note": "Su buscador devolvió 0 resultados para los términos con \"/zürich\" (y 289 genéricos para \"Lager\" sin ofertas de la zona con fecha válida). Sin ofertas nuevas válidas."
         },
         "join.com": {
           "status": "ok",
           "url": "https://join.com/companies/cosmopolitan-apartments",
-          "offersReviewed": 1,
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "WebSearch site:join.com devolvió solo Cosmopolitan Apartments (Reinigungsfachkraft Zürich); su página no trae fecha, descartada. Otras empresas no descubiertas."
+          "note": "WebSearch por zona/términos; solo apareció Cosmopolitan Apartments AG (Reinigungsfachkraft, publicada 2025: caducada). Sin ofertas recientes."
         }
       },
       "companies": {
         "Express Personal AG": {
           "status": "ok",
-          "url": "https://www.expresspersonal.ch/fur-stellensuchende/jobsuche/",
-          "offersReviewed": 10,
+          "url": "https://www.expresspersonal.ch/de/jobs",
+          "offersReviewed": 20,
           "offersAdded": 0,
-          "note": "Lista de 10; categorías sin Lager/Reinigung/Küche/Hotel en Zürich (las vistas eran de Bern/Olten/Sissach)."
+          "note": "Listado revisado: sin ofertas de Lager/Reinigung/Küche/Hotel en Zürich (solo Reinigung en Olten y Bern)."
         },
         "Coople": {
           "status": "ok",
-          "url": "https://www.coople.com/ch/jobs/de/",
-          "offersReviewed": 30,
+          "url": "https://www.coople.com/ch/en/jobs",
+          "offersReviewed": 12,
           "offersAdded": 0,
-          "note": "Portada con 30 ofertas, sin buscador por palabra clave visible en lo leído; añadida 1 limpieza Zürich."
+          "note": "Listado de \"Latest jobs\" del cantón de Zürich revisado (turnos de hoy). Añadido el Rüstlager de Volketswil en lager; resto no encajaba."
         },
         "Adecco": {
           "status": "error",
-          "url": "https://www.adecco.com/de-ch/jobs?keywords=Lager&location=Z%C3%BCrich",
+          "url": "https://www.adecco.com/de-ch/jobsuche?jobTitle=lagerist",
           "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "adecco.com/de-ch/jobs?keywords=... -> 404; WebSearch solo devolvió anuncios antiguos de agregadores; en jobs.ch (term=Adecco) solo salió Ramp Agent Flughafen de hace 2 semanas, fuera de las keywords."
+          "note": "adecco.ch redirige a adecco.com/de-ch; /de-ch/jobsuche?jobTitle=lagerist y /de-ch/stellen/logistik-transport-produktion cargan sin listado (se genera por JavaScript)."
         },
         "Manpower": {
           "status": "error",
-          "url": "https://www.manpower.ch/de/jobs",
+          "url": "https://www.manpower.ch/fr/recherche/ville",
           "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "manpower.ch/de/jobs y /de/jobs?query=... -> 404; jobs.ch term=Manpower Lager -> 0. Las ofertas Manpower ya guardadas vienen de revisiones anteriores."
+          "note": "manpower.ch/de/jobs dio 404; manpower.ch/fr/recherche/ville no muestra ofertas (solo enlaces). WebSearch solo dio anuncios antiguos."
         },
         "Randstad": {
           "status": "ok",
-          "url": "https://www.randstad.ch/jobs/s-lager/zuerich/",
-          "offersReviewed": 46,
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Lager&location=Winterthur&sort-by=date",
+          "offersReviewed": 5,
           "offersAdded": 0,
-          "note": "Lager (30 de 105 vistas) y Reinigung (16). Ofertas añadidas en lager y reinigung (las de Randstad ya guardadas no se repiten)."
+          "note": "randstad.com/jobs/... dio 0 resultados; revisadas sus ofertas publicadas en jobs.ch: añadidas 2 de Winterthur (lager)."
         },
         "Kelly Services": {
           "status": "not_found",
           "url": "https://www.kellyocg.com/",
           "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "kellyservices.ch redirige a kellyocg.com, que solo enlaza regiones sin Suiza ni buscador de empleo para Suiza."
+          "note": "kellyservices.ch redirige a kellyocg.com, que no tiene buscador de empleo de Suiza ni ofertas."
         },
         "Interiman Group": {
-          "status": "error",
-          "url": "https://www.albedis.com/recherche-offres-emploi/",
-          "offersReviewed": 0,
+          "status": "ok",
+          "url": "https://www.albedis.com/de/stellensuche/",
+          "offersReviewed": 4,
           "offersAdded": 0,
-          "note": "interiman.ch redirige a albedis.com; su portada solo mostró ofertas de Vaud/Genève; no se abrió el buscador filtrado por Zürich."
+          "note": "interiman.ch redirige a Albedis; Neueste Stellen solo de Verkauf/Finanzas/Gebäudetechnik en Zürich. Sin ofertas del sector."
         },
         "Persona Service": {
-          "status": "ok",
-          "url": "https://persona-ch.onlyfy.jobs/",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "https://www.persona.ch/de/jobs",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Portal onlyfy leído: 10 de 18 ofertas, ninguna de las 4 categorías en Zürich."
+          "note": "persona.ch/de/jobs dio 404; WebSearch solo devolvió anuncios antiguos de jobup (2025)."
         },
         "Gi Group": {
           "status": "ok",
           "url": "https://ch.gigroup.com/job-offers/",
           "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Solo 1 oferta (Visp), ninguna en Zürich."
+          "note": "Solo 1 oferta visible (QA en Visp); sin ofertas de la zona de Zürich."
         }
       }
     },
@@ -102,124 +102,124 @@
       "sources": {
         "jobs.ch": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Lagermitarbeiter&location=Z%C3%BCrich&sort-by=date",
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Reinigungskraft&location=Zürich&sort-by=date",
           "offersReviewed": 20,
-          "offersAdded": 0,
-          "note": "Keywords principales por búsqueda; solo página 1 de cada una (no se recorrieron todas las keywords ni páginas 2-3)."
+          "offersAdded": 3,
+          "note": "Buscado Reinigungskraft/Kabinenreinigung en Zürich y también Winterthur/Kloten y otros términos (Kommissionierer, Reinigung, Küche Abwasch, Zimmerreinigung…), página 1."
         },
         "linkedin.com/jobs": {
           "status": "ok",
-          "url": "https://ch.linkedin.com/jobs/lagermitarbeiter-stellen-z%C3%BCrich",
+          "url": "https://ch.linkedin.com/jobs/reinigungskraft-stellen-z%C3%BCrich",
           "offersReviewed": 60,
-          "offersAdded": 0,
-          "note": "Keywords principales por búsqueda; solo página 1 de cada una (no se recorrieron todas las keywords ni páginas 2-3)."
+          "offersAdded": 1,
+          "note": "Página pública de LinkedIn (60 resultados, últimos días), solo Zürich; páginas siguientes piden login."
         },
         "jobscout24.ch": {
           "status": "ok",
-          "url": "https://www.jobscout24.ch/de/jobs/reinigung/z%C3%BCrich/",
-          "offersReviewed": 0,
+          "url": "https://www.jobscout24.ch/de/jobs/lagermitarbeiter/zürich/",
+          "offersReviewed": 20,
           "offersAdded": 0,
-          "note": "La búsqueda devuelve 0 resultados (Lagermitarbeiter, Reinigung, Küchenhilfe, Housekeeping en Zürich); otras keywords no probadas."
+          "note": "Su buscador devolvió 0 resultados para los términos con \"/zürich\" (y 289 genéricos para \"Lager\" sin ofertas de la zona con fecha válida). Sin ofertas nuevas válidas."
         },
         "join.com": {
           "status": "ok",
           "url": "https://join.com/companies/cosmopolitan-apartments",
-          "offersReviewed": 1,
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "WebSearch site:join.com devolvió solo Cosmopolitan Apartments (Reinigungsfachkraft Zürich); su página no trae fecha, descartada. Otras empresas no descubiertas."
+          "note": "WebSearch por zona/términos; solo apareció Cosmopolitan Apartments AG (Reinigungsfachkraft, publicada 2025: caducada). Sin ofertas recientes."
         }
       },
       "companies": {
         "Vebego AG": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Vebego&location=Z%C3%BCrich&sort-by=date",
-          "offersReviewed": 17,
+          "status": "error",
+          "url": "https://www.vebego.ch/de/karriere/",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "vebego.ch/karriere -> 404; revisadas 17 ofertas Vebego en jobs.ch; las de Flugzeugreinigung tienen \"hace 2 semanas\" (sin fecha fiable) y se descartaron."
+          "note": "vebego.ch/de/karriere dio 404; WebSearch dio anuncios sin fecha fiable de Flugzeugreinigung (no verificables)."
         },
         "ISS Facility Services": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Reinigung&location=Z%C3%BCrich&sort-by=date",
+          "url": "https://www.ch.issworld.com/de-ch/karriere/offene-stellen",
           "offersReviewed": 6,
           "offersAdded": 0,
-          "note": "Ofertas ISS vistas en jobs.ch/LinkedIn (Kabinenreiniger, Teamleiter) ya estaban guardadas; sin web propia consultada."
+          "note": "Su portal carga por JavaScript; revisadas sus ofertas publicadas en jobs.ch y LinkedIn: añadida Kabinenreiniger Kloten (reinigung). Housekeeping Altstetten tiene 3 semanas, Teamleiter no encaja."
         },
         "Gate Group": {
-          "status": "not_found",
-          "url": "https://www.myjob.ch/job/head-of-procurement-switzerland-m-f-d/2471232",
+          "status": "error",
+          "url": "https://gategroup.wd3.myworkdayjobs.com/GateGroup_External_Careers",
           "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "No se abrió careers propia de gategroup/Gate Gourmet; WebSearch solo dio puestos de oficina/cocina cualificados de Gate Gourmet y anuncios viejos."
+          "note": "gategroup.com/careers enlaza a su portal Workday, que cargó sin contenido (JavaScript)."
         },
         "Swissport": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Swissport&location=Z%C3%BCrich&sort-by=date",
-          "offersReviewed": 4,
+          "status": "blocked",
+          "url": "https://careers.swissport.com/",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "4 ofertas en jobs.ch (mecánico, ramp supervisor); ninguna encaja con las keywords de limpieza."
+          "note": "careers.swissport.com respondió 403 Forbidden; swissport.com/en/careers sin ofertas."
         },
         "Express Personal AG": {
           "status": "ok",
-          "url": "https://www.expresspersonal.ch/fur-stellensuchende/jobsuche/",
-          "offersReviewed": 10,
+          "url": "https://www.expresspersonal.ch/de/jobs",
+          "offersReviewed": 20,
           "offersAdded": 0,
-          "note": "Lista de 10; categorías sin Lager/Reinigung/Küche/Hotel en Zürich (las vistas eran de Bern/Olten/Sissach)."
+          "note": "Listado revisado: sin ofertas de Lager/Reinigung/Küche/Hotel en Zürich (solo Reinigung en Olten y Bern)."
         },
         "Coople": {
           "status": "ok",
-          "url": "https://www.coople.com/ch/jobs/de/",
-          "offersReviewed": 30,
+          "url": "https://www.coople.com/ch/en/jobs",
+          "offersReviewed": 12,
           "offersAdded": 0,
-          "note": "Portada con 30 ofertas, sin buscador por palabra clave visible en lo leído; añadida 1 limpieza Zürich."
+          "note": "Listado de \"Latest jobs\" del cantón de Zürich revisado (turnos de hoy). Añadido el Rüstlager de Volketswil en lager; resto no encajaba."
         },
         "Adecco": {
           "status": "error",
-          "url": "https://www.adecco.com/de-ch/jobs?keywords=Lager&location=Z%C3%BCrich",
+          "url": "https://www.adecco.com/de-ch/jobsuche?jobTitle=lagerist",
           "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "adecco.com/de-ch/jobs?keywords=... -> 404; WebSearch solo devolvió anuncios antiguos de agregadores; en jobs.ch (term=Adecco) solo salió Ramp Agent Flughafen de hace 2 semanas, fuera de las keywords."
+          "note": "adecco.ch redirige a adecco.com/de-ch; /de-ch/jobsuche?jobTitle=lagerist y /de-ch/stellen/logistik-transport-produktion cargan sin listado (se genera por JavaScript)."
         },
         "Manpower": {
           "status": "error",
-          "url": "https://www.manpower.ch/de/jobs",
+          "url": "https://www.manpower.ch/fr/recherche/ville",
           "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "manpower.ch/de/jobs y /de/jobs?query=... -> 404; jobs.ch term=Manpower Lager -> 0. Las ofertas Manpower ya guardadas vienen de revisiones anteriores."
+          "note": "manpower.ch/de/jobs dio 404; manpower.ch/fr/recherche/ville no muestra ofertas (solo enlaces). WebSearch solo dio anuncios antiguos."
         },
         "Randstad": {
           "status": "ok",
-          "url": "https://www.randstad.ch/jobs/s-lager/zuerich/",
-          "offersReviewed": 46,
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Lager&location=Winterthur&sort-by=date",
+          "offersReviewed": 5,
           "offersAdded": 0,
-          "note": "Lager (30 de 105 vistas) y Reinigung (16). Ofertas añadidas en lager y reinigung (las de Randstad ya guardadas no se repiten)."
+          "note": "randstad.com/jobs/... dio 0 resultados; revisadas sus ofertas publicadas en jobs.ch: añadidas 2 de Winterthur (lager)."
         },
         "Kelly Services": {
           "status": "not_found",
           "url": "https://www.kellyocg.com/",
           "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "kellyservices.ch redirige a kellyocg.com, que solo enlaza regiones sin Suiza ni buscador de empleo para Suiza."
+          "note": "kellyservices.ch redirige a kellyocg.com, que no tiene buscador de empleo de Suiza ni ofertas."
         },
         "Interiman Group": {
-          "status": "error",
-          "url": "https://www.albedis.com/recherche-offres-emploi/",
-          "offersReviewed": 0,
+          "status": "ok",
+          "url": "https://www.albedis.com/de/stellensuche/",
+          "offersReviewed": 4,
           "offersAdded": 0,
-          "note": "interiman.ch redirige a albedis.com; su portada solo mostró ofertas de Vaud/Genève; no se abrió el buscador filtrado por Zürich."
+          "note": "interiman.ch redirige a Albedis; Neueste Stellen solo de Verkauf/Finanzas/Gebäudetechnik en Zürich. Sin ofertas del sector."
         },
         "Persona Service": {
-          "status": "ok",
-          "url": "https://persona-ch.onlyfy.jobs/",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "https://www.persona.ch/de/jobs",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Portal onlyfy leído: 10 de 18 ofertas, ninguna de las 4 categorías en Zürich."
+          "note": "persona.ch/de/jobs dio 404; WebSearch solo devolvió anuncios antiguos de jobup (2025)."
         },
         "Gi Group": {
           "status": "ok",
           "url": "https://ch.gigroup.com/job-offers/",
           "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Solo 1 oferta (Visp), ninguna en Zürich."
+          "note": "Solo 1 oferta visible (QA en Visp); sin ofertas de la zona de Zürich."
         }
       }
     },
@@ -227,145 +227,145 @@
       "sources": {
         "jobs.ch": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Lagermitarbeiter&location=Z%C3%BCrich&sort-by=date",
-          "offersReviewed": 2,
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Küchenhilfe&location=Zürich&sort-by=date",
+          "offersReviewed": 20,
           "offersAdded": 0,
-          "note": "Keywords principales por búsqueda; solo página 1 de cada una (no se recorrieron todas las keywords ni páginas 2-3)."
+          "note": "Buscado Küchenhilfe en Zürich y también Winterthur/Kloten y otros términos (Kommissionierer, Reinigung, Küche Abwasch, Zimmerreinigung…), página 1."
         },
         "gastrojob.ch": {
           "status": "error",
-          "url": "https://www.gastrojob.ch/",
+          "url": "https://www.gastrojob.ch/jobs?q=Küchenhilfe&l=Zürich",
           "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "gastrojob.ch/de/jobs/kuechenhilfe/zuerich -> 404; la portada https://www.gastrojob.ch/ muestra 0 puestos y solo enlaces #cNp=1 sin filtro de zona (contenido por JS)."
+          "note": "La URL de búsqueda probada devolvió 404 y WebSearch no indexa gastrojob.ch. Sin datos."
         },
         "hotelcareer.ch": {
-          "status": "blocked",
+          "status": "error",
           "url": "https://www.hotelcareer.ch/jobs/stellenangebote",
           "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "hotelcareer.ch/jobs?q=...&l=... -> 404; /jobs/stellenangebote -> solo \"Challenge Validation\" (bloqueo anti-bot), no se intentó saltar."
+          "note": "Las páginas probadas (/jobs?q=..., /jobs/stellenangebote) solo devolvieron la validación anti-bot/navegación sin listado."
         },
         "linkedin.com/jobs": {
           "status": "ok",
-          "url": "https://ch.linkedin.com/jobs/lagermitarbeiter-stellen-z%C3%BCrich",
+          "url": "https://ch.linkedin.com/jobs/k%C3%BCchenhilfe-stellen-z%C3%BCrich",
           "offersReviewed": 60,
-          "offersAdded": 0,
-          "note": "Keywords principales por búsqueda; solo página 1 de cada una (no se recorrieron todas las keywords ni páginas 2-3)."
+          "offersAdded": 3,
+          "note": "Página pública de LinkedIn (60 resultados, últimos días), solo Zürich; páginas siguientes piden login."
         },
         "jobscout24.ch": {
           "status": "ok",
-          "url": "https://www.jobscout24.ch/de/jobs/reinigung/z%C3%BCrich/",
-          "offersReviewed": 0,
+          "url": "https://www.jobscout24.ch/de/jobs/lagermitarbeiter/zürich/",
+          "offersReviewed": 20,
           "offersAdded": 0,
-          "note": "La búsqueda devuelve 0 resultados (Lagermitarbeiter, Reinigung, Küchenhilfe, Housekeeping en Zürich); otras keywords no probadas."
+          "note": "Su buscador devolvió 0 resultados para los términos con \"/zürich\" (y 289 genéricos para \"Lager\" sin ofertas de la zona con fecha válida). Sin ofertas nuevas válidas."
         },
         "join.com": {
           "status": "ok",
           "url": "https://join.com/companies/cosmopolitan-apartments",
-          "offersReviewed": 1,
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "WebSearch site:join.com devolvió solo Cosmopolitan Apartments (Reinigungsfachkraft Zürich); su página no trae fecha, descartada. Otras empresas no descubiertas."
+          "note": "WebSearch por zona/términos; solo apareció Cosmopolitan Apartments AG (Reinigungsfachkraft, publicada 2025: caducada). Sin ofertas recientes."
         }
       },
       "companies": {
         "Migros": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=K%C3%BCchenhilfe&location=Z%C3%BCrich&sort-by=date",
-          "offersReviewed": 1,
+          "status": "blocked",
+          "url": "https://www.migros.ch/de/job-karriere/stellensuche",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Solo vía jobs.ch/LinkedIn; ofertas Migros ya guardadas; sin careers propia consultada."
+          "note": "403 Forbidden."
         },
         "Coop": {
-          "status": "ok",
-          "url": "https://ch.linkedin.com/jobs/k%C3%BCchenhilfe-stellen-z%C3%BCrich",
-          "offersReviewed": 3,
+          "status": "blocked",
+          "url": "https://www.coop.ch/de/unternehmen/karriere/stellensuche.html",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Solo vía LinkedIn: Quereinstieg Koch Systemgastronomie Zürich (cocinero, no encaja). Sin careers propia consultada."
+          "note": "403 Forbidden (ofertas de Coop vistas en LinkedIn: solo fuera de zona o antiguas; Import Parfumerie añadida en lager)."
         },
         "SV Group": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=SV%20Group&location=Z%C3%BCrich&sort-by=date",
-          "offersReviewed": 2,
+          "status": "error",
+          "url": "https://www.sv-group.com/de/karriere/jobs",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "sv-group.com/de/karriere/jobs -> 404; en jobs.ch 2 ofertas (Sous Chef, Lehre), sin Küchenhilfe."
+          "note": "sv-group.com/de/karriere/jobs dio 404; WebSearch solo dio anuncios sin fecha fiable."
         },
         "Compass Group": {
-          "status": "ok",
-          "url": "https://ch.linkedin.com/jobs/k%C3%BCchenhilfe-stellen-z%C3%BCrich",
-          "offersReviewed": 1,
+          "status": "error",
+          "url": "https://www.compass-group.ch/de/karriere/",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Visto en LinkedIn: Betriebsmitarbeiter Küche en Hinwil (fuera de zona ±20 km). WebSearch sin ofertas recientes verificadas."
+          "note": "compass-group.ch/de/karriere dio 404; en LinkedIn vista oferta de Hinwil (fuera de zona)."
         },
         "ZFV-Unternehmungen": {
-          "status": "not_found",
+          "status": "error",
           "url": "",
           "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Sin web de empleo abierta; WebSearch solo dio anuncios de jobup/ostjob antiguos o de cocineros/jefes. Sin direcciones propias probadas."
+          "note": "No se encontró su página de empleo por WebSearch (solo anuncios de portales con fechas antiguas)."
         },
         "Express Personal AG": {
           "status": "ok",
-          "url": "https://www.expresspersonal.ch/fur-stellensuchende/jobsuche/",
-          "offersReviewed": 10,
+          "url": "https://www.expresspersonal.ch/de/jobs",
+          "offersReviewed": 20,
           "offersAdded": 0,
-          "note": "Lista de 10; categorías sin Lager/Reinigung/Küche/Hotel en Zürich (las vistas eran de Bern/Olten/Sissach)."
+          "note": "Listado revisado: sin ofertas de Lager/Reinigung/Küche/Hotel en Zürich (solo Reinigung en Olten y Bern)."
         },
         "Coople": {
           "status": "ok",
-          "url": "https://www.coople.com/ch/jobs/de/",
-          "offersReviewed": 30,
+          "url": "https://www.coople.com/ch/en/jobs",
+          "offersReviewed": 12,
           "offersAdded": 0,
-          "note": "Portada con 30 ofertas, sin buscador por palabra clave visible en lo leído; añadida 1 limpieza Zürich."
+          "note": "Listado de \"Latest jobs\" del cantón de Zürich revisado (turnos de hoy). Añadido el Rüstlager de Volketswil en lager; resto no encajaba."
         },
         "Adecco": {
           "status": "error",
-          "url": "https://www.adecco.com/de-ch/jobs?keywords=Lager&location=Z%C3%BCrich",
+          "url": "https://www.adecco.com/de-ch/jobsuche?jobTitle=lagerist",
           "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "adecco.com/de-ch/jobs?keywords=... -> 404; WebSearch solo devolvió anuncios antiguos de agregadores; en jobs.ch (term=Adecco) solo salió Ramp Agent Flughafen de hace 2 semanas, fuera de las keywords."
+          "note": "adecco.ch redirige a adecco.com/de-ch; /de-ch/jobsuche?jobTitle=lagerist y /de-ch/stellen/logistik-transport-produktion cargan sin listado (se genera por JavaScript)."
         },
         "Manpower": {
           "status": "error",
-          "url": "https://www.manpower.ch/de/jobs",
+          "url": "https://www.manpower.ch/fr/recherche/ville",
           "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "manpower.ch/de/jobs y /de/jobs?query=... -> 404; jobs.ch term=Manpower Lager -> 0. Las ofertas Manpower ya guardadas vienen de revisiones anteriores."
+          "note": "manpower.ch/de/jobs dio 404; manpower.ch/fr/recherche/ville no muestra ofertas (solo enlaces). WebSearch solo dio anuncios antiguos."
         },
         "Randstad": {
           "status": "ok",
-          "url": "https://www.randstad.ch/jobs/s-lager/zuerich/",
-          "offersReviewed": 46,
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Lager&location=Winterthur&sort-by=date",
+          "offersReviewed": 5,
           "offersAdded": 0,
-          "note": "Lager (30 de 105 vistas) y Reinigung (16). Ofertas añadidas en lager y reinigung (las de Randstad ya guardadas no se repiten)."
+          "note": "randstad.com/jobs/... dio 0 resultados; revisadas sus ofertas publicadas en jobs.ch: añadidas 2 de Winterthur (lager)."
         },
         "Kelly Services": {
           "status": "not_found",
           "url": "https://www.kellyocg.com/",
           "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "kellyservices.ch redirige a kellyocg.com, que solo enlaza regiones sin Suiza ni buscador de empleo para Suiza."
+          "note": "kellyservices.ch redirige a kellyocg.com, que no tiene buscador de empleo de Suiza ni ofertas."
         },
         "Interiman Group": {
-          "status": "error",
-          "url": "https://www.albedis.com/recherche-offres-emploi/",
-          "offersReviewed": 0,
+          "status": "ok",
+          "url": "https://www.albedis.com/de/stellensuche/",
+          "offersReviewed": 4,
           "offersAdded": 0,
-          "note": "interiman.ch redirige a albedis.com; su portada solo mostró ofertas de Vaud/Genève; no se abrió el buscador filtrado por Zürich."
+          "note": "interiman.ch redirige a Albedis; Neueste Stellen solo de Verkauf/Finanzas/Gebäudetechnik en Zürich. Sin ofertas del sector."
         },
         "Persona Service": {
-          "status": "ok",
-          "url": "https://persona-ch.onlyfy.jobs/",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "https://www.persona.ch/de/jobs",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Portal onlyfy leído: 10 de 18 ofertas, ninguna de las 4 categorías en Zürich."
+          "note": "persona.ch/de/jobs dio 404; WebSearch solo devolvió anuncios antiguos de jobup (2025)."
         },
         "Gi Group": {
           "status": "ok",
           "url": "https://ch.gigroup.com/job-offers/",
           "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Solo 1 oferta (Visp), ninguna en Zürich."
+          "note": "Solo 1 oferta visible (QA en Visp); sin ofertas de la zona de Zürich."
         }
       }
     },
@@ -373,110 +373,110 @@
       "sources": {
         "jobs.ch": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Lagermitarbeiter&location=Z%C3%BCrich&sort-by=date",
-          "offersReviewed": 12,
-          "offersAdded": 0,
-          "note": "Keywords principales por búsqueda; solo página 1 de cada una (no se recorrieron todas las keywords ni páginas 2-3)."
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Zimmermädchen&location=Zürich&sort-by=date",
+          "offersReviewed": 20,
+          "offersAdded": 1,
+          "note": "Buscado Housekeeping/Zimmermädchen en Zürich y también Winterthur/Kloten y otros términos (Kommissionierer, Reinigung, Küche Abwasch, Zimmerreinigung…), página 1."
         },
         "gastrojob.ch": {
           "status": "error",
-          "url": "https://www.gastrojob.ch/",
+          "url": "https://www.gastrojob.ch/jobs?q=Küchenhilfe&l=Zürich",
           "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "gastrojob.ch/de/jobs/kuechenhilfe/zuerich -> 404; la portada https://www.gastrojob.ch/ muestra 0 puestos y solo enlaces #cNp=1 sin filtro de zona (contenido por JS)."
+          "note": "La URL de búsqueda probada devolvió 404 y WebSearch no indexa gastrojob.ch. Sin datos."
         },
         "hotelcareer.ch": {
-          "status": "blocked",
+          "status": "error",
           "url": "https://www.hotelcareer.ch/jobs/stellenangebote",
           "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "hotelcareer.ch/jobs?q=...&l=... -> 404; /jobs/stellenangebote -> solo \"Challenge Validation\" (bloqueo anti-bot), no se intentó saltar."
+          "note": "Las páginas probadas (/jobs?q=..., /jobs/stellenangebote) solo devolvieron la validación anti-bot/navegación sin listado."
         },
         "linkedin.com/jobs": {
           "status": "ok",
-          "url": "https://ch.linkedin.com/jobs/lagermitarbeiter-stellen-z%C3%BCrich",
+          "url": "https://ch.linkedin.com/jobs/housekeeping-stellen-z%C3%BCrich",
           "offersReviewed": 60,
-          "offersAdded": 0,
-          "note": "Keywords principales por búsqueda; solo página 1 de cada una (no se recorrieron todas las keywords ni páginas 2-3)."
+          "offersAdded": 2,
+          "note": "Página pública de LinkedIn (60 resultados, últimos días), solo Zürich; páginas siguientes piden login."
         },
         "jobscout24.ch": {
           "status": "ok",
-          "url": "https://www.jobscout24.ch/de/jobs/reinigung/z%C3%BCrich/",
-          "offersReviewed": 0,
+          "url": "https://www.jobscout24.ch/de/jobs/lagermitarbeiter/zürich/",
+          "offersReviewed": 20,
           "offersAdded": 0,
-          "note": "La búsqueda devuelve 0 resultados (Lagermitarbeiter, Reinigung, Küchenhilfe, Housekeeping en Zürich); otras keywords no probadas."
+          "note": "Su buscador devolvió 0 resultados para los términos con \"/zürich\" (y 289 genéricos para \"Lager\" sin ofertas de la zona con fecha válida). Sin ofertas nuevas válidas."
         },
         "join.com": {
           "status": "ok",
           "url": "https://join.com/companies/cosmopolitan-apartments",
-          "offersReviewed": 1,
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "WebSearch site:join.com devolvió solo Cosmopolitan Apartments (Reinigungsfachkraft Zürich); su página no trae fecha, descartada. Otras empresas no descubiertas."
+          "note": "WebSearch por zona/términos; solo apareció Cosmopolitan Apartments AG (Reinigungsfachkraft, publicada 2025: caducada). Sin ofertas recientes."
         }
       },
       "companies": {
         "Express Personal AG": {
           "status": "ok",
-          "url": "https://www.expresspersonal.ch/fur-stellensuchende/jobsuche/",
-          "offersReviewed": 10,
+          "url": "https://www.expresspersonal.ch/de/jobs",
+          "offersReviewed": 20,
           "offersAdded": 0,
-          "note": "Lista de 10; categorías sin Lager/Reinigung/Küche/Hotel en Zürich (las vistas eran de Bern/Olten/Sissach)."
+          "note": "Listado revisado: sin ofertas de Lager/Reinigung/Küche/Hotel en Zürich (solo Reinigung en Olten y Bern)."
         },
         "Coople": {
           "status": "ok",
-          "url": "https://www.coople.com/ch/jobs/de/",
-          "offersReviewed": 30,
+          "url": "https://www.coople.com/ch/en/jobs",
+          "offersReviewed": 12,
           "offersAdded": 0,
-          "note": "Portada con 30 ofertas, sin buscador por palabra clave visible en lo leído; añadida 1 limpieza Zürich."
+          "note": "Listado de \"Latest jobs\" del cantón de Zürich revisado (turnos de hoy). Añadido el Rüstlager de Volketswil en lager; resto no encajaba."
         },
         "Adecco": {
           "status": "error",
-          "url": "https://www.adecco.com/de-ch/jobs?keywords=Lager&location=Z%C3%BCrich",
+          "url": "https://www.adecco.com/de-ch/jobsuche?jobTitle=lagerist",
           "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "adecco.com/de-ch/jobs?keywords=... -> 404; WebSearch solo devolvió anuncios antiguos de agregadores; en jobs.ch (term=Adecco) solo salió Ramp Agent Flughafen de hace 2 semanas, fuera de las keywords."
+          "note": "adecco.ch redirige a adecco.com/de-ch; /de-ch/jobsuche?jobTitle=lagerist y /de-ch/stellen/logistik-transport-produktion cargan sin listado (se genera por JavaScript)."
         },
         "Manpower": {
           "status": "error",
-          "url": "https://www.manpower.ch/de/jobs",
+          "url": "https://www.manpower.ch/fr/recherche/ville",
           "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "manpower.ch/de/jobs y /de/jobs?query=... -> 404; jobs.ch term=Manpower Lager -> 0. Las ofertas Manpower ya guardadas vienen de revisiones anteriores."
+          "note": "manpower.ch/de/jobs dio 404; manpower.ch/fr/recherche/ville no muestra ofertas (solo enlaces). WebSearch solo dio anuncios antiguos."
         },
         "Randstad": {
           "status": "ok",
-          "url": "https://www.randstad.ch/jobs/s-lager/zuerich/",
-          "offersReviewed": 46,
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=Lager&location=Winterthur&sort-by=date",
+          "offersReviewed": 5,
           "offersAdded": 0,
-          "note": "Lager (30 de 105 vistas) y Reinigung (16). Ofertas añadidas en lager y reinigung (las de Randstad ya guardadas no se repiten)."
+          "note": "randstad.com/jobs/... dio 0 resultados; revisadas sus ofertas publicadas en jobs.ch: añadidas 2 de Winterthur (lager)."
         },
         "Kelly Services": {
           "status": "not_found",
           "url": "https://www.kellyocg.com/",
           "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "kellyservices.ch redirige a kellyocg.com, que solo enlaza regiones sin Suiza ni buscador de empleo para Suiza."
+          "note": "kellyservices.ch redirige a kellyocg.com, que no tiene buscador de empleo de Suiza ni ofertas."
         },
         "Interiman Group": {
-          "status": "error",
-          "url": "https://www.albedis.com/recherche-offres-emploi/",
-          "offersReviewed": 0,
+          "status": "ok",
+          "url": "https://www.albedis.com/de/stellensuche/",
+          "offersReviewed": 4,
           "offersAdded": 0,
-          "note": "interiman.ch redirige a albedis.com; su portada solo mostró ofertas de Vaud/Genève; no se abrió el buscador filtrado por Zürich."
+          "note": "interiman.ch redirige a Albedis; Neueste Stellen solo de Verkauf/Finanzas/Gebäudetechnik en Zürich. Sin ofertas del sector."
         },
         "Persona Service": {
-          "status": "ok",
-          "url": "https://persona-ch.onlyfy.jobs/",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "https://www.persona.ch/de/jobs",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Portal onlyfy leído: 10 de 18 ofertas, ninguna de las 4 categorías en Zürich."
+          "note": "persona.ch/de/jobs dio 404; WebSearch solo devolvió anuncios antiguos de jobup (2025)."
         },
         "Gi Group": {
           "status": "ok",
           "url": "https://ch.gigroup.com/job-offers/",
           "offersReviewed": 1,
           "offersAdded": 0,
-          "note": "Solo 1 oferta (Visp), ninguna en Zürich."
+          "note": "Solo 1 oferta visible (QA en Visp); sin ofertas de la zona de Zürich."
         }
       }
     }

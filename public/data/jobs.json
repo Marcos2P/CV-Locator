@@ -1,6 +1,124 @@
 {
-  "updatedAt": "2026-11-16T06:17:50.470Z",
+  "updatedAt": "2026-11-16T07:21:48.026Z",
   "jobs": [
+    {
+      "searchId": "lager",
+      "title": "Lagermitarbeiter/in (m/w/d)",
+      "titleEs": "Empleado/a de almacén",
+      "company": "Randstad (Schweiz) AG",
+      "location": "Region Winterthur ZH",
+      "postedAt": "2026-11-16",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/721ffa48-da12-4951-a4a9-cdc0578b8828",
+      "summary": "Puesto temporal de almacén (carga/descarga, picking) para un cliente conocido de Randstad en la región de Winterthur; no exige título EFZ.",
+      "description": "Carga y descarga de camiones y transporte interno, picking y preparación de pedidos para su envío a tiempo, tareas generales de almacén y control de existencias.",
+      "requirements": [
+        "Varios años de experiencia en logística (sin EFZ obligatorio)",
+        "Carnet de carretillero reconocido por SUVA y práctica de conducción",
+        "Buena condición física y fiabilidad",
+        "Buen alemán"
+      ],
+      "workload": "100 %",
+      "employmentType": "Temporal",
+      "language": "Alemán avanzado",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Lagermitarbeiter/in (m/w/d)",
+        "summary": "Temporäre Lagerstelle (Be-/Entladen, Kommissionieren) für einen bekannten Randstad-Kunden in der Region Winterthur; kein EFZ nötig.",
+        "description": "Be- und Entladen von LKW und interner Transport, Kommissionieren und Bereitstellen von Kundenaufträgen für den pünktlichen Versand, allgemeine Lagerarbeiten und Bestandskontrolle.",
+        "requirements": [
+          "Mehrjährige Logistikerfahrung (kein EFZ zwingend)",
+          "SUVA-anerkannter Staplerausweis und Fahrpraxis",
+          "Gute körperliche Verfassung, Zuverlässigkeit",
+          "Gute Deutschkenntnisse"
+        ],
+        "workload": "100 %",
+        "employmentType": "Temporär",
+        "language": "Deutsch fortgeschritten"
+      },
+      "id": "0411c123ba17",
+      "foundAt": "2026-11-16T07:21:48.026Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistiker/in EFZ (m/w/d)",
+      "titleEs": "Logístico/a EFZ",
+      "company": "Randstad (Schweiz) AG",
+      "location": "Region Winterthur ZH",
+      "postedAt": "2026-11-16",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/a724cf90-dfd7-4d1a-9a2d-d811cdb3bc6c",
+      "summary": "Puesto fijo de logística (entrada de mercancía, almacenaje, picking con escáner) para un cliente de Randstad en la región de Winterthur.",
+      "description": "Gestión de entradas de mercancía, almacenaje y transporte puntual, registro de movimientos en el ERP (p. ej. SAP), picking de pedidos con escáner de mano y manejo de carretillas.",
+      "requirements": [
+        "Formación técnica básica o varios años de práctica en instalaciones industriales complejas",
+        "Buena comprensión técnica y capacidad de reacción",
+        "Alta conciencia de seguridad e higiene",
+        "Trabajo autónomo"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Logistiker/in EFZ (m/w/d)",
+        "summary": "Festanstellung in der Logistik (Wareneingang, Lagerung, Kommissionierung mit Handscanner) für einen Randstad-Kunden in der Region Winterthur.",
+        "description": "Abwicklung im Wareneingang, fachgerechte Lagerung und termingerechter Warentransport, Materialbewegungen im ERP (z. B. SAP) verbuchen, Kundenbestellungen mit Handscanner kommissionieren und Flurförderzeuge bedienen.",
+        "requirements": [
+          "Technische Grundausbildung oder mehrjährige Praxis in komplexen Industrieanlagen",
+          "Gutes technisches Verständnis und schnelle Reaktionsfähigkeit",
+          "Hohes Sicherheits- und Hygienebewusstsein",
+          "Selbstständiges Arbeiten"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch"
+      },
+      "id": "39e84c81f0e5",
+      "foundAt": "2026-11-16T07:21:48.026Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Express Rüstlager-MitarbeiterInnen - ab 13 Uhr",
+      "titleEs": "Empleados/as de picking exprés - desde las 13:00",
+      "company": "Coople (cliente mayorista, Volketswil)",
+      "location": "Volketswil ZH",
+      "postedAt": "2026-11-16",
+      "source": "Coople",
+      "url": "https://www.coople.com/ch/jobs/en/c29ffb21-d87e-42d1-8cba-25319cae605d",
+      "summary": "Turno puntual de picking con escáner en un mayorista de material de oficina en Volketswil, desde las 13:00; CHF 27,12/h.",
+      "description": "Preparar pedidos de clientes con escáner de mano, trabajar con cintas transportadoras y de forma autónoma; carga de camiones. No requiere formación.",
+      "requirements": [
+        "Edad 18–55 años",
+        "Buena condición física",
+        "Preciso y fiable",
+        "Alemán muy bueno oral y escrito"
+      ],
+      "workload": "1 turno desde las 13:00",
+      "employmentType": "Por horas (temporal)",
+      "salary": "CHF 27.12/h",
+      "language": "Alemán muy bueno",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Express Rüstlager-MitarbeiterInnen - ab 13 Uhr",
+        "summary": "Einzelner Schichteinsatz im Rüstlager eines Büromaterial-Grosshändlers in Volketswil ab 13 Uhr; CHF 27.12/h.",
+        "description": "Kundenaufträge mit Handscanner kommissionieren, an Förderanlagen arbeiten, selbstständig und effizient; Lastwagen beladen. Keine Ausbildung nötig.",
+        "requirements": [
+          "Alter 18–55 Jahre",
+          "Körperlich fit",
+          "Genau und zuverlässig",
+          "Sehr gute Deutschkenntnisse in Wort und Schrift"
+        ],
+        "workload": "1 Schicht ab 13 Uhr",
+        "employmentType": "Stundenlohn (temporär)",
+        "language": "Deutsch sehr gut"
+      },
+      "id": "2c5f72995089",
+      "foundAt": "2026-11-16T07:21:48.026Z"
+    },
     {
       "searchId": "fullstack-ts",
       "title": "Software-Ingenieur (m/w/d)",
@@ -73,6 +191,85 @@
       },
       "id": "eb99a3fcc283",
       "foundAt": "2026-11-15T07:14:04.871Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Rampenfahrer CE / Mitarbeiter Umschlag (m/w/d)",
+      "titleEs": "Conductor/a de rampa CE / Empleado/a de transbordo",
+      "company": "Planzer",
+      "location": "Dietikon ZH",
+      "postedAt": "2026-11-14",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/89920e9f-97f6-4296-95c9-697be1271308",
+      "summary": "Carga y descarga de camiones y movimiento de mercancía con carretilla en el almacén de transbordo de Planzer en Dietikon (turno desde las 15:00).",
+      "description": "Cargar y descargar camiones en la rampa, controlar mercancía y palés, trasladar la mercancía a su ubicación con carretilla, mantener el orden y ayudar a coordinar vehículos de entrada y salida.",
+      "requirements": [
+        "Disponibilidad para turnos y noches (inicio 15:00)",
+        "Experiencia previa en almacén o logística",
+        "Carnet de conducir categoría C y certificado CZV",
+        "Alemán claro oral y escrito"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán avanzado",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Rampenfahrer CE / Mitarbeiter Umschlag (m/w/d)",
+        "summary": "Be- und Entladen von LKW und Warenbewegung mit dem Stapler im Umschlaglager von Planzer in Dietikon (Arbeitsbeginn 15:00).",
+        "description": "LKW an der Rampe be- und entladen, Ware und Paletten kontrollieren, Ware mit Staplern an den richtigen Lagerplatz bringen, Ordnung halten und An- und Abfahrten koordinieren.",
+        "requirements": [
+          "Bereitschaft für Nacht- und Schichtarbeit (Beginn 15:00)",
+          "Erfahrung in Lager oder Logistik",
+          "Führerausweis Kategorie C und CZV",
+          "Klare Deutschkenntnisse in Wort und Schrift"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch fortgeschritten"
+      },
+      "id": "098ba67850dc",
+      "foundAt": "2026-11-16T07:21:48.026Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Gouvernante - Anstellung im Stundenlohn - Zürich",
+      "titleEs": "Gobernanta - contrato por horas - Zúrich",
+      "company": "CRS Management & Service AG",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-14",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4488914559",
+      "summary": "Gobernanta que inspecciona habitaciones de hotel limpias y coordina al personal; CHF 27,23/h.",
+      "description": "Inspeccionar y aprobar habitaciones limpiadas, persona de contacto del personal asignado, limpiar habitaciones cuando haga falta; trabajo cualquier día de lunes a domingo desde las 08:00.",
+      "requirements": [
+        "Experiencia como gobernanta",
+        "Buen alemán y/o inglés",
+        "Autónomo, fiable y buen compañero",
+        "Flexible para fines de semana",
+        "Aspecto cuidado"
+      ],
+      "employmentType": "Por horas",
+      "salary": "CHF 27.23/h (incl. 13.º sueldo y vacaciones)",
+      "language": "Alemán y/o inglés",
+      "englishOk": true,
+      "seniority": "mid",
+      "de": {
+        "title": "Gouvernante - Anstellung im Stundenlohn - Zürich",
+        "summary": "Gouvernante kontrolliert gereinigte Hotelzimmer und leitet das Personal an; CHF 27.23/h.",
+        "description": "Gereinigte Gästezimmer kontrollieren und abnehmen, Ansprechperson für das zugeteilte Personal, bei Bedarf Zimmer reinigen; Einsatz Montag bis Sonntag ab 08:00.",
+        "requirements": [
+          "Erfahrung als Gouvernante",
+          "Gutes Deutsch und/oder Englisch",
+          "Selbstständig, zuverlässig, teamfähig",
+          "Flexibel für regelmässige Wochenendeinsätze",
+          "Gepflegtes Auftreten"
+        ],
+        "employmentType": "Stundenlohn",
+        "language": "Deutsch und/oder Englisch"
+      },
+      "id": "ab5a894915e3",
+      "foundAt": "2026-11-16T07:21:48.026Z"
     },
     {
       "searchId": "reinigung-flughafen",
