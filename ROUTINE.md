@@ -9,7 +9,7 @@ El mensaje de la tarea te dice cuál es tu **GRUPO**:
 | Tarea | GRUPO | Hora (Europe/Zurich) | Búsquedas |
 |---|---|---|---|
 | Cv-Locator · IT | `it` | 7:00 | frontend-react, fullstack-ts, qa-test, junior-it |
-| Cv-Locator · general | `general` | 8:00 | lager, reinigung-flughafen, kueche, hotel, temporada-invierno |
+| Cv-Locator · general | `general` | 8:00 | ⭐ hotel, ⭐ kueche, ⭐ umzug, lager, reinigung-flughafen, temporada-invierno |
 
 En todos los comandos de abajo, sustituye `<GRUPO>` por `it` o `general`.
 
@@ -49,6 +49,9 @@ viejos que ya dan 404/410).
   - **Zürich + 40 km** (grupo IT): todo lo anterior y además Zug, Baar, Cham, Baden, Wettingen, Brugg, Lenzburg,
     Rapperswil-Jona, Pfäffikon SZ, Wädenswil, Horgen, Wetzikon, Schaffhausen, Frauenfeld y Winterthur.
   - **Winterthur + 20 km:** Winterthur, Effretikon, Illnau, Seuzach, Pfäffikon ZH, Elgg, Andelfingen, Frauenfeld.
+  - **Zürich + 25 km** (solo `umzug`, las mudanzas tienen pocas ofertas): todo lo de Zürich + 20 km y además Zug,
+    Steinhausen, Baar, Baden, Wettingen, Hombrechtikon, Männedorf, Meilen, Ebmatingen, Fällanden, Embrach,
+    Horgen, Wädenswil.
   - **Regiones enteras (`radiusKm: 0`)** — búsqueda `temporada-invierno` (trabajos de temporada en estaciones de esquí):
     vale **cualquier lugar de la región**. Busca por la región y por sus estaciones:
     - **Graubünden:** Davos, Klosters, St. Moritz, Pontresina, Samnaun, Scuol, Arosa, Lenzerheide, Flims, Laax,
@@ -65,6 +68,13 @@ viejos que ya dan 404/410).
     suizas o que aceptan trabajar desde Suiza / zona horaria CET. En LinkedIn usa el filtro remoto (`&f_WT=2`).
 - **Varias páginas:** revisa al menos las páginas 1 a 3 de resultados (hasta la 5 si siguen saliendo ofertas
   recientes).
+- **Búsquedas prioritarias (⭐ `"priority": true`: hotel, kueche, umzug), más a fondo:** son lo que más le
+  interesa al usuario (housekeeping en hoteles, friegaplatos / ayudante de cocina y mudanzas). **Empieza por
+  ellas** y dales el tiempo que haga falta. En jobs.ch, LinkedIn, jobscout24 y myjob.ch busca **cada keyword por
+  separado** (no agrupadas), en Zürich, Winterthur y en las localidades de la zona, y recorre las páginas 1 a 5
+  mientras salgan ofertas dentro de `maxAgeDays`. En las empresas de su lista (hoteles, restaurantes,
+  caterings, hospitales, empresas de mudanzas) abre su página de empleo aunque los portales no las muestren.
+  No tienen máximo de ofertas por día.
 - **Grupo IT, más a fondo:** esta tarea tiene la sesión entera solo para IT. En jobs.ch y LinkedIn busca **cada
   keyword** por separado, en Zürich, Winterthur y remoto, y recorre las páginas mientras salgan ofertas dentro de
   `maxAgeDays` (en LinkedIn: `&start=0`, `25`, `50`, `75`…). El objetivo es encontrar **todas** las ofertas de
@@ -77,6 +87,14 @@ Direcciones útiles:
 - **jobscout24.ch**: `https://www.jobscout24.ch/de/jobs/<TÉRMINO>/<LUGAR>/`
 - **swissdevjobs.ch** (IT), **wearedevelopers.com** (IT), **gastrojob.ch**, **hotelcareer.ch**, **hoteljob.ch**…: usa su buscador o
   búscalo con WebSearch.
+- **myjob.ch**: `https://www.myjob.ch/job/suche-<TÉRMINO>` (en minúsculas, p. ej. `suche-umzug`, `suche-küchenhilfe`); la fecha sale en cada tarjeta.
+- **ch.indeed.com**: `https://ch.indeed.com/jobs?q=<TÉRMINO>&l=<LUGAR>&fromage=14`. Indeed casi nunca enseña la fecha:
+  si no la encuentras en la oferta ni en otra web donde esté publicada, **no la añadas** (regla del paso 3);
+  pero apunta la empresa en `note` de la cobertura para que el usuario la vea.
+- **Mudanzas (`umzug`)**: las empresas de mudanzas pequeñas suelen publicar solo en su web o en jobscout24/myjob.
+  Muchas ofertas son de agencias (Bellini Personal, Universal-Job, Workmanagement, New Work…) y "auf Abruf"
+  (por horas): inclúyelas, indicando "auf Abruf" en `workload`/`employmentType`. Indica en `language` si piden
+  carné de conducir (Führerausweis Kat. B / C) porque el del usuario está en trámite (duplicado).
 - **join.com**: muchas startups y pymes suizas publican **solo** aquí. JOIN **no tiene buscador público**
   (`join.com/jobs` pide login), pero la página de cada empresa sí es pública y trae fecha y lugar. Hazlo así:
   1. **Descubre empresas** con WebSearch, una búsqueda por keyword y zona: `site:join.com/companies <TÉRMINO> Zürich`,
@@ -219,9 +237,10 @@ Responde en español con:
 
 ## Reglas
 
-- Grupo general: calidad antes que cantidad, máximo ~15 ofertas nuevas por búsqueda y día. Grupo IT: sin máximo.
+- Grupo general: calidad antes que cantidad, máximo ~15 ofertas nuevas por búsqueda y día, **salvo las prioritarias
+  (⭐ hotel, kueche, umzug), que no tienen máximo**. Grupo IT: sin máximo.
 - Solo añadas ofertas a búsquedas **de tu GRUPO** (el script rechaza las demás).
-- Solo cuentan ofertas dentro de las `areas` de cada búsqueda (general: Zürich/Winterthur + 20 km, y las regiones de montaña en `temporada-invierno`;
+- Solo cuentan ofertas dentro de las `areas` de cada búsqueda (general: Zürich/Winterthur + 20 km, Zürich + 25 km en `umzug`, y las regiones de montaña en `temporada-invierno`;
   IT: Zürich + 40 km, Winterthur + 20 km y remoto en Suiza).
 - El usuario vive en Sirnach TG y habla español (nativo), inglés (B2) y alemán (A1). Si una oferta exige
   alemán C1 o nativo, inclúyela igualmente pero indícalo en `language`.

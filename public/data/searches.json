@@ -295,6 +295,444 @@
     "active": true
   },
   {
+    "id": "hotel",
+    "group": "general",
+    "title": "Housekeeping Hotel",
+    "labels": {
+      "es": "Housekeeping en hoteles",
+      "de": "Housekeeping Hotel"
+    },
+    "keywords": [
+      "Zimmermädchen",
+      "Zimmerreiniger",
+      "Zimmerreinigung",
+      "Room Attendant",
+      "Roomboy",
+      "Housekeeping Attendant",
+      "Housekeeping",
+      "Mitarbeiter Hauswirtschaft",
+      "Hauswirtschaftsmitarbeiter",
+      "Etagenmitarbeiter",
+      "Raumpfleger",
+      "Hotelreinigung",
+      "Mitarbeiter Wäscherei",
+      "Housekeeping Mitarbeiter",
+      "Mitarbeiter Housekeeping",
+      "Mitarbeiter Etage",
+      "Etagenmitarbeiterin",
+      "Zimmerfrau",
+      "Zimmermann Hotel",
+      "Room Attendant Hotel",
+      "Public Area Attendant",
+      "Public Area Cleaner",
+      "Mitarbeiter Public Area",
+      "Mitarbeiter Lingerie",
+      "Lingerie",
+      "Hotelfachmitarbeiter",
+      "Hotelangestellte",
+      "Hotelmitarbeiter",
+      "Hauswirtschaft Hotel",
+      "Housekeeping Aushilfe",
+      "Night Cleaner Hotel",
+      "Valet Housekeeping",
+      "Houseman"
+    ],
+    "areas": [
+      {
+        "place": "Zürich",
+        "radiusKm": 20
+      },
+      {
+        "place": "Winterthur",
+        "radiusKm": 20
+      }
+    ],
+    "sources": [
+      "jobs.ch",
+      "gastrojob.ch",
+      "hotelcareer.ch",
+      "hoteljob.ch",
+      "linkedin.com/jobs",
+      "jobscout24.ch",
+      "myjob.ch",
+      "join.com"
+    ],
+    "companies": [
+      {
+        "name": "Express Personal AG"
+      },
+      {
+        "name": "Coople"
+      },
+      {
+        "name": "Adecco"
+      },
+      {
+        "name": "Manpower"
+      },
+      {
+        "name": "Randstad"
+      },
+      {
+        "name": "Kelly Services"
+      },
+      {
+        "name": "Interiman Group"
+      },
+      {
+        "name": "Persona Service"
+      },
+      {
+        "name": "Gi Group"
+      },
+      {
+        "name": "Baur au Lac"
+      },
+      {
+        "name": "The Dolder Grand"
+      },
+      {
+        "name": "The Living Circle (Storchen, Widder, Alex Lake Zürich)"
+      },
+      {
+        "name": "Park Hyatt Zürich"
+      },
+      {
+        "name": "Zürich Marriott Hotel"
+      },
+      {
+        "name": "Hilton Zurich Airport"
+      },
+      {
+        "name": "Radisson Blu Hotel Zurich Airport"
+      },
+      {
+        "name": "Mövenpick Hotel Zürich-Regensdorf"
+      },
+      {
+        "name": "Swissôtel Zürich"
+      },
+      {
+        "name": "Sheraton Zürich Hotel"
+      },
+      {
+        "name": "Atlantis by Giardino"
+      },
+      {
+        "name": "25hours Hotels Zürich"
+      },
+      {
+        "name": "Motel One Zürich"
+      },
+      {
+        "name": "Accor Schweiz (Novotel, ibis, Pullman)"
+      },
+      {
+        "name": "Sorell Hotels (ZFV)"
+      },
+      {
+        "name": "B2 Boutique Hotel + Spa"
+      },
+      {
+        "name": "Park Hotel Winterthur"
+      },
+      {
+        "name": "Radisson Hotel Zurich Airport (The Circle)"
+      }
+    ],
+    "active": true,
+    "maxAgeDays": 14,
+    "priority": true
+  },
+  {
+    "id": "kueche",
+    "group": "general",
+    "title": "Küchenhilfe / Abwasch",
+    "labels": {
+      "es": "Friegaplatos / Ayudante de cocina",
+      "de": "Küchenhilfe / Abwasch"
+    },
+    "keywords": [
+      "Küchenhilfe",
+      "Küchenmitarbeiter",
+      "Mitarbeiter Küchenoffice",
+      "Office-Mitarbeiter",
+      "Küchengehilfe",
+      "Hilfskoch",
+      "Abwascher",
+      "Plongeur",
+      "Spüler",
+      "Tellerwäscher",
+      "Kitchen Porter",
+      "Kitchen Assistant",
+      "Dishwasher",
+      "Mitarbeiter Gastronomie",
+      "Restaurationsmitarbeiter",
+      "Mitarbeiter Systemgastronomie",
+      "Mitarbeiter Abwasch",
+      "Abwaschhilfe",
+      "Abwaschkraft",
+      "Casserolier",
+      "Office-Hilfe",
+      "Küchenaushilfe",
+      "Aushilfe Küche",
+      "Mitarbeiter Küche",
+      "Produktionsmitarbeiter Küche",
+      "Mitarbeiter Produktionsküche",
+      "Küchenmitarbeiter Produktion",
+      "Allrounder Küche",
+      "Commis de Cuisine",
+      "Hilfskoch Aushilfe",
+      "Mitarbeiter Gemeinschaftsgastronomie",
+      "Mitarbeiter Spitalküche",
+      "Mitarbeiter Personalrestaurant",
+      "Mitarbeiter Frühstück Küche",
+      "Kitchen Helper",
+      "Steward Küche"
+    ],
+    "areas": [
+      {
+        "place": "Zürich",
+        "radiusKm": 20
+      },
+      {
+        "place": "Winterthur",
+        "radiusKm": 20
+      }
+    ],
+    "sources": [
+      "jobs.ch",
+      "gastrojob.ch",
+      "hotelcareer.ch",
+      "hoteljob.ch",
+      "linkedin.com/jobs",
+      "jobscout24.ch",
+      "myjob.ch",
+      "join.com"
+    ],
+    "companies": [
+      {
+        "name": "Migros"
+      },
+      {
+        "name": "Coop"
+      },
+      {
+        "name": "SV Group"
+      },
+      {
+        "name": "Compass Group"
+      },
+      {
+        "name": "ZFV-Unternehmungen"
+      },
+      {
+        "name": "Express Personal AG"
+      },
+      {
+        "name": "Coople"
+      },
+      {
+        "name": "Adecco"
+      },
+      {
+        "name": "Manpower"
+      },
+      {
+        "name": "Randstad"
+      },
+      {
+        "name": "Kelly Services"
+      },
+      {
+        "name": "Interiman Group"
+      },
+      {
+        "name": "Persona Service"
+      },
+      {
+        "name": "Gi Group"
+      },
+      {
+        "name": "Eurest (Compass Group)"
+      },
+      {
+        "name": "Gate Gourmet"
+      },
+      {
+        "name": "SSP Schweiz (Flughafen Zürich / Bahnhöfe)"
+      },
+      {
+        "name": "Candrian Catering (Zürich HB)"
+      },
+      {
+        "name": "Confiserie Sprüngli"
+      },
+      {
+        "name": "Hiltl"
+      },
+      {
+        "name": "Bindella"
+      },
+      {
+        "name": "Tibits"
+      },
+      {
+        "name": "Mövenpick Restaurants"
+      },
+      {
+        "name": "Universitätsspital Zürich"
+      },
+      {
+        "name": "Stadtspital Zürich"
+      },
+      {
+        "name": "Kantonsspital Winterthur"
+      },
+      {
+        "name": "The Thai Take Away & Catering"
+      },
+      {
+        "name": "Baur au Lac"
+      },
+      {
+        "name": "The Dolder Grand"
+      }
+    ],
+    "active": true,
+    "maxAgeDays": 14,
+    "priority": true
+  },
+  {
+    "id": "umzug",
+    "group": "general",
+    "title": "Umzugsmitarbeiter / Zügelmann",
+    "labels": {
+      "es": "Mudanzas",
+      "de": "Umzug / Zügeln"
+    },
+    "keywords": [
+      "Umzugsmitarbeiter",
+      "Umzugshelfer",
+      "Zügelmann",
+      "Zügelfrau",
+      "Zügelmitarbeiter",
+      "Zügelhilfe",
+      "Möbelträger",
+      "Möbelpacker",
+      "Möbelmonteur",
+      "Möbelfahrer",
+      "Umzugsfachmann",
+      "Umzugschauffeur",
+      "Umzugs-Chauffeur",
+      "Transporthelfer",
+      "Beifahrer Umzug",
+      "Mitarbeiter Umzug",
+      "Allrounder Umzug",
+      "Räumung Entsorgung Mitarbeiter",
+      "Mover",
+      "Removal Worker"
+    ],
+    "areas": [
+      {
+        "place": "Zürich",
+        "radiusKm": 25
+      },
+      {
+        "place": "Winterthur",
+        "radiusKm": 20
+      }
+    ],
+    "sources": [
+      "jobs.ch",
+      "linkedin.com/jobs",
+      "jobscout24.ch",
+      "myjob.ch",
+      "ch.indeed.com",
+      "join.com"
+    ],
+    "companies": [
+      {
+        "name": "Welti-Furrer AG",
+        "careersUrl": "https://www.welti-furrer.ch/karriere"
+      },
+      {
+        "name": "Jost Transport AG"
+      },
+      {
+        "name": "Kummer Transporte"
+      },
+      {
+        "name": "Brägger & Thomann AG"
+      },
+      {
+        "name": "Bischof Umzüge und Transporte AG",
+        "careersUrl": "https://www.bischof-umzuege.ch/1316176579.html"
+      },
+      {
+        "name": "Kaufmann Umzüge GmbH"
+      },
+      {
+        "name": "Swiss Transporte GmbH"
+      },
+      {
+        "name": "ALUSHI AG"
+      },
+      {
+        "name": "Weiss Reinigung und Umzug GmbH",
+        "careersUrl": "https://weiss-reinigung.ch/jobs/"
+      },
+      {
+        "name": "Bellini Personal AG"
+      },
+      {
+        "name": "Universal-Job AG"
+      },
+      {
+        "name": "Workmanagement AG"
+      },
+      {
+        "name": "New Work Human Resources"
+      },
+      {
+        "name": "Benoha Umzug GmbH (Stäfa)"
+      },
+      {
+        "name": "Joker Personal AG"
+      },
+      {
+        "name": "Express Personal AG"
+      },
+      {
+        "name": "Coople"
+      },
+      {
+        "name": "Adecco"
+      },
+      {
+        "name": "Manpower"
+      },
+      {
+        "name": "Randstad"
+      },
+      {
+        "name": "Kelly Services"
+      },
+      {
+        "name": "Interiman Group"
+      },
+      {
+        "name": "Persona Service"
+      },
+      {
+        "name": "Gi Group"
+      }
+    ],
+    "maxAgeDays": 21,
+    "priority": true,
+    "active": true
+  },
+  {
     "id": "lager",
     "group": "general",
     "title": "Lagermitarbeiter",
@@ -405,168 +843,6 @@
       {
         "name": "Swissport"
       },
-      {
-        "name": "Express Personal AG"
-      },
-      {
-        "name": "Coople"
-      },
-      {
-        "name": "Adecco"
-      },
-      {
-        "name": "Manpower"
-      },
-      {
-        "name": "Randstad"
-      },
-      {
-        "name": "Kelly Services"
-      },
-      {
-        "name": "Interiman Group"
-      },
-      {
-        "name": "Persona Service"
-      },
-      {
-        "name": "Gi Group"
-      }
-    ],
-    "active": true
-  },
-  {
-    "id": "kueche",
-    "group": "general",
-    "title": "Küchenhilfe",
-    "labels": {
-      "es": "Friegaplatos / Ayudante de cocina",
-      "de": "Küchenhilfe / Abwasch"
-    },
-    "keywords": [
-      "Küchenhilfe",
-      "Küchenmitarbeiter",
-      "Mitarbeiter Küchenoffice",
-      "Office-Mitarbeiter",
-      "Küchengehilfe",
-      "Hilfskoch",
-      "Abwascher",
-      "Plongeur",
-      "Spüler",
-      "Tellerwäscher",
-      "Kitchen Porter",
-      "Kitchen Assistant",
-      "Dishwasher",
-      "Mitarbeiter Gastronomie",
-      "Restaurationsmitarbeiter",
-      "Mitarbeiter Systemgastronomie"
-    ],
-    "areas": [
-      {
-        "place": "Zürich",
-        "radiusKm": 20
-      },
-      {
-        "place": "Winterthur",
-        "radiusKm": 20
-      }
-    ],
-    "sources": [
-      "jobs.ch",
-      "gastrojob.ch",
-      "hotelcareer.ch",
-      "linkedin.com/jobs",
-      "jobscout24.ch",
-      "join.com"
-    ],
-    "companies": [
-      {
-        "name": "Migros"
-      },
-      {
-        "name": "Coop"
-      },
-      {
-        "name": "SV Group"
-      },
-      {
-        "name": "Compass Group"
-      },
-      {
-        "name": "ZFV-Unternehmungen"
-      },
-      {
-        "name": "Express Personal AG"
-      },
-      {
-        "name": "Coople"
-      },
-      {
-        "name": "Adecco"
-      },
-      {
-        "name": "Manpower"
-      },
-      {
-        "name": "Randstad"
-      },
-      {
-        "name": "Kelly Services"
-      },
-      {
-        "name": "Interiman Group"
-      },
-      {
-        "name": "Persona Service"
-      },
-      {
-        "name": "Gi Group"
-      }
-    ],
-    "active": true
-  },
-  {
-    "id": "hotel",
-    "group": "general",
-    "title": "Zimmerreinigung Hotel",
-    "labels": {
-      "es": "Limpieza de habitaciones de hotel",
-      "de": "Hotel / Zimmerreinigung"
-    },
-    "keywords": [
-      "Zimmermädchen",
-      "Zimmerreiniger",
-      "Zimmerreinigung",
-      "Room Attendant",
-      "Roomboy",
-      "Housekeeping Attendant",
-      "Housekeeping",
-      "Mitarbeiter Hauswirtschaft",
-      "Hauswirtschaftsmitarbeiter",
-      "Etagenmitarbeiter",
-      "Raumpfleger",
-      "Hotelreinigung",
-      "Mitarbeiter Wäscherei"
-    ],
-    "areas": [
-      {
-        "place": "Zürich",
-        "radiusKm": 20
-      },
-      {
-        "place": "Winterthur",
-        "radiusKm": 20
-      }
-    ],
-    "sources": [
-      "jobs.ch",
-      "gastrojob.ch",
-      "hotelcareer.ch",
-      "linkedin.com/jobs",
-      "jobscout24.ch",
-      "join.com"
-    ],
-    "companies": [
       {
         "name": "Express Personal AG"
       },

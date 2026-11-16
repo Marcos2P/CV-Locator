@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-16T18:54:16.150Z",
+  "updatedAt": "2026-11-16T18:59:57.766Z",
   "jobs": [
+    {
+      "searchId": "umzug",
+      "title": "Umzugsmitarbeiter (m/w)",
+      "titleEs": "Empleado/a de mudanzas",
+      "company": "New Work Human Resources",
+      "location": "Zürich",
+      "postedAt": "2026-11-16",
+      "source": "myjob.ch",
+      "url": "https://www.myjob.ch/job/umzugsmitarbeiter-m-w/3672567",
+      "summary": "Puesto fijo al 100 % como empleado de mudanzas en Zúrich, a través de la agencia New Work Human Resources.",
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "de": {
+        "title": "Umzugsmitarbeiter (m/w)",
+        "summary": "Festanstellung 100 % als Umzugsmitarbeiter in Zürich über New Work Human Resources.",
+        "workload": "100 %",
+        "employmentType": "Festanstellung"
+      },
+      "id": "7a4afe7dae8f",
+      "foundAt": "2026-11-16T18:59:57.766Z"
+    },
     {
       "searchId": "kueche",
       "title": "Aushilfskoch",
@@ -1162,6 +1183,38 @@
       "englishOk": true,
       "id": "af7b05fd7715",
       "foundAt": "2026-11-14T07:15:53.588Z"
+    },
+    {
+      "searchId": "umzug",
+      "title": "Umzugsmitarbeiter / Allrounder 40 % - 100 %",
+      "titleEs": "Empleado/a de mudanzas / polivalente 40–100 %",
+      "company": "Kummer Transporte",
+      "location": "Hombrechtikon ZH",
+      "postedAt": "2026-11-13",
+      "source": "myjob.ch",
+      "url": "https://www.myjob.ch/job/umzugsmitarbeiter-allrounder-40-100/3663321",
+      "summary": "Empresa de transportes y mudanzas busca empleado de mudanzas polivalente, fijo, del 40 al 100 %.",
+      "workload": "40–100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán muy bueno (oral y escrito); carné de conducir mín. cat. B",
+      "requirements": [
+        "Muy buen alemán oral y escrito",
+        "Carné de conducir mínimo categoría B"
+      ],
+      "englishOk": false,
+      "de": {
+        "title": "Umzugsmitarbeiter / Allrounder 40 % - 100 %",
+        "summary": "Transport- und Umzugsfirma sucht Umzugsmitarbeiter/Allrounder in Festanstellung, 40–100 %.",
+        "workload": "40–100 %",
+        "employmentType": "Festanstellung",
+        "language": "Sehr gute Deutschkenntnisse in Wort und Schrift; Führerschein mind. Kat. B",
+        "requirements": [
+          "Sehr gute Deutschkenntnisse in Wort und Schrift",
+          "Führerschein mind. Kat. B"
+        ]
+      },
+      "id": "676d26a300ac",
+      "foundAt": "2026-11-16T18:59:57.766Z"
     },
     {
       "searchId": "lager",
@@ -4621,6 +4674,27 @@
       "foundAt": "2026-11-12T07:02:24.394Z"
     },
     {
+      "searchId": "umzug",
+      "title": "Disponent Logistik für Umzug (m/w/d) 100%",
+      "titleEs": "Planificador/a de logística de mudanzas 100 %",
+      "company": "Manpower",
+      "location": "Zürich",
+      "postedAt": "2026-11-10",
+      "source": "myjob.ch",
+      "url": "https://www.myjob.ch/job/disponent-logistik-fuer-umzug-m-w-d-100/3650377",
+      "summary": "Puesto de oficina: planificación y coordinación de mudanzas (no es de cargar muebles), fijo al 100 %, vía Manpower.",
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "de": {
+        "title": "Disponent Logistik für Umzug (m/w/d) 100%",
+        "summary": "Bürostelle: Disposition und Koordination von Umzügen, Festanstellung 100 % über Manpower.",
+        "workload": "100 %",
+        "employmentType": "Festanstellung"
+      },
+      "id": "2e121628bef5",
+      "foundAt": "2026-11-16T18:59:57.766Z"
+    },
+    {
       "searchId": "lager",
       "title": "Staplerfahrer/-in 100% (m/w/d) in 8107 Buchs ZH",
       "titleEs": "Carretillero/a 100 % en Buchs ZH",
@@ -6651,6 +6725,28 @@
       "foundAt": "2026-11-12T11:44:58.393Z"
     },
     {
+      "searchId": "umzug",
+      "title": "Umzugsleiter 100 %",
+      "titleEs": "Jefe/a de mudanzas 100 %",
+      "company": "Kummer Transporte",
+      "location": "Hombrechtikon ZH",
+      "postedAt": "2026-11-08",
+      "source": "myjob.ch",
+      "url": "https://www.myjob.ch/job/umzugsleiter-100/3647147",
+      "summary": "Puesto de responsable de equipo de mudanzas (cargo de dirección), fijo al 100 %.",
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "seniority": "lead",
+      "de": {
+        "title": "Umzugsleiter 100 %",
+        "summary": "Führungsposition als Umzugsleiter, Festanstellung 100 %.",
+        "workload": "100 %",
+        "employmentType": "Festanstellung"
+      },
+      "id": "5be10a7367e8",
+      "foundAt": "2026-11-16T18:59:57.766Z"
+    },
+    {
       "searchId": "fullstack-ts",
       "title": "Senior Software Engineer, Engineering Productivity",
       "titleEs": "Ingeniero/a de software senior, productividad de ingeniería",
@@ -6879,6 +6975,27 @@
       },
       "id": "ae1fd61914be",
       "foundAt": "2026-11-12T15:20:33.966Z"
+    },
+    {
+      "searchId": "umzug",
+      "title": "Aushilfe als Umzugsmitarbeiter auf Abruf",
+      "titleEs": "Ayudante de mudanzas por horas (a demanda)",
+      "company": "Workmanagement AG",
+      "location": "Zug",
+      "postedAt": "2026-11-06",
+      "source": "myjob.ch",
+      "url": "https://www.myjob.ch/job/aushilfe-als-umzugsmitarbeiter-auf-abruf/3663591",
+      "summary": "Trabajo de ayudante de mudanzas a demanda (auf Abruf), del 20 al 100 %, en la zona de Zug.",
+      "workload": "20–100 %, a demanda",
+      "employmentType": "Por horas / a demanda",
+      "de": {
+        "title": "Aushilfe als Umzugsmitarbeiter auf Abruf",
+        "summary": "Aushilfe als Umzugsmitarbeiter auf Abruf, 20–100 %, Region Zug.",
+        "workload": "20–100 %, auf Abruf",
+        "employmentType": "Aushilfe auf Abruf"
+      },
+      "id": "2cad87383de6",
+      "foundAt": "2026-11-16T18:59:57.766Z"
     },
     {
       "searchId": "fullstack-ts",
@@ -9315,6 +9432,26 @@
       },
       "id": "fd7c9fabf0c3",
       "foundAt": "2026-11-12T15:20:33.966Z"
+    },
+    {
+      "searchId": "umzug",
+      "title": "Zügelmann (m/w)",
+      "titleEs": "Mozo/a de mudanzas",
+      "company": "Bellini Personal AG",
+      "location": "Winterthur und Umgebung",
+      "postedAt": "2026-10-30",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/2262f58a-8015-47f9-8326-842c9c170f04",
+      "summary": "La agencia Bellini Personal busca mozos de mudanzas para la zona de Winterthur.",
+      "language": "Conocimientos de alemán",
+      "englishOk": false,
+      "de": {
+        "title": "Zügelmann (m/w)",
+        "summary": "Bellini Personal sucht Zügelmänner/-frauen für die Region Winterthur.",
+        "language": "Deutschkenntnisse"
+      },
+      "id": "dd1580f1b8e8",
+      "foundAt": "2026-11-16T18:59:57.766Z"
     }
   ]
 }

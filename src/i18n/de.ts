@@ -26,6 +26,7 @@ export const de: Dictionary = {
   keywords: (list) => `Stichwörter: ${list}`,
   sources: (list) => `Websites: ${list}`,
   companies: (list) => `Firmen: ${list}`,
+  priority: '⭐ Prioritäre Suche: wird täglich gründlicher durchsucht',
   englishOnly: '🇬🇧 Nur mit Englisch',
   englishOkBadge: '🇬🇧 Englisch OK',
   seniority: { intern: 'Praktikum', junior: 'Junior', mid: 'Mid-Level', senior: 'Senior', lead: 'Lead' },

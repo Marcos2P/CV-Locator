@@ -28,6 +28,7 @@ export const es = {
   keywords: (list: string) => `Palabras clave: ${list}`,
   sources: (list: string) => `Webs: ${list}`,
   companies: (list: string) => `Empresas: ${list}`,
+  priority: '⭐ Búsqueda prioritaria: se revisa más a fondo cada día',
   englishOnly: '🇬🇧 Solo con inglés',
   englishOkBadge: '🇬🇧 Inglés OK',
   seniority: { intern: 'Prácticas', junior: 'Junior', mid: 'Intermedio', senior: 'Senior', lead: 'Lead' },

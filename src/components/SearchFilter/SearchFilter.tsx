@@ -15,7 +15,10 @@ interface Props {
 /** Chips con tus búsquedas activas; al pulsar una se filtran las tarjetas */
 function SearchFilter({ searches, selected, onSelect, englishOnly, onEnglishOnlyChange }: Props) {
   const { t, lang } = useLanguage()
-  const active = searches.filter((s) => s.active)
+  // Las prioritarias primero (sort es estable: dentro de cada grupo se mantiene el orden de searches.json)
+  const active = searches
+    .filter((s) => s.active)
+    .sort((a, b) => Number(b.priority ?? false) - Number(a.priority ?? false))
   if (active.length === 0) return null
 
   return (
@@ -34,6 +37,7 @@ function SearchFilter({ searches, selected, onSelect, englishOnly, onEnglishOnly
           aria-pressed={selected === s.id}
           onClick={() => onSelect(s.id)}
           title={[
+            s.priority && t.priority,
             t.areas(s.areas.map((a) => (a.radiusKm ? `${a.place} +${a.radiusKm} km` : a.place)).join(', ')),
             t.keywords(s.keywords.join(', ')), s.sources && t.sources(s.sources.join(', ')),
             s.companies && t.companies(s.companies.map((c) => c.name).join(', ')),
@@ -41,6 +45,7 @@ function SearchFilter({ searches, selected, onSelect, englishOnly, onEnglishOnly
             .filter(Boolean)
             .join('\n')}
         >
+          {s.priority && <span aria-hidden="true">⭐ </span>}
           {s.labels?.[lang] ?? s.title} <span className={styles.loc}>· {s.areas.map((a) => a.place).join(' / ')}</span>
         </button>
       ))}

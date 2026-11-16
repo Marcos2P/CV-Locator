@@ -2,7 +2,10 @@
 /**
  * Fusiona las ofertas nuevas de la búsqueda diaria con public/data/jobs.json.
  *
- *   node scripts/update-jobs.mjs <candidatas.json> <cobertura.json> <it|general>
+ *   node scripts/update-jobs.mjs <candidatas.json> <cobertura.json> <it|general> [--only=<id>[,<id>…]]
+ *
+ * --only: búsqueda manual de solo algunas búsquedas (p. ej. una búsqueda nueva). La cobertura solo se exige
+ * para esas búsquedas y se fusiona con la cobertura publicada del resto, que no se toca.
  *
  * - Comprueba que la cobertura incluye TODAS las webs y empresas de cada búsqueda activa
  *   (ver coverage.mjs). Si falta algo, no guarda nada y termina con error.
@@ -27,7 +30,8 @@ const JOBS_PATH = join(ROOT, 'public/data/jobs.json')
 const SEARCHES_PATH = join(ROOT, 'public/data/searches.json')
 const REQUIRED = ['searchId', 'title', 'company', 'location', 'postedAt', 'source', 'url', 'summary']
 
-const [candidatesPath, coveragePath, group] = process.argv.slice(2)
+const [candidatesPath, coveragePath, group, onlyArg] = process.argv.slice(2)
+const only = onlyArg?.startsWith('--only=') ? new Set(onlyArg.slice(7).split(',').filter(Boolean)) : null
 if (!candidatesPath || !coveragePath || !GROUPS.includes(group)) {
   console.error(`Uso: node scripts/update-jobs.mjs <candidatas.json> <cobertura.json> <${GROUPS.join('|')}>`)
   console.error(`Crea la cobertura con: node scripts/coverage-template.mjs ${group ?? '<grupo>'} > /tmp/cobertura.json`)
@@ -58,11 +62,17 @@ function ageInDays(dateStr, now) {
 
 const now = new Date()
 const current = readJson(JOBS_PATH)
-const searches = readJson(SEARCHES_PATH)
+const allSearches = readJson(SEARCHES_PATH)
+// Con --only, solo cuentan esas búsquedas (para la cobertura y para aceptar ofertas)
+const searches = only ? allSearches.filter((s) => only.has(s.id)) : allSearches
+if (only && searchesOf(searches, group).length !== only.size) {
+  console.error(`--only: alguna búsqueda no existe, no está activa o no es del grupo "${group}"`)
+  process.exit(1)
+}
 // Solo se aceptan ofertas de las búsquedas de este grupo
 const searchIds = new Set(searchesOf(searches, group).map((s) => s.id))
 const maxAgeFor = (searchId) =>
-  searches.find((s) => s.id === searchId)?.maxAgeDays ?? DEFAULT_MAX_AGE_DAYS
+  allSearches.find((s) => s.id === searchId)?.maxAgeDays ?? DEFAULT_MAX_AGE_DAYS
 const candidates = readJson(candidatesPath)
 const coverage = readJson(coveragePath)
 
@@ -138,7 +148,19 @@ const jobs = [...byId.values()].sort(
 )
 writeFileSync(JOBS_PATH, JSON.stringify({ updatedAt: now.toISOString(), jobs }, null, 2) + '\n')
 // La cobertura se publica también: así se puede comprobar qué se revisó en cada ejecución.
-writeFileSync(COVERAGE_PATH, JSON.stringify({ updatedAt: now.toISOString(), ...coverage }, null, 2) + '\n')
+let published = coverage
+if (only) {
+  // Mantener la cobertura del resto de búsquedas tal como la dejó la última búsqueda completa
+  let prev = { searches: {} }
+  try {
+    prev = readJson(COVERAGE_PATH)
+  } catch {
+    /* aún no hay cobertura publicada */
+  }
+  const { updatedAt: _prevUpdatedAt, ...prevRest } = prev
+  published = { ...prevRest, searches: { ...prev.searches, ...coverage.searches } }
+}
+writeFileSync(COVERAGE_PATH, JSON.stringify({ updatedAt: now.toISOString(), ...published }, null, 2) + '\n')
 
 const companies = updateCompanies(jobs, now)
 

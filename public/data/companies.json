@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T18:54:16.150Z",
+  "updatedAt": "2026-11-16T18:59:57.766Z",
   "companies": [
     {
       "key": "academic work",
@@ -463,6 +463,29 @@
           "postedAt": "2026-11-08",
           "location": "Zürich",
           "url": "https://ch.linkedin.com/jobs/view/4479655549"
+        }
+      ]
+    },
+    {
+      "key": "new work human resources",
+      "name": "New Work Human Resources",
+      "agency": false,
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "searchIds": [
+        "umzug"
+      ],
+      "locations": [
+        "Zürich"
+      ],
+      "jobs": [
+        {
+          "id": "7a4afe7dae8f",
+          "title": "Empleado/a de mudanzas",
+          "searchId": "umzug",
+          "postedAt": "2026-11-16",
+          "location": "Zürich",
+          "url": "https://www.myjob.ch/job/umzugsmitarbeiter-m-w/3672567"
         }
       ]
     },
@@ -1552,19 +1575,53 @@
       ]
     },
     {
+      "key": "kummer transporte",
+      "name": "Kummer Transporte",
+      "agency": false,
+      "firstSeen": "2026-11-08",
+      "lastSeen": "2026-11-13",
+      "searchIds": [
+        "umzug"
+      ],
+      "locations": [
+        "Hombrechtikon ZH"
+      ],
+      "jobs": [
+        {
+          "id": "676d26a300ac",
+          "title": "Empleado/a de mudanzas / polivalente 40–100 %",
+          "searchId": "umzug",
+          "postedAt": "2026-11-13",
+          "location": "Hombrechtikon ZH",
+          "url": "https://www.myjob.ch/job/umzugsmitarbeiter-allrounder-40-100/3663321",
+          "englishOk": false
+        },
+        {
+          "id": "5be10a7367e8",
+          "title": "Jefe/a de mudanzas 100 %",
+          "searchId": "umzug",
+          "postedAt": "2026-11-08",
+          "location": "Hombrechtikon ZH",
+          "url": "https://www.myjob.ch/job/umzugsleiter-100/3647147"
+        }
+      ]
+    },
+    {
       "key": "manpower",
       "name": "Manpower",
       "agency": true,
       "firstSeen": "2026-11-09",
       "lastSeen": "2026-11-13",
       "searchIds": [
-        "lager"
+        "lager",
+        "umzug"
       ],
       "locations": [
         "Dietikon",
         "Buchs ZH",
         "Regensdorf",
-        "Dübendorf"
+        "Dübendorf",
+        "Zürich"
       ],
       "jobs": [
         {
@@ -1601,6 +1658,14 @@
           "location": "Buchs ZH",
           "url": "https://www.manpower.ch/de/job/buchs/staplerfahrer-in-100-m-w-d-in-8107-buchs-zh/637405",
           "englishOk": false
+        },
+        {
+          "id": "2e121628bef5",
+          "title": "Planificador/a de logística de mudanzas 100 %",
+          "searchId": "umzug",
+          "postedAt": "2026-11-10",
+          "location": "Zürich",
+          "url": "https://www.myjob.ch/job/disponent-logistik-fuer-umzug-m-w-d-100/3650377"
         },
         {
           "id": "50b45c62199a",
@@ -4991,6 +5056,29 @@
       ]
     },
     {
+      "key": "workmanagement",
+      "name": "Workmanagement AG",
+      "agency": false,
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "searchIds": [
+        "umzug"
+      ],
+      "locations": [
+        "Zug"
+      ],
+      "jobs": [
+        {
+          "id": "2cad87383de6",
+          "title": "Ayudante de mudanzas por horas (a demanda)",
+          "searchId": "umzug",
+          "postedAt": "2026-11-06",
+          "location": "Zug",
+          "url": "https://www.myjob.ch/job/aushilfe-als-umzugsmitarbeiter-auf-abruf/3663591"
+        }
+      ]
+    },
+    {
       "key": "zurcher kantonalbank",
       "name": "Zürcher Kantonalbank",
       "agency": false,
@@ -6078,6 +6166,30 @@
           "postedAt": "2026-10-30",
           "location": "Zürich-Flughafen",
           "url": "https://ch.linkedin.com/jobs/view/senior-software-engineer-80%E2%80%93100-%25-at-abraxas-informatik-ag-4483591425"
+        }
+      ]
+    },
+    {
+      "key": "bellini personal",
+      "name": "Bellini Personal AG",
+      "agency": true,
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "searchIds": [
+        "umzug"
+      ],
+      "locations": [
+        "Winterthur und Umgebung"
+      ],
+      "jobs": [
+        {
+          "id": "dd1580f1b8e8",
+          "title": "Mozo/a de mudanzas",
+          "searchId": "umzug",
+          "postedAt": "2026-10-30",
+          "location": "Winterthur und Umgebung",
+          "url": "https://www.jobscout24.ch/de/job/2262f58a-8015-47f9-8326-842c9c170f04",
+          "englishOk": false
         }
       ]
     },

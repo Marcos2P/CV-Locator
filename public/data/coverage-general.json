@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T18:54:16.150Z",
+  "updatedAt": "2026-11-16T18:59:57.766Z",
   "searches": {
     "lager": {
       "sources": {
@@ -581,6 +581,208 @@
           "offersReviewed": 33,
           "offersAdded": 0,
           "note": "Listado general: sin puestos en regiones de montaña"
+        }
+      }
+    },
+    "umzug": {
+      "sources": {
+        "jobs.ch": {
+          "status": "blocked",
+          "url": "",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "Búsqueda manual 2026-11-16 desde sesión local: WebFetch a jobs.ch denegado por permisos. La tarea diaria lo revisará."
+        },
+        "linkedin.com/jobs": {
+          "status": "blocked",
+          "url": "",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "Búsqueda manual 2026-11-16: WebFetch a LinkedIn denegado por permisos en la sesión local."
+        },
+        "jobscout24.ch": {
+          "status": "ok",
+          "url": "https://www.jobscout24.ch/de/jobs/z%C3%BCgelmann/",
+          "offersReviewed": 16,
+          "offersAdded": 2,
+          "note": "También umzugsmitarbeiter Zürich/Winterthur, umzugshelfer, möbelträger. Página 1 de 4 de zügelmann; Bellini \"ganze Deutschschweiz\" sin lugar ni fecha exacta."
+        },
+        "myjob.ch": {
+          "status": "ok",
+          "url": "https://www.myjob.ch/job/suche-umzug",
+          "offersReviewed": 22,
+          "offersAdded": 5,
+          "note": "suche-umzug-mitarbeiter, umzug (pág. 1 de 271), zügelmann, möbelträger, umzugshelfer, möbelmonteur, transporthelfer"
+        },
+        "ch.indeed.com": {
+          "status": "ok",
+          "url": "https://ch.indeed.com/Umzug-Jobs-in-Winterthur,-ZH",
+          "offersReviewed": 15,
+          "offersAdded": 0,
+          "note": "Sin fechas: Jost Transport (Ebmatingen, 3 ofertas), Brägger & Thomann (Embrach), Swiss Transporte (Zürich), Universal-Job (Frauenfeld), ALUSHI (Matzingen). Búsqueda Zürich: 403."
+        },
+        "join.com": {
+          "status": "ok",
+          "url": "https://www.google.com/search?q=site:join.com+Umzug+Z%C3%BCrich",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "WebSearch site:join.com Umzug Zürich: ningún resultado de join.com"
+        }
+      },
+      "companies": {
+        "Welti-Furrer AG": {
+          "status": "ok",
+          "url": "https://www.welti-furrer.ch/karriere",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "Página de carrera sin ofertas listadas"
+        },
+        "Jost Transport AG": {
+          "status": "ok",
+          "url": "https://ch.indeed.com/Umzug-Jobs-in-Winterthur,-ZH",
+          "offersReviewed": 3,
+          "offersAdded": 0,
+          "note": "3 ofertas en Indeed sin fecha"
+        },
+        "Kummer Transporte": {
+          "status": "ok",
+          "url": "https://www.myjob.ch/job/suche-umzug-mitarbeiter",
+          "offersReviewed": 2,
+          "offersAdded": 2,
+          "note": ""
+        },
+        "Brägger & Thomann AG": {
+          "status": "ok",
+          "url": "https://ch.indeed.com/viewjob?jk=e735c5b9e8f8f6a8",
+          "offersReviewed": 1,
+          "offersAdded": 0,
+          "note": "Teamleiter Umzug, sin fecha"
+        },
+        "Bischof Umzüge und Transporte AG": {
+          "status": "ok",
+          "url": "https://www.bischof-umzuege.ch/1316176579.html",
+          "offersReviewed": 2,
+          "offersAdded": 0,
+          "note": "Zügelaushilfen auf Abruf y Zügelmann/Chauffeur 100 % (Kat. C + CZV), sin fecha"
+        },
+        "Kaufmann Umzüge GmbH": {
+          "status": "error",
+          "url": "",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "https://www.kaufmann-umzuege.ch: fallo de la herramienta sin código HTTP"
+        },
+        "Swiss Transporte GmbH": {
+          "status": "ok",
+          "url": "https://ch.indeed.com/viewjob?jk=da1f83b72fdb173e",
+          "offersReviewed": 1,
+          "offersAdded": 0,
+          "note": "Umzugsmitarbeiter mit Lastwagenprüfung C/CE, sin fecha"
+        },
+        "ALUSHI AG": {
+          "status": "ok",
+          "url": "https://ch.indeed.com/viewjob?jk=e5c708b96ce1cf98",
+          "offersReviewed": 1,
+          "offersAdded": 0,
+          "note": "Facharbeiter Umzüge auf Stundenbasis, Matzingen, sin fecha"
+        },
+        "Weiss Reinigung und Umzug GmbH": {
+          "status": "ok",
+          "url": "https://weiss-reinigung.ch/jobs/",
+          "offersReviewed": 2,
+          "offersAdded": 0,
+          "note": "Möbelfahrer/Möbelträger, sin fecha; solo solicitudes por correo postal o teléfono"
+        },
+        "Bellini Personal AG": {
+          "status": "ok",
+          "url": "https://www.jobscout24.ch/de/jobs/z%C3%BCgelmann/",
+          "offersReviewed": 12,
+          "offersAdded": 2,
+          "note": ""
+        },
+        "Universal-Job AG": {
+          "status": "ok",
+          "url": "https://www.jobscout24.ch/de/job/9f1cec64-aca0-4913-b25e-e846fcade01b/",
+          "offersReviewed": 2,
+          "offersAdded": 0,
+          "note": "Zürich 23.10 (fuera de plazo); Frauenfeld en Indeed sin fecha"
+        },
+        "Workmanagement AG": {
+          "status": "ok",
+          "url": "https://www.myjob.ch/job/aushilfe-als-umzugsmitarbeiter-auf-abruf/3663591",
+          "offersReviewed": 1,
+          "offersAdded": 1,
+          "note": ""
+        },
+        "New Work Human Resources": {
+          "status": "ok",
+          "url": "https://www.myjob.ch/job/umzugsmitarbeiter-m-w/3672567",
+          "offersReviewed": 1,
+          "offersAdded": 1,
+          "note": ""
+        },
+        "Express Personal AG": {
+          "status": "ok",
+          "url": "https://www.expresspersonal.ch/fur-stellensuchende/jobsuche/",
+          "offersReviewed": 139,
+          "offersAdded": 0,
+          "note": "Ninguna de mudanzas"
+        },
+        "Coople": {
+          "status": "ok",
+          "url": "https://www.coople.com/ch/jobs/de/",
+          "offersReviewed": 30,
+          "offersAdded": 0,
+          "note": ""
+        },
+        "Adecco": {
+          "status": "ok",
+          "url": "https://www.myjob.ch/job/aushilfe-als-umzugsmitarbeiter-m-w-d/3605482",
+          "offersReviewed": 1,
+          "offersAdded": 0,
+          "note": "adecco.ch redirige a adecco.com (no seguido); su oferta de Windisch 29.10 está fuera de zona"
+        },
+        "Manpower": {
+          "status": "ok",
+          "url": "https://www.myjob.ch/job/disponent-logistik-fuer-umzug-m-w-d-100/3650377",
+          "offersReviewed": 1,
+          "offersAdded": 1,
+          "note": "manpower.ch/fr/recherche no muestra ofertas; oferta encontrada en myjob.ch"
+        },
+        "Randstad": {
+          "status": "ok",
+          "url": "https://www.randstad.ch/jobs/",
+          "offersReviewed": 27,
+          "offersAdded": 0,
+          "note": "Página 1 de 1048"
+        },
+        "Kelly Services": {
+          "status": "blocked",
+          "url": "",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "kellyservices.ch redirige a kellyocg.com (otro dominio, no seguido)"
+        },
+        "Interiman Group": {
+          "status": "blocked",
+          "url": "",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "interiman.ch redirige a albedis.com (otro dominio, no seguido)"
+        },
+        "Persona Service": {
+          "status": "blocked",
+          "url": "",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "personaservice.ch redirige a persona.ch (otro dominio, no seguido)"
+        },
+        "Gi Group": {
+          "status": "ok",
+          "url": "https://ch.gigroup.com/job-offers/",
+          "offersReviewed": 2,
+          "offersAdded": 0,
+          "note": ""
         }
       }
     }

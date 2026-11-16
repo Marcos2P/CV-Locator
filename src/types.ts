@@ -23,6 +23,11 @@ export interface Search {
   companies?: Company[]
   /** Días que una oferta sigue siendo "nueva" (por defecto 7) */
   maxAgeDays?: number
+  /**
+   * Búsqueda prioritaria: la app la enseña primero y con ⭐, y la búsqueda diaria la revisa
+   * más a fondo (cada keyword por separado, más páginas, sin máximo de ofertas por día)
+   */
+  priority?: boolean
   /** Si es false, la búsqueda diaria la ignora */
   active: boolean
 }
