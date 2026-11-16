@@ -1,9 +1,10 @@
 import { useCallback, useEffect, useState } from 'react'
-import type { JobsFile, Search } from '../types'
+import type { CompaniesFile, JobsFile, Search } from '../types'
 
 interface JobData {
   searches: Search[]
   jobs: JobsFile
+  companies: CompaniesFile
 }
 
 export type JobDataState =
@@ -20,7 +21,7 @@ async function fetchJson<T>(path: string): Promise<T> {
 }
 
 /**
- * Carga searches.json y jobs.json al abrir la app.
+ * Carga searches.json, jobs.json y companies.json al abrir la app.
  * `reload()` vuelve a pedirlos sin mostrar "Cargando…" (se usa al esperar una búsqueda).
  */
 export function useJobData() {
@@ -30,9 +31,14 @@ export function useJobData() {
 
   useEffect(() => {
     let cancelled = false
-    Promise.all([fetchJson<Search[]>('searches.json'), fetchJson<JobsFile>('jobs.json')])
-      .then(([searches, jobs]) => {
-        if (!cancelled) setState({ status: 'ready', data: { searches, jobs } })
+    Promise.all([
+      fetchJson<Search[]>('searches.json'),
+      fetchJson<JobsFile>('jobs.json'),
+      // El registro de empresas es un extra: si falta, la app funciona igual.
+      fetchJson<CompaniesFile>('companies.json').catch(() => ({ updatedAt: null, companies: [] })),
+    ])
+      .then(([searches, jobs, companies]) => {
+        if (!cancelled) setState({ status: 'ready', data: { searches, jobs, companies } })
       })
       .catch((err: unknown) => {
         if (cancelled) return

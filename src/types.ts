@@ -109,4 +109,36 @@ export interface SavedJob {
   at: string
 }
 
-export type Tab = 'new' | JobStatus
+/** Oferta vista de una empresa (versión corta, se guarda aunque caduque en jobs.json) */
+export interface CompanyJob {
+  id: string
+  title: string
+  searchId: string
+  postedAt: string
+  location: string
+  url: string
+  englishOk?: boolean
+}
+
+/** Una empresa del registro acumulado (public/data/companies.json) */
+export interface CompanyEntry {
+  /** Nombre normalizado para reconocer la misma empresa */
+  key: string
+  name: string
+  /** Agencia de empleo / headhunter (no el empleador final) */
+  agency: boolean
+  /** Primera y última fecha en que publicó una oferta (YYYY-MM-DD) */
+  firstSeen: string
+  lastSeen: string
+  searchIds: string[]
+  locations: string[]
+  /** Todas las ofertas que se le han visto, la más reciente primero */
+  jobs: CompanyJob[]
+}
+
+export interface CompaniesFile {
+  updatedAt: string | null
+  companies: CompanyEntry[]
+}
+
+export type Tab = 'new' | JobStatus | 'companies'

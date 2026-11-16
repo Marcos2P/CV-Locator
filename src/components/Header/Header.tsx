@@ -8,7 +8,7 @@ import styles from './Header.module.css'
 interface Props {
   tab: Tab
   onTabChange: (tab: Tab) => void
-  /** Número de ofertas en cada pestaña */
+  /** Número de ofertas (o de empresas) en cada pestaña */
   counts: Record<Tab, number>
   updatedAt: string | null
   /** Botón de búsqueda (u otra acción) a la derecha */
@@ -21,6 +21,7 @@ function Header({ tab, onTabChange, counts, updatedAt, action }: Props) {
     { id: 'new', label: t.tabNew, count: counts.new },
     { id: 'applied', label: t.tabApplied, count: counts.applied },
     { id: 'dismissed', label: t.tabDismissed, count: counts.dismissed },
+    { id: 'companies', label: t.tabCompanies, count: counts.companies },
   ]
 
   return (

@@ -8,6 +8,7 @@ export const de: Dictionary = {
   tabNew: 'Neue Stellen',
   tabApplied: 'Beworben',
   tabDismissed: 'Nicht interessant',
+  tabCompanies: 'Firmen',
   tabsLabel: 'Ansichten',
   lastSearch: (date) => `Letzte Suche: ${date}`,
   noSearchYet: 'Noch keine Suche',
@@ -35,6 +36,23 @@ export const de: Dictionary = {
   emptyNew: 'Keine neuen Stellen. Die nächste Suche ist morgen um 8:00 Uhr.',
   emptyApplied: 'Du hast dich noch auf keine Stelle beworben.',
   emptyDismissed: 'Hier erscheinen die Stellen, die du als «Nicht interessant» markierst.',
+
+  // Firmen
+  companySearch: 'Firma, Ort oder Stelle suchen…',
+  companySortLabel: 'Sortieren',
+  companySort: { recent: 'Neueste', active: 'Meiste aktive Stellen', total: 'Meiste Stellen insgesamt', name: 'A–Z' },
+  hideAgencies: 'Vermittler ausblenden',
+  agencyBadge: 'Vermittler',
+  companiesSummary: (n, active) =>
+    `${n} Firmen · ${active} mit aktuell offenen Stellen. Alle bleiben gespeichert, auch wenn ihre Stellen ablaufen.`,
+  emptyCompanies: 'Keine Firmen mit diesen Filtern.',
+  companyActive: (n) => (n === 1 ? '1 aktive Stelle' : `${n} aktive Stellen`),
+  companyNoActive: 'Keine aktiven Stellen',
+  companySeen: (n) => (n === 1 ? '1 Stelle gesehen' : `${n} Stellen gesehen`),
+  companyLast: (when) => `zuletzt ${when}`,
+  companyFirst: (date) => `seit ${date}`,
+  companyJobs: (n) => `Stellen anzeigen (${n})`,
+  companyExpired: 'abgelaufen',
 
   // Karte
   badgeNew: 'Neu',

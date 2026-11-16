@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useState } from 'react'
+import CompanyList from './components/CompanyList/CompanyList'
 import Header from './components/Header/Header'
 import JobCard from './components/JobCard/JobCard'
 import JobDetail from './components/JobDetail/JobDetail'
@@ -8,7 +9,7 @@ import SearchFilter from './components/SearchFilter/SearchFilter'
 import { useLanguage } from './i18n/LanguageContext'
 import { useJobData } from './hooks/useJobData'
 import { useJobStatus } from './hooks/useJobStatus'
-import type { Job, JobStatus, SavedJob, Search, Tab } from './types'
+import type { CompanyEntry, Job, JobStatus, SavedJob, Search, Tab } from './types'
 import { isFresh } from './utils/date'
 import styles from './App.module.css'
 
@@ -16,6 +17,7 @@ import styles from './App.module.css'
 // así useMemo no se recalcula sin motivo.
 const NO_JOBS: Job[] = []
 const NO_SEARCHES: Search[] = []
+const NO_COMPANIES: CompanyEntry[] = []
 
 /** Mientras se busca, comprobamos jobs.json cada minuto, durante 30 min como máximo */
 const POLL_MS = 60_000
@@ -33,6 +35,7 @@ function App() {
 
   const searches = state.status === 'ready' ? state.data.searches : NO_SEARCHES
   const allJobs = state.status === 'ready' ? state.data.jobs.jobs : NO_JOBS
+  const companies = state.status === 'ready' ? state.data.companies.companies : NO_COMPANIES
   const updatedAt = state.status === 'ready' ? state.data.jobs.updatedAt : null
 
   // Búsqueda manual en curso: guardamos el `updatedAt` que había al pulsar el botón.
@@ -71,12 +74,13 @@ function App() {
     new: newJobs.length,
     applied: savedByStatus.applied.length,
     dismissed: savedByStatus.dismissed.length,
+    companies: companies.length,
   }
 
   const matches = (j: Job) =>
     (!searchId || j.searchId === searchId) && (!englishOnly || j.englishOk === true)
   const visibleNew = newJobs.filter(matches)
-  const visibleSaved = tab === 'new' ? [] : savedByStatus[tab].filter((s) => matches(s.job))
+  const visibleSaved = tab === 'new' || tab === 'companies' ? [] : savedByStatus[tab].filter((s) => matches(s.job))
 
   return (
     <>
@@ -111,7 +115,16 @@ function App() {
               onEnglishOnlyChange={setEnglishOnly}
             />
 
-            {tab === 'new' ? (
+            {tab === 'companies' ? (
+              <CompanyList
+                companies={companies}
+                searches={searches}
+                jobs={allJobs}
+                searchId={searchId}
+                englishOnly={englishOnly}
+                onOpenJob={setOpenJob}
+              />
+            ) : tab === 'new' ? (
               <JobGrid
                 isEmpty={visibleNew.length === 0}
                 emptyMessage={t.emptyNew}

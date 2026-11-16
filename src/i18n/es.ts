@@ -10,6 +10,7 @@ export const es = {
   tabNew: 'Nuevos puestos',
   tabApplied: 'Solicitados',
   tabDismissed: 'No me interesan',
+  tabCompanies: 'Empresas',
   tabsLabel: 'Vistas',
   lastSearch: (date: string) => `Última búsqueda: ${date}`,
   noSearchYet: 'Aún no hay búsquedas',
@@ -37,6 +38,23 @@ export const es = {
   emptyNew: 'No hay ofertas nuevas. La próxima búsqueda es mañana a las 8:00.',
   emptyApplied: 'Todavía no has marcado ninguna oferta como solicitada.',
   emptyDismissed: 'Aquí aparecerán las ofertas que marques como «No me interesa».',
+
+  // Empresas
+  companySearch: 'Buscar empresa, lugar o puesto…',
+  companySortLabel: 'Ordenar',
+  companySort: { recent: 'Más recientes', active: 'Más ofertas activas', total: 'Más ofertas en total', name: 'A–Z' },
+  hideAgencies: 'Ocultar agencias',
+  agencyBadge: 'Agencia',
+  companiesSummary: (n: number, active: number) =>
+    `${n} empresas · ${active} con ofertas activas ahora. Se guardan todas, aunque sus ofertas caduquen.`,
+  emptyCompanies: 'No hay empresas con estos filtros.',
+  companyActive: (n: number) => (n === 1 ? '1 oferta activa' : `${n} ofertas activas`),
+  companyNoActive: 'Sin ofertas activas',
+  companySeen: (n: number) => (n === 1 ? '1 oferta vista' : `${n} ofertas vistas`),
+  companyLast: (when: string) => `última ${when}`,
+  companyFirst: (date: string) => `desde el ${date}`,
+  companyJobs: (n: number) => `Ver ofertas (${n})`,
+  companyExpired: 'caducada',
 
   // Tarjeta
   badgeNew: 'Nuevo',

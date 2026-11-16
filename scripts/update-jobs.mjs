@@ -11,11 +11,13 @@
  * - Ignora duplicados (misma URL, o mismo título + empresa).
  * - Borra las ofertas más antiguas que `maxAgeDays` de su búsqueda (7 días por defecto).
  * - Actualiza `updatedAt` aunque no haya ofertas nuevas.
+ * - Añade las empresas al registro acumulado public/data/companies.json (ver companies.mjs).
  */
 import { createHash } from 'node:crypto'
 import { readFileSync, writeFileSync } from 'node:fs'
 import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
+import { updateCompanies } from './companies.mjs'
 import { GROUPS, searchesOf, validateCoverage } from './coverage.mjs'
 
 const DEFAULT_MAX_AGE_DAYS = 7
@@ -138,6 +140,11 @@ writeFileSync(JOBS_PATH, JSON.stringify({ updatedAt: now.toISOString(), jobs }, 
 // La cobertura se publica también: así se puede comprobar qué se revisó en cada ejecución.
 writeFileSync(COVERAGE_PATH, JSON.stringify({ updatedAt: now.toISOString(), ...coverage }, null, 2) + '\n')
 
+const companies = updateCompanies(jobs, now)
+
+console.log(
+  `Empresas nuevas: ${companies.added} · Empresas en total: ${companies.total}`,
+)
 console.log(
   `Añadidas: ${report.added} · Duplicadas: ${report.duplicate} · ` +
     `Demasiado antiguas: ${report.tooOld} · Caducadas borradas: ${removed} · Total: ${jobs.length}`,

@@ -195,14 +195,14 @@ node scripts/update-jobs.mjs /tmp/candidatas.json /tmp/cobertura.json <GRUPO>
 
 - Si dice **COBERTURA INCOMPLETA**, vuelve al paso 2 y revisa lo que falta. **No sigas hasta que pase.**
 - Si hay ofertas inválidas, corrígelas y vuelve a ejecutarlo.
-- Guarda `jobs.json` (ofertas) y `coverage-<GRUPO>.json` (qué se revisó). Luego haz commit y push a `main`,
+- Guarda `jobs.json` (ofertas), `companies.json` (registro acumulado de empresas) y `coverage-<GRUPO>.json` (qué se revisó). Luego haz commit y push a `main`,
   aunque no haya ofertas nuevas. La otra tarea también escribe en `jobs.json`, así que justo antes **trae la
   versión remota** y vuelve a ejecutar el script sobre ella (las candidatas y la cobertura siguen en `/tmp`):
 
 ```bash
 git fetch origin && git reset --hard origin/main
 node scripts/update-jobs.mjs /tmp/candidatas.json /tmp/cobertura.json <GRUPO>
-git add public/data/jobs.json public/data/coverage-<GRUPO>.json
+git add public/data/jobs.json public/data/companies.json public/data/coverage-<GRUPO>.json
 git commit -m "data: <GRUPO> job search YYYY-MM-DD (+N)"
 git push
 ```
