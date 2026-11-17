@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-11-16T18:59:57.766Z",
+  "updatedAt": "2026-11-17T06:20:07.343Z",
   "companies": [
+    {
+      "key": "inventx",
+      "name": "Inventx AG",
+      "agency": false,
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17",
+      "searchIds": [
+        "qa-test"
+      ],
+      "locations": [
+        "Zürich"
+      ],
+      "jobs": [
+        {
+          "id": "e5a156474c01",
+          "title": "Senior Test Manager",
+          "searchId": "qa-test",
+          "postedAt": "2026-11-17",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/senior-test-manager-80-100%25-at-inventx-ag-4490648849",
+          "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "quantum digital",
+      "name": "Quantum Digital",
+      "agency": false,
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17",
+      "searchIds": [
+        "fullstack-ts"
+      ],
+      "locations": [
+        "Dietlikon"
+      ],
+      "jobs": [
+        {
+          "id": "2c462d9cc950",
+          "title": "Desarrollador/a fullstack C# y ColdFusion o PHP",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-17",
+          "location": "Dietlikon",
+          "url": "https://ch.linkedin.com/jobs/view/fullstack-entwickler-c%23-und-coldfusion-oder-php-m-w-at-quantum-digital-4490199044",
+          "englishOk": false
+        }
+      ]
+    },
     {
       "key": "academic work",
       "name": "Academic Work Switzerland SA",
@@ -178,6 +226,57 @@
       ]
     },
     {
+      "key": "consult & pepper",
+      "name": "Consult & Pepper AG",
+      "agency": true,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
+      "searchIds": [
+        "fullstack-ts",
+        "frontend-react"
+      ],
+      "locations": [
+        "Zürich"
+      ],
+      "jobs": [
+        {
+          "id": "aa1f4bf9e327",
+          "title": "Senior Fullstack Software Engineer con foco en frontend",
+          "searchId": "frontend-react",
+          "postedAt": "2026-11-16",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/senior-fullstack-software-engineer-mit-fokus-frontend-a-80-%E2%80%93-100%25-at-consult-pepper-ag-4471434272",
+          "englishOk": false
+        },
+        {
+          "id": "09913a8d2098",
+          "title": "Ingeniero/a de software full-stack con mentalidad DevOps",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-10",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/fullstack-software-engineer-mit-devops-mindset-a-80-%E2%80%93-100%25-at-consult-pepper-ag-4467098880"
+        },
+        {
+          "id": "6eca88f02f6d",
+          "title": "Ingeniero/a de Software Fullstack con mentalidad DevOps (80–100%)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-09",
+          "location": "Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/4bf49022-613d-4dc4-ab2a-0034f14b1952",
+          "englishOk": false
+        },
+        {
+          "id": "2ca89ba9d72d",
+          "title": "Tech Lead / Ingeniero/a de software Java Fullstack - eBanking",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-09",
+          "location": "Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/5516c71b-65a5-4f5c-bf3a-f3e0afc3e6ff",
+          "englishOk": false
+        }
+      ]
+    },
+    {
       "key": "coople",
       "name": "Coople",
       "agency": true,
@@ -293,6 +392,30 @@
       ]
     },
     {
+      "key": "digiterra",
+      "name": "Digiterra AG",
+      "agency": false,
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "searchIds": [
+        "fullstack-ts"
+      ],
+      "locations": [
+        "Zürich"
+      ],
+      "jobs": [
+        {
+          "id": "6877f544106e",
+          "title": "Ingeniero/a de software Java",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-16",
+          "location": "Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/070186b7-6959-4280-8aa7-34bfd9d4d7e5",
+          "englishOk": false
+        }
+      ]
+    },
+    {
       "key": "employ me",
       "name": "Employ Me AG",
       "agency": true,
@@ -345,6 +468,39 @@
           "postedAt": "2026-11-16",
           "location": "Baden AG",
           "url": "https://ch.linkedin.com/jobs/view/product-software-engineer-a-80-100%25-at-encontrol-ag-4490583924",
+          "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "itech consult",
+      "name": "ITech Consult AG",
+      "agency": false,
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-16",
+      "searchIds": [
+        "fullstack-ts"
+      ],
+      "locations": [
+        "Zürich"
+      ],
+      "jobs": [
+        {
+          "id": "256678a3faa3",
+          "title": "Desarrollador/a Java (freelance)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-16",
+          "location": "Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/9617f009-6378-48b0-b42d-6d2da690c21c",
+          "englishOk": false
+        },
+        {
+          "id": "505bfdad5f6a",
+          "title": "Ingeniero/a de software Java (integración de datos / Kafka)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-13",
+          "location": "Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/4706fe47-3043-4760-96cb-bd398d48c185",
           "englishOk": false
         }
       ]
@@ -767,6 +923,48 @@
       ]
     },
     {
+      "key": "yellowshark",
+      "name": "yellowshark",
+      "agency": true,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
+      "searchIds": [
+        "junior-it"
+      ],
+      "locations": [
+        "Lenzburg AG",
+        "Uetikon am See ZH",
+        "Urdorf"
+      ],
+      "jobs": [
+        {
+          "id": "14225717cd31",
+          "title": "Soporte IT (1.º y 2.º nivel)",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-16",
+          "location": "Urdorf",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/7bcda914-5b59-47eb-a025-20d6c7f16cdc",
+          "englishOk": false
+        },
+        {
+          "id": "0cf983cd0206",
+          "title": "Soporte IT 80–100%",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-14",
+          "location": "Uetikon am See ZH",
+          "url": "https://ch.linkedin.com/jobs/view/it-supporter-80-100%25-m-w-at-yellowshark%C2%AE-ag-4488982754"
+        },
+        {
+          "id": "e5db5c894191",
+          "title": "Soporte IT",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-09",
+          "location": "Lenzburg AG",
+          "url": "https://ch.linkedin.com/jobs/view/it-supporter-m-w-80-100%25-at-yellowshark%C2%AE-ag-4487167814"
+        }
+      ]
+    },
+    {
       "key": "fresh interactive",
       "name": "Fresh Interactive AG",
       "agency": false,
@@ -1009,7 +1207,8 @@
         "Birmensdorf ZH",
         "Dietlikon ZH",
         "Baden AG",
-        "Elsau ZH"
+        "Elsau ZH",
+        "Winterthur"
       ],
       "jobs": [
         {
@@ -1035,6 +1234,15 @@
           "postedAt": "2026-11-14",
           "location": "Elsau ZH",
           "url": "https://ch.linkedin.com/jobs/view/ict-supporter-%E2%80%93-windows-microsoft-365-it-arbeitspl%C3%A4tze-m-w-d-at-rocken%C2%AE-4489820262"
+        },
+        {
+          "id": "594cc62378ee",
+          "title": "Workplace Engineer y soporte de infraestructura IT",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-14",
+          "location": "Winterthur",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/2edbf8cf-46cf-4500-a272-64f38ad0cad7",
+          "englishOk": false
         },
         {
           "id": "e653e04cdfd3",
@@ -1212,6 +1420,29 @@
       ]
     },
     {
+      "key": "threema",
+      "name": "Threema AG",
+      "agency": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "searchIds": [
+        "fullstack-ts"
+      ],
+      "locations": [
+        "Pfäffikon SZ"
+      ],
+      "jobs": [
+        {
+          "id": "60f9d890b08a",
+          "title": "Ingeniero/a WebRTC",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-14",
+          "location": "Pfäffikon SZ",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/89dafaa7-cb01-4c13-9345-fa4ed47ce4ce"
+        }
+      ]
+    },
+    {
       "key": "vareno facility management",
       "name": "Vareno Facility Management",
       "agency": false,
@@ -1235,34 +1466,25 @@
       ]
     },
     {
-      "key": "yellowshark",
-      "name": "yellowshark® AG",
-      "agency": true,
-      "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-14",
+      "key": "br bauhandel",
+      "name": "BR Bauhandel AG",
+      "agency": false,
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-13",
       "searchIds": [
-        "junior-it"
+        "fullstack-ts"
       ],
       "locations": [
-        "Lenzburg AG",
-        "Uetikon am See ZH"
+        "Rümlang"
       ],
       "jobs": [
         {
-          "id": "0cf983cd0206",
-          "title": "Soporte IT 80–100%",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-14",
-          "location": "Uetikon am See ZH",
-          "url": "https://ch.linkedin.com/jobs/view/it-supporter-80-100%25-m-w-at-yellowshark%C2%AE-ag-4488982754"
-        },
-        {
-          "id": "e5db5c894191",
-          "title": "Soporte IT",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-09",
-          "location": "Lenzburg AG",
-          "url": "https://ch.linkedin.com/jobs/view/it-supporter-m-w-80-100%25-at-yellowshark%C2%AE-ag-4487167814"
+          "id": "16b4e9c58e58",
+          "title": "Ingeniero/a de software",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-13",
+          "location": "Rümlang",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/b827b54a-1f81-40de-9204-d4adbf10b5b1"
         }
       ]
     },
@@ -1501,30 +1723,6 @@
           "location": "Zürich",
           "url": "https://ch.linkedin.com/jobs/view/test-engineer-m-f-d-900286-1-at-hays-4486139312",
           "englishOk": true
-        }
-      ]
-    },
-    {
-      "key": "itech consult",
-      "name": "ITech Consult AG",
-      "agency": false,
-      "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-13",
-      "searchIds": [
-        "fullstack-ts"
-      ],
-      "locations": [
-        "Zürich"
-      ],
-      "jobs": [
-        {
-          "id": "505bfdad5f6a",
-          "title": "Ingeniero/a de software Java (integración de datos / Kafka)",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-13",
-          "location": "Zürich",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/4706fe47-3043-4760-96cb-bd398d48c185",
-          "englishOk": false
         }
       ]
     },
@@ -3369,47 +3567,6 @@
           "postedAt": "2026-11-10",
           "location": "Zürich",
           "url": "https://ch.linkedin.com/jobs/view/full-stack-software-entwickler-in-80-100%25-at-cistec-ag-4487473112",
-          "englishOk": false
-        }
-      ]
-    },
-    {
-      "key": "consult & pepper",
-      "name": "Consult & Pepper AG",
-      "agency": true,
-      "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-10",
-      "searchIds": [
-        "fullstack-ts"
-      ],
-      "locations": [
-        "Zürich"
-      ],
-      "jobs": [
-        {
-          "id": "09913a8d2098",
-          "title": "Ingeniero/a de software full-stack con mentalidad DevOps",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-10",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/fullstack-software-engineer-mit-devops-mindset-a-80-%E2%80%93-100%25-at-consult-pepper-ag-4467098880"
-        },
-        {
-          "id": "6eca88f02f6d",
-          "title": "Ingeniero/a de Software Fullstack con mentalidad DevOps (80–100%)",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-09",
-          "location": "Zürich",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/4bf49022-613d-4dc4-ab2a-0034f14b1952",
-          "englishOk": false
-        },
-        {
-          "id": "2ca89ba9d72d",
-          "title": "Tech Lead / Ingeniero/a de software Java Fullstack - eBanking",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-09",
-          "location": "Zürich",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/5516c71b-65a5-4f5c-bf3a-f3e0afc3e6ff",
           "englishOk": false
         }
       ]
