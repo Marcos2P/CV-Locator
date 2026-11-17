@@ -1,6 +1,146 @@
 {
-  "updatedAt": "2026-11-17T06:20:07.343Z",
+  "updatedAt": "2026-11-17T07:17:52.686Z",
   "jobs": [
+    {
+      "searchId": "kueche",
+      "title": "Abwaschküchenmitarbeiter*in 50%",
+      "titleEs": "Empleado/a de cocina de lavado 50%",
+      "company": "Migros-Genossenschafts-Bund",
+      "location": "Zürich (Limmatplatz / Hardbrücke)",
+      "postedAt": "2026-11-17",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4490167509",
+      "summary": "Cocina de lavado en un restaurante en el centro de Zürich, de lunes a viernes de 11:30 a 16:00.",
+      "description": "Lavar y manejar vajilla, porcelana y cubiertos con lavavajillas, limpiar y reponer mesas y mostradores durante el servicio del mediodía, ayudar en la office y en la cocina de preparación y montar y limpiar la terraza.",
+      "requirements": [
+        "No se exige formación formal",
+        "Varios años de experiencia en hostelería",
+        "Fiable, eficiente, puntual y con buena forma física",
+        "Amable, comunicativo y en equipo",
+        "Conocimientos básicos de PC (Outlook)"
+      ],
+      "workload": "50 %",
+      "employmentType": "Tiempo parcial",
+      "language": "Alemán B1",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Abwaschküchenmitarbeiter*in 50%",
+        "summary": "Abwaschküche in einem Restaurant im Zentrum von Zürich, Montag bis Freitag 11:30 bis 16:00 Uhr.",
+        "description": "Geschirr, Porzellan und Besteck waschen und handhaben, Geschirrspüler bedienen, Tischbereich und Theken während des Mittagsservice reinigen und auffüllen, in der Küchenoffice und Vorbereitungsküche helfen sowie die Terrasse auf- und abbauen.",
+        "requirements": [
+          "Keine formale Ausbildung erforderlich",
+          "Mehrjährige Gastronomieerfahrung",
+          "Zuverlässig, effizient, pünktlich und körperlich fit",
+          "Freundlich, kommunikativ und teamfähig",
+          "Grundkenntnisse am PC (Outlook)"
+        ],
+        "workload": "50 %",
+        "employmentType": "Teilzeit",
+        "language": "Deutsch B1"
+      },
+      "id": "b53f540a1343",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Betriebsmitarbeiter Office 40% (m/w/d)",
+      "titleEs": "Empleado/a de office 40%",
+      "company": "Compass Group Schweiz",
+      "location": "Opfikon ZH",
+      "postedAt": "2026-11-17",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4490953677",
+      "summary": "Puesto de office (cocina de lavado) al 40 % en Opfikon. La ficha no pudo abrirse; datos tomados del listado de LinkedIn.",
+      "workload": "40 %",
+      "employmentType": "Tiempo parcial",
+      "seniority": "junior",
+      "de": {
+        "title": "Betriebsmitarbeiter Office 40% (m/w/d)",
+        "summary": "Office-Stelle (Abwaschküche) zu 40 % in Opfikon. Die Anzeige konnte nicht geöffnet werden; Angaben aus der LinkedIn-Liste.",
+        "workload": "40 %",
+        "employmentType": "Teilzeit"
+      },
+      "id": "939aed059f7f",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Spülhilfe (d/w/m), Winterthur / KST",
+      "titleEs": "Ayudante de lavado (Winterthur)",
+      "company": "Coople",
+      "location": "Winterthur ZH",
+      "postedAt": "2026-11-17",
+      "source": "Coople",
+      "url": "https://www.coople.com/ch/jobs/en/befebc46-7bf2-49fb-a9b0-2085bfbb2085",
+      "summary": "Turno puntual de lavado de vajilla en Winterthur a través de Coople (inicio 17.11.2026, CHF 27/h).",
+      "description": "Cambiar carros de vajilla, recoger y limpiar, manejar la cocina de lavado con mucho volumen de trabajo.",
+      "requirements": [
+        "Experiencia en el puesto",
+        "Buena condición física"
+      ],
+      "workload": "1 turno",
+      "employmentType": "Temporal (por turnos, Coople)",
+      "salary": "CHF 27.00/h",
+      "language": "Alemán",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Spülhilfe (d/w/m), Winterthur / KST",
+        "summary": "Einzelner Spülschicht-Einsatz in Winterthur über Coople (Start 17.11.2026, CHF 27/h).",
+        "description": "Geschirrwagen tauschen, abräumen und aufräumen, Spülküche bedienen bei hohem Arbeitsaufkommen.",
+        "requirements": [
+          "Erfahrung in der Rolle",
+          "Körperliche Fitness"
+        ],
+        "workload": "1 Schicht",
+        "employmentType": "Temporär (Schichteinsatz, Coople)",
+        "language": "Deutsch"
+      },
+      "id": "1581ae7352a9",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Mitarbeiter:in Käfigaufbereitung und Reinigung (m/w/d)",
+      "titleEs": "Auxiliar de preparación de jaulas y limpieza",
+      "company": "ETH Zürich",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-17",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/d164730f-b963-45d7-b374-6592f6473939",
+      "summary": "Recepción, limpieza y desinfección de material a esterilizar en el centro ETH Phenomics (EPIC), con logística y contacto con investigadores y cuidadores.",
+      "description": "Recibir, limpiar y desinfectar objetos que requieren esterilización, gestionar la logística y coordinarse con investigadores y cuidadores dentro de la barrera SPF. Trabajo mayormente de pie y caminando, con ropa de protección (bata, mascarilla, guantes). Incorporación inmediata o a convenir.",
+      "requirements": [
+        "Buen alemán e inglés para entender avisos de seguridad e instrucciones",
+        "Capacidad para manejar equipos electrónicos grandes",
+        "Buena condición física",
+        "Conocimientos de ofimática (Outlook, Word)",
+        "Fiabilidad, resistencia e independencia"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán e inglés",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Mitarbeiter:in Käfigaufbereitung und Reinigung (m/w/d)",
+        "summary": "Entgegennahme, Reinigung und Desinfektion von zu sterilisierendem Material im ETH Phenomics Center (EPIC), inkl. Logistik und Kontakt mit Forschenden und Tierpflegenden.",
+        "description": "Zu sterilisierende Gegenstände annehmen, reinigen und desinfizieren, Logistik abwickeln und sich mit Forschenden und Tierpflegenden innerhalb der SPF-Barriere abstimmen. Überwiegend stehende und gehende Tätigkeit in Schutzkleidung (Kittel, Maske, Handschuhe). Eintritt per sofort oder nach Vereinbarung.",
+        "requirements": [
+          "Gutes Deutsch und Englisch zum Verstehen von Sicherheitshinweisen und Betriebsanleitungen",
+          "Sicherer Umgang mit grossen elektronischen Geräten",
+          "Gute körperliche Verfassung",
+          "Büro-Software (Outlook, Word)",
+          "Zuverlässig, belastbar, selbstständig"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch und Englisch"
+      },
+      "id": "bdad488bbba9",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
     {
       "searchId": "fullstack-ts",
       "title": "Fullstack-Entwickler C# und ColdFusion oder PHP (m/w)",
@@ -77,6 +217,119 @@
       },
       "id": "e5a156474c01",
       "foundAt": "2026-11-17T06:20:07.343Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Mitarbeiterin/Mitarbeiter Hauswirtschaft Stationen (w/m/d) 100 % befristet für 6 Monate",
+      "titleEs": "Empleado/a de economía doméstica en plantas, 100 %, 6 meses",
+      "company": "Universitätsklinik Balgrist",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-16",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/df299fc4-80fb-4f61-96f3-1acdeeb95db1",
+      "summary": "Limpieza de habitaciones de pacientes, zonas públicas y salas de la clínica Balgrist; contrato temporal de 6 meses desde el 1 de enero de 2027 o a convenir.",
+      "description": "Limpieza en toda la clínica (habitaciones de pacientes, baños, oficinas, zonas públicas, vestuarios, salas de exploración, laboratorios y piscina de terapia), limpieza de mantenimiento y a fondo con máquinas, limpieza de camas y eliminación de residuos. Lunes a viernes de 6:00 a 16:00; fines de semana y festivos de 7:00 a 16:00.",
+      "requirements": [
+        "Varios años de experiencia en limpieza, idealmente en hospital",
+        "Alemán hablado muy bueno",
+        "Aspecto cuidado y fiabilidad",
+        "Buena condición física"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato temporal (6 meses)",
+      "language": "Alemán muy bueno",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Mitarbeiterin/Mitarbeiter Hauswirtschaft Stationen (w/m/d) 100 % befristet für 6 Monate",
+        "summary": "Reinigung von Patientenzimmern, öffentlichen Bereichen und Räumen der Klinik Balgrist; auf 6 Monate befristet ab 1. Januar 2027 oder nach Vereinbarung.",
+        "description": "Reinigung in der gesamten Klinik (Patientenzimmer, Nasszellen, Büros, öffentliche Bereiche, Garderoben, Untersuchungsräume, Labors, Therapiebad), Unterhalts-, Zwischen- und Grundreinigung mit Maschinen, Bettenreinigung und Entsorgung. Montag bis Freitag 6:00–16:00 Uhr; Wochenende und Feiertage 7:00–16:00 Uhr.",
+        "requirements": [
+          "Mehrjährige Reinigungserfahrung, idealerweise im Spital",
+          "Sehr gutes gesprochenes Deutsch",
+          "Gepflegtes Auftreten und Zuverlässigkeit",
+          "Gute körperliche Verfassung"
+        ],
+        "workload": "100 %",
+        "employmentType": "Befristet (6 Monate)",
+        "language": "Sehr gutes Deutsch"
+      },
+      "id": "d72b728a4739",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Hilfskoch/Hilfsköchin auf Abruf",
+      "titleEs": "Ayudante de cocina (a demanda)",
+      "company": "Two Spice AG",
+      "location": "Zürich (Yalda, Riesbachstrasse 61)",
+      "postedAt": "2026-11-16",
+      "source": "myjob.ch",
+      "url": "https://www.myjob.ch/job/hilfskoch-hilfskoechin-auf-abruf/3672759",
+      "summary": "Ayudante de cocina a demanda en el concepto Yalda de Two Spice en Zürich; alemán A2 suficiente.",
+      "description": "Preparar la mise en place y trabajos de producción, apoyar activamente al equipo de cocina, seguir recetas y asegurar la calidad, controlar la higiene y realizar tareas de limpieza y orden.",
+      "requirements": [
+        "Experiencia previa como ayudante de cocina",
+        "Interés en la gastronomía sistematizada",
+        "Disponibilidad para turnos, fines de semana y festivos",
+        "Alemán A2, inglés una ventaja"
+      ],
+      "workload": "100 % (a demanda)",
+      "employmentType": "Contrato fijo (auf Abruf)",
+      "language": "Alemán A2, inglés una ventaja",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Hilfskoch/Hilfsköchin auf Abruf",
+        "summary": "Hilfskoch auf Abruf im Konzept Yalda von Two Spice in Zürich; Deutsch A2 genügt.",
+        "description": "Mise en place vorbereiten und auffüllen, Produktionsarbeiten, das Küchenteam aktiv unterstützen, Rezepte umsetzen und Qualität sichern, Hygiene im Bereich überwachen sowie Reinigungs- und Aufräumarbeiten.",
+        "requirements": [
+          "Vorerfahrung als Hilfskoch",
+          "Interesse an Systemgastronomie und strukturierten Abläufen",
+          "Verfügbarkeit für Schicht-, Wochenend- und Feiertagsarbeit",
+          "Deutsch A2, Englisch von Vorteil"
+        ],
+        "workload": "100 % (auf Abruf)",
+        "employmentType": "Festanstellung (auf Abruf)",
+        "language": "Deutsch A2, Englisch von Vorteil"
+      },
+      "id": "af223d58ee2e",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Reinigungsmitarbeiter:in (m/w/d)",
+      "titleEs": "Personal de limpieza",
+      "company": "Randstad (Schweiz) AG",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-16",
+      "source": "Randstad",
+      "url": "https://www.randstad.ch/jobs/reinigungsmitarbeiterin_zuerich_aa0931d1-278d-4ab5-9ebf-4b9dd53f5c20",
+      "summary": "Puesto temporal de limpieza básica y bajo demanda en trenes o edificios en Zürich, con asignación de larga duración y posible prórroga.",
+      "description": "Limpiezas básicas y bajo demanda (\"Grund- und Bedarfsreinigungen\") en trenes o edificios. Asignación temporal de larga duración con opción de prórroga, en un equipo consolidado y con buena conexión de transporte público.",
+      "requirements": [
+        "Buen alemán hablado",
+        "Resistencia física"
+      ],
+      "workload": "No indicado",
+      "employmentType": "Temporal",
+      "language": "Alemán hablado",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Reinigungsmitarbeiter:in (m/w/d)",
+        "summary": "Temporäre Stelle für Grund- und Bedarfsreinigung in Zügen oder Gebäuden in Zürich, langfristiger Einsatz mit Verlängerungsoption.",
+        "description": "Grund- und Bedarfsreinigungen im Zug oder an Gebäuden. Langfristiger temporärer Einsatz mit Verlängerungsoption in einem etablierten Team mit guter ÖV-Anbindung.",
+        "requirements": [
+          "Gute mündliche Deutschkenntnisse",
+          "Körperliche Belastbarkeit"
+        ],
+        "workload": "Nicht angegeben",
+        "employmentType": "Temporär",
+        "language": "Deutsch mündlich"
+      },
+      "id": "bdbdc77e3caf",
+      "foundAt": "2026-11-17T07:17:52.686Z"
     },
     {
       "searchId": "fullstack-ts",
@@ -1014,6 +1267,67 @@
       "foundAt": "2026-11-16T07:21:48.026Z"
     },
     {
+      "searchId": "hotel",
+      "title": "Executive Housekeeping Manager",
+      "titleEs": "Gobernanta ejecutiva / Executive Housekeeping Manager",
+      "company": "PermServ AG",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-15",
+      "source": "myjob.ch",
+      "url": "https://www.myjob.ch/job/executive-housekeeping-manager/3667933",
+      "summary": "Puesto de dirección de housekeeping (Executive Housekeeping Manager) en Zürich, contrato fijo al 100 %. La página no detalla tareas ni requisitos.",
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "seniority": "lead",
+      "de": {
+        "title": "Executive Housekeeping Manager",
+        "summary": "Leitungsposition im Housekeeping (Executive Housekeeping Manager) in Zürich, Festanstellung 100 %. Aufgaben und Anforderungen sind auf der Seite nicht aufgeführt.",
+        "workload": "100 %",
+        "employmentType": "Festanstellung"
+      },
+      "id": "7487fa25611b",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Küchenmitarbeiter (m/w)",
+      "titleEs": "Empleado/a de cocina",
+      "company": "New Work Human Resources",
+      "location": "Zürich (zona Flughafen)",
+      "postedAt": "2026-11-15",
+      "source": "myjob.ch",
+      "url": "https://www.myjob.ch/job/kuechenmitarbeiter-m-w/3668312",
+      "summary": "Puesto de apoyo en cocina (incluye lavar vajilla) para un cliente no nombrado cerca del aeropuerto de Zürich, a través de agencia; turnos de mañana y tarde en operación de 7 días.",
+      "description": "Apoyar al equipo de cocina en la preparación de alimentos, mantener cocina y zonas de trabajo limpias, lavar vajilla, cubiertos y utensilios.",
+      "requirements": [
+        "Gusto por trabajar en una cocina con mucho movimiento",
+        "Responsabilidad y trabajo en equipo",
+        "Flexible y resistente, limpio y ordenado",
+        "Disponibilidad para turnos de mañana y tarde, 7 días"
+      ],
+      "workload": "100 %",
+      "employmentType": "Fijo o temporal (agencia)",
+      "language": "Alemán necesario, inglés una ventaja",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Küchenmitarbeiter (m/w)",
+        "summary": "Unterstützung in der Küche (inkl. Abwasch) für einen nicht genannten Kunden in der Nähe des Flughafens Zürich, über Personalvermittler; Früh- und Spätdienst im 7-Tage-Betrieb.",
+        "description": "Unterstützung des Küchenteams bei der Speisenzubereitung, Küche und Arbeitsbereiche sauber halten, Geschirr, Besteck und Küchengeräte spülen.",
+        "requirements": [
+          "Freude am Arbeiten in einer belebten Küche",
+          "Verantwortungsbewusst und teamfähig",
+          "Flexibel und belastbar, Wert auf Sauberkeit und Ordnung",
+          "Bereitschaft zu Früh- und Spätdiensten im 7-Tage-Betrieb"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung oder temporär (Personalvermittler)",
+        "language": "Deutsch erforderlich, Englisch von Vorteil"
+      },
+      "id": "d9226566016c",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
       "searchId": "fullstack-ts",
       "title": "Fullstack Software Engineer (Java & Spring, Angular) (all genders)",
       "titleEs": "Ingeniero/a de software Fullstack (Java y Spring, Angular)",
@@ -1105,6 +1419,161 @@
       },
       "id": "eb99a3fcc283",
       "foundAt": "2026-11-15T07:14:04.871Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Fachfrau/Fachmann Hauswirtschaft",
+      "titleEs": "Especialista en economía doméstica",
+      "company": "news Personal AG",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-14",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/3fda26bb-e79f-4686-a0a3-689ad390670d",
+      "summary": "Puesto fijo al 100 % de economía doméstica (limpieza, lencería y apoyo en catering/servicio) a través de la agencia news Personal; requiere formación de Fachfrau/Fachmann Hauswirtschaft.",
+      "description": "Limpieza y mantenimiento de las instalaciones, cuidado de la ropa y los textiles, apoyo en catering y servicio, y cumplimiento de las normas de higiene y calidad. Lugar de trabajo en Zürich (Billeterstrasse, 8044).",
+      "requirements": [
+        "Formación completa como Fachfrau/Fachmann Hauswirtschaft",
+        "Experiencia laboral en housekeeping",
+        "Trabajo autónomo y cuidadoso",
+        "Amabilidad y trabajo en equipo",
+        "Flexibilidad y fiabilidad"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán avanzado",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Fachfrau/Fachmann Hauswirtschaft",
+        "summary": "Festanstellung 100 % in der Hauswirtschaft (Reinigung, Wäsche, Unterstützung Catering/Service) über die Personalagentur news Personal; Ausbildung als Fachfrau/Fachmann Hauswirtschaft erforderlich.",
+        "description": "Reinigung und Pflege der Räumlichkeiten, sachgerechte Pflege von Wäsche und Textilien, Unterstützung bei Catering und Service, Einhaltung der Hygiene- und Qualitätsstandards. Arbeitsort Zürich (Billeterstrasse, 8044).",
+        "requirements": [
+          "Abgeschlossene Ausbildung als Fachfrau/Fachmann Hauswirtschaft",
+          "Berufserfahrung im Housekeeping",
+          "Selbständige, sorgfältige Arbeitsweise",
+          "Freundliches Auftreten und Teamfähigkeit",
+          "Flexibilität und Zuverlässigkeit"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch fortgeschritten"
+      },
+      "id": "aa8f029c80b6",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Gouvernante/ Stellvertretende Teamleitung",
+      "titleEs": "Gobernanta / Jefa de equipo adjunta",
+      "company": "CRS Management & Service AG",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-14",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/gouvernante-stellvertretende-teamleitung-at-crs-management-service-ag-4488940596",
+      "summary": "Gobernanta y jefa de equipo adjunta en housekeeping de hotel en Zürich: controlar las habitaciones limpiadas, sustituir a la jefa de equipo y limpiar habitaciones cuando haga falta. Salario base CHF 4'500–4'700 al mes.",
+      "description": "Inspeccionar y aprobar las habitaciones limpiadas, sustituir a la jefa de equipo, ser persona de contacto del personal asignado y limpiar habitaciones si es necesario. Trabajo de lunes a domingo, inicio a las 07:00 o más tarde.",
+      "requirements": [
+        "Experiencia como gobernanta",
+        "Buen alemán y/o inglés",
+        "Autonomía, fiabilidad y trabajo en equipo",
+        "Flexibilidad para turnos de fin de semana regulares",
+        "Aspecto cuidado"
+      ],
+      "workload": "Jornada completa",
+      "salary": "CHF 4'500–4'700 al mes",
+      "language": "Alemán y/o inglés",
+      "englishOk": true,
+      "seniority": "mid",
+      "de": {
+        "title": "Gouvernante/ Stellvertretende Teamleitung",
+        "summary": "Gouvernante und stellvertretende Teamleitung im Hotel-Housekeeping in Zürich: Kontrolle der gereinigten Zimmer, Stellvertretung der Teamleitung und bei Bedarf Zimmerreinigung. Grundlohn CHF 4'500–4'700 pro Monat.",
+        "description": "Kontrolle und Abnahme der gereinigten Gästezimmer, Stellvertretung der Teamleitung, Ansprechperson für das zugeteilte Personal und bei Bedarf Reinigung von Hotelzimmern. Einsatz Montag bis Sonntag, Beginn ab 07:00 Uhr.",
+        "requirements": [
+          "Erfahrung als Gouvernante",
+          "Gute Deutsch- und/oder Englischkenntnisse",
+          "Selbständigkeit, Zuverlässigkeit, Teamfähigkeit",
+          "Flexibilität für regelmässige Wochenendeinsätze",
+          "Gepflegtes Erscheinungsbild"
+        ],
+        "workload": "Vollzeit",
+        "language": "Gute Deutsch- und/oder Englischkenntnisse"
+      },
+      "id": "ded45091c8a5",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Abwäscher (d/w/m) 50%",
+      "titleEs": "Friegaplatos 50%",
+      "company": "SV (Schweiz) AG",
+      "location": "Zürich-Oerlikon (Restaurant Juice, ewz)",
+      "postedAt": "2026-11-14",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/484804a0-1ee4-4d27-b703-69413330836e",
+      "summary": "Trabajo en la cocina de lavado de un restaurante de empresa en Oerlikon, de martes a viernes.",
+      "description": "Lavar la vajilla en la cocina de lavado, mise en place, tareas de limpieza autónomas y cumplimiento de las normas ISO y HACCP. Comida de personal gratuita y 13.º sueldo.",
+      "requirements": [
+        "Mínimo un año de experiencia en cocina de lavado (Office)",
+        "Buen alemán",
+        "Trabajo limpio, autónomo y en equipo"
+      ],
+      "workload": "50 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán (buen nivel)",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Abwäscher (d/w/m) 50%",
+        "summary": "Arbeit in der Abwaschküche eines Personalrestaurants in Oerlikon, Dienstag bis Freitag.",
+        "description": "Geschirrreinigung in der Abwaschküche, Mise en place, selbständige Reinigungsarbeiten und Einhaltung der ISO- und HACCP-Richtlinien. Gratis Personalessen und 13. Monatslohn.",
+        "requirements": [
+          "Mindestens ein Jahr Erfahrung in der Abwaschküche (Office)",
+          "Gute Deutschkenntnisse",
+          "Saubere, selbständige und teamorientierte Arbeitsweise"
+        ],
+        "workload": "50 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch (gut)"
+      },
+      "id": "c7010374a3aa",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
+      "searchId": "temporada-invierno",
+      "title": "Verkäufer:in Food Wintersaison",
+      "titleEs": "Dependiente/a de alimentación (temporada de invierno)",
+      "company": "COOP",
+      "location": "Grindelwald BE",
+      "postedAt": "2026-11-14",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/2fddcfa0-ecc3-4024-a216-3221f77b5e1b",
+      "summary": "Atención y asesoramiento a clientes y reposición de mercancía en la tienda Coop de Grindelwald Terminal durante la temporada de invierno.",
+      "description": "Atender y asesorar a la clientela en distintas secciones, gestionar la mercancía para favorecer la venta, cumplir las normas de frescura, calidad, higiene, temperatura y caducidad y ayudar en las cajas cuando haga falta.",
+      "requirements": [
+        "Formación básica en comercio minorista o mucha experiencia en ventas",
+        "Horarios flexibles",
+        "Buen alemán hablado y escrito"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán bueno",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Verkäufer:in Food Wintersaison",
+        "summary": "Kundenberatung und Warenbewirtschaftung im Coop Grindelwald Terminal während der Wintersaison.",
+        "description": "Kundschaft in verschiedenen Abteilungen bedienen und beraten, Waren verkaufsfördernd bewirtschaften, Vorgaben zu Frische, Qualität, Hygiene, Temperatur und Verfalldatum einhalten und bei Bedarf an den Kassen aushelfen.",
+        "requirements": [
+          "Detailhandelsausbildung (Grundbildung) oder viel Verkaufserfahrung",
+          "Flexible Einsatzzeiten",
+          "Gute Deutschkenntnisse in Wort und Schrift"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Festanstellung",
+        "language": "Gute Deutschkenntnisse"
+      },
+      "id": "dab38622963a",
+      "foundAt": "2026-11-17T07:17:52.686Z"
     },
     {
       "searchId": "fullstack-ts",
@@ -1490,6 +1959,122 @@
       "englishOk": true,
       "id": "af7b05fd7715",
       "foundAt": "2026-11-14T07:15:53.588Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Abwäscher (d/w/m) 60%",
+      "titleEs": "Friegaplatos 60%",
+      "company": "SV (Schweiz) AG",
+      "location": "Zürich (Personalrestaurant SNB, Börsenstrasse)",
+      "postedAt": "2026-11-13",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/bdd768d8-a935-4ca5-9dde-09421b6a66a8",
+      "summary": "Trabajo de lunes a viernes (aprox. 07:00-16:00) en la cocina de lavado del restaurante de personal de la SNB.",
+      "description": "Lavar la vajilla en la cocina de lavado, mise en place, limpieza autónoma y cumplimiento de las normas ISO y HACCP.",
+      "requirements": [
+        "Mínimo un año de experiencia en cocina de lavado (Office)",
+        "Buen alemán",
+        "Comunicativo, autónomo y limpio"
+      ],
+      "workload": "60 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán (buen nivel)",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Abwäscher (d/w/m) 60%",
+        "summary": "Montag bis Freitag (ca. 07:00-16:00 Uhr) in der Abwaschküche des Personalrestaurants der SNB.",
+        "description": "Geschirrreinigung in der Abwaschküche, Mise en place, selbständige Reinigungsarbeiten und Einhaltung der ISO- und HACCP-Richtlinien.",
+        "requirements": [
+          "Mindestens ein Jahr Erfahrung in der Abwaschküche (Office)",
+          "Gute Deutschkenntnisse",
+          "Kommunikativ, selbständig, sauber"
+        ],
+        "workload": "60 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch (gut)"
+      },
+      "id": "a2ffe8252689",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
+      "searchId": "umzug",
+      "title": "Mitarbeiter Lieferung und Montage (80-100%)",
+      "titleEs": "Empleado/a de entrega y montaje de muebles (80-100 %)",
+      "company": "Spectroom living & more",
+      "location": "Zürich und Umgebung (Meilen ZH)",
+      "postedAt": "2026-11-13",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/3661afee-9ae0-4711-8979-2a5a8a78ecdd",
+      "summary": "Entrega de muebles a domicilio, embalaje de productos, apoyo en el almacén y montaje de muebles in situ para una tienda de muebles con sede en Meilen. Hay que cargar muebles pesados.",
+      "description": "Apoyo en todo el proceso de entrega, embalaje cuidadoso de los productos, ayuda en la gestión del almacén, montaje de muebles en casa del cliente y diversas tareas de instalación. Incorporación inmediata o a convenir. Obligatorio vivir en la zona del lago de Zúrich o en el cantón de Zúrich.",
+      "requirements": [
+        "Vivir en la zona del lago de Zúrich o en el cantón de Zúrich",
+        "Buena forma física y capacidad para cargar muebles pesados",
+        "Habilidad manual y comprensión técnica y logística",
+        "Carné de conducir categoría B (remolque, una ventaja)",
+        "Alemán bueno (obligatorio), inglés una ventaja"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán bueno (obligatorio), inglés básico; carné de conducir categoría B obligatorio",
+      "englishOk": false,
+      "de": {
+        "title": "Mitarbeiter Lieferung und Montage (80-100%)",
+        "summary": "Auslieferung von Möbeln, sorgfältiges Verpacken, Mithilfe im Lager und Möbelmontage vor Ort für ein Möbelgeschäft mit Sitz in Meilen. Schwere Möbel müssen getragen werden.",
+        "description": "Unterstützung im gesamten Lieferprozess, sorgfältiges Verpacken der Produkte, Mithilfe in der Lagerbewirtschaftung, Montage von Möbeln beim Kunden und diverse Installationsarbeiten. Eintritt per sofort oder nach Vereinbarung. Wohnort im Raum Zürichsee oder Kanton Zürich zwingend.",
+        "requirements": [
+          "Wohnort im Raum Zürichsee oder Kanton Zürich",
+          "Körperlich fit und belastbar, schwere Möbel tragen",
+          "Handwerkliches Geschick sowie technisches und logistisches Verständnis",
+          "Führerausweis Kategorie B (Anhängerprüfung von Vorteil)",
+          "Gutes Deutsch (zwingend), Englisch von Vorteil"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Festanstellung",
+        "language": "Gutes Deutsch (zwingend), Englisch Grundkenntnisse; Führerausweis Kat. B erforderlich"
+      },
+      "id": "a5567dc7955d",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Lagermitarbeiter",
+      "titleEs": "Mozo/a de almacén",
+      "company": "job impuls ag Zug Technik",
+      "location": "Adliswil ZH",
+      "postedAt": "2026-11-13",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/0b81831f-e829-4cf4-8788-2012f5766d52",
+      "summary": "Trabajo temporal de almacén (picking, clasificación) en Adliswil, con jornada del 50 % al 100 % y disponibilidad para turnos.",
+      "description": "Tareas de almacén, preparación de pedidos (picking) y clasificación de mercancías. Contrato temporal/de apoyo con incorporación inmediata, abierto a trabajo por turnos.",
+      "requirements": [
+        "Mínimo 2 años de experiencia en almacén o Lagerist EBA",
+        "Muy buen nivel de alemán",
+        "Carné de carretillero no obligatorio",
+        "Disposición para trabajar por turnos"
+      ],
+      "workload": "50–100 %",
+      "employmentType": "Temporal / apoyo",
+      "language": "Alemán muy bueno",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Lagermitarbeiter",
+        "summary": "Temporärer Lagerjob (Kommissionieren, Sortieren) in Adliswil, Pensum 50–100 %, Bereitschaft zu Schichtarbeit.",
+        "description": "Lagertätigkeiten, Kommissionieren und Sortieren von Waren. Temporär/Aushilfe, Eintritt ab sofort, Offenheit für Schichtarbeit.",
+        "requirements": [
+          "Mindestens 2 Jahre Lagererfahrung oder Lagerist EBA",
+          "Sehr gute Deutschkenntnisse",
+          "Staplerausweis nicht zwingend",
+          "Offenheit für Schichtarbeit"
+        ],
+        "workload": "50–100 %",
+        "employmentType": "Temporär / Aushilfe",
+        "language": "Sehr gute Deutschkenntnisse"
+      },
+      "id": "c6d242a1f400",
+      "foundAt": "2026-11-17T07:17:52.686Z"
     },
     {
       "searchId": "fullstack-ts",
@@ -2601,6 +3186,67 @@
       "seniority": "senior",
       "id": "e653e04cdfd3",
       "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Office-Mitarbeiter:in (100%)",
+      "titleEs": "Auxiliar de office / cocina de lavado (100%)",
+      "company": "Genossenschaft ZFV-Unternehmungen",
+      "location": "Zürich",
+      "postedAt": "2026-11-12",
+      "source": "myjob.ch",
+      "url": "https://myjob.ch/job/office-mitarbeiterin/3659574",
+      "summary": "Puesto de Office-Mitarbeiter (office/cocina de lavado) en un restaurante de ZFV en Zürich. El anuncio no detalla tareas ni requisitos.",
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "seniority": "junior",
+      "de": {
+        "title": "Office-Mitarbeiter:in (100%)",
+        "summary": "Office-Mitarbeiter:in in einem ZFV-Betrieb in Zürich. Die Anzeige nennt keine Aufgaben oder Anforderungen.",
+        "workload": "100 %",
+        "employmentType": "Festanstellung"
+      },
+      "id": "4b73ae3bbe71",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Küchenmitarbeiter (Souschef, Koch, Hilfsköche, Office) (m/w)",
+      "titleEs": "Personal de cocina (sous-chef, cocinero, ayudantes, office)",
+      "company": "New Work Human Resources",
+      "location": "Zürich (zona Flughafen)",
+      "postedAt": "2026-11-12",
+      "source": "myjob.ch",
+      "url": "https://www.myjob.ch/job/kuechenmitarbeiter-souschef-koch-hilfskoeche-office-m-w/3657266",
+      "summary": "Varios puestos de cocina (sous-chef, cocinero, ayudantes, office) para un cliente no nombrado cerca del aeropuerto de Zürich, a través de agencia.",
+      "description": "Preparar platos fríos y calientes según estándares, apoyar la planificación de menús y la calidad, cumplir HACCP, mantener el puesto limpio y trabajar en un entorno internacional; liderazgo según el puesto.",
+      "requirements": [
+        "Formación de cocinero (EFZ) o varios años de experiencia",
+        "Experiencia en restauración colectiva, de sistemas o a la carta",
+        "Alemán mínimo A2–B1, inglés una ventaja",
+        "Disponibilidad para turnos"
+      ],
+      "workload": "100 %",
+      "employmentType": "Fijo o temporal (agencia)",
+      "language": "Alemán A2–B1, inglés una ventaja",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Küchenmitarbeiter (Souschef, Koch, Hilfsköche, Office) (m/w)",
+        "summary": "Mehrere Küchenstellen (Souschef, Koch, Hilfsköche, Office) für einen nicht genannten Kunden in der Nähe des Flughafens Zürich, über Personalvermittler.",
+        "description": "Kalte und warme Gerichte nach Standards zubereiten, Menüplanung und Qualität unterstützen, HACCP einhalten, Arbeitsplatz sauber halten, internationales Umfeld; Führungsaufgaben je nach Rolle.",
+        "requirements": [
+          "Kochausbildung (EFZ) oder mehrjährige Erfahrung",
+          "Erfahrung in Personalrestaurant, Systemgastronomie oder à la carte",
+          "Deutsch mind. A2–B1, Englisch von Vorteil",
+          "Bereitschaft zu Schichtarbeit"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung oder temporär (Personalvermittler)",
+        "language": "Deutsch A2–B1, Englisch von Vorteil"
+      },
+      "id": "5a389143096b",
+      "foundAt": "2026-11-17T07:17:52.686Z"
     },
     {
       "searchId": "reinigung-flughafen",
@@ -5019,6 +5665,271 @@
       "foundAt": "2026-11-12T07:02:24.394Z"
     },
     {
+      "searchId": "kueche",
+      "title": "Betriebsmitarbeiter Spülküche / Dishwasher 60% (m/w/d)",
+      "titleEs": "Empleado/a de cocina de lavado 60%",
+      "company": "Compass Group Schweiz",
+      "location": "Zürich",
+      "postedAt": "2026-11-10",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4488082558",
+      "summary": "Cocina de lavado de martes a jueves en Zürich; el anuncio es de hace aproximadamente una semana.",
+      "description": "Limpiar vajilla, vasos y cubiertos, ollas, sartenes y utensilios de cocina, ayuda general en cocina, reposición, orden y limpieza.",
+      "requirements": [
+        "Idealmente experiencia en hostelería o como ayudante de cocina",
+        "Buena resistencia física",
+        "Trabajo eficiente, cuidadoso y limpio",
+        "Buen alemán hablado y buen inglés"
+      ],
+      "workload": "60 %",
+      "employmentType": "Tiempo parcial",
+      "language": "Alemán e inglés (buen nivel)",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Betriebsmitarbeiter Spülküche / Dishwasher 60% (m/w/d)",
+        "summary": "Spülküche von Dienstag bis Donnerstag in Zürich; die Anzeige ist etwa eine Woche alt.",
+        "description": "Geschirr, Gläser und Besteck reinigen, Töpfe, Pfannen und Küchenutensilien reinigen, allgemeine Küchenhilfe, Auffüllen, Aufräumen und allgemeine Reinigung.",
+        "requirements": [
+          "Idealerweise Gastronomie- oder Küchenhilfe-/Abwascherfahrung",
+          "Hohe körperliche Belastbarkeit",
+          "Effiziente, sorgfältige und saubere Arbeitsweise",
+          "Gute Deutsch- und Englischkenntnisse"
+        ],
+        "workload": "60 %",
+        "employmentType": "Teilzeit",
+        "language": "Deutsch und Englisch (gut)"
+      },
+      "id": "29463aed41b1",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Barista / Küchenhilfe (100 %)",
+      "titleEs": "Barista / Ayudante de cocina (100 %)",
+      "company": "Currybag AG",
+      "location": "Zürich (Restaurant Loving Lanka, Freilager)",
+      "postedAt": "2026-11-10",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4486626792",
+      "summary": "Puesto mixto: 50 % barista/venta y 50 % cocina en un restaurante de comida tamil de Zürich.",
+      "description": "Preparar especialidades de café, atender a clientes de take-away y ayudar en la preparación de platos tamiles (veganos, vegetarianos y con carne).",
+      "requirements": [
+        "Experiencia como barista y en cocina",
+        "Fiable, autónomo, amable, limpio y eficiente",
+        "Interés por la cocina y cultura de Sri Lanka"
+      ],
+      "workload": "100 %",
+      "employmentType": "Jornada completa",
+      "language": "Alemán",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Barista / Küchenhilfe (100 %)",
+        "summary": "Kombinierte Stelle: je 50 % Barista/Verkauf und Küche in einem tamilischen Restaurant in Zürich.",
+        "description": "Kaffeespezialitäten zubereiten, Take-away-Gäste betreuen und bei der Vorbereitung und Zubereitung tamilischer Gerichte (vegan, vegetarisch, Fleisch) helfen.",
+        "requirements": [
+          "Erfahrung als Barista und in der Küche",
+          "Zuverlässig, eigenständig, freundlich, sauber und effizient",
+          "Flair für die srilankische Küche und Kultur"
+        ],
+        "workload": "100 %",
+        "employmentType": "Vollzeit",
+        "language": "Deutsch"
+      },
+      "id": "2db0a65ccd78",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Küchenhilfe",
+      "titleEs": "Ayudante de cocina",
+      "company": "Zürcherische Pestalozzistiftung Knonau",
+      "location": "Knonau ZH",
+      "postedAt": "2026-11-10",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4487731050",
+      "summary": "Ayudante de cocina a tiempo parcial (20-30 % anual) en una fundación para niños y jóvenes en Knonau.",
+      "description": "Preparar comidas y apoyar a la cocinera jefe, ayudar en limpieza y colada y trabajar con niños y jóvenes. Días preferidos: lunes, martes por la mañana y viernes por la tarde.",
+      "requirements": [
+        "Experiencia en gestión del hogar (Hauswirtschaft)",
+        "Alta calidad e higiene",
+        "Orientado a soluciones",
+        "Comprensión hacia niños y jóvenes con necesidades especiales"
+      ],
+      "workload": "20–30 % (anual, sobre todo en semanas escolares)",
+      "employmentType": "Tiempo parcial",
+      "language": "Alemán",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Küchenhilfe",
+        "summary": "Küchenhilfe in Teilzeit (20-30 % Jahresarbeitszeit) in einer Stiftung für Kinder und Jugendliche in Knonau.",
+        "description": "Mahlzeiten zubereiten und die Köchin unterstützen, bei Reinigung und Wäsche helfen und mit Kindern und Jugendlichen arbeiten. Bevorzugte Tage: Montag, Dienstagvormittag und Freitagnachmittag.",
+        "requirements": [
+          "Erfahrung in der Hauswirtschaft",
+          "Hoher Anspruch an Qualität und Hygiene",
+          "Lösungsorientierte Haltung",
+          "Verständnis für Kinder und Jugendliche mit besonderen Bedürfnissen"
+        ],
+        "workload": "20–30 % (jährlich, v. a. in Schulwochen)",
+        "employmentType": "Teilzeit",
+        "language": "Deutsch"
+      },
+      "id": "9afcfaa53466",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Steward / Stewarding Mitarbeiter w/m/d (Stundenbasis, abends)",
+      "titleEs": "Steward / personal de stewarding (por horas, tardes-noches)",
+      "company": "Bar am Wasser Gastro AG",
+      "location": "Zürich (Kreis 5)",
+      "postedAt": "2026-11-10",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4485508560",
+      "summary": "Lavado de vajilla por horas, sobre todo de jueves a sábado de 18:00 a 00:00, en un restaurante y bar de Zürich. No exige experiencia.",
+      "description": "Lavar vajilla, vasos y utensilios de cocina, mantener limpia la zona de office, ayudar en reposición y recogida, apoyar a cocina y servicio y limpieza general.",
+      "requirements": [
+        "Fiable y limpio",
+        "Trabajo en equipo y motivación",
+        "Capacidad de gestionar estrés y flexibilidad horaria",
+        "Experiencia en gastronomía de ventaja, no obligatoria"
+      ],
+      "workload": "Por horas (jue-sáb, 18:00-00:00)",
+      "employmentType": "Por horas",
+      "language": "Alemán",
+      "englishOk": false,
+      "seniority": "intern",
+      "de": {
+        "title": "Steward / Stewarding Mitarbeiter w/m/d (Stundenbasis, abends)",
+        "summary": "Abwasch auf Stundenbasis, vor allem Donnerstag bis Samstag 18:00 bis 00:00 Uhr, in einem Restaurant und einer Bar in Zürich. Keine Erfahrung nötig.",
+        "description": "Geschirr, Gläser und Küchenutensilien waschen, Office-Bereich sauber halten, beim Auffüllen und Abräumen helfen, Küche und Service unterstützen und allgemein reinigen.",
+        "requirements": [
+          "Zuverlässig und saubere Arbeitsweise",
+          "Teamfähigkeit und Motivation",
+          "Belastbar und zeitlich flexibel",
+          "Gastronomieerfahrung von Vorteil, nicht Bedingung"
+        ],
+        "workload": "Stundenbasis (Do-Sa, 18:00-00:00)",
+        "employmentType": "Stundenlohn",
+        "language": "Deutsch"
+      },
+      "id": "f9965a22974b",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Aushilfe Bankett / Küche",
+      "titleEs": "Auxiliar de banquetes / cocina",
+      "company": "Marriott International",
+      "location": "Zürich (Neumühlequai 42)",
+      "postedAt": "2026-11-10",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4487316504",
+      "summary": "Trabajos temporales de apoyo en banquetes, catering externo y cocina en un hotel Marriott de Zürich.",
+      "description": "Empleos de apoyo (Aushilfe) en banquetes, caterings externos y en la cocina.",
+      "requirements": [
+        "Educado y servicial",
+        "Buen jugador de equipo",
+        "Ganas de aprender"
+      ],
+      "employmentType": "Tiempo parcial (auxiliar)",
+      "language": "Alemán",
+      "englishOk": false,
+      "seniority": "intern",
+      "de": {
+        "title": "Aushilfe Bankett / Küche",
+        "summary": "Temporäre Aushilfsjobs im Bankett, bei Ausserhaus-Caterings und in der Küche in einem Marriott-Hotel in Zürich.",
+        "description": "Spannende Aushilfsjobs im Bankett und Ausserhaus Caterings sowie in der Küche.",
+        "requirements": [
+          "Zuvorkommend und hilfsbereit",
+          "Teamplayer",
+          "Lernbereit"
+        ],
+        "employmentType": "Teilzeit (Aushilfe)",
+        "language": "Deutsch"
+      },
+      "id": "7eaa714ead59",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Hilfskoch/Hilfsköchin 100%",
+      "titleEs": "Ayudante de cocina 100%",
+      "company": "Hiltl",
+      "location": "Zürich",
+      "postedAt": "2026-11-10",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4485808785",
+      "summary": "Ayudante de cocina en el restaurante vegetariano Hiltl: todos los puestos de cocina en producción y a la carta; anuncio de hace aproximadamente una semana.",
+      "description": "Trabajar en todas las estaciones de cocina según el plan de turnos, preparar la mise en place de forma autónoma, aplicar las recetas con cuidado y cumplir HACCP.",
+      "requirements": [
+        "Varios años de experiencia sólida en cocina",
+        "Alemán mínimo B1, inglés una ventaja",
+        "Interés por la cocina vegetariana y vegana",
+        "Disponibilidad para turnos de mañana y tarde"
+      ],
+      "workload": "100 %",
+      "employmentType": "Jornada completa",
+      "language": "Alemán B1, inglés una ventaja",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Hilfskoch/Hilfsköchin 100%",
+        "summary": "Hilfskoch im vegetarischen Restaurant Hiltl: alle Küchenstationen in Produktion und à la carte; Anzeige ca. eine Woche alt.",
+        "description": "Arbeit an allen Küchenstationen nach Dienstplan, Mise en place selbständig vorbereiten, Rezepte sorgfältig umsetzen und HACCP-Hygienestandards einhalten.",
+        "requirements": [
+          "Mehrjährige solide Küchenerfahrung",
+          "Deutschkenntnisse mind. B1, Englisch von Vorteil",
+          "Interesse an vegetarischer und veganer Küche",
+          "Bereitschaft zu Früh- und Spätdiensten"
+        ],
+        "workload": "100 %",
+        "employmentType": "Vollzeit",
+        "language": "Deutsch B1, Englisch von Vorteil"
+      },
+      "id": "60b44b62a3e9",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Lagermitarbeiter/Chauffeur (m/w/d), 80%",
+      "titleEs": "Mozo/a de almacén y conductor/a (80 %)",
+      "company": "Schindler Aufzüge AG",
+      "location": "Embrach / Winterthur ZH",
+      "postedAt": "2026-11-10",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/42feb056-feb9-4685-a1f2-04d7b214bdcf",
+      "summary": "Recepción, preparación y entrega de material a montadores y técnicos de la sucursal, gestión de inventario en SAP y transporte de material a obras.",
+      "description": "Recepción y salida de mercancías, preparación de material para montadores y técnicos, gestión de existencias según demanda, gestión de herramientas y máquinas de la sucursal, registro de devoluciones, logística de almacén en SAP, transporte de material a obras y eliminación de residuos.",
+      "requirements": [
+        "Formación técnica básica y varios años de experiencia laboral (la experiencia en logística es una ventaja)",
+        "Carné de conducir válido",
+        "Ganas de aprender, orientación al servicio y organización"
+      ],
+      "workload": "80 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán fluido, inglés básico",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Lagermitarbeiter/Chauffeur (m/w/d), 80%",
+        "summary": "Wareneingang, Bereitstellung und Ausgabe von Material an Monteure und Techniker der Niederlassung, Bestandsführung in SAP und Materialtransport zu Baustellen.",
+        "description": "Warenein- und -ausgang, Bereitstellung von Material für Monteure und Techniker, Bestandsführung nach Bedarf, Verwaltung von Werkzeugen und Maschinen der Niederlassung, Erfassung von Retouren, Lagerlogistik in SAP, Materialtransport zu Baustellen und Entsorgung.",
+        "requirements": [
+          "Technische Grundausbildung und mehrjährige Berufserfahrung (Logistikerfahrung von Vorteil)",
+          "Gültiger Führerausweis",
+          "Lernbereitschaft, Service- und Lösungsorientierung, strukturierte Arbeitsweise"
+        ],
+        "workload": "80 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch fliessend, Englisch Grundkenntnisse"
+      },
+      "id": "b824665aa845",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
       "searchId": "umzug",
       "title": "Disponent Logistik für Umzug (m/w/d) 100%",
       "titleEs": "Planificador/a de logística de mudanzas 100 %",
@@ -6184,6 +7095,67 @@
       }
     },
     {
+      "searchId": "hotel",
+      "title": "Hotelfachfrau / Hotelfachmann",
+      "titleEs": "Empleado/a de hotel (habitaciones y servicio)",
+      "company": "Clienia Schlössli AG",
+      "location": "Oetwil am See ZH",
+      "postedAt": "2026-11-09",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/9c50327a-fa2e-43b1-829e-bcde9f9562bb",
+      "summary": "Puesto en el servicio hotelero de una clínica privada de psiquiatría con estándar de hotel de cuatro estrellas: servicio de comidas y limpieza de habitaciones. Funcionamiento los 365 días.",
+      "description": "Organizar el servicio de desayuno, comida y cena con estándar de hotel de cuatro estrellas, asesorar a los pacientes sobre los menús, limpiar habitaciones y realizar la limpieza de mantenimiento. Horarios irregulares, incluidos fines de semana y festivos. Inicio el 1 de enero de 2027 o a convenir.",
+      "requirements": [
+        "Varios años de experiencia en housekeeping, hotel y/o servicio",
+        "Alemán muy bueno hablado y escrito",
+        "Orientación al servicio, flexibilidad y trabajo en equipo",
+        "Conocimientos informáticos y coche, una ventaja"
+      ],
+      "workload": "40 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán muy bueno",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Hotelfachfrau / Hotelfachmann",
+        "summary": "Stelle im Hoteldienst einer psychiatrischen Privatklinik mit Vier-Sterne-Hotelstandard: Verpflegungsservice und Zimmerreinigung im 365-Tage-Betrieb.",
+        "description": "Organisation des Frühstücks-, Mittags- und Abendservice nach Vier-Sterne-Hotelstandard, Beratung der Patienten zu den Menüs, Reinigung der Gästezimmer und Unterhaltsreinigung. Unregelmässige Arbeitszeiten inkl. Wochenenden und Feiertage. Eintritt ab 1. Januar 2027 oder nach Vereinbarung.",
+        "requirements": [
+          "Mehrjährige Erfahrung in Housekeeping, Hotellerie und/oder Service",
+          "Sehr gute Deutschkenntnisse in Wort und Schrift",
+          "Serviceorientiert, teamfähig, flexibel",
+          "EDV-Kenntnisse und Auto von Vorteil"
+        ],
+        "workload": "40 %",
+        "employmentType": "Festanstellung",
+        "language": "Sehr gutes Deutsch"
+      },
+      "id": "85e1e3ef4fa5",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Sushi-Hilfskoch/Hilfsköchin 50-100%",
+      "titleEs": "Ayudante de cocina de sushi 50-100%",
+      "company": "Two Spice AG",
+      "location": "Zürich (Riesbachstrasse 61)",
+      "postedAt": "2026-11-09",
+      "source": "myjob.ch",
+      "url": "https://www.myjob.ch/job/sushi-hilfskoch-hilfskoechin-50-100/3649295",
+      "summary": "Ayudante de cocina de sushi en Zürich, jornada flexible del 50 al 100 %. El anuncio no detalla más datos.",
+      "workload": "50–100 %",
+      "employmentType": "Contrato fijo",
+      "seniority": "junior",
+      "de": {
+        "title": "Sushi-Hilfskoch/Hilfsköchin 50-100%",
+        "summary": "Sushi-Hilfskoch in Zürich, Pensum 50 bis 100 %. Die Anzeige nennt keine weiteren Angaben.",
+        "workload": "50–100 %",
+        "employmentType": "Festanstellung"
+      },
+      "id": "e5fdb4b17a61",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
       "searchId": "fullstack-ts",
       "title": "Back End Developer",
       "titleEs": "Desarrollador/a Backend (contrato temporal)",
@@ -6854,6 +7826,50 @@
       "foundAt": "2026-11-12T11:44:58.393Z"
     },
     {
+      "searchId": "kueche",
+      "title": "Office-Mitarbeiter:in (50%)",
+      "titleEs": "Auxiliar de office / cocina de lavado (50%)",
+      "company": "Genossenschaft ZFV-Unternehmungen",
+      "location": "Dübendorf",
+      "postedAt": "2026-11-08",
+      "source": "myjob.ch",
+      "url": "https://myjob.ch/job/office-mitarbeiterin-50/3646194",
+      "summary": "Puesto de Office-Mitarbeiter (office/cocina de lavado) en un restaurante de ZFV en Dübendorf. El anuncio no detalla tareas ni requisitos.",
+      "workload": "50 %",
+      "employmentType": "Contrato fijo",
+      "seniority": "junior",
+      "de": {
+        "title": "Office-Mitarbeiter:in (50%)",
+        "summary": "Office-Mitarbeiter:in in einem ZFV-Betrieb in Dübendorf. Die Anzeige nennt keine Aufgaben oder Anforderungen.",
+        "workload": "50 %",
+        "employmentType": "Festanstellung"
+      },
+      "id": "b2faf5493757",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Office-Mitarbeiter:in (30-40%)",
+      "titleEs": "Auxiliar de office / cocina de lavado (30-40%)",
+      "company": "Genossenschaft ZFV-Unternehmungen",
+      "location": "Zürich",
+      "postedAt": "2026-11-08",
+      "source": "myjob.ch",
+      "url": "https://myjob.ch/job/office-mitarbeiterin/3646191",
+      "summary": "Puesto de Office-Mitarbeiter (office/cocina de lavado) en un restaurante de ZFV en Zürich. El anuncio no detalla tareas ni requisitos.",
+      "workload": "30-40 %",
+      "employmentType": "Contrato fijo",
+      "seniority": "junior",
+      "de": {
+        "title": "Office-Mitarbeiter:in (30-40%)",
+        "summary": "Office-Mitarbeiter:in in einem ZFV-Betrieb in Zürich. Die Anzeige nennt keine Aufgaben oder Anforderungen.",
+        "workload": "30-40 %",
+        "employmentType": "Festanstellung"
+      },
+      "id": "c43f9573f2c4",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
       "searchId": "umzug",
       "title": "Umzugsleiter 100 %",
       "titleEs": "Jefe/a de mudanzas 100 %",
@@ -6993,6 +8009,86 @@
       "foundAt": "2026-11-12T20:17:38.597Z"
     },
     {
+      "searchId": "hotel",
+      "title": "Mitarbeiter:in Housekeeping | Placid Hotel",
+      "titleEs": "Empleado/a de housekeeping | Placid Hotel",
+      "company": "Diakonie Bethanien",
+      "location": "Zürich-Altstetten ZH",
+      "postedAt": "2026-11-07",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/76d5bc11-b1f8-44c7-8eda-07efd4f172a6",
+      "summary": "Limpieza de habitaciones y zonas del Placid Hotel de Zürich-Altstetten, trabajo por horas con turnos de fin de semana regulares.",
+      "description": "Limpieza de las habitaciones y zonas asignadas, trabajos generales de housekeeping, limpieza de ventanas y apoyo en las zonas públicas, respetando las normas de higiene. Horario de 07:00 a 19:00, con turnos regulares en fin de semana. Descuento del 50 % en el restaurante Intermezzo.",
+      "requirements": [
+        "Experiencia en housekeeping de hotel",
+        "Experiencia con máquinas de limpieza",
+        "Alta calidad y atención al detalle",
+        "Trabajo flexible y autónomo",
+        "Buen alemán hablado; inglés es una ventaja"
+      ],
+      "workload": "50–80 %",
+      "employmentType": "Pago por horas",
+      "language": "Alemán bueno (hablado), inglés una ventaja",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Mitarbeiter:in Housekeeping | Placid Hotel",
+        "summary": "Reinigung der Zimmer und Bereiche im Placid Hotel Zürich-Altstetten, Stundenlohn mit regelmässigen Wochenendeinsätzen.",
+        "description": "Reinigung der zugeteilten Hotelzimmer und Bereiche, allgemeine Housekeeping-Arbeiten, Fensterreinigung und Unterstützung im Public Area unter Beachtung der Hygienevorschriften. Arbeitszeiten 07:00 bis 19:00 Uhr, regelmässige Wochenendeinsätze. 50 % Rabatt im Restaurant Intermezzo.",
+        "requirements": [
+          "Erfahrung im Hotel-Housekeeping",
+          "Erfahrung mit Reinigungsmaschinen",
+          "Hohes Qualitäts- und Detailbewusstsein",
+          "Flexible, selbständige Arbeitsweise",
+          "Gutes mündliches Deutsch; Englisch von Vorteil"
+        ],
+        "workload": "50–80 %",
+        "employmentType": "Stundenlohn",
+        "language": "Gutes Deutsch (mündlich), Englisch von Vorteil"
+      },
+      "id": "4aaf4e17fb99",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Mitarbeiter*in Küchenproduktion / Traiteur",
+      "titleEs": "Empleado/a de producción de cocina / Traiteur",
+      "company": "Kubista Gastro GmbH",
+      "location": "Zürich",
+      "postedAt": "2026-11-07",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/624f9794-181e-4027-99c8-e7df6311701a",
+      "summary": "Producción de cocina (sándwiches y mise en place) en Zürich, jornada completa de 06:00 a 15:00 aprox.",
+      "description": "Preparación de la gama de sándwiches, mise en place para el día siguiente, trabajo general de producción en cocina, limpieza de producción y cumplimiento de las normas de higiene y seguridad.",
+      "requirements": [
+        "Experiencia en cocina o producción",
+        "Fiable, flexible y capaz de trabajo físico",
+        "Alemán o inglés",
+        "Carné de conducir categoría B deseable"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán fluido, inglés una ventaja",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Mitarbeiter*in Küchenproduktion / Traiteur",
+        "summary": "Küchenproduktion (Sandwiches und Mise en place) in Zürich, Vollzeit von ca. 06:00 bis 15:00 Uhr.",
+        "description": "Zubereitung des Sandwichsortiments, Mise en place für den Folgetag, allgemeine Produktionsarbeiten in der Küche, Produktionsreinigung und Einhaltung der Hygiene- und Arbeitssicherheitsvorschriften.",
+        "requirements": [
+          "Küchen- oder Produktionserfahrung",
+          "Zuverlässig, flexibel und körperlich belastbar",
+          "Deutsch oder Englisch",
+          "Führerausweis Kat. B erwünscht"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch fliessend, Englisch von Vorteil"
+      },
+      "id": "101577d7f298",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
       "searchId": "junior-it",
       "title": "Lehrstelle Informatik EFZ - Fachrichtung Applikationsentwicklung (f/m/d) | 100% | Start: 1. August 2027 | Zürich",
       "titleEs": "Aprendizaje Informática EFZ – desarrollo de aplicaciones (inicio ago. 2027)",
@@ -7104,6 +8200,121 @@
       },
       "id": "ae1fd61914be",
       "foundAt": "2026-11-12T15:20:33.966Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Room Attendant 80-100% (all genders)",
+      "titleEs": "Camarero/a de pisos 80-100%",
+      "company": "The Living Circle",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-06",
+      "source": "The Living Circle",
+      "url": "https://jobs.thelivingcircle.ch/jobs/68597682",
+      "summary": "Apoyo al departamento de housekeeping de un hotel del grupo: limpieza y cuidado del hotel y atención a peticiones de los huéspedes. Inicio en diciembre o a convenir.",
+      "description": "Limpieza y mantenimiento de las habitaciones y del hotel y cumplimiento de los deseos de los huéspedes. Incorporación en diciembre o a convenir. Ventajas: abono ZVV, descuentos y tarifa Friends & Family en los hoteles del grupo.",
+      "requirements": [
+        "Atención al detalle y trabajo cuidadoso",
+        "Alemán y/o inglés",
+        "Trabajo en equipo",
+        "Aspecto cuidado y amable",
+        "Idealmente experiencia en limpieza de habitaciones"
+      ],
+      "workload": "80–100 %",
+      "language": "Alemán y/o inglés",
+      "englishOk": true,
+      "seniority": "junior",
+      "de": {
+        "title": "Room Attendant 80-100% (all genders)",
+        "summary": "Unterstützung des Housekeeping-Teams eines Hotels der Gruppe: Reinigung und Pflege des Hotels sowie Erfüllung von Gästewünschen. Start ab Dezember oder nach Vereinbarung.",
+        "description": "Reinigung und Pflege der Zimmer und des Hotels sowie Erfüllung von Gästewünschen. Eintritt ab Dezember oder nach Vereinbarung. Vorteile: ZVV-Bonuspass, Rabatte und Friends-&-Family-Tarif in den Hotels der Gruppe.",
+        "requirements": [
+          "Sorgfalt und genaue Arbeitsweise",
+          "Deutsch und/oder Englisch",
+          "Freude an der Teamarbeit",
+          "Gepflegtes, freundliches Auftreten",
+          "Idealerweise Erfahrung in der Zimmerreinigung"
+        ],
+        "workload": "80–100 %",
+        "language": "Deutsch und/oder Englisch"
+      },
+      "id": "70a175be463a",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Hilfsköchin/Hilfskoch 100%",
+      "titleEs": "Ayudante de cocina 100%",
+      "company": "Gesundheitsnetz Küsnacht AG",
+      "location": "Küsnacht ZH",
+      "postedAt": "2026-11-06",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/4564f843-8c05-4617-8375-389351975417",
+      "summary": "Ayudante de cocina en los centros para mayores de Küsnacht: cocina de lavado, preparación de comidas y servicio.",
+      "description": "Trabajo en la cocina de lavado, preparación autónoma de comidas y dietas, servir y colaborar en el servicio, apoyo en eventos y catering, manejo de máquinas y responsabilidad en higiene y seguridad.",
+      "requirements": [
+        "Varios años de experiencia, preferiblemente en residencias u hospitales",
+        "Buen alemán",
+        "Disponibilidad los fines de semana",
+        "Carné de conducir obligatorio"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo (descrito como temporal para cubrir una baja)",
+      "language": "Alemán (avanzado)",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Hilfsköchin/Hilfskoch 100%",
+        "summary": "Hilfskoch in den Alterszentren Küsnacht: Abwaschküche, Mahlzeitenzubereitung und Service.",
+        "description": "Arbeit in der Abwaschküche, selbständiges Zubereiten von Mahlzeiten und Diäten, Schöpfen und Mitarbeit im Service, Mitarbeit bei Sonderanlässen und Caterings, Bedienung von Geräten und Maschinen, Mitverantwortung für Sicherheit und Hygiene.",
+        "requirements": [
+          "Einige Jahre Berufserfahrung, vorzugsweise im Heim- oder Spitalumfeld",
+          "Gute Deutschkenntnisse",
+          "Bereitschaft für Wochenendeinsätze",
+          "Führerausweis zwingend"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung (als befristet beschrieben, zur Überbrückung)",
+        "language": "Deutsch (fortgeschritten)"
+      },
+      "id": "76f9c00ca464",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Haushalts- und Küchenhilfe",
+      "titleEs": "Ayudante de hogar y cocina",
+      "company": "Stadt Bülach (Hort Lindenhof)",
+      "location": "Bülach ZH",
+      "postedAt": "2026-11-06",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/39be75da-4916-45cd-871c-88056eae0a26",
+      "summary": "Ayudante de hogar y cocina en una guardería escolar de Bülach (unas 12,5 horas semanales en periodo escolar), desde el 1 de enero de 2027.",
+      "description": "Preparar comidas para los niños, trabajar en la cocina de lavado, ordenar y limpiar en general y apoyar al equipo de cuidado.",
+      "requirements": [
+        "Experiencia en limpieza de ventaja",
+        "Personalidad abierta y con humor, con gusto por trabajar con niños",
+        "Trabajo autónomo, fiable y estructurado"
+      ],
+      "workload": "Aprox. 12,5 h/semana (indicado 100 %)",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Haushalts- und Küchenhilfe",
+        "summary": "Haushalts- und Küchenhilfe in einem Hort in Bülach (ca. 12,5 Stunden pro Woche in Schulwochen), ab 1. Januar 2027.",
+        "description": "Zubereiten von Mahlzeiten für die Kinder, Arbeit in der Abwaschküche, allgemeine Aufräum- und Reinigungsarbeiten und Unterstützung des Betreuungsteams.",
+        "requirements": [
+          "Reinigungserfahrung von Vorteil",
+          "Offene, humorvolle Persönlichkeit mit Freude am Umgang mit Kindern",
+          "Selbständige, zuverlässige und strukturierte Arbeitsweise"
+        ],
+        "workload": "Ca. 12,5 Std./Woche (als 100 % angegeben)",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch"
+      },
+      "id": "384f04e4a1fc",
+      "foundAt": "2026-11-17T07:17:52.686Z"
     },
     {
       "searchId": "umzug",
@@ -7799,6 +9010,45 @@
       "foundAt": "2026-11-11T16:15:03.750Z",
       "englishOk": false,
       "seniority": "mid"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Hilfskoch im Stundenlohn (m/w) - CIRCUS CONELLI (befristet bis 31.12.2026)",
+      "titleEs": "Ayudante de cocina por horas - Circus Conelli (temporal hasta el 31.12.2026)",
+      "company": "Candrian Catering",
+      "location": "Zürich (Bahnhofplatz / HB)",
+      "postedAt": "2026-11-05",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/1233349a-89a4-4cd4-8000-d3e1f6761a78",
+      "summary": "Ayudante de cocina por horas en el Circus Conelli de Zürich, temporal hasta el 31 de diciembre de 2026.",
+      "description": "Apoyo en la preparación de platos, mise en place, tareas de limpieza, cumplimiento de estándares de calidad e higiene (GHP) y transporte de mercancías.",
+      "requirements": [
+        "Experiencia en cocina deseable",
+        "Fiable, puntual, cuidadoso y en equipo",
+        "Buen alemán",
+        "Flexible en todos los turnos"
+      ],
+      "workload": "60–100 %",
+      "employmentType": "Temporal (por horas)",
+      "language": "Alemán (bueno)",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Hilfskoch im Stundenlohn (m/w) - CIRCUS CONELLI (befristet bis 31.12.2026)",
+        "summary": "Hilfskoch im Stundenlohn beim Circus Conelli in Zürich, befristet bis 31. Dezember 2026.",
+        "description": "Unterstützung bei der Zubereitung verschiedener Gerichte, Mise en Place, Reinigungsarbeiten, Einhalten von Qualitäts- und Hygienestandards (GHP) und Warentransport.",
+        "requirements": [
+          "Berufserfahrung in der Küche erwünscht",
+          "Zuverlässig, pünktlich, teamfähig, sorgfältig",
+          "Gute Deutschkenntnisse",
+          "Flexibel einsetzbar in allen Diensten"
+        ],
+        "workload": "60–100 %",
+        "employmentType": "Temporär, im Stundenlohn",
+        "language": "Deutsch (gut)"
+      },
+      "id": "ae5ffc227f5a",
+      "foundAt": "2026-11-17T07:17:52.686Z"
     },
     {
       "searchId": "fullstack-ts",
@@ -9195,6 +10445,84 @@
       },
       "id": "9af7f4513528",
       "foundAt": "2026-11-12T15:20:33.966Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Koch/Köchin oder Hilfskoch/-köchin Bundesasylzentrum (m/w/d)",
+      "titleEs": "Cocinero/a o ayudante de cocina en centro federal de asilo",
+      "company": "Convalere AG",
+      "location": "Embrach ZH",
+      "postedAt": "2026-11-03",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/fdebb628-2578-43b1-bb2f-23df3dd95eb0",
+      "summary": "Puesto de cocina (cocinero/a o ayudante) en un centro federal de asilo en Embrach, con tareas de apoyo y de instrucción.",
+      "description": "Colaborar en la preparación de desayuno, comida y cena, apoyar al jefe de cocina, aplicar planes de menú y dietas especiales, recepción de mercancías y control de existencias, evitar el desperdicio de alimentos, limpieza y guiar a solicitantes de asilo en programas de ocupación. Trabajo en fines de semana y festivos.",
+      "requirements": [
+        "Formación escolar y profesional completada",
+        "Mínimo tres años de experiencia profesional",
+        "Buen alemán hablado y otro idioma (inglés u otro)",
+        "Disponibilidad en fines de semana y festivos"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán hablado bueno, inglés u otro idioma",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Koch/Köchin oder Hilfskoch/-köchin Bundesasylzentrum (m/w/d)",
+        "summary": "Stelle in der Küche (Koch oder Hilfskoch) in einem Bundesasylzentrum in Embrach, mit Unterstützungs- und Anleitungsaufgaben.",
+        "description": "Mitarbeit bei der Zubereitung von Frühstück, Mittag- und Abendessen, Unterstützung des Küchenchefs, Umsetzung von Menüplänen und Sonderkostformen, Warenannahme und Lagerbewirtschaftung, Vermeidung von Foodwaste, Reinigung und Anleitung von Asylsuchenden in Beschäftigungsprogrammen. Arbeit an Wochenenden und Feiertagen.",
+        "requirements": [
+          "Abgeschlossene Schul- und Berufsausbildung",
+          "Mindestens drei Jahre Berufserfahrung",
+          "Gute mündliche Deutschkenntnisse und eine weitere Sprache (Englisch o. ä.)",
+          "Bereitschaft zu Einsätzen an Wochenenden und Feiertagen"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Mündlich gutes Deutsch, Englisch o. ä."
+      },
+      "id": "c3c95f992617",
+      "foundAt": "2026-11-17T07:17:52.686Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Küche (d/w/m)",
+      "titleEs": "Cocina (ayudante)",
+      "company": "Tenz GmbH",
+      "location": "Zürich (Langstrasse)",
+      "postedAt": "2026-11-03",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/7d1573a0-a808-4ab8-8cd4-f8084a953f05",
+      "summary": "Puesto de cocina en un restaurante de la Langstrasse; se valora la experiencia pero no es obligatoria. Posible reparto en jornadas parciales.",
+      "description": "Preparar ingredientes y productos, mise en place, cocinar según recetas, controlar calidad y presentación, mantener la higiene y apoyar el buen funcionamiento de la cocina.",
+      "requirements": [
+        "Experiencia en cocina u hostelería de ventaja",
+        "Trabajo cuidadoso y estructurado",
+        "Eficiente bajo presión, fiable y en equipo",
+        "Alemán o inglés para la comunicación diaria"
+      ],
+      "workload": "100 % (también 2 x 30 % o 20 % + 40 %)",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán o inglés (avanzado)",
+      "englishOk": true,
+      "seniority": "junior",
+      "de": {
+        "title": "Küche (d/w/m)",
+        "summary": "Stelle in der Küche eines Restaurants an der Langstrasse; Erfahrung von Vorteil, aber nicht zwingend. Aufteilung auf Teilzeitpensen möglich.",
+        "description": "Zutaten und Produkte vorbereiten, Mise en place sicherstellen, nach Rezepten kochen, Qualität und Präsentation prüfen, Hygienestandards einhalten und einen reibungslosen Küchenbetrieb unterstützen.",
+        "requirements": [
+          "Küchen- oder Gastronomieerfahrung von Vorteil",
+          "Sorgfältige, strukturierte Arbeitsweise",
+          "Effizient unter Druck, zuverlässig und teamfähig",
+          "Deutsch oder Englisch für die tägliche Teamkommunikation"
+        ],
+        "workload": "100 % (auch 2 x 30 % oder 20 % + 40 %)",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch oder Englisch (fortgeschritten)"
+      },
+      "id": "dff97586d80c",
+      "foundAt": "2026-11-17T07:17:52.686Z"
     },
     {
       "searchId": "fullstack-ts",
