@@ -1,45 +1,12 @@
 {
-  "updatedAt": "2026-11-18T06:17:00.273Z",
+  "updatedAt": "2026-11-18T07:22:33.933Z",
   "companies": [
     {
-      "key": "compass",
-      "name": "Compass Group Schweiz",
-      "agency": false,
-      "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-17",
-      "searchIds": [
-        "kueche"
-      ],
-      "locations": [
-        "Opfikon ZH",
-        "Zürich"
-      ],
-      "jobs": [
-        {
-          "id": "939aed059f7f",
-          "title": "Empleado/a de office 40%",
-          "searchId": "kueche",
-          "postedAt": "2026-11-17",
-          "location": "Opfikon ZH",
-          "url": "https://ch.linkedin.com/jobs/view/4490953677"
-        },
-        {
-          "id": "29463aed41b1",
-          "title": "Empleado/a de cocina de lavado 60%",
-          "searchId": "kueche",
-          "postedAt": "2026-11-10",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/4488082558",
-          "englishOk": false
-        }
-      ]
-    },
-    {
       "key": "coople",
-      "name": "Coople",
+      "name": "Coople (DPD Buchs)",
       "agency": true,
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-17",
+      "lastSeen": "2026-11-18",
       "searchIds": [
         "hotel",
         "reinigung-flughafen",
@@ -52,9 +19,27 @@
         "Volketswil ZH",
         "Zürich ZH",
         "Dietikon ZH",
-        "Winterthur ZH"
+        "Winterthur ZH",
+        "Volketswil ZH (8604)",
+        "Buchs ZH (8107)"
       ],
       "jobs": [
+        {
+          "id": "fb36e0c5bad9",
+          "title": "Picker de tienda (turno de 8 h)",
+          "searchId": "lager",
+          "postedAt": "2026-11-18",
+          "location": "Volketswil ZH (8604)",
+          "url": "https://www.coople.com/ch/jobs/de/52ef34e6-779f-4d01-a8ac-ff68d328f739"
+        },
+        {
+          "id": "46b08b510453",
+          "title": "Descarga de contenedores (noviembre), DPD Buchs",
+          "searchId": "lager",
+          "postedAt": "2026-11-18",
+          "location": "Buchs ZH (8107)",
+          "url": "https://www.coople.com/ch/jobs/de/23a1277c-be30-40e2-9fb3-33b82f78345c"
+        },
         {
           "id": "1581ae7352a9",
           "title": "Ayudante de lavado (Winterthur)",
@@ -136,6 +121,191 @@
       ]
     },
     {
+      "key": "enzler",
+      "name": "Enzler Gruppe",
+      "agency": false,
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "searchIds": [
+        "hotel"
+      ],
+      "locations": [
+        "Uster ZH",
+        "Zürich"
+      ],
+      "jobs": [
+        {
+          "id": "8ea6e89f7702",
+          "title": "Limpieza de habitaciones y sustitución de gobernanta en hotel, Uster, 50–80%",
+          "searchId": "hotel",
+          "postedAt": "2026-11-18",
+          "location": "Uster ZH",
+          "url": "https://ch.linkedin.com/jobs/view/zimmerreinigung-und-stellvertretung-gouvernante-im-hotel-uster-50%25-bis-80%25-at-enzler-gruppe-4491461447",
+          "englishOk": false
+        },
+        {
+          "id": "38064329ae7d",
+          "title": "Limpieza de habitaciones / ayuda como sustituta de gobernanta en hotel Zürich-West, 60–80%",
+          "searchId": "hotel",
+          "postedAt": "2026-11-18",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/zimmerreinigung-aushilfe-stv-gouvernante-im-hotel-z%C3%BCrich-west-60%25-80%25-at-enzler-gruppe-4491467235",
+          "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "iss",
+      "name": "ISS Schweiz AG",
+      "agency": false,
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-18",
+      "searchIds": [
+        "reinigung-flughafen",
+        "lager"
+      ],
+      "locations": [
+        "Kloten ZH",
+        "8060 Zürich",
+        "Affoltern am Albis",
+        "Zürich",
+        "Flughafen Zürich (Kloten)"
+      ],
+      "jobs": [
+        {
+          "id": "762134ad1a6a",
+          "title": "Operario/a de picking (Kommissionierer/in)",
+          "searchId": "lager",
+          "postedAt": "2026-11-18",
+          "location": "Flughafen Zürich (Kloten)",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/7245ab96-a313-4dc9-b87f-32e4631b57fa",
+          "englishOk": false
+        },
+        {
+          "id": "b3209a0975fa",
+          "title": "Limpiador/a de cabinas de avión con función de jefe de grupo",
+          "searchId": "reinigung-flughafen",
+          "postedAt": "2026-11-12",
+          "location": "8060 Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/b1063354-bd22-441f-854f-2b6f802e0fd8"
+        },
+        {
+          "id": "cf41e1a46bf6",
+          "title": "Limpiador/a de cabinas de avión con función de jefe/a de grupo 100%",
+          "searchId": "reinigung-flughafen",
+          "postedAt": "2026-11-12",
+          "location": "Kloten ZH",
+          "url": "https://ch.linkedin.com/jobs/view/flugzeug-kabinenreiniger-in-mit-groupleader-funktion-100%25-at-iss-schweiz-ag-4489218111"
+        },
+        {
+          "id": "0c1f0f790a62",
+          "title": "Limpiador/a de cabinas de avión con función de jefe/a de grupo 100%",
+          "searchId": "reinigung-flughafen",
+          "postedAt": "2026-11-11",
+          "location": "Kloten ZH",
+          "url": "https://ch.linkedin.com/jobs/view/4488600490"
+        },
+        {
+          "id": "6092426dec5f",
+          "title": "Jefe/a de equipo de limpieza 100%",
+          "searchId": "reinigung-flughafen",
+          "postedAt": "2026-11-11",
+          "location": "Affoltern am Albis",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/784924df-1aee-41d7-8d34-8f6290feadcd",
+          "englishOk": false
+        },
+        {
+          "id": "e7c5976deee4",
+          "title": "Jefe/a de equipo de limpieza 100%",
+          "searchId": "reinigung-flughafen",
+          "postedAt": "2026-11-11",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/4489016745"
+        }
+      ]
+    },
+    {
+      "key": "averecura",
+      "name": "averecura holding ag",
+      "agency": false,
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17",
+      "searchIds": [
+        "hotel"
+      ],
+      "locations": [
+        "Uetikon am See ZH"
+      ],
+      "jobs": [
+        {
+          "id": "e03e4700533f",
+          "title": "Especialista en economía doméstica EFZ, 80–100%",
+          "searchId": "hotel",
+          "postedAt": "2026-11-17",
+          "location": "Uetikon am See ZH",
+          "url": "https://www.jobscout24.ch/de/job/592c9067-4ed1-4b74-8a4e-532bd270cc9a",
+          "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "bindella terra vite vita",
+      "name": "Bindella Terra Vite Vita SA",
+      "agency": false,
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17",
+      "searchIds": [
+        "kueche"
+      ],
+      "locations": [
+        "Winterthur ZH"
+      ],
+      "jobs": [
+        {
+          "id": "a5fef1c9f03f",
+          "title": "Ayudante de office / friegaplatos",
+          "searchId": "kueche",
+          "postedAt": "2026-11-17",
+          "location": "Winterthur ZH",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/91d6a3ab-6525-4b3e-95b2-06f0739ccbf4",
+          "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "compass",
+      "name": "Compass Group Schweiz",
+      "agency": false,
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-17",
+      "searchIds": [
+        "kueche"
+      ],
+      "locations": [
+        "Opfikon ZH",
+        "Zürich"
+      ],
+      "jobs": [
+        {
+          "id": "939aed059f7f",
+          "title": "Empleado/a de office 40%",
+          "searchId": "kueche",
+          "postedAt": "2026-11-17",
+          "location": "Opfikon ZH",
+          "url": "https://ch.linkedin.com/jobs/view/4490953677"
+        },
+        {
+          "id": "29463aed41b1",
+          "title": "Empleado/a de cocina de lavado 60%",
+          "searchId": "kueche",
+          "postedAt": "2026-11-10",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/4488082558",
+          "englishOk": false
+        }
+      ]
+    },
+    {
       "key": "eth zurich",
       "name": "ETH Zürich",
       "agency": false,
@@ -160,6 +330,38 @@
       ]
     },
     {
+      "key": "familie wiesner gastronomie",
+      "name": "Familie Wiesner Gastronomie AG",
+      "agency": false,
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-17",
+      "searchIds": [
+        "kueche"
+      ],
+      "locations": [
+        "Zürich ZH",
+        "Wallisellen ZH"
+      ],
+      "jobs": [
+        {
+          "id": "e9da79b9739f",
+          "title": "Friegaplatos (100 %), Zürich",
+          "searchId": "kueche",
+          "postedAt": "2026-11-17",
+          "location": "Zürich ZH",
+          "url": "https://www.myjob.ch/job/abwaescherin-a-100-zuerich/3673012"
+        },
+        {
+          "id": "60a1226dada4",
+          "title": "Friegaplatos (50 %), Wallisellen",
+          "searchId": "kueche",
+          "postedAt": "2026-11-14",
+          "location": "Wallisellen ZH",
+          "url": "https://www.myjob.ch/job/abwaescherin-a-50-wallisellen/3663418"
+        }
+      ]
+    },
+    {
       "key": "inventx",
       "name": "Inventx AG",
       "agency": false,
@@ -179,6 +381,116 @@
           "postedAt": "2026-11-17",
           "location": "Zürich",
           "url": "https://ch.linkedin.com/jobs/view/senior-test-manager-80-100%25-at-inventx-ag-4490648849",
+          "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "marti",
+      "name": "Marti Gruppe (Marti AG)",
+      "agency": false,
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17",
+      "searchIds": [
+        "lager"
+      ],
+      "locations": [
+        "Regensdorf ZH (Werkhof; sede Zürich)"
+      ],
+      "jobs": [
+        {
+          "id": "40fa54a2e0a7",
+          "title": "Almacenero/a de taller-patio (Werkhof, construcción)",
+          "searchId": "lager",
+          "postedAt": "2026-11-17",
+          "location": "Regensdorf ZH (Werkhof; sede Zürich)",
+          "url": "https://ch.linkedin.com/jobs/view/magazinmitarbeiter-in-werkhof-at-marti-group-4490448515",
+          "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "migros online",
+      "name": "Migros Online AG",
+      "agency": true,
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17",
+      "searchIds": [
+        "lager"
+      ],
+      "locations": [
+        "Regensdorf ZH"
+      ],
+      "jobs": [
+        {
+          "id": "55f2e95fb9e3",
+          "title": "Operario/a de picking (Kommissionierung)",
+          "searchId": "lager",
+          "postedAt": "2026-11-17",
+          "location": "Regensdorf ZH",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/02b9f378-be16-43e2-9714-dd913ef38796",
+          "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "migros zurich",
+      "name": "Migros Zürich (Migros Restaurant Glatt)",
+      "agency": false,
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-17",
+      "searchIds": [
+        "kueche",
+        "lager"
+      ],
+      "locations": [
+        "Rapperswil",
+        "Zürich",
+        "Zürich (Altstetten)",
+        "Wallisellen",
+        "Wallisellen ZH"
+      ],
+      "jobs": [
+        {
+          "id": "d9b76aa51dfb",
+          "title": "Ayudante de take-away / cocina caliente y venta",
+          "searchId": "kueche",
+          "postedAt": "2026-11-17",
+          "location": "Wallisellen ZH",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/8cfef754-67d5-4305-b2d3-756af6cb39de",
+          "englishOk": false
+        },
+        {
+          "id": "c3501334271b",
+          "title": "Ayudante de office de cocina",
+          "searchId": "kueche",
+          "postedAt": "2026-11-11",
+          "location": "Rapperswil",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/b53e98fb-7957-4765-8d41-b7ea53bacce1"
+        },
+        {
+          "id": "8a5fc1ede705",
+          "title": "Especialista en logística de mercancías (carga, turno de día)",
+          "searchId": "lager",
+          "postedAt": "2026-11-09",
+          "location": "Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/e857240c-64d4-484b-9bd1-a5ce4dbca071"
+        },
+        {
+          "id": "c51c954a0b74",
+          "title": "Empleado/a de Take Away",
+          "searchId": "kueche",
+          "postedAt": "2026-11-09",
+          "location": "Zürich (Altstetten)",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/f5ba506d-fc44-4a12-9011-6fe442f8c4cc"
+        },
+        {
+          "id": "4f7cbe7ff6f8",
+          "title": "Empleado/a de producción (cocina, restaurante Migros)",
+          "searchId": "kueche",
+          "postedAt": "2026-11-05",
+          "location": "Wallisellen",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/8746cf5f-a929-4b54-b7cf-f277852dd156",
           "englishOk": false
         }
       ]
@@ -238,6 +550,101 @@
           "postedAt": "2026-11-17",
           "location": "Dietlikon",
           "url": "https://ch.linkedin.com/jobs/view/fullstack-entwickler-c%23-und-coldfusion-oder-php-m-w-at-quantum-digital-4490199044",
+          "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "splendida services",
+      "name": "Splendida Services AG",
+      "agency": false,
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17",
+      "searchIds": [
+        "reinigung-flughafen"
+      ],
+      "locations": [
+        "Winterthur ZH"
+      ],
+      "jobs": [
+        {
+          "id": "c74d7169c9ac",
+          "title": "Personal de limpieza 40-50 % (desde las 06:00)",
+          "searchId": "reinigung-flughafen",
+          "postedAt": "2026-11-17",
+          "location": "Winterthur ZH",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/081ab3c6-37b9-49e2-9c30-6803c6abeeb4",
+          "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "tibits",
+      "name": "Tibits AG",
+      "agency": false,
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17",
+      "searchIds": [
+        "kueche"
+      ],
+      "locations": [
+        "Zürich ZH"
+      ],
+      "jobs": [
+        {
+          "id": "b9bc1830c022",
+          "title": "Mitarbeiter/a de producción de cocina (40–80 %)",
+          "searchId": "kueche",
+          "postedAt": "2026-11-17",
+          "location": "Zürich ZH",
+          "url": "https://www.myjob.ch/job/produktionsmitarbeiterin-kueche-40-80/3674564"
+        }
+      ]
+    },
+    {
+      "key": "wenger vieli",
+      "name": "Wenger Vieli AG",
+      "agency": false,
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17",
+      "searchIds": [
+        "reinigung-flughafen"
+      ],
+      "locations": [
+        "Zürich (Dufourstrasse 56, 8008)"
+      ],
+      "jobs": [
+        {
+          "id": "6c4283f493d9",
+          "title": "Personal de limpieza 50-60 % (turno de tarde)",
+          "searchId": "reinigung-flughafen",
+          "postedAt": "2026-11-17",
+          "location": "Zürich (Dufourstrasse 56, 8008)",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/e873910d-6928-4362-8c95-a75cf6069db1",
+          "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "woma work management",
+      "name": "Woma Work Management AG",
+      "agency": false,
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17",
+      "searchIds": [
+        "umzug"
+      ],
+      "locations": [
+        "Zürich (8001)"
+      ],
+      "jobs": [
+        {
+          "id": "c565ec5be617",
+          "title": "Ayudante de mudanzas, por horas (auf Abruf)",
+          "searchId": "umzug",
+          "postedAt": "2026-11-17",
+          "location": "Zürich (8001)",
+          "url": "https://www.jobscout24.ch/de/job/5bfb6c6c-a078-46e5-847e-356bcd0e4dc0",
           "englishOk": false
         }
       ]
@@ -389,14 +796,15 @@
       "key": "confiserie sprungli",
       "name": "Confiserie Sprüngli",
       "agency": false,
-      "firstSeen": "2026-11-13",
+      "firstSeen": "2026-11-06",
       "lastSeen": "2026-11-16",
       "searchIds": [
         "reinigung-flughafen",
         "kueche"
       ],
       "locations": [
-        "Dietikon ZH"
+        "Dietikon ZH",
+        "Zürich ZH"
       ],
       "jobs": [
         {
@@ -415,6 +823,15 @@
           "postedAt": "2026-11-13",
           "location": "Dietikon ZH",
           "url": "https://www.jobs.ch/de/stellenangebote/detail/cdc57c72-9e43-4db0-bf5f-3e661f782adb"
+        },
+        {
+          "id": "2c371ffabea8",
+          "title": "Ayudante de office / buffet (100 %) Paradeplatz",
+          "searchId": "kueche",
+          "postedAt": "2026-11-06",
+          "location": "Zürich ZH",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/bd901be4-edfa-479b-957a-e951fa25ad1a",
+          "englishOk": false
         }
       ]
     },
@@ -570,6 +987,30 @@
           "postedAt": "2026-11-16",
           "location": "Baden AG",
           "url": "https://ch.linkedin.com/jobs/view/product-software-engineer-a-80-100%25-at-encontrol-ag-4490583924",
+          "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "house & clean services",
+      "name": "House & Clean Services AG",
+      "agency": false,
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "searchIds": [
+        "reinigung-flughafen"
+      ],
+      "locations": [
+        "Gockhausen ZH (8044)"
+      ],
+      "jobs": [
+        {
+          "id": "cf30cc2f687d",
+          "title": "Jefe/a de limpieza",
+          "searchId": "reinigung-flughafen",
+          "postedAt": "2026-11-16",
+          "location": "Gockhausen ZH (8044)",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/752c19a3-a22f-468c-8653-38860a4355bb",
           "englishOk": false
         }
       ]
@@ -2087,6 +2528,30 @@
       ]
     },
     {
+      "key": "hotel statzerhorn",
+      "name": "Hotel Stätzerhorn",
+      "agency": false,
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-13",
+      "searchIds": [
+        "temporada-invierno"
+      ],
+      "locations": [
+        "Parpan GR"
+      ],
+      "jobs": [
+        {
+          "id": "64bf2edec595",
+          "title": "Camarera de habitaciones / polivalente, temporada de invierno 2026/2027",
+          "searchId": "temporada-invierno",
+          "postedAt": "2026-11-13",
+          "location": "Parpan GR",
+          "url": "https://www.myjob.ch/job/zimmermaedchen-tournante-winter-2026-2027/3662583",
+          "englishOk": false
+        }
+      ]
+    },
+    {
       "key": "job impuls zug technik",
       "name": "job impuls ag Zug Technik",
       "agency": false,
@@ -2841,65 +3306,6 @@
       ]
     },
     {
-      "key": "iss",
-      "name": "ISS Schweiz AG",
-      "agency": false,
-      "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-12",
-      "searchIds": [
-        "reinigung-flughafen"
-      ],
-      "locations": [
-        "Kloten ZH",
-        "8060 Zürich",
-        "Affoltern am Albis",
-        "Zürich"
-      ],
-      "jobs": [
-        {
-          "id": "b3209a0975fa",
-          "title": "Limpiador/a de cabinas de avión con función de jefe de grupo",
-          "searchId": "reinigung-flughafen",
-          "postedAt": "2026-11-12",
-          "location": "8060 Zürich",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/b1063354-bd22-441f-854f-2b6f802e0fd8"
-        },
-        {
-          "id": "cf41e1a46bf6",
-          "title": "Limpiador/a de cabinas de avión con función de jefe/a de grupo 100%",
-          "searchId": "reinigung-flughafen",
-          "postedAt": "2026-11-12",
-          "location": "Kloten ZH",
-          "url": "https://ch.linkedin.com/jobs/view/flugzeug-kabinenreiniger-in-mit-groupleader-funktion-100%25-at-iss-schweiz-ag-4489218111"
-        },
-        {
-          "id": "0c1f0f790a62",
-          "title": "Limpiador/a de cabinas de avión con función de jefe/a de grupo 100%",
-          "searchId": "reinigung-flughafen",
-          "postedAt": "2026-11-11",
-          "location": "Kloten ZH",
-          "url": "https://ch.linkedin.com/jobs/view/4488600490"
-        },
-        {
-          "id": "6092426dec5f",
-          "title": "Jefe/a de equipo de limpieza 100%",
-          "searchId": "reinigung-flughafen",
-          "postedAt": "2026-11-11",
-          "location": "Affoltern am Albis",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/784924df-1aee-41d7-8d34-8f6290feadcd",
-          "englishOk": false
-        },
-        {
-          "id": "e7c5976deee4",
-          "title": "Jefe/a de equipo de limpieza 100%",
-          "searchId": "reinigung-flughafen",
-          "postedAt": "2026-11-11",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/4489016745"
-        }
-      ]
-    },
-    {
       "key": "jumbo",
       "name": "Jumbo",
       "agency": false,
@@ -2919,6 +3325,41 @@
           "postedAt": "2026-11-12",
           "location": "Winterthur Grüzemarkt",
           "url": "https://www.jobs.ch/de/stellenangebote/detail/2095cc38-844a-4623-8739-ed677a3ecc26"
+        }
+      ]
+    },
+    {
+      "key": "marche restaurants",
+      "name": "Marché Restaurants Schweiz AG",
+      "agency": false,
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
+      "searchIds": [
+        "lager",
+        "kueche"
+      ],
+      "locations": [
+        "Zürich (Flughafen)",
+        "Zürich ZH"
+      ],
+      "jobs": [
+        {
+          "id": "75dfdc19c842",
+          "title": "Crew Member (restauración de sistema, Burger King)",
+          "searchId": "kueche",
+          "postedAt": "2026-11-12",
+          "location": "Zürich ZH",
+          "url": "https://ch.linkedin.com/jobs/view/4471944467",
+          "englishOk": false
+        },
+        {
+          "id": "7d503730df5b",
+          "title": "Miembro de equipo de logística",
+          "searchId": "lager",
+          "postedAt": "2026-11-11",
+          "location": "Zürich (Flughafen)",
+          "url": "https://ch.linkedin.com/jobs/view/4480465588",
+          "englishOk": false
         }
       ]
     },
@@ -2989,6 +3430,30 @@
           "postedAt": "2026-11-12",
           "location": "Zürich",
           "url": "https://www.jobs.ch/de/stellenangebote/detail/8bb83421-cf1b-4286-abc6-db20570eddbb"
+        }
+      ]
+    },
+    {
+      "key": "ralf s",
+      "name": "Ralf's GmbH",
+      "agency": false,
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-12",
+      "searchIds": [
+        "temporada-invierno"
+      ],
+      "locations": [
+        "Scuol GR"
+      ],
+      "jobs": [
+        {
+          "id": "b8d449f2790f",
+          "title": "Camarero/a de sala (Boon Di Asian Bistro)",
+          "searchId": "temporada-invierno",
+          "postedAt": "2026-11-12",
+          "location": "Scuol GR",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/ab2e1441-d78f-4974-acb9-fe0d4bcd0600",
+          "englishOk": false
         }
       ]
     },
@@ -3622,82 +4087,6 @@
       ]
     },
     {
-      "key": "marche restaurants",
-      "name": "Marché Restaurants Schweiz AG",
-      "agency": false,
-      "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-11",
-      "searchIds": [
-        "lager"
-      ],
-      "locations": [
-        "Zürich (Flughafen)"
-      ],
-      "jobs": [
-        {
-          "id": "7d503730df5b",
-          "title": "Miembro de equipo de logística",
-          "searchId": "lager",
-          "postedAt": "2026-11-11",
-          "location": "Zürich (Flughafen)",
-          "url": "https://ch.linkedin.com/jobs/view/4480465588",
-          "englishOk": false
-        }
-      ]
-    },
-    {
-      "key": "migros zurich",
-      "name": "Migros Zürich (Migros Restaurant Rapperswil Sonnenhof)",
-      "agency": false,
-      "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-11",
-      "searchIds": [
-        "kueche",
-        "lager"
-      ],
-      "locations": [
-        "Rapperswil",
-        "Zürich",
-        "Zürich (Altstetten)",
-        "Wallisellen"
-      ],
-      "jobs": [
-        {
-          "id": "c3501334271b",
-          "title": "Ayudante de office de cocina",
-          "searchId": "kueche",
-          "postedAt": "2026-11-11",
-          "location": "Rapperswil",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/b53e98fb-7957-4765-8d41-b7ea53bacce1"
-        },
-        {
-          "id": "8a5fc1ede705",
-          "title": "Especialista en logística de mercancías (carga, turno de día)",
-          "searchId": "lager",
-          "postedAt": "2026-11-09",
-          "location": "Zürich",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/e857240c-64d4-484b-9bd1-a5ce4dbca071"
-        },
-        {
-          "id": "c51c954a0b74",
-          "title": "Empleado/a de Take Away",
-          "searchId": "kueche",
-          "postedAt": "2026-11-09",
-          "location": "Zürich (Altstetten)",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/f5ba506d-fc44-4a12-9011-6fe442f8c4cc"
-        },
-        {
-          "id": "4f7cbe7ff6f8",
-          "title": "Empleado/a de producción (cocina, restaurante Migros)",
-          "searchId": "kueche",
-          "postedAt": "2026-11-05",
-          "location": "Wallisellen",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/8746cf5f-a929-4b54-b7cf-f277852dd156",
-          "englishOk": false
-        }
-      ]
-    },
-    {
       "key": "moe & company",
       "name": "Moe & Company AG",
       "agency": false,
@@ -3818,7 +4207,7 @@
       "key": "weisse arena",
       "name": "Weisse Arena AG",
       "agency": false,
-      "firstSeen": "2026-11-11",
+      "firstSeen": "2026-11-07",
       "lastSeen": "2026-11-11",
       "searchIds": [
         "temporada-invierno"
@@ -3834,6 +4223,14 @@
           "postedAt": "2026-11-11",
           "location": "Laax GR",
           "url": "https://www.jobs.ch/de/stellenangebote/detail/49c88d70-e96f-4973-ade1-a4fd74057634"
+        },
+        {
+          "id": "566754b94407",
+          "title": "Equipo de servicio de restaurante",
+          "searchId": "temporada-invierno",
+          "postedAt": "2026-11-07",
+          "location": "Laax GR",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/d92140f4-65af-44ef-bbcf-3aab8cd4d037"
         }
       ]
     },
@@ -5176,6 +5573,29 @@
           "postedAt": "2026-11-07",
           "location": "Zürich Flughafen",
           "url": "https://www.jobs.ch/de/stellenangebote/detail/62288ded-e006-47a5-9aa2-50bf299023e7"
+        }
+      ]
+    },
+    {
+      "key": "widder hotel",
+      "name": "Widder Hotel AG",
+      "agency": false,
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-07",
+      "searchIds": [
+        "hotel"
+      ],
+      "locations": [
+        "Zürich"
+      ],
+      "jobs": [
+        {
+          "id": "dfba12b3c8cb",
+          "title": "Room Attendant (camarero/a de habitaciones) 80–100%",
+          "searchId": "hotel",
+          "postedAt": "2026-11-07",
+          "location": "Zürich",
+          "url": "https://myjob.ch/job/room-attendant-80-100-all-genders/3641804"
         }
       ]
     },
