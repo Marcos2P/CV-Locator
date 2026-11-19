@@ -1,6 +1,137 @@
 {
-  "updatedAt": "2026-11-19T06:20:12.689Z",
+  "updatedAt": "2026-11-19T07:24:45.312Z",
   "jobs": [
+    {
+      "searchId": "hotel",
+      "title": "Zimmerreinigung / Aushilfe Stv. Gouvernante im Hotel Zürich-West 60%–80%",
+      "titleEs": "Limpieza de habitaciones / ayuda de subgobernanta en hotel Zürich-West 60–80 %",
+      "company": "Enzler Hôtel Services SA",
+      "location": "Zürich",
+      "postedAt": "2026-11-18",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/9abf6c8d-6dff-4b16-b5ac-715efeabefae",
+      "summary": "Limpieza de habitaciones y zonas comunes de un hotel y suplencia de la gobernanta; sueldo por horas según convenio colectivo de limpieza.",
+      "description": "Dirigir al equipo de housekeeping cuando falta la gobernanta, inspeccionar y liberar habitaciones, documentar defectos y objetos perdidos, cumplir normas de higiene, formar a personal nuevo y limpiar habitaciones y áreas públicas. Inicio desde las 07:00, turnos regulares en fin de semana.",
+      "requirements": [
+        "Experiencia en limpieza de habitaciones de hotel y como subgobernanta",
+        "Buen alemán",
+        "Conocimientos básicos de PC",
+        "Trabajo autónomo y fiable"
+      ],
+      "workload": "60–80 %",
+      "employmentType": "Sueldo por horas (GAV), inicio inmediato",
+      "language": "Alemán bueno",
+      "seniority": "mid",
+      "de": {
+        "title": "Zimmerreinigung / Aushilfe Stv. Gouvernante im Hotel Zürich-West 60%–80%",
+        "summary": "Zimmerreinigung und Reinigung der Allgemeinbereiche in einem Hotel sowie Stellvertretung der Gouvernante; Stundenlohn nach Reinigungs-GAV.",
+        "description": "Leitung des Housekeeping-Teams bei Abwesenheit der Gouvernante, Kontrolle und Freigabe der Zimmer, Dokumentation technischer Mängel und Fundsachen, Einhaltung der Hygiene- und Sicherheitsvorschriften, Einarbeitung neuer Mitarbeitender sowie Reinigung von Zimmern und öffentlichen Bereichen. Arbeitsbeginn ab 07:00, regelmässige Wochenendeinsätze.",
+        "requirements": [
+          "Erfahrung in der Hotelzimmerreinigung und als Stv. Gouvernante",
+          "Gute Deutschkenntnisse",
+          "Grundlegende PC-Kenntnisse",
+          "Selbständige und zuverlässige Arbeitsweise"
+        ],
+        "workload": "60–80 %",
+        "employmentType": "Anstellung im Stundenlohn (GAV), Eintritt per sofort",
+        "language": "Gutes Deutsch"
+      },
+      "id": "5f49d8629584",
+      "foundAt": "2026-11-19T07:24:45.312Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Lagermitarbeiter, 80% (18.00 - 03.00 Uhr), befristet bis Januar 2027",
+      "titleEs": "Mozo de almacén 80 % (18:00–03:00), temporal hasta enero 2027",
+      "company": "Flexsis AG, Filiale Schaffhausen",
+      "location": "Urdorf",
+      "postedAt": "2026-11-18",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/59ff80a5-4b01-4311-90fc-f6f201feddd6",
+      "summary": "Clasificación y preparación de paquetes en turno de noche (18:00–03:00), temporal de noviembre a enero; se admite sin experiencia y alemán A2.",
+      "description": "Gestionar paquetes entrantes y salientes, manejar el sistema de clasificación, escanear, etiquetar y embalar, cargar y descargar vehículos, picking sin papel y control de inventario.",
+      "requirements": [
+        "Buena forma física, levantar paquetes de 30 kg",
+        "Experiencia en almacén es una ventaja, se admiten principiantes",
+        "Disponibilidad para el turno 18:00–03:00",
+        "Certificado de antecedentes penales",
+        "Vehículo propio para llegar a Urdorf"
+      ],
+      "workload": "80 %",
+      "employmentType": "Temporal (nov. 2026 – ene. 2027)",
+      "language": "Alemán bueno (mínimo A2)",
+      "seniority": "junior",
+      "de": {
+        "title": "Lagermitarbeiter, 80% (18.00 - 03.00 Uhr), befristet bis Januar 2027",
+        "summary": "Paketsortierung und Kommissionierung in der Spätschicht (18:00–03:00), befristet November bis Januar; Quereinsteiger willkommen, Deutsch ab A2.",
+        "description": "Ein- und ausgehende Pakete bearbeiten, Sortieranlage bedienen, scannen, etikettieren und verpacken, Fahrzeuge be- und entladen, beleglose Kommissionierung, Bestandskontrolle.",
+        "requirements": [
+          "Körperlich fit, Pakete bis 30 kg heben",
+          "Lager-/Kommissioniererfahrung von Vorteil, Quereinsteiger willkommen",
+          "Bereitschaft für Schicht 18:00–03:00",
+          "Strafregisterauszug",
+          "Eigenes Fahrzeug für den Arbeitsweg nach Urdorf"
+        ],
+        "workload": "80 %",
+        "employmentType": "Befristet (Nov. 2026 – Jan. 2027)",
+        "language": "Gutes Deutsch (mind. A2)"
+      },
+      "id": "601853894d1b",
+      "foundAt": "2026-11-19T07:24:45.312Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Zimmerreinigung und Stellvertretung Gouvernante im Hotel, Uster, 50% bis 80%",
+      "titleEs": "Limpieza de habitaciones y sustitución de gobernanta en hotel, Uster",
+      "company": "Enzler Hôtel Services SA",
+      "location": "Uster ZH",
+      "postedAt": "2026-11-18",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/a85eb412-c9fc-4849-818f-1cbbd3444c3f",
+      "summary": "Limpieza de habitaciones de hotel en Uster al 50–80 % por horas, con posible sustitución de la gobernanta; entrada inmediata.",
+      "workload": "50–80 %",
+      "employmentType": "Sueldo por horas (GAV limpieza), entrada inmediata",
+      "language": "Alemán bueno",
+      "seniority": "mid",
+      "de": {
+        "title": "Zimmerreinigung und Stellvertretung Gouvernante im Hotel, Uster, 50% bis 80%",
+        "summary": "Hotelzimmerreinigung in Uster, 50–80 %, Stundenlohn, mit Stellvertretung der Gouvernante.",
+        "workload": "50–80 %",
+        "employmentType": "Stundenlohn nach GAV, per sofort",
+        "language": "Gutes Deutsch"
+      },
+      "id": "cc8eca899196",
+      "foundAt": "2026-11-19T07:24:45.312Z"
+    },
+    {
+      "searchId": "temporada-invierno",
+      "title": "Mitarbeiter:in Pistenrettungsdienst",
+      "titleEs": "Auxiliar de rescate en pistas",
+      "company": "Bergbahnen Adelboden-Lenk AG",
+      "location": "Adelboden BE",
+      "postedAt": "2026-11-18",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/21206022-48e5-4f63-9ba0-87f3fbe0db94",
+      "summary": "Puesto temporal de invierno (dic–abr) en el rescate de pistas de Adelboden-Lenk, con abono anual gratis. No menciona alojamiento.",
+      "requirements": [
+        "Idealmente curso Zentralkurs A o B de Seilbahnen Schweiz",
+        "Trabajo autónomo y fiable",
+        "Disponibilidad en fines de semana"
+      ],
+      "workload": "40–100 %",
+      "employmentType": "Temporal, invierno 2026/27",
+      "language": "Alemán fluido",
+      "seniority": "junior",
+      "de": {
+        "title": "Mitarbeiter:in Pistenrettungsdienst",
+        "summary": "Befristete Stelle im Pistenrettungsdienst, Winter 2026/27, mit Gratis-Jahrespass.",
+        "workload": "40–100 %",
+        "employmentType": "Befristet, Wintersaison",
+        "language": "Deutsch fliessend"
+      },
+      "id": "610d8960e003",
+      "foundAt": "2026-11-19T07:24:45.312Z"
+    },
     {
       "searchId": "frontend-react",
       "title": "Frontend Entwickler:in 80-100%",
@@ -556,6 +687,131 @@
       },
       "id": "46b08b510453",
       "foundAt": "2026-11-18T07:22:33.933Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Betriebsmitarbeiter Office 40% (m/w/d) - Opfikon ZH",
+      "titleEs": "Empleado de office (lavado y cocina ligera) 40 % - Opfikon",
+      "company": "Compass Group (Suisse) S.A.",
+      "location": "Opfikon",
+      "postedAt": "2026-11-17",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/2b379019-5554-40ff-aa3c-650ce6b79121",
+      "summary": "Lavado de vajilla y cubiertos, trabajo ligero de cocina y apoyo en buffet, de lunes a viernes de 10:00 a 15:00, sin fines de semana.",
+      "description": "Lavar platos, cubiertos y utensilios, tareas ligeras de cocina, mantener la cocina limpia e higiénica, ayudar en el servicio y el buffet y apoyar en recepción y almacenaje de mercancías.",
+      "requirements": [
+        "Experiencia en cocina o producción es una ventaja",
+        "Resistente, estructurado y de equipo",
+        "Buen alemán para comunicarse"
+      ],
+      "workload": "40 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán bueno",
+      "seniority": "junior",
+      "de": {
+        "title": "Betriebsmitarbeiter Office 40% (m/w/d) - Opfikon ZH",
+        "summary": "Geschirr- und Besteckspülen, leichte Küchenarbeiten und Unterstützung bei Buffet und Service, Mo–Fr 10:00–15:00, kein Wochenende.",
+        "description": "Spülen von Geschirr, Besteck und Küchenutensilien, leichte Küchenarbeiten, Sauberkeit und Hygiene in der Küche, Mithilfe bei Essensausgabe und Buffet sowie Unterstützung beim Warenempfang und der Lagerung.",
+        "requirements": [
+          "Erfahrung in Küche oder Produktion von Vorteil",
+          "Belastbar, strukturiert, teamorientiert",
+          "Gute Deutschkenntnisse"
+        ],
+        "workload": "40 %",
+        "employmentType": "Festanstellung",
+        "language": "Gutes Deutsch"
+      },
+      "id": "5f43c950fd97",
+      "foundAt": "2026-11-19T07:24:45.312Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Abwaschküchenmitarbeiter*in",
+      "titleEs": "Auxiliar de lavaplatos de cocina",
+      "company": "Migros-Genossenschafts-Bund",
+      "location": "Zürich",
+      "postedAt": "2026-11-17",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/91533db6-3b18-4a4d-b80d-5b02eb00adf7",
+      "summary": "Lavaplatos al 50 % en el restaurante de personal de Migros en Zürich, lunes a viernes de 11:30 a 16:00, sin fines de semana. Contrato fijo.",
+      "requirements": [
+        "Sin formación formal requerida",
+        "Experiencia en hostelería (según la oferta, varios años)",
+        "Trabajo limpio, fiable y rápido",
+        "Alemán B1"
+      ],
+      "workload": "50 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán B1",
+      "seniority": "junior",
+      "de": {
+        "title": "Abwaschküchenmitarbeiter*in",
+        "summary": "Abwasch 50 % im Personalrestaurant der Migros in Zürich, Mo–Fr 11:30–16:00, ohne Wochenenden. Festanstellung.",
+        "workload": "50 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch B1"
+      },
+      "id": "0e67ebebe236",
+      "foundAt": "2026-11-19T07:24:45.312Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Temporary Staff Banquets and Kitchen / Aushilfe Bankett / Küche",
+      "titleEs": "Personal temporal de banquetes y cocina (Aushilfe)",
+      "company": "Zürich Marriott Hotel",
+      "location": "Zürich",
+      "postedAt": "2026-11-17",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/en/vacancies/detail/f67e6aed-36dd-4c49-aa6f-649540ae75b6",
+      "summary": "Bolsa casual del Marriott de Zürich: ayuda en banquetes, catering externo y cocina, sin horas garantizadas; sin experiencia exigida; permiso B o C obligatorio.",
+      "requirements": [
+        "Permiso suizo B o C y residencia en Suiza",
+        "Educado y amable",
+        "Trabajo en equipo",
+        "Sin experiencia ni formación formal exigida"
+      ],
+      "workload": "Auxiliar, sin horas garantizadas",
+      "employmentType": "Temporal / pool casual",
+      "language": "Sin requisito de idioma indicado",
+      "seniority": "junior",
+      "de": {
+        "title": "Aushilfe Bankett / Küche",
+        "summary": "Aushilfe im Bankett, Ausserhaus-Catering und in der Küche im Zürich Marriott; keine Stunden-Garantie, B/C-Bewilligung nötig.",
+        "workload": "Aushilfe, ohne Stundengarantie",
+        "employmentType": "Aushilfe / Casual Workpool",
+        "language": "Keine Sprachanforderung angegeben"
+      },
+      "id": "55a9a78869f7",
+      "foundAt": "2026-11-19T07:24:45.312Z"
+    },
+    {
+      "searchId": "temporada-invierno",
+      "title": "Mitarbeiter:in Parkplatz",
+      "titleEs": "Auxiliar de aparcamiento",
+      "company": "Bergbahnen Adelboden-Lenk AG",
+      "location": "Lenk BE",
+      "postedAt": "2026-11-17",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/debd72e2-c045-42cf-b86b-7b1f4c56ccd7",
+      "summary": "Puesto temporal de invierno (mediados de dic–fin de marzo) gestionando los parkings de Lenk, con abono anual gratis. No menciona alojamiento.",
+      "requirements": [
+        "Habilidad práctica",
+        "Carné de conducir cat. B",
+        "Trabajo en equipo y flexibilidad"
+      ],
+      "workload": "40–80 %",
+      "employmentType": "Temporal, invierno 2026/27",
+      "language": "Alemán fluido",
+      "seniority": "junior",
+      "de": {
+        "title": "Mitarbeiter:in Parkplatz",
+        "summary": "Temporäre Stelle Parkplatz in Lenk für die Wintersaison 2026/27, mit Gratis-Jahrespass.",
+        "workload": "40–80 %",
+        "employmentType": "Befristet, Wintersaison",
+        "language": "Deutsch fliessend"
+      },
+      "id": "e3c39719594b",
+      "foundAt": "2026-11-19T07:24:45.312Z"
     },
     {
       "searchId": "fullstack-ts",
@@ -1257,6 +1513,44 @@
       },
       "id": "e5a156474c01",
       "foundAt": "2026-11-17T06:20:07.343Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Mitarbeiter*in Abwasch (100%)",
+      "titleEs": "Personal de lavaplatos/lavado industrial (100 %)",
+      "company": "Confiserie Sprüngli AG",
+      "location": "Dietikon",
+      "postedAt": "2026-11-16",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/6cc5efd1-8f28-442c-ad8a-d1b6c85d6a03",
+      "summary": "Lavado a máquina de contenedores, bandejas y moldes en la producción de Sprüngli en Dietikon; no exige alemán avanzado y ofrecen curso de alemán gratis.",
+      "description": "Limpieza a máquina de contenedores de transporte, bandejas de horno, moldes y carros, mantenimiento de las máquinas de limpieza y distribución de material limpio a los departamentos. Lunes a viernes en dos turnos entre 06:30 y 18:00, ocasionalmente fin de semana.",
+      "requirements": [
+        "Motivación para el trabajo práctico",
+        "Trabajo autónomo y responsable",
+        "Buena condición física",
+        "Experiencia en alimentación deseable, no obligatoria"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo, inicio inmediato",
+      "language": "Alemán básico (curso de alemán gratuito)",
+      "seniority": "junior",
+      "de": {
+        "title": "Mitarbeiter*in Abwasch (100%)",
+        "summary": "Maschinelle Reinigung von Gebinden, Blechen und Formen in der Sprüngli-Produktion Dietikon; Deutsch-Grundkenntnisse genügen, kostenloser Deutschkurs.",
+        "description": "Maschinelles Reinigen von Transportgebinden, Backblechen, Formen sowie Back- und Transportrechen, Pflege der Reinigungsmaschinen und Verteilen sauberer Gebinde in die Abteilungen. Montag bis Freitag in zwei Schichten zwischen 06:30 und 18:00 Uhr, gelegentlich Wochenende.",
+        "requirements": [
+          "Freude an praktischer Arbeit",
+          "Selbstständige, verantwortungsbewusste Arbeitsweise",
+          "Gute körperliche Belastbarkeit",
+          "Erfahrung in der Lebensmittelbranche erwünscht, nicht Pflicht"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung, Eintritt per sofort",
+        "language": "Deutsch Grundkenntnisse (kostenloser Deutschkurs)"
+      },
+      "id": "bb4e90354e6d",
+      "foundAt": "2026-11-19T07:24:45.312Z"
     },
     {
       "searchId": "reinigung-flughafen",
@@ -3064,6 +3358,65 @@
       "englishOk": true,
       "id": "af7b05fd7715",
       "foundAt": "2026-11-14T07:15:53.588Z"
+    },
+    {
+      "searchId": "temporada-invierno",
+      "title": "Küchenhilfe (Winterseason 2026/27)",
+      "titleEs": "Ayudante de cocina (temporada de invierno 2026/27)",
+      "company": "Groupe Téléverbier",
+      "location": "Verbier VS",
+      "postedAt": "2026-11-13",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/da17de15-f7a1-46a9-9943-38ff1bda9852",
+      "summary": "Ayudante de cocina al 100 % para la temporada de invierno en Verbier; incluye forfait de esquí y comidas del personal. No menciona alojamiento.",
+      "requirements": [
+        "Experiencia en puesto similar",
+        "Nociones de preparación de alimentos",
+        "Trabajo en equipo y flexibilidad",
+        "Sin requisito de EFZ"
+      ],
+      "workload": "100 %",
+      "employmentType": "Temporada de invierno 2026/27",
+      "language": "Alemán (anuncio en alemán)",
+      "seniority": "junior",
+      "de": {
+        "title": "Küchenhilfe (Winterseason 2026/27)",
+        "summary": "Küchenhilfe 100 % für die Wintersaison in Verbier, mit Skipass und Personalverpflegung.",
+        "workload": "100 %",
+        "employmentType": "Wintersaison 2026/27",
+        "language": "Deutsch"
+      },
+      "id": "95a01295c59e",
+      "foundAt": "2026-11-19T07:24:45.312Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistiker/in EFZ 100% (m/w/d)",
+      "titleEs": "Logista EFZ 100 %",
+      "company": "Randstad",
+      "location": "Zürich",
+      "postedAt": "2026-11-13",
+      "source": "randstad.com",
+      "url": "https://www.randstad.com/jobs/logistikerin-efz-100-mwd_zurich_47575681",
+      "summary": "Almacén con estanterías altas e inventarios en Zürich para un cliente de Randstad; pide Logistiker EFZ/EBA o experiencia.",
+      "requirements": [
+        "Logistiker EFZ/EBA o experiencia en almacén",
+        "Carné de carretilla preferible"
+      ],
+      "workload": "100 %",
+      "employmentType": "Temporal",
+      "language": "Alemán",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Logistiker/in EFZ 100% (m/w/d)",
+        "summary": "Lagerarbeit mit Hochregal und Inventuren in Zürich; Logistiker EFZ/EBA oder Erfahrung.",
+        "workload": "100 %",
+        "employmentType": "Temporär",
+        "language": "Deutsch"
+      },
+      "id": "67b61612d812",
+      "foundAt": "2026-11-19T07:24:45.312Z"
     },
     {
       "searchId": "temporada-invierno",
@@ -8476,6 +8829,28 @@
       "salary": "CHF 22 por hora",
       "id": "6914925339cc",
       "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Haushalts- und Küchenhilfe",
+      "titleEs": "Ayudante de hogar y cocina",
+      "company": "Stadt Bülach",
+      "location": "Bülach",
+      "postedAt": "2026-11-08",
+      "source": "myjob.ch",
+      "url": "https://www.myjob.ch/job/haushalts-und-kuechenhilfe/3644398",
+      "summary": "Puesto de ayudante de hogar y cocina al 100 % en la ciudad de Bülach; la página solo indica fecha, lugar y tipo de contrato.",
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "seniority": "junior",
+      "de": {
+        "title": "Haushalts- und Küchenhilfe",
+        "summary": "Stelle als Haushalts- und Küchenhilfe zu 100 % bei der Stadt Bülach; die Anzeige nennt nur Datum, Ort und Anstellungsart.",
+        "workload": "100 %",
+        "employmentType": "Festanstellung"
+      },
+      "id": "1651f3d818ca",
+      "foundAt": "2026-11-19T07:24:45.312Z"
     },
     {
       "searchId": "kueche",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T06:20:12.689Z",
+  "updatedAt": "2026-11-19T07:24:45.312Z",
   "companies": [
     {
       "key": "avaso technology solutions",
@@ -21,6 +21,38 @@
           "postedAt": "2026-11-18",
           "location": "Rapperswil-Jona SG",
           "url": "https://ch.linkedin.com/jobs/view/it-support-engineer-at-avaso-technology-solutions-4490869594"
+        }
+      ]
+    },
+    {
+      "key": "bergbahnen adelboden lenk",
+      "name": "Bergbahnen Adelboden-Lenk AG",
+      "agency": false,
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-18",
+      "searchIds": [
+        "temporada-invierno"
+      ],
+      "locations": [
+        "Adelboden BE",
+        "Lenk BE"
+      ],
+      "jobs": [
+        {
+          "id": "610d8960e003",
+          "title": "Auxiliar de rescate en pistas",
+          "searchId": "temporada-invierno",
+          "postedAt": "2026-11-18",
+          "location": "Adelboden BE",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/21206022-48e5-4f63-9ba0-87f3fbe0db94"
+        },
+        {
+          "id": "e3c39719594b",
+          "title": "Auxiliar de aparcamiento",
+          "searchId": "temporada-invierno",
+          "postedAt": "2026-11-17",
+          "location": "Lenk BE",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/debd72e2-c045-42cf-b86b-7b1f4c56ccd7"
         }
       ]
     },
@@ -246,6 +278,38 @@
       ]
     },
     {
+      "key": "enzler hotel services",
+      "name": "Enzler Hôtel Services SA",
+      "agency": false,
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "searchIds": [
+        "hotel"
+      ],
+      "locations": [
+        "Zürich",
+        "Uster ZH"
+      ],
+      "jobs": [
+        {
+          "id": "5f49d8629584",
+          "title": "Limpieza de habitaciones / ayuda de subgobernanta en hotel Zürich-West 60–80 %",
+          "searchId": "hotel",
+          "postedAt": "2026-11-18",
+          "location": "Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/9abf6c8d-6dff-4b16-b5ac-715efeabefae"
+        },
+        {
+          "id": "cc8eca899196",
+          "title": "Limpieza de habitaciones y sustitución de gobernanta en hotel, Uster",
+          "searchId": "hotel",
+          "postedAt": "2026-11-18",
+          "location": "Uster ZH",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/a85eb412-c9fc-4849-818f-1cbbd3444c3f"
+        }
+      ]
+    },
+    {
       "key": "faigle",
       "name": "faigle ag",
       "agency": false,
@@ -266,6 +330,29 @@
           "location": "Zürich",
           "url": "https://www.jobs.ch/de/stellenangebote/detail/decea83e-eba0-4b4d-a6ef-34d501345eff",
           "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "flexsis filiale schaffhausen",
+      "name": "Flexsis AG, Filiale Schaffhausen",
+      "agency": false,
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "searchIds": [
+        "lager"
+      ],
+      "locations": [
+        "Urdorf"
+      ],
+      "jobs": [
+        {
+          "id": "601853894d1b",
+          "title": "Mozo de almacén 80 % (18:00–03:00), temporal hasta enero 2027",
+          "searchId": "lager",
+          "postedAt": "2026-11-18",
+          "location": "Urdorf",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/59ff80a5-4b01-4311-90fc-f6f201feddd6"
         }
       ]
     },
@@ -765,6 +852,29 @@
       ]
     },
     {
+      "key": "compass s a",
+      "name": "Compass Group (Suisse) S.A.",
+      "agency": false,
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17",
+      "searchIds": [
+        "kueche"
+      ],
+      "locations": [
+        "Opfikon"
+      ],
+      "jobs": [
+        {
+          "id": "5f43c950fd97",
+          "title": "Empleado de office (lavado y cocina ligera) 40 % - Opfikon",
+          "searchId": "kueche",
+          "postedAt": "2026-11-17",
+          "location": "Opfikon",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/2b379019-5554-40ff-aa3c-650ce6b79121"
+        }
+      ]
+    },
+    {
       "key": "compass",
       "name": "Compass Group Schweiz",
       "agency": false,
@@ -1058,6 +1168,14 @@
           "englishOk": false
         },
         {
+          "id": "0e67ebebe236",
+          "title": "Auxiliar de lavaplatos de cocina",
+          "searchId": "kueche",
+          "postedAt": "2026-11-17",
+          "location": "Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/91533db6-3b18-4a4d-b80d-5b02eb00adf7"
+        },
+        {
           "id": "c13ef844ed5b",
           "title": "Ingeniero/a Fullstack (senior)",
           "searchId": "fullstack-ts",
@@ -1241,6 +1359,29 @@
       ]
     },
     {
+      "key": "zurich marriott hotel",
+      "name": "Zürich Marriott Hotel",
+      "agency": false,
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17",
+      "searchIds": [
+        "kueche"
+      ],
+      "locations": [
+        "Zürich"
+      ],
+      "jobs": [
+        {
+          "id": "55a9a78869f7",
+          "title": "Personal temporal de banquetes y cocina (Aushilfe)",
+          "searchId": "kueche",
+          "postedAt": "2026-11-17",
+          "location": "Zürich",
+          "url": "https://www.jobs.ch/en/vacancies/detail/f67e6aed-36dd-4c49-aa6f-649540ae75b6"
+        }
+      ]
+    },
+    {
       "key": "academic work",
       "name": "Academic Work Switzerland SA",
       "agency": true,
@@ -1385,7 +1526,7 @@
     },
     {
       "key": "confiserie sprungli",
-      "name": "Confiserie Sprüngli",
+      "name": "Confiserie Sprüngli AG",
       "agency": false,
       "firstSeen": "2026-11-06",
       "lastSeen": "2026-11-16",
@@ -1395,7 +1536,8 @@
       ],
       "locations": [
         "Dietikon ZH",
-        "Zürich ZH"
+        "Zürich ZH",
+        "Dietikon"
       ],
       "jobs": [
         {
@@ -1406,6 +1548,14 @@
           "location": "Dietikon ZH",
           "url": "https://ch.linkedin.com/jobs/view/mitarbeiter-in-abwasch-100%25-at-confiserie-spr%C3%BCngli-4489775499",
           "englishOk": false
+        },
+        {
+          "id": "bb4e90354e6d",
+          "title": "Personal de lavaplatos/lavado industrial (100 %)",
+          "searchId": "kueche",
+          "postedAt": "2026-11-16",
+          "location": "Dietikon",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/6cc5efd1-8f28-442c-ad8a-d1b6c85d6a03"
         },
         {
           "id": "d4f2d4c29a1d",
@@ -2903,6 +3053,29 @@
           "postedAt": "2026-11-12",
           "location": "Zürich",
           "url": "https://ch.linkedin.com/jobs/view/4489087658"
+        }
+      ]
+    },
+    {
+      "key": "groupe televerbier",
+      "name": "Groupe Téléverbier",
+      "agency": false,
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-13",
+      "searchIds": [
+        "temporada-invierno"
+      ],
+      "locations": [
+        "Verbier VS"
+      ],
+      "jobs": [
+        {
+          "id": "95a01295c59e",
+          "title": "Ayudante de cocina (temporada de invierno 2026/27)",
+          "searchId": "temporada-invierno",
+          "postedAt": "2026-11-13",
+          "location": "Verbier VS",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/da17de15-f7a1-46a9-9943-38ff1bda9852"
         }
       ]
     },
@@ -5657,6 +5830,38 @@
       ]
     },
     {
+      "key": "stadt bulach",
+      "name": "Stadt Bülach",
+      "agency": false,
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-08",
+      "searchIds": [
+        "kueche"
+      ],
+      "locations": [
+        "Bülach (Hort Lindenhof)",
+        "Bülach"
+      ],
+      "jobs": [
+        {
+          "id": "1651f3d818ca",
+          "title": "Ayudante de hogar y cocina",
+          "searchId": "kueche",
+          "postedAt": "2026-11-08",
+          "location": "Bülach",
+          "url": "https://www.myjob.ch/job/haushalts-und-kuechenhilfe/3644398"
+        },
+        {
+          "id": "384f04e4a1fc",
+          "title": "Ayudante de hogar y cocina",
+          "searchId": "kueche",
+          "postedAt": "2026-11-06",
+          "location": "Bülach (Hort Lindenhof)",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/39be75da-4916-45cd-871c-88056eae0a26"
+        }
+      ]
+    },
+    {
       "key": "ti&m",
       "name": "ti&m",
       "agency": false,
@@ -6295,29 +6500,6 @@
           "postedAt": "2026-11-06",
           "location": "Bülach",
           "url": "https://www.jobs.ch/de/stellenangebote/detail/851fc7c5-8b67-4f89-ae03-a77d7baae75f"
-        }
-      ]
-    },
-    {
-      "key": "stadt bulach",
-      "name": "Stadt Bülach",
-      "agency": false,
-      "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-06",
-      "searchIds": [
-        "kueche"
-      ],
-      "locations": [
-        "Bülach (Hort Lindenhof)"
-      ],
-      "jobs": [
-        {
-          "id": "384f04e4a1fc",
-          "title": "Ayudante de hogar y cocina",
-          "searchId": "kueche",
-          "postedAt": "2026-11-06",
-          "location": "Bülach (Hort Lindenhof)",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/39be75da-4916-45cd-871c-88056eae0a26"
         }
       ]
     },
