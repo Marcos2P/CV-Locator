@@ -1,6 +1,817 @@
 {
-  "updatedAt": "2026-11-19T07:24:45.312Z",
+  "updatedAt": "2026-11-19T10:46:09.094Z",
   "jobs": [
+    {
+      "searchId": "kueche",
+      "title": "Stadler: Cafeteria-Allrounder:in",
+      "titleEs": "Polivalente de cafetería (Stadler)",
+      "company": "Stadler Rail Group",
+      "location": "Wallisellen",
+      "postedAt": "2026-11-19",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/24d950cd-ccdd-45e6-9d5d-b543ad5aa784",
+      "summary": "Puesto polivalente en la cafetería de Stadler en Wallisellen.",
+      "de": {
+        "title": "Stadler: Cafeteria-Allrounder:in",
+        "summary": "Allrounder-Stelle in der Cafeteria von Stadler in Wallisellen."
+      },
+      "id": "10c02e9b3812",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Mitarbeiter:in Gastronomie",
+      "titleEs": "Empleado/a de gastronomía",
+      "company": "Coop Restaurant",
+      "location": "Zürich",
+      "postedAt": "2026-11-19",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/a26e0621-e54d-491a-a5fd-a3d707a55353",
+      "summary": "Puesto de gastronomía en un restaurante Coop de Zürich.",
+      "de": {
+        "title": "Mitarbeiter:in Gastronomie",
+        "summary": "Mitarbeit in der Gastronomie in einem Coop Restaurant in Zürich."
+      },
+      "id": "43776931b1a5",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Cleaning Agent",
+      "titleEs": "Limpiador/a (Cleaning Agent)",
+      "company": "TUTEJA ENTERPRISES",
+      "location": "Zurich",
+      "postedAt": "2026-11-19",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/ccb04e65-d143-4397-bafb-cab75c8a5b96",
+      "summary": "Puesto de limpieza en Zürich.",
+      "de": {
+        "title": "Cleaning Agent",
+        "summary": "Reinigungsstelle in Zürich."
+      },
+      "id": "71c7a8fc92e4",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Reinigungsmitarbeiter/in Innenhauswartungen 100% (m/w/d)",
+      "titleEs": "Empleado/a de limpieza de mantenimiento interior 100 %",
+      "company": "Fraefel - ImmoStar GmbH",
+      "location": "Zürich",
+      "postedAt": "2026-11-19",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/3c043db5-da46-4a48-853f-a8eab4ebbd38",
+      "summary": "Limpieza y mantenimiento interior de inmuebles en Zürich al 100 %.",
+      "de": {
+        "title": "Reinigungsmitarbeiter/in Innenhauswartungen 100% (m/w/d)",
+        "summary": "Reinigung/Innenhauswartung in Zürich, 100 %."
+      },
+      "id": "144dec095542",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "temporada-invierno",
+      "title": "Polyvalent Equipier (Winter 26/27) - W VERBIER",
+      "titleEs": "Equipier polivalente (invierno 26/27) – W Verbier",
+      "company": "Marriott International",
+      "location": "Verbier",
+      "postedAt": "2026-11-19",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/ec662662-d95c-4fb9-add0-1fcb2a86956e",
+      "summary": "Puesto polivalente de temporada de invierno 2026/27 en el hotel W Verbier.",
+      "de": {
+        "title": "Polyvalent Equipier (Winter 26/27) - W VERBIER",
+        "summary": "Polyvalenter Equipier für die Wintersaison 26/27 im W Verbier."
+      },
+      "id": "2e79acd058d6",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Küchenaushilfe/Public Area Cleaner (m/w/d) - Casual",
+      "titleEs": "Ayudante de cocina / Public Area Cleaner (casual)",
+      "company": "Radisson Hotel Group",
+      "location": "Zürich",
+      "postedAt": "2026-11-19",
+      "source": "myjob.ch",
+      "url": "https://www.myjob.ch/job/kuechenaushilfe-public-area-cleaner-m-w-d-casual/3679742",
+      "summary": "Ayuda en cocina y limpieza de zonas públicas de un hotel Radisson en Zürich, en régimen de minijob (casual).",
+      "description": "Apoyo en la cocina (mantener limpios y listos platos, ollas y utensilios) y limpieza de las zonas públicas del hotel; flexible según necesidades.",
+      "requirements": [
+        "Sin requisitos detallados aquí; ver oferta original"
+      ],
+      "workload": "Hasta 100 % (casual)",
+      "employmentType": "Minijob / casual",
+      "language": "Alemán (oferta en alemán)",
+      "englishOk": false,
+      "de": {
+        "title": "Küchenaushilfe/Public Area Cleaner (m/w/d) - Casual",
+        "summary": "Küchenaushilfe und Reinigung der öffentlichen Bereiche in einem Radisson Hotel in Zürich auf Minijob-Basis.",
+        "description": "Unterstützung in der Küche (Geschirr, Töpfe und Küchenutensilien sauber und einsatzbereit halten) sowie Sauberhalten der öffentlichen Bereiche; flexibler Einsatz.",
+        "workload": "bis 100 % (Casual)",
+        "employmentType": "Minijob / Casual",
+        "language": "Deutsch (Inserat auf Deutsch)"
+      },
+      "id": "2857624508da",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Mitarbeiter:in Housekeeping",
+      "titleEs": "Empleado/a de housekeeping (hotel en Rüschlikon)",
+      "company": "ISS Schweiz AG",
+      "location": "Rüschlikon",
+      "postedAt": "2026-11-19",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/adea6625-dd0f-4ae4-96d3-ab762302a17c",
+      "summary": "Housekeeping en un hotel exclusivo de una empresa internacional en Rüschlikon, con horario regular entre semana.",
+      "description": "Limpieza y cuidado de habitaciones (cambio de ropa de cama y toallas), control de higiene y calidad, gestión de materiales, aviso de daños y objetos perdidos, limpieza de mantenimiento. Horario 07:00–17:00, pocos fines de semana.",
+      "requirements": [
+        "Escolaridad obligatoria completa",
+        "Mín. 1 año de experiencia en housekeeping (mejor en hotelería)",
+        "Alemán o inglés bueno (B1)",
+        "Calidad, fiabilidad y discreción"
+      ],
+      "language": "Alemán o inglés B1",
+      "englishOk": true,
+      "seniority": "junior",
+      "de": {
+        "title": "Mitarbeiter:in Housekeeping",
+        "summary": "Housekeeping in einem exklusiven Hotelbetrieb eines internationalen Unternehmens in Rüschlikon, geregelte Arbeitszeiten unter der Woche.",
+        "description": "Reinigung und Pflege der Hotelzimmer (inkl. Bettwäsche- und Frottewechsel), Einhaltung der Hygiene- und Qualitätsstandards, Organisation von Material, Meldung von Schäden und Fundgegenständen, Unterhaltsreinigung. Arbeitszeit 07:00–17:00, wenige Wochenendeinsätze.",
+        "requirements": [
+          "Abgeschlossene Schulausbildung",
+          "Mind. 1 Jahr Erfahrung im Housekeeping (bestenfalls Hotellerie)",
+          "Gute Deutsch- oder Englischkenntnisse (B1)",
+          "Qualitätsbewusstsein, Zuverlässigkeit, Diskretion"
+        ],
+        "language": "Deutsch oder Englisch (B1)"
+      },
+      "id": "5b1a2179d7cf",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Hilfsmitarbeiter*in Küche auf Abruf (m/w/d) 60 - 80 %",
+      "titleEs": "Ayudante de cocina por horas (Frau Gerolds Garten)",
+      "company": "Frau Gerolds Garten",
+      "location": "Zürich (Zürich-West)",
+      "postedAt": "2026-11-19",
+      "source": "hotelcareer.ch",
+      "url": "https://www.hotelcareer.ch/jobs/frau-gerolds-garten-110114/hilfsmitarbeiter-in-k%C3%BCche-auf-abruf-m-w-d-60-80-4019616",
+      "summary": "Ayudante de cocina por horas, de inmediato y temporal hasta el 31 de enero de 2027, en el restaurante Frau Gerolds Garten (Zürich-West).",
+      "description": "Apoyo en la cocina del restaurante y bar estacional con jardín urbano en Zürich-West (en invierno, Winter-Garten y Winterstube con fondue y raclette), contrato por horas.",
+      "workload": "60–80 %, por horas",
+      "employmentType": "Temporal hasta 31.01.2027, por horas",
+      "language": "No indicado en el resumen",
+      "de": {
+        "title": "Hilfsmitarbeiter*in Küche auf Abruf (m/w/d) 60 - 80 %",
+        "summary": "Hilfsmitarbeiter*in Küche im Stundenlohn, per sofort und befristet bis 31. Januar 2027, im Frau Gerolds Garten (Zürich-West).",
+        "description": "Unterstützung in der Küche des ganzjährigen Restaurant- und Barbetriebs in Zürich-West (im Winter Winter-Garten und Winterstube mit Fondue und Raclette), im Stundenlohn.",
+        "workload": "60–80 %, im Stundenlohn",
+        "employmentType": "Befristet bis 31.01.2027, im Stundenlohn",
+        "language": "Nicht angegeben"
+      },
+      "id": "871857435c0a",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "umzug",
+      "title": "Aushilfe Räumungsarbeiten auf Abruf",
+      "titleEs": "Ayudante para trabajos de vaciado de viviendas, a demanda (auf Abruf)",
+      "company": "Woma Work Management AG",
+      "location": "Affoltern am Albis",
+      "postedAt": "2026-11-19",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/f590bc36-76b1-43e7-87b3-a9f87343fc00",
+      "summary": "Ayuda en vaciados de pisos, oficinas y sótanos, con desmontaje y montaje y embalaje cuidadoso. Trabajo a demanda (auf Abruf), compatible como ocupación secundaria flexible.",
+      "description": "Colaboración en vaciados de vivienda, oficina y sótano, desmontaje y montaje, embalaje y protección cuidadosa de objetos delicados, apoyo en la organización y ejecución del vaciado y cumplimiento de las normas de seguridad. Posible contratación fija. Ocupación secundaria flexible en un equipo dinámico.",
+      "requirements": [
+        "Resistencia y forma física",
+        "Trabajo en equipo y fiabilidad",
+        "Forma de trabajar cuidadosa y responsable",
+        "Flexibilidad de horarios",
+        "Trato amable",
+        "Experiencia en mudanzas o logística, valorada"
+      ],
+      "workload": "Auf Abruf (a demanda), hasta 100 %",
+      "employmentType": "Temporal, por horas, auf Abruf (agencia)",
+      "language": "Alemán (nivel no indicado). El anuncio no menciona carné de conducir",
+      "englishOk": false,
+      "de": {
+        "title": "Aushilfe Räumungsarbeiten auf Abruf",
+        "summary": "Mithilfe bei Räumungen von Wohnungen, Büros und Kellern inkl. Ab- und Aufbau und sorgfältiger Verpackung. Einsatz auf Abruf, als flexible Nebenbeschäftigung geeignet.",
+        "description": "Mithilfe bei Räumungsarbeiten (Wohnung, Büro, Keller), Ab- und Aufbau, sorgfältige Verpackung und Sicherung empfindlicher Gegenstände, Unterstützung bei Organisation und Durchführung der Räumung, Einhaltung der Sicherheitsvorschriften. Feststelle möglich. Flexible Nebenbeschäftigung in einem dynamischen Team.",
+        "requirements": [
+          "Körperliche Belastbarkeit und Fitness",
+          "Teamfähigkeit und Zuverlässigkeit",
+          "Sorgfältige und verantwortungsbewusste Arbeitsweise",
+          "Flexibilität bei den Arbeitszeiten",
+          "Freundliches Auftreten und Kundenorientierung",
+          "Erfahrung im Bereich Umzug oder Logistik von Vorteil"
+        ],
+        "workload": "Auf Abruf, bis 100 %",
+        "employmentType": "Temporär, Stundenlohn, auf Abruf (Personaldienstleister)",
+        "language": "Deutsch (Niveau nicht angegeben); Führerausweis im Inserat nicht erwähnt"
+      },
+      "id": "ff870440d1ad",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "umzug",
+      "title": "Möbelpacker & Monteur 100% (m/w/d)",
+      "titleEs": "Embalador/a de muebles y montador/a 100 %",
+      "company": "Universal-Job AG",
+      "location": "Frauenfeld",
+      "postedAt": "2026-11-19",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/cd638ece-4ce4-4df8-b002-83e008150cd0",
+      "summary": "Empaquetar y transportar muebles, montarlos y desmontarlos y ayudar a cargar y descargar, para una empresa de mudanzas cliente. Exige carné de conducir categoría B.",
+      "description": "Embalar y transportar muebles de forma segura hasta los clientes, montar y desmontar muebles correctamente y ayudar a cargar y descargar el vehículo de transporte. El cliente es una empresa de mudanzas y transportes consolidada con buen ambiente de equipo.",
+      "requirements": [
+        "Experiencia manual en Suiza (carpintero, montador, cerrajero metálico o similar)",
+        "Carné de conducir categoría B (imprescindible); BE con remolque, deseable",
+        "Buena forma física y resistencia",
+        "Constitución fuerte para cargas pesadas",
+        "Habilidad manual, fiabilidad y esmero",
+        "Trato amable con clientes"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo (agencia, para empresa cliente)",
+      "language": "Alemán C2 (nivel nativo). Exige carné de conducir categoría B (BE deseable)",
+      "englishOk": false,
+      "de": {
+        "title": "Möbelpacker & Monteur 100% (m/w/d)",
+        "summary": "Möbel verpacken, transportieren, auf- und abbauen sowie be- und entladen für einen Umzugs- und Transportbetrieb. Führerausweis Kat. B zwingend.",
+        "description": "Möbel sicher verpacken und zu den Kunden transportieren, Möbel fachgerecht auf- und abbauen, bei Bedarf beim Be- und Entladen des Transportfahrzeugs helfen. Kunde ist ein etabliertes Umzugs- und Transportunternehmen mit kollegialem Umfeld.",
+        "requirements": [
+          "Handwerkliche Arbeitserfahrung in der Schweiz (Schreiner, Monteur, Metallbauer o. Ä.)",
+          "Führerausweis Kat. B (zwingend), Kat. BE wünschenswert",
+          "Körperliche Fitness und Belastbarkeit",
+          "Kräftige Konstitution für schwere Lasten",
+          "Handwerkliches Geschick",
+          "Zuverlässigkeit und Sorgfalt",
+          "Freundliches Auftreten gegenüber Kunden"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung (Personaldienstleister, Kundeneinsatz)",
+        "language": "Deutsch C2 (Muttersprache); Führerausweis Kat. B zwingend, BE wünschenswert"
+      },
+      "id": "50a52ea26126",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Mitarbeiter:in Zentrallager 80-100%",
+      "titleEs": "Mozo/a de almacén central, 80-100 %",
+      "company": "Universitätsspital Zürich",
+      "location": "Schlieren ZH",
+      "postedAt": "2026-11-19",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/c1832826-0b6b-4044-8b4f-d57c05f71cbd",
+      "summary": "Almacén central del hospital universitario: picking, control de entradas, devoluciones y carga/descarga de camiones.",
+      "description": "Picking en zonas manuales y automatizadas, organización del almacén en SAP, inventario anual, control de entradas, devoluciones, envíos de reparación, reposición, preparación de carros de transporte y carga/descarga de camiones.",
+      "requirements": [
+        "Experiencia de varios años (ver anuncio)"
+      ],
+      "workload": "80-100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán (nivel no indicado)",
+      "de": {
+        "title": "Mitarbeiter:in Zentrallager 80-100%",
+        "summary": "Zentrallager des Universitätsspitals: Kommissionieren, Wareneingangskontrolle, Retouren und Be-/Entladen von Lastwagen.",
+        "description": "Kommissionieren aus manuellen und automatisierten Lagerzonen, Lagerorganisation in SAP MM/WMS, Stichtagsinventur, Wareneingänge, Retouren, Reparatursendungen, Nachschub, Bereitstellung der Transportwagen, Be- und Entladen von LKW.",
+        "requirements": [
+          "Mehrjährige Erfahrung (siehe Inserat)"
+        ],
+        "workload": "80-100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch (Niveau nicht angegeben)"
+      },
+      "id": "140a5c1db94d",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Eventreiniger:in für die Hockey-Saison 26/27",
+      "titleEs": "Limpiador/a de eventos, temporada de hockey 26/27",
+      "company": "ISS Schweiz AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-19",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/b678f18d-b14d-4260-9c47-69f7a5f04a59",
+      "summary": "Trabajo extra de 4 horas semanales limpiando la Swiss Life Arena en los días de partido de los ZSC Lions (Zürich-Altstetten).",
+      "description": "Limpieza de mantenimiento del estadio: asientos, pasillos, corredores, sanitarios y gestión de residuos. Inicio inmediato.",
+      "requirements": [
+        "Experiencia previa en limpieza profesional",
+        "Conocimientos de alemán",
+        "Ciudadanía suiza o permiso de trabajo válido",
+        "Antecedentes penales limpios",
+        "Vivir cerca de Zürich-Altstetten"
+      ],
+      "workload": "4 h por semana",
+      "employmentType": "Temporal (temporada 26/27)",
+      "language": "Alemán (nivel no indicado)",
+      "de": {
+        "title": "Eventreiniger:in für die Hockey-Saison 26/27",
+        "summary": "Zusatzverdienst mit 4 Stunden pro Woche: Reinigung der Swiss Life Arena an den Spieltagen der ZSC Lions (Zürich-Altstetten).",
+        "description": "Gründliche Unterhaltsreinigung des Stadions: Sitzplätze, Gänge, Korridore, Sanitärbereiche, Abfallentsorgung. Beginn ab sofort.",
+        "requirements": [
+          "Bereits in der professionellen Reinigung gearbeitet",
+          "Deutschkenntnisse",
+          "CH-Bürger:in oder gültige Arbeitsbewilligung",
+          "Sauberer Leumund",
+          "Wohnort in der Umgebung Zürich-Altstetten"
+        ],
+        "workload": "4 Stunden pro Woche",
+        "employmentType": "Befristet (Saison 26/27)",
+        "language": "Deutsch (Niveau nicht angegeben)"
+      },
+      "id": "407c3c540eb9",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Fachperson Hauswirtschaft, Standort Selnau",
+      "titleEs": "Especialista en economía doméstica, sede Selnau",
+      "company": "Stadt Zürich Gesundheitszentren für das Alter",
+      "location": "Zürich",
+      "postedAt": "2026-11-18",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/f0ccdc4e-7a16-4998-a3a8-6c903263affe",
+      "summary": "Puesto de economía doméstica (hauswirtschaft) en un centro de salud para mayores de la ciudad de Zürich, sede Selnau.",
+      "de": {
+        "title": "Fachperson Hauswirtschaft, Standort Selnau",
+        "summary": "Stelle in der Hauswirtschaft bei den Gesundheitszentren für das Alter der Stadt Zürich, Standort Selnau."
+      },
+      "id": "16e1c4f638e0",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Mitarbeiter/in Wäscherei - befristete Anstellung über 6 Monate",
+      "titleEs": "Empleado/a de lavandería – contrato temporal de 6 meses",
+      "company": "Spital Limmattal",
+      "location": "Schlieren",
+      "postedAt": "2026-11-18",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/11b05fff-0ee6-492d-bd32-f27d90345af2",
+      "summary": "Trabajo en la lavandería del hospital Limmattal con contrato de 6 meses.",
+      "de": {
+        "title": "Mitarbeiter/in Wäscherei - befristete Anstellung über 6 Monate",
+        "summary": "Mitarbeit in der Wäscherei des Spitals Limmattal, befristet auf 6 Monate."
+      },
+      "id": "75fc4fb86e3f",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Mitarbeiter:in Hotellerie",
+      "titleEs": "Empleado/a de hotelería",
+      "company": "Stiftung Alters- und Pflegeheim Meilen",
+      "location": "Meilen",
+      "postedAt": "2026-11-18",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/d0356d1f-ed9a-4fe4-9ba1-2d93d880bf05",
+      "summary": "Puesto de hotelería (servicios del hogar) en la residencia de mayores de Meilen.",
+      "de": {
+        "title": "Mitarbeiter:in Hotellerie",
+        "summary": "Stelle in der Hotellerie des Alters- und Pflegeheims Meilen."
+      },
+      "id": "869c74c26701",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistiker EFZ / Lagermitarbeiter Intralogistik (w/m/d) 80-100 % (befristet bis Ende 2029)",
+      "titleEs": "Logístico EFZ / empleado de almacén intralogística, 80–100 % (hasta fin de 2029)",
+      "company": "Kistler",
+      "location": "Winterthur",
+      "postedAt": "2026-11-18",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/c4ec7dda-24af-4343-a521-51633b3cc41f",
+      "summary": "Puesto de almacén/intralogística en Kistler (Winterthur), contrato hasta finales de 2029.",
+      "de": {
+        "title": "Logistiker EFZ / Lagermitarbeiter Intralogistik (w/m/d) 80-100 % (befristet bis Ende 2029)",
+        "summary": "Logistiker EFZ / Lagermitarbeiter Intralogistik bei Kistler in Winterthur, befristet bis Ende 2029."
+      },
+      "id": "6830949bda00",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Mitarbeiter/in Logistik & Lager (80–100 %) – Quereinsteiger herzlich willkommen",
+      "titleEs": "Empleado/a de logística y almacén 80–100 % (se admite cambio de sector)",
+      "company": "Personalvermittlung Qarri Gmba",
+      "location": "Dübendorf",
+      "postedAt": "2026-11-18",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/de3ccc42-f636-465f-b158-090388290f26",
+      "summary": "Puesto de logística y almacén en Dübendorf; se aceptan personas sin experiencia previa en el sector.",
+      "de": {
+        "title": "Mitarbeiter/in Logistik & Lager (80–100 %) – Quereinsteiger herzlich willkommen",
+        "summary": "Logistik- und Lagerstelle in Dübendorf; Quereinsteiger willkommen."
+      },
+      "id": "41fb73f9868d",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistiker/-in Lager 100%",
+      "titleEs": "Logístico/a de almacén 100 %",
+      "company": "Go4it Agency GmbH",
+      "location": "Urdorf",
+      "postedAt": "2026-11-18",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/fc2cb6c5-4fa8-46ae-b1cb-adacf09759c7",
+      "summary": "Puesto de almacén al 100 % en Urdorf a través de la agencia Go4it.",
+      "de": {
+        "title": "Logistiker/-in Lager 100%",
+        "summary": "Logistiker/in Lager 100 % in Urdorf über die Agentur Go4it."
+      },
+      "id": "f8c088aa49cd",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Room Attendant Aushilfe 20-40% (all genders)",
+      "titleEs": "Room Attendant ayudante 20–40 %",
+      "company": "The Living Circle",
+      "location": "Thalwil",
+      "postedAt": "2026-11-18",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4484427793",
+      "summary": "Ayuda para limpieza y cuidado de habitaciones en un hotel de The Living Circle en Thalwil, desde ya o a convenir.",
+      "description": "Limpieza y cuidado del hotel y atención a los deseos de los huéspedes, como apoyo (Aushilfe) del departamento de housekeeping.",
+      "requirements": [
+        "Ojo para el detalle",
+        "Buena forma física",
+        "Alemán y/o inglés",
+        "Gusto por el trabajo en equipo",
+        "Primera experiencia en limpieza de habitaciones"
+      ],
+      "workload": "20–40 %",
+      "employmentType": "Ayuda / aushilfe",
+      "language": "Alemán y/o inglés",
+      "englishOk": true,
+      "seniority": "junior",
+      "de": {
+        "title": "Room Attendant Aushilfe 20-40% (all genders)",
+        "summary": "Aushilfe für Zimmerreinigung und Pflege in einem Hotel von The Living Circle in Thalwil, ab sofort oder nach Vereinbarung.",
+        "description": "Reinigung und Pflege des Hotels und Erfüllen von Gästewünschen als Unterstützung des Housekeepings.",
+        "requirements": [
+          "Auge fürs Detail",
+          "Körperlich fit",
+          "Deutsch und/oder Englisch",
+          "Freude an Teamarbeit",
+          "Erste Erfahrung in der Zimmerreinigung"
+        ],
+        "workload": "20–40 %",
+        "employmentType": "Aushilfe",
+        "language": "Deutsch und/oder Englisch"
+      },
+      "id": "2c64daa0e53a",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Office-Mitarbeiter:in",
+      "titleEs": "Ayudante de office / friegaplatos (Hotel Zürichberg)",
+      "company": "Genossenschaft ZFV-Unternehmungen",
+      "location": "Zürich (Boutique-Hotel Zürichberg)",
+      "postedAt": "2026-11-18",
+      "source": "myjob.ch",
+      "url": "https://www.myjob.ch/job/office-mitarbeiterin/3678404",
+      "summary": "Puesto de office (lavado de vajilla) en el Sorell Boutique-Hotel Zürichberg. Se pide experiencia en office y alemán oral.",
+      "description": "Lavado de vajilla, cubiertos y utensilios de cocina, manejo de la máquina lavavajillas, gestión de residuos y mantenimiento de las máquinas, además de limpieza y orden general.",
+      "requirements": [
+        "Conocimientos básicos de gastronomía/hotelería",
+        "Experiencia en lavavajillas/office",
+        "Alemán oral",
+        "Ganas de aprender y resistencia",
+        "Higiene y organización"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán oral",
+      "englishOk": false,
+      "de": {
+        "title": "Office-Mitarbeiter:in",
+        "summary": "Office-Stelle (Abwasch) im Sorell Boutique-Hotel Zürichberg. Erfahrung im Office und mündliche Deutschkenntnisse gefragt.",
+        "description": "Abwasch von Geschirr, Besteck und Küchenutensilien, Bedienung der Abwaschmaschine, Entsorgung und Abfalltrennung, Pflege der Maschinen sowie allgemeine Aufräum- und Reinigungsarbeiten.",
+        "requirements": [
+          "Grundkenntnisse in Gastronomie/Hotellerie",
+          "Erfahrung in der Abwaschküche",
+          "Mündliche Deutschkenntnisse",
+          "Lernbereit und belastbar",
+          "Hygienebewusst, strukturiert und selbständig"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Mündliche Deutschkenntnisse"
+      },
+      "id": "ed263bdca549",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Lagermitarbeiter Spät- & Nachtschicht (a) 100%",
+      "titleEs": "Mozo/a de almacén turno tarde y noche, 100 %",
+      "company": "Adecco (cliente en Regensdorf)",
+      "location": "Regensdorf ZH",
+      "postedAt": "2026-11-18",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/5171e745-777e-4510-a371-b1351883c09e",
+      "summary": "Preparación de pedidos con escáner en un centro logístico moderno de Regensdorf, turnos alternos de tarde y noche.",
+      "description": "Picking de pedidos con escáner, preparación y control de mercancía, registro de pedidos en el sistema y apoyo en tareas generales de almacén. Turnos alternos cada 2 semanas (tarde/noche).",
+      "requirements": [
+        "Alemán mínimo B1",
+        "Buena condición física",
+        "Disposición a turnos de tarde y noche",
+        "Vehículo propio es una ventaja"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo (vía Adecco)",
+      "language": "Alemán B1",
+      "de": {
+        "title": "Lagermitarbeiter Spät- & Nachtschicht (a) 100%",
+        "summary": "Kommissionierung mit Scanner in einem modernen Logistikzentrum in Regensdorf, Spät- und Nachtschicht im 2-Wochen-Wechsel.",
+        "description": "Kommissionieren von Kundenbestellungen mittels Scanner, Zusammenstellen und Kontrollieren von Waren, Erfassen der Bestellungen im System, Unterstützung bei allgemeinen Lagerarbeiten.",
+        "requirements": [
+          "Gute Deutschkenntnisse (mindestens B1)",
+          "Körperlich fit und belastbar",
+          "Bereitschaft für Spät- und Nachtschicht im Wechsel",
+          "Eigenes Fahrzeug von Vorteil"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung (über Adecco)",
+        "language": "Deutsch B1"
+      },
+      "englishOk": false,
+      "id": "47b14fd94ed5",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Staplerfahrer / Logistikmitarbeiter (m/w/d) 100%",
+      "titleEs": "Carretillero/a / operario/a de logística, 100 %",
+      "company": "Adecco (cliente en Regensdorf)",
+      "location": "Regensdorf ZH",
+      "postedAt": "2026-11-18",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/ea203856-cd92-46e5-9e47-8882f76f264f",
+      "summary": "Transporte de palés con carretilla y registro de movimientos de mercancía en Regensdorf; trabajo a turnos de lunes a domingo.",
+      "description": "Transporte de palés de entrada con carretilla, registro de movimientos con terminal MDE, apoyo en transportes internos y otras áreas de logística.",
+      "requirements": [
+        "Carné de carretillero S2, R1 y R2 válido",
+        "Alemán mínimo B1",
+        "Turnos de lunes a domingo",
+        "Vehículo propio"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo (vía Adecco)",
+      "language": "Alemán B1",
+      "de": {
+        "title": "Staplerfahrer / Logistikmitarbeiter (m/w/d) 100%",
+        "summary": "Transport von Wareneingangspaletten mit Stapler und Erfassung von Warenbewegungen in Regensdorf, Schichtarbeit Montag bis Sonntag.",
+        "description": "Palettentransport mit Stapler/Flurförderzeugen, Buchung mit MDE-Gerät, Unterstützung bei internen Transportaufträgen, Mithilfe in weiteren Logistikbereichen.",
+        "requirements": [
+          "Gültiger Staplerausweis S2, R1, R2",
+          "Deutsch mindestens B1",
+          "Schichtarbeit Montag bis Sonntag",
+          "Eigenes Fahrzeug"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung (über Adecco)",
+        "language": "Deutsch B1"
+      },
+      "englishOk": false,
+      "id": "c0b749eaeb9b",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Mitarbeiter/in Logistik & Lager (80–100 %) – Quereinsteiger herzlich willkommen",
+      "titleEs": "Operario/a de logística y almacén, 80-100 % (se admiten personas sin experiencia)",
+      "company": "Personalvermittlung Qarri GmbH",
+      "location": "Dübendorf ZH",
+      "postedAt": "2026-11-18",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/d6d199fe-c9da-4acc-98d8-b6e664154f61",
+      "summary": "Varios puestos de logística y almacén en distintas ubicaciones de la Suiza alemana; no se requieren conocimientos previos.",
+      "description": "Picking, embalaje y preparación de mercancía y tareas generales de almacén; formación inicial completa.",
+      "requirements": [
+        "No se requieren conocimientos previos",
+        "Fiabilidad y motivación"
+      ],
+      "workload": "80-100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán (nivel no indicado)",
+      "de": {
+        "title": "Mitarbeiter/in Logistik & Lager (80–100 %) – Quereinsteiger herzlich willkommen",
+        "summary": "Mehrere Stellen in Logistik & Lager an verschiedenen Standorten der Deutschschweiz; keine Vorkenntnisse erforderlich.",
+        "description": "Kommissionieren, Verpacken und Bereitstellen von Waren, allgemeine Lagerarbeiten; gründliche Einarbeitung.",
+        "requirements": [
+          "Keine Vorkenntnisse erforderlich",
+          "Zuverlässigkeit und Motivation"
+        ],
+        "workload": "80-100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch (Niveau nicht angegeben)"
+      },
+      "id": "bf07237b79b7",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "temporada-invierno",
+      "title": "Zimmerreinigungspersonal / Housekeeping",
+      "titleEs": "Personal de limpieza de habitaciones / housekeeping",
+      "company": "Aufdenblatten Collection",
+      "location": "Zermatt VS",
+      "postedAt": "2026-11-18",
+      "source": "hoteljob.ch",
+      "url": "https://hoteljob.ch/job/4003508",
+      "summary": "Housekeeping en hoteles y apartamentos de Zermatt desde ahora; experiencia deseable pero no obligatoria; esquí gratis en Zermatt para el personal.",
+      "description": "Limpieza de habitaciones y apartamentos con cocina, cambio de ropa de cama y toallas, reposición de amenities, aspirado, limpieza de zonas públicas según estándares de 4 estrellas.",
+      "requirements": [
+        "Experiencia en housekeeping, deseable (no imprescindible)",
+        "Trabajo cuidadoso, puntual y fiable",
+        "Turnos y fines de semana/festivos",
+        "Buena resistencia física"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo (empleo en estación de esquí)",
+      "language": "Alemán (nivel no indicado)",
+      "de": {
+        "title": "Zimmerreinigungspersonal / Housekeeping",
+        "summary": "Housekeeping in Hotels und Ferienwohnungen in Zermatt ab sofort; Erfahrung erwünscht, kein Muss; kostenloser Skiverleih.",
+        "description": "Reinigung und Pflege der Gästezimmer und Ferienwohnungen mit Küchen, Wechseln von Bettwäsche und Handtüchern, Auffüllen von Amenities, Staubsaugen und Wischen, Reinigung öffentlicher Bereiche nach 4-Sterne-Standard.",
+        "requirements": [
+          "Idealerweise Erfahrung im Housekeeping (kein Muss)",
+          "Sorgfältige, pünktliche, zuverlässige Arbeitsweise",
+          "Schichtbereitschaft inkl. Wochenende und Feiertage",
+          "Körperliche Belastbarkeit"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung (Ganzjahresstelle im Skiort)",
+        "language": "Deutsch (Niveau nicht angegeben)"
+      },
+      "id": "4a969057c4a2",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "temporada-invierno",
+      "title": "Parkplatzeinweiserin (m/w/d) Wintersaison 2026/2027",
+      "titleEs": "Controlador/a de aparcamiento, temporada de invierno 2026/27",
+      "company": "Andermatt-Sedrun Sport AG",
+      "location": "Andermatt UR",
+      "postedAt": "2026-11-18",
+      "source": "hoteljob.ch",
+      "url": "https://hoteljob.ch/job/4046581",
+      "summary": "Atención y control de aparcamientos de la estación de esquí de Andermatt, ayuda en señalización y quitanieves, temporada 2026/27.",
+      "description": "Vigilancia de los aparcamientos y control del pago, atención a huéspedes, ayuda con señalización y vallado, pequeñas reparaciones y ayuda en la retirada de nieve. Abono anual de la zona de esquí.",
+      "requirements": [
+        "Carné de conducir categoría B",
+        "Disponibilidad en fines de semana y festivos",
+        "Resistencia con mal tiempo",
+        "Buen nivel oral de idiomas (ver anuncio)"
+      ],
+      "workload": "100 %",
+      "employmentType": "Temporada de invierno 2026/27",
+      "language": "Alemán (buen nivel oral)",
+      "de": {
+        "title": "Parkplatzeinweiserin (m/w/d) Wintersaison 2026/2027",
+        "summary": "Betreuung und Kontrolle der Parkplätze im Skigebiet Andermatt, Hilfe bei Beschilderung und Schneeräumung, Wintersaison 2026/27.",
+        "description": "Überwachung der Parkplätze und Parkgebühren, Gästebetreuung, Beschilderungs- und Absperrarbeiten, einfache Instandhaltung, Mithilfe bei der Schneeräumung. Gratis-Jahresabo des Skigebiets.",
+        "requirements": [
+          "Führerschein Kategorie B",
+          "Einsätze an Wochenenden und Feiertagen",
+          "Belastbarkeit bei schlechtem Wetter",
+          "Gute mündliche Sprachkenntnisse (siehe Inserat)"
+        ],
+        "workload": "100 %",
+        "employmentType": "Wintersaison 2026/27",
+        "language": "Deutsch (gute mündliche Kenntnisse)"
+      },
+      "id": "1096b71887ea",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "temporada-invierno",
+      "title": "Etagenmitarbeiter (m/w) ab Dezember oder nach Vereinbarung",
+      "titleEs": "Personal de pisos (m/f) desde diciembre",
+      "company": "Hotel Schweizerhof",
+      "location": "Lenzerheide GR",
+      "postedAt": "2026-11-18",
+      "source": "hotelcareer.ch",
+      "url": "https://www.hotelcareer.ch/jobs/hotel-schweizerhof-15353/etagenmitarbeiter-ab-dezember-oder-nach-vereinbarung-4036665",
+      "summary": "Limpieza de habitaciones, apartamentos y zonas comunes en un hotel de Lenzerheide desde diciembre, con contrato de temporada.",
+      "description": "Limpieza de las habitaciones y apartamentos del hotel y de los espacios públicos.",
+      "requirements": [
+        "Ver anuncio completo"
+      ],
+      "workload": "No indicado",
+      "employmentType": "Contrato de temporada",
+      "language": "Alemán (nivel no indicado)",
+      "de": {
+        "title": "Etagenmitarbeiter (m/w) ab Dezember oder nach Vereinbarung",
+        "summary": "Reinigung der Hotelzimmer, Appartements und öffentlichen Räume in einem Hotel in Lenzerheide ab Dezember, Saisonvertrag.",
+        "description": "Reinigen der Hotelzimmer und Appartements sowie der öffentlichen Räume.",
+        "requirements": [
+          "Siehe vollständiges Inserat"
+        ],
+        "workload": "Nicht angegeben",
+        "employmentType": "Saisonvertrag",
+        "language": "Deutsch (Niveau nicht angegeben)"
+      },
+      "id": "abddd88abbf8",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "temporada-invierno",
+      "title": "Portier Housekeeping (m/w)",
+      "titleEs": "Portero de housekeeping (m/f)",
+      "company": "Tradition Julen Hotel",
+      "location": "Zermatt VS",
+      "postedAt": "2026-11-18",
+      "source": "hotelcareer.ch",
+      "url": "https://www.hotelcareer.ch/jobs/tradition-julen-hotel-33495/portier-housekeeping-4056071",
+      "summary": "Puesto de portero en el departamento de housekeeping de un hotel de 4 estrellas superior en Zermatt.",
+      "description": "Hotel familiar de Zermatt (4*S, desde 1937); descripción de tareas no leída en detalle.",
+      "requirements": [
+        "Ver anuncio completo"
+      ],
+      "workload": "Tiempo completo",
+      "employmentType": "Contrato fijo (empleo en estación de esquí)",
+      "language": "Alemán (nivel no indicado)",
+      "de": {
+        "title": "Portier Housekeeping (m/w)",
+        "summary": "Portierstelle im Housekeeping eines 4-Sterne-Superior-Hotels in Zermatt.",
+        "description": "Familiengeführtes Hotel in Zermatt (seit 1937); Aufgabenbeschreibung nicht im Detail gelesen.",
+        "requirements": [
+          "Siehe vollständiges Inserat"
+        ],
+        "workload": "Vollzeit",
+        "employmentType": "Festanstellung (Stelle im Skiort)",
+        "language": "Deutsch (Niveau nicht angegeben)"
+      },
+      "id": "5767b207e820",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "temporada-invierno",
+      "title": "Zimmermädchen Wintersaison 2026-2027",
+      "titleEs": "Camarera de habitaciones, temporada de invierno 2026-27",
+      "company": "BERGHOTEL Tgantieni",
+      "location": "Lenzerheide GR",
+      "postedAt": "2026-11-18",
+      "source": "gastrojob.ch",
+      "url": "https://www.gastrojob.ch/stellen/externe-partner/56684",
+      "summary": "Puesto de camarera de habitaciones para la temporada de invierno 2026-27 en un hotel de 3 estrellas de Lenzerheide.",
+      "description": "Anuncio en gastrojob.ch (primera activación 18.11.2026); detalles no leídos (la página de oferta redirige a hoteljob-schweiz.de).",
+      "requirements": [],
+      "workload": "No indicado",
+      "employmentType": "Temporada de invierno 2026-27",
+      "language": "Alemán (nivel no indicado)",
+      "de": {
+        "title": "Zimmermädchen Wintersaison 2026-2027",
+        "summary": "Zimmermädchen für die Wintersaison 2026-27 in einem 3-Sterne-Berghotel in Lenzerheide.",
+        "description": "Inserat auf gastrojob.ch (erstmals aktiviert 18.11.2026); Details nicht gelesen (Inserat leitet auf hoteljob-schweiz.de weiter).",
+        "requirements": [],
+        "workload": "Nicht angegeben",
+        "employmentType": "Wintersaison 2026-27",
+        "language": "Deutsch (Niveau nicht angegeben)"
+      },
+      "id": "3e03348f2263",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "temporada-invierno",
+      "title": "Ausschankkhilfe - Abwäscher w/m Winter 2026-2027",
+      "titleEs": "Ayudante de barra / lavaplatos, invierno 2026-27",
+      "company": "BERGHOTEL Tgantieni",
+      "location": "Lenzerheide GR",
+      "postedAt": "2026-11-18",
+      "source": "gastrojob.ch",
+      "url": "https://www.gastrojob.ch/stellen/externe-partner/56683",
+      "summary": "Ayudante de barra y lavaplatos en la temporada de invierno 2026-27 en un hotel de 3 estrellas de Lenzerheide.",
+      "description": "Anuncio en gastrojob.ch (primera activación 18.11.2026); detalles no leídos.",
+      "requirements": [],
+      "workload": "No indicado",
+      "employmentType": "Temporada de invierno 2026-27",
+      "language": "Alemán (nivel no indicado)",
+      "de": {
+        "title": "Ausschankkhilfe - Abwäscher w/m Winter 2026-2027",
+        "summary": "Ausschankhilfe und Abwäscher für die Wintersaison 2026-27 in einem 3-Sterne-Berghotel in Lenzerheide.",
+        "description": "Inserat auf gastrojob.ch (erstmals aktiviert 18.11.2026); Details nicht gelesen.",
+        "requirements": [],
+        "workload": "Nicht angegeben",
+        "employmentType": "Wintersaison 2026-27",
+        "language": "Deutsch (Niveau nicht angegeben)"
+      },
+      "id": "2dbe61ee212a",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
     {
       "searchId": "hotel",
       "title": "Zimmerreinigung / Aushilfe Stv. Gouvernante im Hotel Zürich-West 60%–80%",
@@ -687,6 +1498,658 @@
       },
       "id": "46b08b510453",
       "foundAt": "2026-11-18T07:22:33.933Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Housekeeping (Etage und Lingerie)",
+      "titleEs": "Housekeeping (planta y lencería)",
+      "company": "Migros-Genossenschafts-Bund",
+      "location": "Zürich",
+      "postedAt": "2026-11-17",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/3ac21380-89e6-448f-a004-b6ab4bafd35b",
+      "summary": "Limpieza de plantas y lencería en el área de housekeeping de Migros (anuncio de jobs.ch; detalles no accesibles).",
+      "de": {
+        "title": "Housekeeping (Etage und Lingerie)",
+        "summary": "Housekeeping (Etage und Lingerie) bei Migros; Details auf jobs.ch nicht abrufbar."
+      },
+      "id": "f46a712aa606",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Temporary Staff Banquets and Kitchen",
+      "titleEs": "Personal temporal para banquetes y cocina",
+      "company": "Marriott International",
+      "location": "Zurich",
+      "postedAt": "2026-11-17",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/f67e6aed-36dd-4c49-aa6f-649540ae75b6",
+      "summary": "Personal temporal para banquetes y cocina en el hotel Marriott de Zürich.",
+      "de": {
+        "title": "Temporary Staff Banquets and Kitchen",
+        "summary": "Temporäres Personal für Bankette und Küche im Marriott Zürich."
+      },
+      "id": "aed0a1363899",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistiker - Reinraumlogistik / Produktionslogistik am Standort Zürich (m/w/x)",
+      "titleEs": "Logístico de sala blanca / logística de producción en Zürich",
+      "company": "Carl Zeiss SMT Switzerland AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-17",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/d4548e7d-01c2-47f4-8e4c-f19de595fdda",
+      "summary": "Logística de sala blanca y de producción en Carl Zeiss SMT, Zürich.",
+      "de": {
+        "title": "Logistiker - Reinraumlogistik / Produktionslogistik am Standort Zürich (m/w/x)",
+        "summary": "Reinraum- und Produktionslogistik bei Carl Zeiss SMT in Zürich."
+      },
+      "id": "b439b7036253",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistikerin / Logistiker (80-100 %)",
+      "titleEs": "Logístico/a 80–100 %",
+      "company": "Ferroflex Bautechnik AG",
+      "location": "Oberglatt ZH",
+      "postedAt": "2026-11-17",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/89b2cb14-87c7-41de-9445-f77c362d9ebd",
+      "summary": "Puesto de logística en Ferroflex Bautechnik (Oberglatt).",
+      "de": {
+        "title": "Logistikerin / Logistiker (80-100 %)",
+        "summary": "Logistik-Stelle bei Ferroflex Bautechnik in Oberglatt."
+      },
+      "id": "cab108be4797",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Mitarbeiter Housekeeping (m/w) 50%-80%",
+      "titleEs": "Empleado/a de housekeeping 50–80 %",
+      "company": "Placid Hotel Zurich",
+      "location": "Zürich",
+      "postedAt": "2026-11-17",
+      "source": "hotelcareer.ch",
+      "url": "https://www.hotelcareer.ch/jobs/placid-hotel-zurich-95014/mitarbeiter-housekeeping-50-80-4055599",
+      "summary": "Limpieza de habitaciones y zonas del Placid Hotel Zurich (115 habitaciones), por horas, desde ya o a convenir.",
+      "description": "Limpieza de las habitaciones y espacios asignados, tareas de economato/hauswirtschaft, limpieza de ventanas, apoyo en zonas públicas y cumplimiento de normas de higiene. Horario 07:00–19:00 con turnos de fin de semana regulares.",
+      "requirements": [
+        "Experiencia en housekeeping de hotel",
+        "Experiencia con máquinas de limpieza",
+        "Habilidad técnica y calidad",
+        "Buen alemán hablado, inglés una ventaja",
+        "Idealmente residir en la zona de Zürich"
+      ],
+      "workload": "50–80 %",
+      "employmentType": "Pago por horas",
+      "language": "Alemán oral bueno, inglés una ventaja",
+      "englishOk": false,
+      "de": {
+        "title": "Mitarbeiter Housekeeping (m/w) 50%-80%",
+        "summary": "Zimmerreinigung im Placid Hotel Zurich (115 Zimmer) im Stundenlohn, per sofort oder nach Vereinbarung.",
+        "description": "Reinigung der zugewiesenen Hotelzimmer und Räumlichkeiten, verschiedene Hauswirtschaftsarbeiten, Fensterreinigung, Unterstützung im öffentlichen Bereich, Einhaltung der Hygienevorschriften. Arbeitszeiten 07.00–19.00 Uhr, regelmässige Wochenendeinsätze.",
+        "requirements": [
+          "Berufserfahrung in der Hotel-Hauswirtschaft",
+          "Erfahrung mit Reinigungsmaschinen",
+          "Technisches Geschick, hohes Qualitätsbewusstsein",
+          "Gute mündliche Deutschkenntnisse, Englisch von Vorteil",
+          "Idealerweise wohnhaft im Raum Zürich"
+        ],
+        "workload": "50–80 %",
+        "employmentType": "Stundenlohn",
+        "language": "Gute mündliche Deutschkenntnisse, Englisch von Vorteil"
+      },
+      "id": "7c2536d868e1",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Hotelreiniger:in Zürich 60% - 80%",
+      "titleEs": "Limpiador/a de hotel en Zürich 60–80 %",
+      "company": "Enzler Hôtel Services SA",
+      "location": "Zürich",
+      "postedAt": "2026-11-17",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/e90653a5-7690-4974-b08d-be6718887295",
+      "summary": "Limpieza de habitaciones de hoteles de una cadena internacional (2–4 estrellas) en la región de Zürich; no se exige experiencia previa en hotel.",
+      "description": "Limpieza de habitaciones, cuidado del mobiliario, limpiezas especiales y zonas públicas. Turnos de lunes a domingo desde las 08:00, fines de semana regulares; lugar flexible según su domicilio.",
+      "requirements": [
+        "Experiencia en hotel no obligatoria",
+        "Buen alemán",
+        "Trabajo autónomo, fiable y en equipo",
+        "Disponibilidad en fines de semana",
+        "Presencia cuidada"
+      ],
+      "workload": "60–80 %",
+      "employmentType": "Pago por horas (convenio de limpieza), 13.º sueldo",
+      "language": "Alemán bueno",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Hotelreiniger:in Zürich 60% - 80%",
+        "summary": "Zimmerreinigung in Hotels einer internationalen Kette (2–4 Sterne) in der Region Zürich; Hotelerfahrung nicht zwingend.",
+        "description": "Reinigung der Gästezimmer, Pflege der Einrichtung, Sonderreinigungen und öffentliche Bereiche. Einsätze Montag–Sonntag ab 08:00 Uhr, regelmässige Wochenendeinsätze; flexibler Einsatzort nach Wohnort.",
+        "requirements": [
+          "Hotelerfahrung nicht zwingend",
+          "Gute Deutschkenntnisse",
+          "Selbstständig, zuverlässig, teamfähig",
+          "Wochenendeinsätze",
+          "Gepflegtes Auftreten"
+        ],
+        "workload": "60–80 %",
+        "employmentType": "Stundenlohn (GAV Reinigung), 13. Monatslohn",
+        "language": "Gute Deutschkenntnisse"
+      },
+      "id": "c40c901dacf4",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Hotelreiniger:in / Stellvertretende Gouvernante Winterthur 50% - 80%",
+      "titleEs": "Limpiador/a de hotel / subgobernanta en Winterthur 50–80 %",
+      "company": "Enzler Hôtel Services SA",
+      "location": "Winterthur",
+      "postedAt": "2026-11-17",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/053203d5-dd67-4f76-81cf-bd86fb4444d9",
+      "summary": "Limpieza de habitaciones de hotel en Winterthur con funciones de suplencia de la gobernanta.",
+      "description": "Apoyo a la gobernanta en la organización y control de calidad de la limpieza, liberación de habitaciones, registro de averías y objetos perdidos, además de limpieza de habitaciones y zonas públicas. Turnos de lunes a domingo.",
+      "requirements": [
+        "Experiencia en limpieza de habitaciones de hotel",
+        "Alemán bueno (necesario)",
+        "Trabajo autónomo y fiable",
+        "Disponibilidad en fines de semana"
+      ],
+      "workload": "50–80 %",
+      "employmentType": "Pago por horas (convenio de limpieza)",
+      "language": "Alemán bueno",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Hotelreiniger:in / Stellvertretende Gouvernante Winterthur 50% - 80%",
+        "summary": "Hotelreinigung in Winterthur mit Stellvertretung der Gouvernante.",
+        "description": "Unterstützung der Gouvernante bei Organisation und Qualitätssicherung, Zimmerfreigabe, Dokumentation von Mängeln und Fundsachen sowie Reinigung von Gästezimmern und öffentlichen Bereichen. Einsätze Montag–Sonntag.",
+        "requirements": [
+          "Erfahrung in der Hotelzimmerreinigung",
+          "Gute Deutschkenntnisse erforderlich",
+          "Selbstständig, zuverlässig, teamfähig",
+          "Wochenendeinsätze"
+        ],
+        "workload": "50–80 %",
+        "employmentType": "Stundenlohn (GAV Reinigung)",
+        "language": "Gutes Deutsch"
+      },
+      "id": "a19d2f0464ed",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Mitarbeiterin/Mitarbeiter Hauswirtschaft Stationen am Wochenende und Feiertage (w/m/d) 40 %",
+      "titleEs": "Empleado/a de hauswirtschaft en fines de semana y festivos 40 %",
+      "company": "Universitätsklinik Balgrist",
+      "location": "Zürich",
+      "postedAt": "2026-11-17",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/c5bbde83-f133-4f84-975d-306fa1b188e4",
+      "summary": "Limpieza y tareas de economato en las plantas de la clínica ortopédica Balgrist en Zürich.",
+      "description": "Limpieza de habitaciones de pacientes, baños, oficinas y zonas públicas, y limpieza de camas; turnos sábados, domingos y festivos de 07:00 a 16:00.",
+      "requirements": [
+        "Algunos años de experiencia en limpieza (mejor en hospital)",
+        "Muy buen alemán hablado",
+        "Presencia cuidada y fiabilidad",
+        "Buena condición física"
+      ],
+      "workload": "40 %",
+      "employmentType": "Contrato fijo, fines de semana y festivos",
+      "language": "Muy buen alemán hablado",
+      "englishOk": false,
+      "de": {
+        "title": "Mitarbeiterin/Mitarbeiter Hauswirtschaft Stationen am Wochenende und Feiertage (w/m/d) 40 %",
+        "summary": "Reinigung und Hauswirtschaft auf den Stationen der Universitätsklinik Balgrist in Zürich.",
+        "description": "Reinigung von Patientenzimmern, Nasszellen, Büros und öffentlichen Räumen sowie Bettenreinigung; Einsätze Samstag, Sonntag und Feiertage von 07.00 bis 16.00 Uhr.",
+        "requirements": [
+          "Einige Jahre Erfahrung in der Reinigung, mit Vorteil im Spitalwesen",
+          "Sehr gute mündliche Deutschkenntnisse",
+          "Gepflegtes Auftreten, hohe Zuverlässigkeit",
+          "Gute körperliche Konstitution"
+        ],
+        "workload": "40 %",
+        "employmentType": "Festanstellung, Wochenend- und Feiertagseinsätze",
+        "language": "Sehr gute mündliche Deutschkenntnisse"
+      },
+      "id": "318922980885",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Mitarbeiterin/Mitarbeiter Hauswirtschaft Stationen am Wochenende und Feiertage (w/m/d) 20 %",
+      "titleEs": "Empleado/a de hauswirtschaft en fines de semana y festivos 20 %",
+      "company": "Universitätsklinik Balgrist",
+      "location": "Zürich",
+      "postedAt": "2026-11-17",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/1653bab0-145f-4c1e-9834-57f1df90cd6b",
+      "summary": "Limpieza y tareas de economato en las plantas de la clínica ortopédica Balgrist en Zürich.",
+      "description": "Limpieza de habitaciones de pacientes, baños, oficinas y zonas públicas, y limpieza de camas; turnos domingos y festivos de 07:00 a 16:00.",
+      "requirements": [
+        "Algunos años de experiencia en limpieza (mejor en hospital)",
+        "Muy buen alemán hablado",
+        "Presencia cuidada y fiabilidad",
+        "Buena condición física"
+      ],
+      "workload": "20 %",
+      "employmentType": "Contrato fijo, fines de semana y festivos",
+      "language": "Muy buen alemán hablado",
+      "englishOk": false,
+      "de": {
+        "title": "Mitarbeiterin/Mitarbeiter Hauswirtschaft Stationen am Wochenende und Feiertage (w/m/d) 20 %",
+        "summary": "Reinigung und Hauswirtschaft auf den Stationen der Universitätsklinik Balgrist in Zürich.",
+        "description": "Reinigung von Patientenzimmern, Nasszellen, Büros und öffentlichen Räumen sowie Bettenreinigung; Einsätze Sonntag und Feiertage von 07.00 bis 16.00 Uhr.",
+        "requirements": [
+          "Einige Jahre Erfahrung in der Reinigung, mit Vorteil im Spitalwesen",
+          "Sehr gute mündliche Deutschkenntnisse",
+          "Gepflegtes Auftreten, hohe Zuverlässigkeit",
+          "Gute körperliche Konstitution"
+        ],
+        "workload": "20 %",
+        "employmentType": "Festanstellung, Wochenend- und Feiertagseinsätze",
+        "language": "Sehr gute mündliche Deutschkenntnisse"
+      },
+      "id": "ce3b6bfd2d06",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Mitarbeiterin/Mitarbeiter Hauswirtschaft auf Abruf (w/ m/d)",
+      "titleEs": "Empleado/a de hauswirtschaft por llamada (auf Abruf)",
+      "company": "Universitätsklinik Balgrist",
+      "location": "Zürich",
+      "postedAt": "2026-11-17",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/2c82a39f-00d5-4403-9671-848b1274ab83",
+      "summary": "Limpieza y tareas de economato en las plantas de la clínica ortopédica Balgrist en Zürich.",
+      "description": "Limpieza de habitaciones de pacientes, baños, oficinas y zonas públicas, y limpieza de camas; turnos de lunes a domingo (también festivos) de día y por la tarde de lunes a viernes, por llamada.",
+      "requirements": [
+        "Algunos años de experiencia en limpieza (mejor en hospital)",
+        "Muy buen alemán hablado",
+        "Presencia cuidada y fiabilidad",
+        "Buena condición física"
+      ],
+      "workload": "20–80 %",
+      "employmentType": "Contrato fijo / por llamada",
+      "language": "Muy buen alemán hablado",
+      "englishOk": false,
+      "de": {
+        "title": "Mitarbeiterin/Mitarbeiter Hauswirtschaft auf Abruf (w/ m/d)",
+        "summary": "Reinigung und Hauswirtschaft auf den Stationen der Universitätsklinik Balgrist in Zürich.",
+        "description": "Reinigung von Patientenzimmern, Nasszellen, Büros und öffentlichen Räumen sowie Bettenreinigung; Einsätze Montag bis Sonntag inkl. Feiertage am Tag sowie Montag bis Freitag abends, auf Abruf.",
+        "requirements": [
+          "Einige Jahre Erfahrung in der Reinigung, mit Vorteil im Spitalwesen",
+          "Sehr gute mündliche Deutschkenntnisse",
+          "Gepflegtes Auftreten, hohe Zuverlässigkeit",
+          "Gute körperliche Konstitution"
+        ],
+        "workload": "20–80 %",
+        "employmentType": "Festanstellung auf Abruf",
+        "language": "Sehr gute mündliche Deutschkenntnisse"
+      },
+      "id": "c9fc17b08da6",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Betriebsmitarbeiter/in (Abwaschküche/ Reinigung)",
+      "titleEs": "Empleado/a de operaciones (cocina de lavado / limpieza)",
+      "company": "Workmanagement AG",
+      "location": "Rümlang ZH",
+      "postedAt": "2026-11-17",
+      "source": "myjob.ch",
+      "url": "https://www.myjob.ch/job/betriebsmitarbeiter-in-abwaschkueche-reinigung/3673269",
+      "summary": "Puesto en el lavado de vajilla y limpieza de una cocina de producción moderna en Rümlang, vía Workmanagement (Personaldienstleister), con opción de contrato fijo.",
+      "description": "Apoyo en la sección de lavado, limpieza de vajilla, aparatos y utensilios, y otras tareas de limpieza en cocina, cumpliendo normas de higiene y seguridad. Turnos de día de lunes a domingo.",
+      "requirements": [
+        "Primera experiencia en cocina de lavado o de producción",
+        "Buen alemán",
+        "Resistencia física y fiabilidad",
+        "Disponibilidad también en fines de semana"
+      ],
+      "workload": "100 %",
+      "employmentType": "Vía agencia, opción de contrato fijo",
+      "language": "Buen alemán",
+      "englishOk": false,
+      "de": {
+        "title": "Betriebsmitarbeiter/in (Abwaschküche/ Reinigung)",
+        "summary": "Stelle in der Abwaschabteilung und Reinigung einer modernen Produktionsküche in Rümlang über Workmanagement, mit Option auf Festübernahme.",
+        "description": "Unterstützung in der Abwaschabteilung, Reinigung von Geschirr, Küchengeräten und Arbeitsutensilien sowie weitere Reinigungsarbeiten; Tagschichten von Montag bis Sonntag.",
+        "requirements": [
+          "Erste Erfahrung in Abwaschküche oder Produktionsküche",
+          "Gute Deutschkenntnisse",
+          "Körperliche Belastbarkeit und Zuverlässigkeit",
+          "Bereitschaft zu Wochenendeinsätzen"
+        ],
+        "workload": "100 %",
+        "employmentType": "Temporär mit Option auf Festanstellung",
+        "language": "Gute Deutschkenntnisse"
+      },
+      "id": "54e93753d3bb",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Verkauf & Küche (d/w/m)",
+      "titleEs": "Venta y cocina (take-away Tenz)",
+      "company": "Tenz GmbH",
+      "location": "Zürich",
+      "postedAt": "2026-11-17",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/a8301923-8a0f-46ea-9d3b-9d451910d6d7",
+      "summary": "Puesto mixto de venta y cocina en un take-away de Tenz en Zúrich: atención al cliente, caja y preparación de productos. Buen alemán requerido.",
+      "description": "Recibir y asesorar a clientes, tomar pedidos, manejar la caja, recomendar productos y preparar los productos según estándares definidos, garantizando calidad y limpieza.",
+      "requirements": [
+        "Gusto por el contacto con clientes y la venta",
+        "Rápida capacidad de aprendizaje",
+        "Resistencia y flexibilidad",
+        "Buen alemán, inglés una ventaja"
+      ],
+      "workload": "Jornada completa (según anuncio)",
+      "employmentType": "Contrato fijo",
+      "language": "Buen alemán, inglés una ventaja",
+      "englishOk": false,
+      "de": {
+        "title": "Verkauf & Küche (d/w/m)",
+        "summary": "Kombi-Stelle Verkauf und Küche in einem Tenz Take-Away in Zürich: Gästeberatung, Kasse und Produktzubereitung. Gute Deutschkenntnisse erforderlich.",
+        "description": "Gäste begrüssen und beraten, Bestellungen aufnehmen, Kasse bedienen, Produkte empfehlen und nach Standards zubereiten sowie Qualität und Sauberkeit sicherstellen.",
+        "requirements": [
+          "Freude an Gästekontakt und Verkauf",
+          "Schnelle Auffassungsgabe",
+          "Belastbarkeit und Flexibilität",
+          "Gute Deutschkenntnisse, Englisch von Vorteil"
+        ],
+        "workload": "Vollzeit (laut Inserat)",
+        "employmentType": "Festanstellung",
+        "language": "Gute Deutschkenntnisse, Englisch von Vorteil"
+      },
+      "id": "77bf0a32c2da",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Küchenhilfe / Spüler (m/w) Mit Zimmerstunde",
+      "titleEs": "Ayudante de cocina / friegaplatos (con pausa de mediodía)",
+      "company": "Restaurant Bärengasse",
+      "location": "Zürich (Paradeplatz)",
+      "postedAt": "2026-11-17",
+      "source": "hotelcareer.ch",
+      "url": "https://www.hotelcareer.ch/jobs/restaurant-b%C3%A4rengasse-71535/k%C3%BCchenhilfe-sp%C3%BCler-mit-zimmerstunde-4054606",
+      "summary": "Ayudante de cocina y friegaplatos en la brasserie Bärengasse, junto a Paradeplatz, con pausa de mediodía (Zimmerstunde). Alemán básico suficiente.",
+      "description": "Limpieza de vajilla, cubiertos, vasos y utensilios, orden y limpieza en cocina y office, normas HACCP, apoyo en preparaciones sencillas, gestión de residuos y mantenimiento de máquinas.",
+      "requirements": [
+        "Experiencia como friegaplatos u office, una ventaja",
+        "Fiable y autónomo/a",
+        "Resistencia física",
+        "Conocimientos básicos de alemán, una ventaja",
+        "Disponibilidad tardes y fines de semana"
+      ],
+      "workload": "Jornada completa",
+      "employmentType": "Contrato fijo, entrada a convenir",
+      "language": "Alemán básico (una ventaja)",
+      "englishOk": true,
+      "de": {
+        "title": "Küchenhilfe / Spüler (m/w) Mit Zimmerstunde",
+        "summary": "Küchenhilfe/Spüler in der Brasserie Restaurant Bärengasse am Paradeplatz, mit Zimmerstunde. Grundkenntnisse Deutsch genügen.",
+        "description": "Reinigung von Geschirr, Besteck, Gläsern und Küchenutensilien, Sauberkeit und Ordnung in Küche und Office, HACCP, Unterstützung bei einfachen Vorbereitungsarbeiten, Abfallentsorgung und Pflege der Maschinen.",
+        "requirements": [
+          "Erfahrung als Spüler oder Office von Vorteil",
+          "Zuverlässig und selbstständig",
+          "Körperliche Belastbarkeit",
+          "Grundkenntnisse Deutsch von Vorteil",
+          "Bereitschaft zu Abend- und Wochenendeinsätzen"
+        ],
+        "workload": "Vollzeit",
+        "employmentType": "Festanstellung, Eintritt nach Vereinbarung",
+        "language": "Grundkenntnisse Deutsch von Vorteil"
+      },
+      "id": "996ba5dcce8f",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Lagermitarbeiter für 4-6 Monate 100% (m/w/d)",
+      "titleEs": "Mozo/a de almacén por 4-6 meses, 100 %",
+      "company": "Universal-Job AG (cliente no nombrado)",
+      "location": "Zürich",
+      "postedAt": "2026-11-17",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/931900fa-00d9-46a6-9197-b56d0fedb6d2",
+      "summary": "Puesto temporal de almacén en Zürich: embalar y preparar material electrónico de hasta 24 kg. No exige carné de carretillero.",
+      "description": "Embalaje y preparación de pedidos de equipos electrónicos de hasta 24 kg, trabajo de almacén de pie; sábados ocasionales y voluntarios. Contrato temporal con posibilidad (vaga) de pasar a fijo.",
+      "requirements": [
+        "Disponibilidad inmediata y al menos 6 meses (2 garantizados)",
+        "Buena condición física",
+        "Antecedentes penales limpios",
+        "Carné de carretillero no necesario; formación EFZ o equivalente extranjera es una ventaja"
+      ],
+      "workload": "100 %",
+      "employmentType": "Temporal (4-6 meses)",
+      "language": "Alemán (nivel no indicado)",
+      "de": {
+        "title": "Lagermitarbeiter für 4-6 Monate 100% (m/w/d)",
+        "summary": "Temporäre Lagerstelle in Zürich: Verpacken und Rüsten von Elektronikequipment bis 24 kg. Staplerausweis nicht erforderlich.",
+        "description": "Verpackung und Rüstung von Elektronikequipment bis 24 kg, Lagerarbeit überwiegend stehend; gelegentliche, freiwillige Samstagseinsätze. Temporäre Anstellung mit vager Aussicht auf Festanstellung.",
+        "requirements": [
+          "Sofort verfügbar, mindestens sechs Monate (zwei Monate garantiert)",
+          "Körperliche Fitness",
+          "Einwandfreier Leumund",
+          "Staplerausweis nicht erforderlich; EFZ oder gleichwertige ausländische Ausbildung von Vorteil"
+        ],
+        "workload": "100 %",
+        "employmentType": "Temporär (4-6 Monate)",
+        "language": "Deutsch (Niveau nicht angegeben)"
+      },
+      "id": "6d3f49f56de8",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Kommissionierer / Lagermitarbeiter",
+      "titleEs": "Preparador/a de pedidos / mozo/a de almacén",
+      "company": "Woma Work Management AG (cliente no nombrado)",
+      "location": "Frauenfeld TG",
+      "postedAt": "2026-11-17",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/ac5fa41c-2579-4c59-bc55-f838ea00e2e8",
+      "summary": "Picking, preparación de pedidos y gestión de devoluciones en una empresa familiar innovadora de Frauenfeld.",
+      "description": "Tareas de picking, procesar pedidos de preparación y tramitar devoluciones.",
+      "requirements": [
+        "Primera experiencia en picking/preparación",
+        "Buena condición física",
+        "Conocimientos de alemán"
+      ],
+      "workload": "Tiempo completo (no se indica %)",
+      "employmentType": "Contrato fijo (vía agencia)",
+      "language": "Alemán (nivel no indicado)",
+      "de": {
+        "title": "Kommissionierer / Lagermitarbeiter",
+        "summary": "Kommissionieren, Rüstaufträge abarbeiten und Retouren bearbeiten in einem innovativen, inhabergeführten Unternehmen in Frauenfeld.",
+        "description": "Kommissionierarbeiten, Rüstaufträge abarbeiten, Retourenbearbeitung.",
+        "requirements": [
+          "Erste Erfahrungen im Rüsten/Kommissionieren",
+          "Körperlich fit",
+          "Deutschkenntnisse"
+        ],
+        "workload": "Vollzeit (Pensum nicht angegeben)",
+        "employmentType": "Festanstellung (über Personaldienstleister)",
+        "language": "Deutsch (Niveau nicht angegeben)"
+      },
+      "id": "6878e641463b",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Mitarbeiter Logistik 100% (m/w/d)",
+      "titleEs": "Operario/a de logística, 100 %",
+      "company": "ASSA ABLOY Group",
+      "location": "Fehraltorf ZH",
+      "postedAt": "2026-11-17",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/mitarbeiter-logistik-100%25-m-w-d-at-assa-abloy-group-4481888120",
+      "summary": "Puesto de logística en ASSA ABLOY, Fehraltorf (detalles según el listado de LinkedIn).",
+      "description": "Puesto de logística a tiempo completo en Fehraltorf; no se leyó la descripción completa.",
+      "requirements": [],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán (nivel no indicado)",
+      "de": {
+        "title": "Mitarbeiter Logistik 100% (m/w/d)",
+        "summary": "Logistikstelle bei ASSA ABLOY in Fehraltorf (gemäss LinkedIn-Liste).",
+        "description": "Logistikstelle in Vollzeit in Fehraltorf; vollständige Beschreibung nicht gelesen.",
+        "requirements": [],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch (Niveau nicht angegeben)"
+      },
+      "id": "367ee6ead07e",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "temporada-invierno",
+      "title": "Allrounder Küche (m/w)",
+      "titleEs": "Ayudante polivalente de cocina (m/f), temporada",
+      "company": "Bergbahnen Meiringen-Hasliberg AG",
+      "location": "Hasliberg Wasserwendi BE",
+      "postedAt": "2026-11-17",
+      "source": "hoteljob.ch",
+      "url": "https://hoteljob.ch/job/4043069",
+      "summary": "Puesto polivalente de cocina en restaurantes de montaña de Hasliberg desde el 14.12.2026: fregar, limpieza y ayuda en cocina fría.",
+      "description": "Limpieza diaria de cocina, office y exterior, lavado y pulido de vajilla, clasificación de envases, ayuda en cocina fría y recepción de material. Abono de temporada de las Bergbahnen incluido.",
+      "requirements": [
+        "Actitud motivada, servicial y fiable",
+        "Alemán comunicativo",
+        "Flexibilidad y resistencia"
+      ],
+      "workload": "No indicado",
+      "employmentType": "Contrato de temporada (desde 14.12.2026)",
+      "language": "Alemán comunicativo",
+      "de": {
+        "title": "Allrounder Küche (m/w)",
+        "summary": "Allrounder-Stelle in der Küche der Gastronomiebetriebe in Hasliberg ab 14.12.2026: Spülen, Reinigung und Mithilfe in der kalten Küche.",
+        "description": "Tägliche Reinigungsarbeiten in Küche, Office und Aussenbereich, Spülen und Polieren von Geschirr, Leergut sortieren, Mithilfe in der kalten Küche. Saisonabonnement der Bergbahnen.",
+        "requirements": [
+          "Motivierte, hilfsbereite, zuverlässige Arbeitshaltung",
+          "Kommunikatives Deutsch",
+          "Flexibilität und Belastbarkeit"
+        ],
+        "workload": "Nicht angegeben",
+        "employmentType": "Saisonanstellung (ab 14.12.2026)",
+        "language": "Deutsch (kommunikativ)"
+      },
+      "id": "035d2065481d",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Reinigungsmitarbeiter:in",
+      "titleEs": "Personal de limpieza (trenes y edificios)",
+      "company": "Randstad (Schweiz) AG (cliente: operador ferroviario)",
+      "location": "Zürich",
+      "postedAt": "2026-11-17",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/4b7e6ddb-ffcc-4c8c-bb7a-fa6220088d4e",
+      "summary": "Limpieza de fondo y según necesidad en trenes o edificios para el líder del transporte ferroviario; empleo a largo plazo con opción de prórroga.",
+      "description": "Limpiezas a fondo y bajo demanda en el tren o en edificios.",
+      "requirements": [
+        "Buen alemán oral",
+        "Resistencia física"
+      ],
+      "workload": "No indicado",
+      "employmentType": "Temporal con opción de prórroga",
+      "language": "Alemán oral (bueno)",
+      "de": {
+        "title": "Reinigungsmitarbeiter:in",
+        "summary": "Grund- und Bedarfsreinigung im Zug oder an Gebäuden für einen Marktführer im Bahnverkehr; langfristiger Einsatz mit Verlängerungsoption.",
+        "description": "Grund- und Bedarfsreinigungen im Zug oder an Gebäuden.",
+        "requirements": [
+          "Gute mündliche Deutschkenntnisse",
+          "Körperliche Belastbarkeit"
+        ],
+        "workload": "Nicht angegeben",
+        "employmentType": "Temporär mit Verlängerungsoption",
+        "language": "Deutsch mündlich (gut)"
+      },
+      "englishOk": false,
+      "id": "c57be7e1a8c1",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Mitarbeiter*in Reinigung & Aufsicht",
+      "titleEs": "Personal de limpieza y vigilancia en gimnasio",
+      "company": "Fitnesspark (movemi AG)",
+      "location": "Regensdorf ZH",
+      "postedAt": "2026-11-17",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/37773998-8212-426e-a134-a58087df9473",
+      "summary": "Responsable de higiene, limpieza y vigilancia en un centro de fitness de Regensdorf, turnos 7 días con fines de semana alternos.",
+      "description": "Higiene y limpieza durante el horario de apertura, control de normas de higiene, atención a clientes, primeros auxilios y apoyo en la lavandería.",
+      "requirements": [
+        "Sin formación específica",
+        "1-3 años de experiencia en función similar",
+        "Certificado BLS/AED válido",
+        "Alemán C1",
+        "Flexibilidad de turnos (fines de semana cada 2 semanas)"
+      ],
+      "workload": "Tiempo parcial (no se indica %)",
+      "employmentType": "Jornada parcial",
+      "language": "Alemán C1",
+      "de": {
+        "title": "Mitarbeiter*in Reinigung & Aufsicht",
+        "summary": "Verantwortung für Hygiene, Sauberkeit und Aufsicht in einem Fitnesspark in Regensdorf, 7-Tage-Schichtbetrieb mit Wochenendeinsätzen alle 2 Wochen.",
+        "description": "Hygiene und Sauberkeit während der Öffnungszeiten, Kontrolle der Hygienestandards, Beratung der Gäste, Erste Hilfe, Mitarbeit in der Wäscherei.",
+        "requirements": [
+          "Keine Ausbildung notwendig",
+          "1-3 Jahre Erfahrung in vergleichbarer Funktion",
+          "Gültiger BLS/AED-Ausweis",
+          "Deutsch C1",
+          "Flexible Einsatzplanung (Wochenenden alle 2 Wochen)"
+        ],
+        "workload": "Teilzeit (Pensum nicht angegeben)",
+        "employmentType": "Teilzeit",
+        "language": "Deutsch C1"
+      },
+      "id": "5339f1a6b34c",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Mitarbeiter Cleaning in Winterthur (m/w/d) 80% 3-Schicht NADDJP00005001",
+      "titleEs": "Operario/a de limpieza (cleaning) en Winterthur, 80 %, 3 turnos",
+      "company": "jobcourier.ch",
+      "location": "Winterthur ZH",
+      "postedAt": "2026-11-17",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/mitarbeiter-cleaning-in-winterthur-m-w-d-80%25-3-schicht-naddjp00005001-at-jobcourier-ch-4491463444",
+      "summary": "Puesto de limpieza (cleaning) en régimen de 3 turnos en Winterthur a través de la agencia jobcourier.ch.",
+      "description": "Puesto de limpieza al 80 % en tres turnos en Winterthur; no se leyó la descripción completa.",
+      "requirements": [],
+      "workload": "80 %",
+      "employmentType": "Vía agencia",
+      "language": "Alemán (nivel no indicado)",
+      "de": {
+        "title": "Mitarbeiter Cleaning in Winterthur (m/w/d) 80% 3-Schicht NADDJP00005001",
+        "summary": "Cleaning-Stelle im 3-Schicht-Betrieb in Winterthur über jobcourier.ch.",
+        "description": "Reinigungsstelle mit 80 % im 3-Schicht-Betrieb in Winterthur; vollständige Beschreibung nicht gelesen.",
+        "requirements": [],
+        "workload": "80 %",
+        "employmentType": "Über Personaldienstleister",
+        "language": "Deutsch (Niveau nicht angegeben)"
+      },
+      "id": "39784ed2cb30",
+      "foundAt": "2026-11-19T10:46:09.094Z"
     },
     {
       "searchId": "kueche",
@@ -1513,6 +2976,381 @@
       },
       "id": "e5a156474c01",
       "foundAt": "2026-11-17T06:20:07.343Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Housekeeping Attendant 80 % (a) Zürich",
+      "titleEs": "Housekeeping Attendant 80 %",
+      "company": "Small Luxury Hotel Ambassador Zurich",
+      "location": "Zürich",
+      "postedAt": "2026-11-16",
+      "source": "hotelcareer.ch",
+      "url": "https://www.hotelcareer.ch/jobs/small-luxury-hotel-ambassador-zurich-66726/housekeeping-attendant-80-a-z%C3%BCrich-4032385",
+      "summary": "Limpieza de habitaciones y zonas públicas en el hotel Ambassador (Seefeld, Zürich), con apoyo en los cinco hoteles del grupo en Zürich.",
+      "description": "Habitaciones impecables, zonas públicas cuidadas, pequeños trabajos de mantenimiento y limpiezas a fondo regulares; trabajo en los cinco hoteles de Zürich.",
+      "requirements": [
+        "Experiencia previa en puesto similar",
+        "Pasión por la hotelería y orientación al huésped",
+        "Alemán y/o inglés",
+        "Organizado, autónomo y dinámico",
+        "Flexibilidad horaria"
+      ],
+      "workload": "80 %",
+      "employmentType": "Jornada parcial/completa",
+      "language": "Alemán y/o inglés",
+      "englishOk": true,
+      "de": {
+        "title": "Housekeeping Attendant 80 % (a) Zürich",
+        "summary": "Zimmer- und Bereichsreinigung im Hotel Ambassador (Seefeld, Zürich) mit Einsätzen in den fünf Hotels der Gruppe in Zürich.",
+        "description": "Strahlende Gästezimmer, gepflegte öffentliche Bereiche, einfache Unterhaltsarbeiten und regelmässige Grundreinigung; standortübergreifender Einsatz in fünf Hotels in Zürich.",
+        "requirements": [
+          "Berufserfahrung in vergleichbarer Position",
+          "Leidenschaft für Hotellerie, Gästeorientierung",
+          "Deutsch und/oder Englisch",
+          "Organisiert, selbstständig, dynamisch",
+          "Flexibilität bei den Arbeitszeiten"
+        ],
+        "workload": "80 %",
+        "employmentType": "Anstellung",
+        "language": "Deutsch und/oder Englisch"
+      },
+      "id": "763c9fa5f29e",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Lagermitarbeiter (m/w/d) 100%",
+      "titleEs": "Mozo/a de almacén (m/f/d), 100 %",
+      "company": "Adecco (cliente: empresa logística internacional)",
+      "location": "Embrach ZH",
+      "postedAt": "2026-11-16",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/76c7c8d3-181d-4856-8861-803cc6c87693",
+      "summary": "Varios puestos de almacén en Embrach (posible Dietlikon o Koblenz) en un gran proyecto logístico, turnos de 8 horas entre 06:00 y 21:00.",
+      "description": "Picking de pedidos, entrada y salida de mercancía, embalaje y preparación de envíos. Inicio 26.10.2026, previsto al menos hasta abril 2027 con posible prórroga.",
+      "requirements": [
+        "Trabajo a turnos entre 06:00 y 21:00"
+      ],
+      "workload": "100 %",
+      "employmentType": "Temporal (hasta abril 2027, prorrogable)",
+      "language": "Alemán (nivel no indicado)",
+      "de": {
+        "title": "Lagermitarbeiter (m/w/d) 100%",
+        "summary": "Mehrere Lagerstellen in Embrach (später evtl. Dietlikon oder Koblenz) in einem Grossprojekt, 8-Stunden-Schichten zwischen 06:00 und 21:00 Uhr.",
+        "description": "Kommissionierung von Kundenaufträgen, Ein- und Auslagerung von Waren, Verpackung und Versandbereitstellung. Einsatz ab 26.10.2026, zunächst bis mindestens April 2027, Verlängerung möglich.",
+        "requirements": [
+          "Schichtbetrieb zwischen 06:00 und 21:00 Uhr"
+        ],
+        "workload": "100 %",
+        "employmentType": "Befristet (bis April 2027, verlängerbar)",
+        "language": "Deutsch (Niveau nicht angegeben)"
+      },
+      "id": "0ca5f5e90edf",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Mitarbeiter Warenumschlag (m/w/d)",
+      "titleEs": "Operario/a de manipulación de mercancías (turno tarde)",
+      "company": "Work Selection (cliente: centro logístico de carga cerca del aeropuerto)",
+      "location": "Zürich",
+      "postedAt": "2026-11-16",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/0590e8b3-c0bd-4d7e-b745-d87d7b8f3be3",
+      "summary": "Carga y descarga de vagones y camiones con carretilla en un centro de carga cerca del aeropuerto, turno de tarde (aprox. 15:00-00:30).",
+      "description": "Carga/descarga de vagones y camiones con carretillas, preparación de mercancías para envío, entradas y salidas de almacén.",
+      "requirements": [
+        "Experiencia en almacén/logística",
+        "Carné de carretillero SUVA con experiencia",
+        "Turno de tarde ~15:00-00:30",
+        "Buen alemán"
+      ],
+      "workload": "Tiempo completo (no se indica %)",
+      "employmentType": "Temporal (vía agencia)",
+      "language": "Alemán (buen nivel)",
+      "de": {
+        "title": "Mitarbeiter Warenumschlag (m/w/d)",
+        "summary": "Be- und Entladen von Bahnwagen und LKW mit Flurförderfahrzeugen in einem Cargo-Logistik-Center in Flughafennähe, Spätschicht (ca. 15.00-00.30 Uhr).",
+        "description": "Be-/Entladen von Bahnwagen und LKW, Bereitstellung und Kommissionierung von Gütern, Ein- und Auslagerungen.",
+        "requirements": [
+          "Berufserfahrung in Lager/Logistik",
+          "SUVA-anerkannter Staplerausweis mit Praxis",
+          "Spätschicht ca. 15.00-00.30 Uhr",
+          "Gute Deutschkenntnisse"
+        ],
+        "workload": "Vollzeit (Pensum nicht angegeben)",
+        "employmentType": "Temporär (über Personaldienstleister)",
+        "language": "Gute Deutschkenntnisse"
+      },
+      "id": "5de8034a1ba8",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistikmitarbeiter Wareneingang 80-100% (m/w/d)",
+      "titleEs": "Operario/a de logística, entrada de mercancías, 80-100 %",
+      "company": "mobilog AG (AMAG Group)",
+      "location": "Buchs ZH",
+      "postedAt": "2026-11-16",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/2c1b653e-eedd-4ac6-8404-45960f9ffe05",
+      "summary": "Puesto de logística en la recepción de mercancías de mobilog (logística del sector automóvil) en Buchs ZH.",
+      "description": "Trabajo en el equipo de logística, recepción y tratamiento de mercancía entrante; empresa con formación continua, días libres adicionales y caja de pensiones.",
+      "requirements": [
+        "Detalles de requisitos no leídos en el anuncio"
+      ],
+      "workload": "80-100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán (nivel no indicado)",
+      "de": {
+        "title": "Logistikmitarbeiter Wareneingang 80-100% (m/w/d)",
+        "summary": "Logistikstelle im Wareneingang bei mobilog (Automobil-Logistik) in Buchs ZH.",
+        "description": "Mitarbeit im Logistikteam, Annahme und Bearbeitung eingehender Ware; Weiterbildung, zusätzliche Freitage und Pensionskasse.",
+        "requirements": [
+          "Anforderungen im Inserat nicht vollständig gelesen"
+        ],
+        "workload": "80-100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch (Niveau nicht angegeben)"
+      },
+      "id": "0032f066ed31",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistikmitarbeiter Reifenlager (m/w/d) 80-100%",
+      "titleEs": "Operario/a de logística, almacén de neumáticos, 80-100 %",
+      "company": "AMAG Retail (Autowelt Dübendorf)",
+      "location": "Dübendorf ZH",
+      "postedAt": "2026-11-16",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/4a400a19-99cf-46c5-9b3f-a6cabb5fff45",
+      "summary": "Logística del hotel de neumáticos del mayor centro AMAG Retail, la Autowelt de Dübendorf.",
+      "description": "Organización y logística del almacén de neumáticos (cambio de neumáticos); la empresa ofrece condiciones especiales en vehículos, seguro de accidentes, días libres adicionales y caja de pensiones.",
+      "requirements": [
+        "Detalles de requisitos no leídos en el anuncio"
+      ],
+      "workload": "80-100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán (nivel no indicado)",
+      "de": {
+        "title": "Logistikmitarbeiter Reifenlager (m/w/d) 80-100%",
+        "summary": "Logistik im Reifenhotel des grössten AMAG-Retail-Betriebs, der Autowelt Dübendorf.",
+        "description": "Organisation und Logistik rund um das Reifenlager; Spezialkonditionen bei Fahrzeugkauf, Unfallversicherung, zusätzliche Freitage, Pensionskasse.",
+        "requirements": [
+          "Anforderungen im Inserat nicht vollständig gelesen"
+        ],
+        "workload": "80-100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch (Niveau nicht angegeben)"
+      },
+      "id": "08c85e04c2de",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Mitarbeiter Lager & Logistik (a)",
+      "titleEs": "Operario/a de almacén y logística",
+      "company": "Personal Knobel AG (cliente: empresa de herrajes metálicos)",
+      "location": "Zürich",
+      "postedAt": "2026-11-16",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/10423b05-edff-4bee-99e4-3982bd26a354",
+      "summary": "Flujo de mercancía desde la entrada hasta el envío en una empresa suiza de herrajes para construcción metálica.",
+      "description": "Preparar y reunir pedidos de clientes, embalar y preparar envíos, entrada de mercancía hasta expedición.",
+      "requirements": [
+        "Forma de trabajar cuidadosa y fiable"
+      ],
+      "workload": "Tiempo completo (no se indica %)",
+      "employmentType": "Contrato fijo (vía agencia)",
+      "language": "Alemán (nivel no indicado)",
+      "de": {
+        "title": "Mitarbeiter Lager & Logistik (a)",
+        "summary": "Warenfluss vom Wareneingang bis zum Versand bei einem Schweizer Unternehmen für Metallbaubeschläge.",
+        "description": "Kommissionieren und Bereitstellen von Kundenaufträgen, Verpacken und Versandvorbereitung.",
+        "requirements": [
+          "Sorgfältige und zuverlässige Arbeitsweise"
+        ],
+        "workload": "Vollzeit (Pensum nicht angegeben)",
+        "employmentType": "Festanstellung (über Personaldienstleister)",
+        "language": "Deutsch (Niveau nicht angegeben)"
+      },
+      "id": "2644ebc582c9",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "temporada-invierno",
+      "title": "Zimmerfrau (m/w) 60% - Wintersaison 2026/27",
+      "titleEs": "Camarera de habitaciones 60 %, temporada de invierno 2026/27",
+      "company": "Suvretta House",
+      "location": "St. Moritz GR",
+      "postedAt": "2026-11-16",
+      "source": "hoteljob.ch",
+      "url": "https://hoteljob.ch/job/4055160",
+      "summary": "Limpieza y cuidado de habitaciones y suites en el equipo de housekeeping de un hotel de lujo de St. Moritz; ayuda con alojamiento en casa de personal.",
+      "description": "Limpieza y mantenimiento de habitaciones y suites, control y reposición de artículos para huéspedes, limpiezas diarias de preparación y manejo correcto de productos y equipos de limpieza.",
+      "requirements": [
+        "Experiencia en housekeeping, idealmente en hotelería de alto nivel",
+        "Conocimientos básicos de alemán",
+        "Sentido de calidad y limpieza",
+        "Fiabilidad y flexibilidad"
+      ],
+      "workload": "60 %",
+      "employmentType": "Temporada de invierno 2026/27",
+      "language": "Alemán (conocimientos básicos)",
+      "de": {
+        "title": "Zimmerfrau (m/w) 60% - Wintersaison 2026/27",
+        "summary": "Reinigung und Pflege der Gästezimmer und Suiten im Housekeeping-Team eines Luxushotels in St. Moritz; Unterstützung in einem Mitarbeiterhaus.",
+        "description": "Reinigung und Pflege der Gästezimmer und Suiten, tägliche Kontrolle und Auffüllung der Gästeartikel, Vorbereitungsarbeiten, fachgerechter Umgang mit Reinigungsmitteln und Geräten.",
+        "requirements": [
+          "Erfahrung im Housekeeping, idealerweise in der gehobenen Hotellerie",
+          "Grundkenntnisse in Deutsch",
+          "Qualitäts- und Sauberkeitsbewusstsein",
+          "Zuverlässigkeit und Flexibilität"
+        ],
+        "workload": "60 %",
+        "employmentType": "Saisonvertrag Wintersaison 2026/27",
+        "language": "Deutsch (Grundkenntnisse)"
+      },
+      "id": "7509ad83ce8c",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "temporada-invierno",
+      "title": "Spülkraft (m/w) Grindelwald | Vollzeit | Saisonvertrag | Ab Dezember 2026",
+      "titleEs": "Lavaplatos (m/f), contrato de temporada desde diciembre 2026",
+      "company": "Romantik Hotel Schweizerhof, Swiss Alp Resort",
+      "location": "Grindelwald BE",
+      "postedAt": "2026-11-16",
+      "source": "hoteljob.ch",
+      "url": "https://hoteljob.ch/job/4055196",
+      "summary": "Puesto de lavaplatos en un hotel Romantik de Grindelwald desde diciembre 2026; no se exige experiencia ni alemán fluido y hay casa de personal.",
+      "description": "Limpieza de vajilla, cubiertos, vasos y utensilios, manejo y mantenimiento de lavavajillas, orden y limpieza de la zona de lavado y cocina, higiene y separación de residuos.",
+      "requirements": [
+        "Experiencia en gastronomía deseable, no imprescindible",
+        "Fiabilidad y trabajo cuidadoso",
+        "Disponibilidad de fines de semana y festivos",
+        "Conocimientos básicos de alemán, una ventaja"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato de temporada desde diciembre 2026",
+      "language": "Alemán (conocimientos básicos, ventaja)",
+      "de": {
+        "title": "Spülkraft (m/w) Grindelwald | Vollzeit | Saisonvertrag | Ab Dezember 2026",
+        "summary": "Spülstelle in einem Romantik Hotel in Grindelwald ab Dezember 2026; Erfahrung nicht Voraussetzung, Mitarbeiterhaus vorhanden.",
+        "description": "Reinigung von Geschirr, Besteck, Gläsern und Küchenutensilien, Bedienung der Spülmaschinen, Sauberkeit im Spül- und Küchenbereich, Hygiene, Abfalltrennung.",
+        "requirements": [
+          "Erste Gastronomie-Erfahrung von Vorteil, keine Voraussetzung",
+          "Zuverlässige, sorgfältige Arbeitsweise",
+          "Bereitschaft zu Wochenend- und Feiertagseinsätzen",
+          "Grundkenntnisse in Deutsch von Vorteil"
+        ],
+        "workload": "100 %",
+        "employmentType": "Saisonvertrag ab Dezember 2026",
+        "language": "Deutsch (Grundkenntnisse von Vorteil)"
+      },
+      "id": "8bf0b47f91be",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "temporada-invierno",
+      "title": "Zimmer-Reinigungskraft (m/w)",
+      "titleEs": "Limpiador/a de habitaciones, temporada de invierno 2026/27",
+      "company": "Hotel Vereina",
+      "location": "Klosters GR",
+      "postedAt": "2026-11-16",
+      "source": "hoteljob.ch",
+      "url": "https://hoteljob.ch/job/4035476",
+      "summary": "Limpieza de habitaciones, spa y zonas públicas en un hotel de Klosters para la temporada de invierno 2026/27; alojamiento de personal según disponibilidad.",
+      "description": "Limpieza de habitaciones, spa y zonas públicas, servicio de turn-down, ropa de huéspedes, apoyo en lencería, limpieza de las habitaciones del personal.",
+      "requirements": [
+        "Experiencia en hotelería de 4*/5*",
+        "Disponibilidad y flexibilidad",
+        "Alemán e inglés, una ventaja"
+      ],
+      "workload": "100 %",
+      "employmentType": "Temporada de invierno 2026/27",
+      "language": "Alemán e inglés (ventaja)",
+      "de": {
+        "title": "Zimmer-Reinigungskraft (m/w)",
+        "summary": "Zimmer-, SPA- und Bereichsreinigung in einem Hotel in Klosters für die Wintersaison 2026/27; Personalunterkunft nach Verfügbarkeit.",
+        "description": "Unterhaltsreinigung der Hotelzimmer, SPA und öffentlichen Bereiche, Couverture-Service, Gästewäsche, Unterstützung in der Lingerie, Reinigung der Personalzimmer.",
+        "requirements": [
+          "Berufserfahrung in der 4*/5*-Hotellerie",
+          "Einsatzbereitschaft und Flexibilität",
+          "Deutsch- und Englischkenntnisse von Vorteil"
+        ],
+        "workload": "100 %",
+        "employmentType": "Saisonvertrag Wintersaison 2026/27",
+        "language": "Deutsch und Englisch (von Vorteil)"
+      },
+      "englishOk": true,
+      "id": "f367c8102226",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "temporada-invierno",
+      "title": "MiterbeiterIn Zimmerreinigung / Wäscheservice / Küche Winter 26/27",
+      "titleEs": "Personal de limpieza de habitaciones, lavandería y cocina, invierno 26/27",
+      "company": "Hotel Tödiblick ***",
+      "location": "Braunwald GL",
+      "postedAt": "2026-11-16",
+      "source": "gastrojob.ch",
+      "url": "https://www.gastrojob.ch/stellen/externe-partner/56670",
+      "summary": "Puesto mixto de limpieza de habitaciones, servicio de lavandería y cocina en un hotel de Braunwald, temporada de invierno 26/27.",
+      "description": "Anuncio en gastrojob.ch (primera activación 16.11.2026); detalles no leídos.",
+      "requirements": [],
+      "workload": "No indicado",
+      "employmentType": "Temporada de invierno 26/27",
+      "language": "Alemán (nivel no indicado)",
+      "de": {
+        "title": "MiterbeiterIn Zimmerreinigung / Wäscheservice / Küche Winter 26/27",
+        "summary": "Mischstelle Zimmerreinigung, Wäscheservice und Küche in einem Hotel in Braunwald, Wintersaison 26/27.",
+        "description": "Inserat auf gastrojob.ch (erstmals aktiviert 16.11.2026); Details nicht gelesen.",
+        "requirements": [],
+        "workload": "Nicht angegeben",
+        "employmentType": "Wintersaison 26/27",
+        "language": "Deutsch (Niveau nicht angegeben)"
+      },
+      "id": "c3005f4ae60d",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Reinigungskraft Flughafen Zürich gesucht",
+      "titleEs": "Personal de limpieza, Aeropuerto de Zúrich (según título)",
+      "company": "work24.com ag",
+      "location": "Zürich",
+      "postedAt": "2026-11-16",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/d4bee888-8bc3-4ebc-8d8f-caacc421d13d",
+      "summary": "Puesto de limpieza con título «Aeropuerto de Zúrich»; las tareas descritas son limpieza de estaciones y atención a clientes de SBB. Escolaridad obligatoria y primera experiencia.",
+      "description": "Limpieza en estaciones, limpiezas a fondo, gestión de residuos, manejo de vehículos y equipos de trabajo, atención a clientes de SBB.",
+      "requirements": [
+        "Escolaridad obligatoria terminada",
+        "Primera experiencia en limpieza",
+        "Carné de conducir categoría B imprescindible",
+        "Fiable y capaz de trabajar en equipo"
+      ],
+      "workload": "80 %",
+      "employmentType": "Contrato fijo (vía agencia)",
+      "language": "Alemán (nivel no indicado)",
+      "de": {
+        "title": "Reinigungskraft Flughafen Zürich gesucht",
+        "summary": "Reinigungsstelle mit Titel «Flughafen Zürich»; beschrieben sind Reinigung an Bahnhöfen und Kundenberatung für die SBB.",
+        "description": "Mitarbeit in der Reinigung an Bahnhöfen, Grundreinigungen, Abfallentsorgung, Bedienen von Fahrzeugen und Arbeitsgeräten, Beratung von SBB-Kunden.",
+        "requirements": [
+          "Obligatorische Schulzeit abgeschlossen",
+          "Erste Reinigungserfahrung",
+          "Führerausweis Kat. B zwingend",
+          "Zuverlässig und teamfähig"
+        ],
+        "workload": "80 %",
+        "employmentType": "Festanstellung (über Personaldienstleister)",
+        "language": "Deutsch (Niveau nicht angegeben)"
+      },
+      "id": "59758e876825",
+      "foundAt": "2026-11-19T10:46:09.094Z"
     },
     {
       "searchId": "kueche",
@@ -2642,6 +4480,77 @@
       "foundAt": "2026-11-16T07:21:48.026Z"
     },
     {
+      "searchId": "kueche",
+      "title": "Buffet-Mitarbeiter:in (Daimler Bistro)",
+      "titleEs": "Auxiliar de buffet (Daimler Bistro)",
+      "company": "Genossenschaft ZFV-Unternehmungen",
+      "location": "Winterthur",
+      "postedAt": "2026-11-15",
+      "source": "myjob.ch",
+      "url": "https://www.myjob.ch/job/buffet-mitarbeiterin/3670307",
+      "summary": "Puesto de buffet y office en el Daimler Bistro de Winterthur: servir menús, caja, mise en place y apoyo en el office. Experiencia en lavavajillas es una ventaja.",
+      "description": "Atención a clientes, caja, emplatado de menús en el servicio de mediodía, mise en place diaria, ayuda en el office, catering y eventos, y limpieza general.",
+      "requirements": [
+        "Experiencia práctica en gastronomía",
+        "Trato amable con clientes",
+        "Buen alemán oral",
+        "Experiencia en lavavajillas, una ventaja"
+      ],
+      "workload": "60 %",
+      "employmentType": "Contrato fijo",
+      "language": "Buen alemán oral",
+      "englishOk": false,
+      "de": {
+        "title": "Buffet-Mitarbeiter:in (Daimler Bistro)",
+        "summary": "Buffet-Stelle im Daimler Bistro Winterthur: Menüs anrichten, Kasse, Mise en Place und Mithilfe im Office. Erfahrung in der Abwaschküche von Vorteil.",
+        "description": "Bedienung und Beratung der Gäste, Kasse, Anrichten der Menüs im Mittagsservice, tägliche Mise en Place, Mithilfe im Office, Caterings und Sonderanlässe sowie Aufräum- und Reinigungsarbeiten.",
+        "requirements": [
+          "Praktische Erfahrung in der Gastronomie",
+          "Freude am Gästekontakt",
+          "Gute mündliche Deutschkenntnisse",
+          "Erfahrung in der Abwaschküche von Vorteil"
+        ],
+        "workload": "60 %",
+        "employmentType": "Festanstellung",
+        "language": "Gute mündliche Deutschkenntnisse"
+      },
+      "id": "aef19c8c715e",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "temporada-invierno",
+      "title": "Zimmer-Reinigungskraft (m/w) Wintersaison 26/27 - keine Unterkunft verfügbar",
+      "titleEs": "Limpiador/a de habitaciones, temporada de invierno 26/27 (sin alojamiento)",
+      "company": "Le Mirabeau Hotel & Spa",
+      "location": "Zermatt VS",
+      "postedAt": "2026-11-15",
+      "source": "hoteljob.ch",
+      "url": "https://hoteljob.ch/job/4035990",
+      "summary": "Limpieza de habitaciones y zonas públicas por la mañana en un resort de Zermatt; el hotel indica que no ofrece alojamiento.",
+      "description": "Limpieza de habitaciones y zonas públicas por la mañana, atención a huéspedes, petición de deseos especiales, coordinación con la gobernanta y recepción, turn-down por la tarde.",
+      "requirements": [
+        "Experiencia en hotelería de alto nivel, una ventaja",
+        "Alemán, una ventaja"
+      ],
+      "workload": "Tiempo parcial (no se indica %)",
+      "employmentType": "Temporada de invierno 26/27",
+      "language": "Alemán (ventaja)",
+      "de": {
+        "title": "Zimmer-Reinigungskraft (m/w) Wintersaison 26/27 - keine Unterkunft verfügbar",
+        "summary": "Zimmer- und Bereichsreinigung am Morgen in einem Resorthotel in Zermatt; keine Unterkunft verfügbar.",
+        "description": "Reinigen der Zimmer und öffentlichen Bereiche am Morgen, Gästebetreuung, spezielle Gästewünsche, Austausch mit Hausdame und Rezeption, Couvertüre am Abend.",
+        "requirements": [
+          "Erfahrung in der gehobenen Hotellerie vorteilhaft",
+          "Deutschkenntnisse vorteilhaft"
+        ],
+        "workload": "Teilzeit (Pensum nicht angegeben)",
+        "employmentType": "Saisonvertrag Wintersaison 26/27",
+        "language": "Deutsch (vorteilhaft)"
+      },
+      "id": "090bc9c79a90",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
       "searchId": "hotel",
       "title": "Executive Housekeeping Manager",
       "titleEs": "Gobernanta ejecutiva / Executive Housekeeping Manager",
@@ -2794,6 +4703,148 @@
       },
       "id": "eb99a3fcc283",
       "foundAt": "2026-11-15T07:14:04.871Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Room Attendant (m/w/d) 80-100% ab Januar oder nach Vereinbarung",
+      "titleEs": "Room Attendant (camarera/o de habitaciones) 80–100 % desde enero",
+      "company": "La Réserve Eden au Lac Zurich",
+      "location": "Zürich",
+      "postedAt": "2026-11-14",
+      "source": "hotelcareer.ch",
+      "url": "https://www.hotelcareer.ch/jobs/la-reserve-eden-au-lac-zurich-27042/room-attendant-m-w-d-80-100-ab-januar-oder-nach-vereinbarung-4051598",
+      "summary": "Limpieza de las habitaciones de un hotel de 5 estrellas (40 habitaciones y suites) en Zürich, desde enero o a convenir.",
+      "description": "Responsable de la limpieza de las habitaciones; trabajo diurno con jornada partida (Durchdienst). Se valora experiencia en lavandería y cuidado de ropa de huéspedes.",
+      "requirements": [
+        "Varios años de experiencia en un hotel de 5 estrellas",
+        "Muy buen alemán y buen inglés",
+        "Alto sentido de responsabilidad y calidad",
+        "Idealmente residente en la ciudad de Zürich"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Jornada completa (desde enero)",
+      "language": "Muy buen alemán, buen inglés",
+      "englishOk": true,
+      "seniority": "mid",
+      "de": {
+        "title": "Room Attendant (m/w/d) 80-100% ab Januar oder nach Vereinbarung",
+        "summary": "Zimmerreinigung in einem 5-Sterne-Hotel (40 Zimmer und Suiten) in Zürich, ab Januar oder nach Vereinbarung.",
+        "description": "Als Zimmerfrau verantwortlich für Sauberkeit und Reinigung der Hotelzimmer; Arbeit tagsüber im Durchdienst. Erfahrung in Wäscherei und Gästewäsche von Vorteil.",
+        "requirements": [
+          "Mehrjährige Erfahrung in einem 5-Sterne-Hotel",
+          "Sehr gute Deutsch- und gute Englischkenntnisse",
+          "Hohes Verantwortungs- und Qualitätsbewusstsein",
+          "Idealerweise wohnhaft in der Stadt Zürich"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Vollzeit (ab Januar)",
+        "language": "Sehr gutes Deutsch, gutes Englisch"
+      },
+      "id": "7271c0e78a1f",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Küche (d/w/m)",
+      "titleEs": "Ayudante de cocina (Tenz, Langstrasse)",
+      "company": "Tenz GmbH",
+      "location": "Zürich (Langstrasse)",
+      "postedAt": "2026-11-14",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/7d1573a0-a808-4ab8-8cd4-f8084a953f05",
+      "summary": "Puesto de cocina en un local de Tenz en la Langstrasse: preparación de ingredientes y platos según recetas. Se acepta alemán o inglés. También publicado en myjob.ch el 05.11.",
+      "description": "Preparar ingredientes y productos, mise en place, elaborar platos según recetas definidas, controlar calidad y presentación y cumplir las normas de higiene.",
+      "requirements": [
+        "Experiencia en cocina o gastronomía, una ventaja",
+        "Trabajo cuidadoso y estructurado",
+        "Fiabilidad y trabajo en equipo",
+        "Alemán o inglés para el trabajo diario"
+      ],
+      "workload": "2 x 30 % o 1 x 20 % y 1 x 40 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán o inglés",
+      "englishOk": true,
+      "de": {
+        "title": "Küche (d/w/m)",
+        "summary": "Küchenmitarbeit bei Tenz an der Langstrasse: Zutaten vorbereiten und Speisen nach Rezeptur zubereiten. Deutsch- oder Englischkenntnisse genügen.",
+        "description": "Zutaten und Produkte vorbereiten, Mise en Place, Speisen nach Rezeptur zubereiten, Qualität und Präsentation kontrollieren und Hygienevorschriften einhalten.",
+        "requirements": [
+          "Erfahrung in Küche oder Gastronomie von Vorteil",
+          "Sorgfältige, strukturierte Arbeitsweise",
+          "Zuverlässigkeit und Teamfähigkeit",
+          "Deutsch- oder Englischkenntnisse für den Alltag"
+        ],
+        "workload": "2 x 30 % oder 1 x 20 % und 1 x 40 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch oder Englisch"
+      },
+      "id": "029701dd877f",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Steward (m/w/d) per sofort oder nach Vereinbarung",
+      "titleEs": "Steward (cocina/vajilla) de inmediato o a convenir",
+      "company": "La Réserve Eden au Lac Zurich",
+      "location": "Zürich (Seefeld)",
+      "postedAt": "2026-11-14",
+      "source": "hotelcareer.ch",
+      "url": "https://www.hotelcareer.ch/jobs/la-reserve-eden-au-lac-zurich-27042/steward-m-w-d-per-sofort-oder-nach-vereinbarung-3994887",
+      "summary": "Puesto de steward (limpieza de vajilla, cristalería, cocina y zonas traseras) en el hotel La Réserve Eden au Lac, en el Seefeld. Se piden 1-2 años de experiencia e inglés.",
+      "description": "Higiene y HACCP, limpieza de las zonas traseras del hotel, vajilla y utensilios de cocina, preparación de mercancías para los outlets de F&B, manejo de cristal, porcelana y plata, uso de máquinas de limpieza y separación de residuos.",
+      "requirements": [
+        "1–2 años de experiencia en F&B o stewarding",
+        "Buen inglés",
+        "Flexibilidad y capacidad de trabajo",
+        "Trabajo autónomo y en equipo"
+      ],
+      "workload": "Jornada completa",
+      "employmentType": "Contrato fijo",
+      "language": "Inglés bueno (alemán no especificado)",
+      "englishOk": true,
+      "de": {
+        "title": "Steward (m/w/d) per sofort oder nach Vereinbarung",
+        "summary": "Steward-Stelle (Geschirr, Glas, Küche, rückwärtige Bereiche) im Hotel La Réserve Eden au Lac im Zürcher Seefeld. 1–2 Jahre Erfahrung und Englisch gefragt.",
+        "description": "Hygiene- und HACCP-Vorschriften, Sauberkeit im rückwärtigen Hotelbereich, Geschirr und Küchenutensilien, Bereitstellung von Waren für die F&B-Outlets, Umgang mit Glas, Porzellan und Silber, Reinigungsmaschinen und Mülltrennung.",
+        "requirements": [
+          "1–2 Jahre Berufserfahrung im F&B-/Stewarding-Bereich",
+          "Gute Englischkenntnisse",
+          "Flexibilität und Belastbarkeit",
+          "Eigenverantwortliches Arbeiten und Teamfähigkeit"
+        ],
+        "workload": "Vollzeit",
+        "employmentType": "Festanstellung",
+        "language": "Gute Englischkenntnisse (Deutsch nicht angegeben)"
+      },
+      "id": "068e753b2634",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "temporada-invierno",
+      "title": "Mitarbeiter/in Housekeeping Reinigung 50 % Wintersaison 26/27",
+      "titleEs": "Personal de housekeeping/limpieza 50 %, invierno 26/27",
+      "company": "HUUS Gstaad ****S",
+      "location": "Gstaad BE",
+      "postedAt": "2026-11-14",
+      "source": "gastrojob.ch",
+      "url": "https://www.gastrojob.ch/stellen/externe-partner/56661",
+      "summary": "Housekeeping y limpieza al 50 % en un hotel de Gstaad durante la temporada de invierno 26/27.",
+      "description": "Anuncio en gastrojob.ch (primera activación 14.11.2026); detalles no leídos.",
+      "requirements": [],
+      "workload": "50 %",
+      "employmentType": "Temporada de invierno 26/27",
+      "language": "Alemán (nivel no indicado)",
+      "de": {
+        "title": "Mitarbeiter/in Housekeeping Reinigung 50 % Wintersaison 26/27",
+        "summary": "Housekeeping und Reinigung mit 50 % in einem Hotel in Gstaad, Wintersaison 26/27.",
+        "description": "Inserat auf gastrojob.ch (erstmals aktiviert 14.11.2026); Details nicht gelesen.",
+        "requirements": [],
+        "workload": "50 %",
+        "employmentType": "Wintersaison 26/27",
+        "language": "Deutsch (Niveau nicht angegeben)"
+      },
+      "id": "7404f68fcf51",
+      "foundAt": "2026-11-19T10:46:09.094Z"
     },
     {
       "searchId": "kueche",
@@ -3358,6 +5409,77 @@
       "englishOk": true,
       "id": "af7b05fd7715",
       "foundAt": "2026-11-14T07:15:53.588Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Abteilungslogistikerin / Abteilungslogistiker",
+      "titleEs": "Logístico/a de departamento",
+      "company": "Kantonsspital Winterthur",
+      "location": "Winterthur",
+      "postedAt": "2026-11-13",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/5c5be633-956c-434e-abee-8a1f7a008d77",
+      "summary": "Logística de departamento en el hospital cantonal de Winterthur.",
+      "de": {
+        "title": "Abteilungslogistikerin / Abteilungslogistiker",
+        "summary": "Abteilungslogistik im Kantonsspital Winterthur."
+      },
+      "id": "ee487be1556e",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistikmitarbeiter Reifenlager (m/w/d) 80-100%",
+      "titleEs": "Empleado/a de logística almacén de neumáticos 80–100 %",
+      "company": "AMAG Group AG",
+      "location": "Dübendorf",
+      "postedAt": "2026-11-13",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/abe3f413-1966-4c08-87af-f8e739bd933c",
+      "summary": "Logística en el almacén de neumáticos de AMAG en Dübendorf.",
+      "de": {
+        "title": "Logistikmitarbeiter Reifenlager (m/w/d) 80-100%",
+        "summary": "Logistikmitarbeit im Reifenlager der AMAG in Dübendorf."
+      },
+      "id": "b00b5f531a29",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "temporada-invierno",
+      "title": "Room Attendant (m/w) für die Wintersaison (09.12.2026 - 28.03.2027)",
+      "titleEs": "Room attendant, temporada de invierno (9.12.2026 - 28.3.2027)",
+      "company": "AlpenGold Hotel",
+      "location": "Davos Dorf GR",
+      "postedAt": "2026-11-13",
+      "source": "hoteljob.ch",
+      "url": "https://hoteljob.ch/job/4038501",
+      "summary": "Limpieza de habitaciones y suites, pasillos y almacenes en un hotel de 216 habitaciones en Davos; con alojamiento para el personal.",
+      "description": "Limpieza profesional de habitaciones de llegada y salida, limpieza de pasillos y almacenes, mantenimiento del orden; turnos de mañana y tarde, fines de semana y festivos.",
+      "requirements": [
+        "Algo de experiencia en limpieza y lavandería",
+        "Orientación al servicio y trabajo autónomo",
+        "Buena condición física",
+        "Flexibilidad de turnos"
+      ],
+      "workload": "No indicado",
+      "employmentType": "Temporada de invierno (9.12.2026 - 28.3.2027)",
+      "language": "Alemán (nivel no indicado)",
+      "de": {
+        "title": "Room Attendant (m/w) für die Wintersaison (09.12.2026 - 28.03.2027)",
+        "summary": "Reinigung von Zimmern und Suiten, Korridoren und Lagerräumen in einem Hotel mit 216 Zimmern in Davos; Mitarbeiterunterkunft.",
+        "description": "Professionelle Zimmerreinigung der An- und Abreisezimmer, Reinigung der Korridore und Lagerräume, Ordnung und Sauberkeit; Früh- und Spätdienste, Wochenend- und Feiertagsschichten.",
+        "requirements": [
+          "Einige Erfahrung im Reinigungs- und Wäschereibereich",
+          "Dienstleistungsorientierung und eigenverantwortliche Arbeitsweise",
+          "Körperliche Fitness",
+          "Flexibilität bei Schichten"
+        ],
+        "workload": "Nicht angegeben",
+        "employmentType": "Saisonvertrag (09.12.2026 - 28.03.2027)",
+        "language": "Deutsch (Niveau nicht angegeben)"
+      },
+      "id": "eaeef3cd4dc3",
+      "foundAt": "2026-11-19T10:46:09.094Z"
     },
     {
       "searchId": "temporada-invierno",
@@ -4683,6 +6805,69 @@
       "seniority": "senior",
       "id": "e653e04cdfd3",
       "foundAt": "2026-11-13T06:05:42.270Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Kommissionierer/-in Nachmittags/-Abendschicht",
+      "titleEs": "Preparador/a de pedidos, turno tarde-noche",
+      "company": "YEPP Logistics Ltd.",
+      "location": "Spreitenbach AG",
+      "postedAt": "2026-11-12",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/bbd6c74d-ada8-4a6f-a224-392310618ca6",
+      "summary": "Pick & pack en una empresa de logística de eventos y e-commerce en Spreitenbach, turno de 14:00 a 22:30 de lunes a viernes.",
+      "description": "Pick & Pack y tareas generales de almacén, 14:00-22:30 de lunes a viernes, sábados posibles.",
+      "requirements": [
+        "Experiencia en picking",
+        "Buena condición física",
+        "Buen nivel de alemán o inglés"
+      ],
+      "workload": "80-100 %",
+      "employmentType": "Jornada parcial/completa",
+      "language": "Alemán o inglés (bueno)",
+      "de": {
+        "title": "Kommissionierer/-in Nachmittags/-Abendschicht",
+        "summary": "Pick & Pack bei einem Unternehmen für Event-, Promotions- und E-Commerce-Logistik in Spreitenbach, Schicht 14.00-22.30 Uhr (Mo-Fr).",
+        "description": "Pick & Pack (Kommissionierung) und allgemeine Lagerarbeiten, Samstagseinsätze möglich.",
+        "requirements": [
+          "Erfahrung im Kommissionierbereich",
+          "Gute körperliche Fitness",
+          "Gute Deutsch- oder Englischkenntnisse"
+        ],
+        "workload": "80-100 %",
+        "employmentType": "Teilzeit/Vollzeit",
+        "language": "Deutsch oder Englisch (gut)"
+      },
+      "englishOk": true,
+      "id": "b57bd2085e85",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Kommissionierung / Lagermitarbeiter/In (Schichtmodus) (m,w,d)",
+      "titleEs": "Picking / mozo/a de almacén en turnos",
+      "company": "jobcourier.ch",
+      "location": "Winterthur ZH",
+      "postedAt": "2026-11-12",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/kommissionierung-lagermitarbeiter-in-schichtmodus-m-w-d-at-jobcourier-ch-4492119225",
+      "summary": "Picking y almacén en turnos en Winterthur (agencia jobcourier.ch).",
+      "description": "Puesto de picking/almacén en régimen de turnos en Winterthur; no se leyó la descripción completa.",
+      "requirements": [],
+      "workload": "No indicado",
+      "employmentType": "Vía agencia",
+      "language": "Alemán (nivel no indicado)",
+      "de": {
+        "title": "Kommissionierung / Lagermitarbeiter/In (Schichtmodus) (m,w,d)",
+        "summary": "Kommissionierung und Lagerarbeit im Schichtmodus in Winterthur (jobcourier.ch).",
+        "description": "Kommissionier-/Lagerstelle im Schichtbetrieb in Winterthur; vollständige Beschreibung nicht gelesen.",
+        "requirements": [],
+        "workload": "Nicht angegeben",
+        "employmentType": "Über Personaldienstleister",
+        "language": "Deutsch (Niveau nicht angegeben)"
+      },
+      "id": "86a24bc09a19",
+      "foundAt": "2026-11-19T10:46:09.094Z"
     },
     {
       "searchId": "qa-test",
@@ -6944,6 +9129,40 @@
       "foundAt": "2026-11-12T10:00:08.920Z"
     },
     {
+      "searchId": "hotel",
+      "title": "Mitarbeiter*in Hauswirtschaft Spitex 40- 60%",
+      "titleEs": "Empleado/a de economía doméstica Spitex 40–60 %",
+      "company": "Sophie Guyer Alterszentrum",
+      "location": "Pfäffikon ZH",
+      "postedAt": "2026-11-10",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/8e344eea-59c8-4482-97c6-2e768b39d7ea",
+      "summary": "Tareas de economía doméstica en el centro para mayores Sophie Guyer (Spitex), 40–60 %.",
+      "de": {
+        "title": "Mitarbeiter*in Hauswirtschaft Spitex 40- 60%",
+        "summary": "Hauswirtschaftliche Aufgaben im Alterszentrum Sophie Guyer (Spitex), 40–60 %."
+      },
+      "id": "62026e9e04bc",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Mitarbeiter:in Etagenservice 60 - 70%",
+      "titleEs": "Empleado/a de servicio de planta 60–70 %",
+      "company": "Spital Bülach AG",
+      "location": "Bülach",
+      "postedAt": "2026-11-10",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/b34c1eac-4fd4-4c24-9508-da4eedb31d14",
+      "summary": "Servicio de planta en el hospital de Bülach, 60–70 %.",
+      "de": {
+        "title": "Mitarbeiter:in Etagenservice 60 - 70%",
+        "summary": "Etagenservice im Spital Bülach, 60–70 %."
+      },
+      "id": "2659a1a19b28",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
       "searchId": "kueche",
       "title": "Betriebsmitarbeiter Spülküche / Dishwasher 60% (m/w/d)",
       "titleEs": "Empleado/a de cocina de lavado 60%",
@@ -8098,6 +10317,42 @@
       },
       "id": "221fffc1ac0d",
       "foundAt": "2026-11-12T11:44:58.393Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Mitarbeiter Housekeeping (m/w) 40% - 80%",
+      "titleEs": "Empleado/a de housekeeping 40–80 %",
+      "company": "Aparthotel Adagio Zurich City Center",
+      "location": "Zürich",
+      "postedAt": "2026-11-09",
+      "source": "hotelcareer.ch",
+      "url": "https://www.hotelcareer.ch/jobs/aparthotel-adagio-zurich-city-center-120801/mitarbeiter-housekeeping-mitarbeiter-housekeeping-40-80-4053335",
+      "summary": "Limpieza de zonas públicas y proyectos en plantas del hotel combo ibis Styles / Aparthotel Adagio (268 habitaciones) en Zürich, desde ya.",
+      "description": "Responsable de la limpieza impecable de las zonas públicas y de proyectos en las plantas; orden y limpieza en las áreas asignadas y el almacén; trabajo en equipo joven.",
+      "requirements": [
+        "Buen alemán e inglés",
+        "Presencia profesional y buenos modales",
+        "Trabajo detallista, autónomo y actitud positiva"
+      ],
+      "workload": "40–80 %",
+      "employmentType": "Jornada parcial/completa",
+      "language": "Alemán e inglés buenos",
+      "englishOk": false,
+      "de": {
+        "title": "Mitarbeiter Housekeeping (m/w) 40% - 80%",
+        "summary": "Reinigung der Public Areas und Etagenprojekte in der Hotel Combo ibis Styles / Aparthotel Adagio (268 Zimmer) in Zürich, ab sofort.",
+        "description": "Verantwortlich für makellose Sauberkeit in den Public Areas sowie Projekte auf den Etagen; Ordnung und Sauberkeit in den zugeteilten Bereichen und im Lager; Teamarbeit.",
+        "requirements": [
+          "Gute Deutsch- und Englischkenntnisse",
+          "Professionelles Auftreten, ausgezeichnete Umgangsformen",
+          "Detailorientierte Arbeitsweise, eigenständig, positive Einstellung"
+        ],
+        "workload": "40–80 %",
+        "employmentType": "Teilzeit / Vollzeit",
+        "language": "Gute Deutsch- und Englischkenntnisse"
+      },
+      "id": "484f6d7a0275",
+      "foundAt": "2026-11-19T10:46:09.094Z"
     },
     {
       "searchId": "hotel",
@@ -9293,6 +11548,42 @@
     },
     {
       "searchId": "kueche",
+      "title": "Mitarbeiter:in Gastronomie Office",
+      "titleEs": "Empleado/a de gastronomía – office",
+      "company": "Coop Restaurant",
+      "location": "Volketswil ZH",
+      "postedAt": "2026-11-06",
+      "source": "myjob.ch",
+      "url": "https://www.myjob.ch/job/mitarbeiterin-gastronomie-office/3639072",
+      "summary": "Puesto de office en un Coop Restaurant de Volketswil: vajilla, limpieza del comedor y tareas de preparación en cocina.",
+      "description": "Mantener limpio e higiénico el comedor, dejar vajilla, vasos y cubiertos impecables, ayudar en la limpieza general y en tareas de preparación en la cocina, cumpliendo estándares de calidad e higiene.",
+      "requirements": [
+        "Experiencia en gastronomía/office, una ventaja",
+        "Orientación al cliente",
+        "Buen alemán oral y escrito"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Buen alemán oral y escrito",
+      "englishOk": false,
+      "de": {
+        "title": "Mitarbeiter:in Gastronomie Office",
+        "summary": "Office-Stelle in einem Coop Restaurant in Volketswil: Geschirr, Sauberkeit im Gastraum und Rüstarbeiten in der Küche.",
+        "description": "Sauberkeit und Hygiene im Gastraum, Geschirr, Gläser und Besteck blitzblank halten, allgemeine Reinigungsarbeiten und Rüstarbeiten im Küchenteam unter Einhaltung der Qualitäts- und Hygienestandards.",
+        "requirements": [
+          "Erfahrung in Gastronomie und Office von Vorteil",
+          "Gästeorientierung",
+          "Gute Deutschkenntnisse mündlich und schriftlich"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Gute Deutschkenntnisse mündlich und schriftlich"
+      },
+      "id": "f18dd587bc17",
+      "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "kueche",
       "title": "Office- / Buffetmitarbeiter*in (100%) Paradeplatz",
       "titleEs": "Ayudante de office / buffet (100 %) Paradeplatz",
       "company": "Confiserie Sprüngli AG",
@@ -10139,6 +12430,23 @@
       "foundAt": "2026-11-11T16:15:03.750Z",
       "englishOk": false,
       "seniority": "mid"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Fachmitarbeiterin Reinigung und Lingerie 50% per 1.2.27 oder nach Vereinbarung, in Russikon bei Fehraltorf",
+      "titleEs": "Especialista en limpieza y lencería 50 % (desde 1.2.27) en Russikon",
+      "company": "Stiftung Buechweid",
+      "location": "Russikon",
+      "postedAt": "2026-11-05",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/6a97a89c-f651-4cd6-9800-28a226656498",
+      "summary": "Limpieza y lencería al 50 % en una fundación de Russikon, desde el 1 de febrero de 2027 o a convenir.",
+      "de": {
+        "title": "Fachmitarbeiterin Reinigung und Lingerie 50% per 1.2.27 oder nach Vereinbarung, in Russikon bei Fehraltorf",
+        "summary": "Reinigung und Lingerie zu 50 % bei einer Stiftung in Russikon, ab 1.2.27 oder nach Vereinbarung."
+      },
+      "id": "b39c72726384",
+      "foundAt": "2026-11-19T10:46:09.094Z"
     },
     {
       "searchId": "kueche",
