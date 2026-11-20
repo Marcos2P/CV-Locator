@@ -1,6 +1,274 @@
 {
-  "updatedAt": "2026-11-20T06:19:56.550Z",
+  "updatedAt": "2026-11-20T07:23:34.077Z",
   "jobs": [
+    {
+      "searchId": "kueche",
+      "title": "Mitarbeiter:in Reinigung und Abwaschküche",
+      "titleEs": "Personal de limpieza y cocina de lavado (Abwaschküche)",
+      "company": "Two Spice AG",
+      "location": "Rümlang ZH",
+      "postedAt": "2026-11-20",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4492174561",
+      "summary": "Limpieza de utensilios y vajilla en la cocina de lavado y de las salas de producción de Yooji's Manufaktur (sushi para Coop) en Rümlang.",
+      "description": "Limpieza higiénica de utensilios y vajilla en la Abwaschküche, limpieza de salas de producción, oficinas, vestuarios y superficies, uso correcto de productos de limpieza, eliminación de residuos y documentación de los trabajos de limpieza. Turnos rotativos de limpieza.",
+      "requirements": [
+        "2-3 años de experiencia en limpieza, preferiblemente en producción de alimentos",
+        "Trabajo limpio, fiable y rápido",
+        "Disponibilidad para fines de semana y festivos",
+        "Alemán básico bueno"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán básico bueno",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Mitarbeiter:in Reinigung und Abwaschküche",
+        "summary": "Reinigung von Geschirr und Werkzeug in der Abwaschküche sowie der Produktionsräume bei Yooji's Manufaktur (Sushi für Coop) in Rümlang.",
+        "description": "Hygienische Reinigung von Werkzeugen und Geschirr in der Abwaschküche, Reinigung von Produktionsräumen, Büros, Garderoben und Arbeitsflächen, korrekter Einsatz von Reinigungsmitteln, Entsorgung und Dokumentation der Reinigungsarbeiten. Rotierende Reinigungsdienste.",
+        "requirements": [
+          "2-3 Jahre Reinigungserfahrung, idealerweise in der Lebensmittelproduktion",
+          "Saubere, zuverlässige und schnelle Arbeitsweise",
+          "Bereitschaft zu Wochenend- und Feiertagseinsätzen",
+          "Gute Grundkenntnisse in Deutsch"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Gute Deutsch-Grundkenntnisse"
+      },
+      "id": "6ba98b34c201",
+      "foundAt": "2026-11-20T07:23:34.077Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Mitarbeiter*in Verpflegung 80-100%, Kollektivunterkunft Zürich",
+      "titleEs": "Personal de alimentación 80-100 % (alojamiento colectivo, Zürich)",
+      "company": "AOZ",
+      "location": "Adliswil ZH",
+      "postedAt": "2026-11-20",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/46cb35bc-79ee-4dec-b25f-9ef1a30e4f86",
+      "summary": "Distribución de comidas entregadas, pedidos y recepción de mercancías según HACCP, y limpieza en un alojamiento colectivo de AOZ en Adliswil.",
+      "description": "Reparto de las comidas entregadas, corresponsabilidad en pedidos, recepción, control y almacenaje de alimentos según las directrices HACCP, tareas de limpieza y orden, cumplimiento de higiene y seguridad, y apoyo puntual al personal de atención.",
+      "requirements": [
+        "Conocimientos básicos de cocina y catering y algo de experiencia",
+        "Conocimientos de limpieza e higiene en cocina",
+        "Alemán mínimo B2 oral y escrito",
+        "Fiable, preciso y con capacidad de trabajo en equipo",
+        "Interés por trabajar con personas de distintas culturas"
+      ],
+      "workload": "80-100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán mínimo B2",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Mitarbeiter*in Verpflegung 80-100%, Kollektivunterkunft Zürich",
+        "summary": "Ausgabe angelieferter Mahlzeiten, Bestellungen und Warenkontrolle nach HACCP sowie Reinigungsarbeiten in einer AOZ-Kollektivunterkunft in Adliswil.",
+        "description": "Verteilung der gelieferten Mahlzeiten, Mitverantwortung für Bestellungen sowie Annahme, Kontrolle und Lagerung von Lebensmitteln nach HACCP, Reinigungs- und Aufräumarbeiten, Einhaltung von Arbeitssicherheit und Hygiene, bei Bedarf Unterstützung der Betreuungspersonen.",
+        "requirements": [
+          "Grundkenntnisse in Küche und Verpflegung sowie etwas Berufserfahrung",
+          "Kenntnisse in Reinigung und Hygiene in der Küche",
+          "Deutsch mindestens B2 in Wort und Schrift",
+          "Zuverlässige, genaue Arbeitsweise und Teamfähigkeit",
+          "Interesse am Umgang mit Menschen aus verschiedenen Kulturen"
+        ],
+        "workload": "80-100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch mindestens B2"
+      },
+      "id": "256a1129b61f",
+      "foundAt": "2026-11-20T07:23:34.077Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Mitarbeiter:in Reinigung und Abwaschküche",
+      "titleEs": "Personal de limpieza y cocina de lavado",
+      "company": "Two Spice",
+      "location": "Zürich (producción en Rümlang)",
+      "postedAt": "2026-11-20",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/mitarbeiter-in-reinigung-und-abwaschk%C3%BCche-at-two-spice-4492174561",
+      "summary": "Limpieza higiénica de utensilios, vajilla y áreas de producción de sushi (Yooji's Manufaktur).",
+      "description": "Limpieza higiénica de utensilios y vajilla, limpieza de zonas de producción, oficinas, vestuarios y baños, uso correcto de productos, gestión de residuos, documentación según el concepto de higiene y rotación de tareas.",
+      "requirements": [
+        "2-3 años de experiencia en limpieza, idealmente en producción alimentaria",
+        "Trabajo fiable y en equipo",
+        "Disponibilidad fines de semana y festivos",
+        "Alemán básico"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo, incorporación inmediata o a convenir",
+      "language": "Alemán básico",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Mitarbeiter:in Reinigung und Abwaschküche",
+        "summary": "Hygienische Reinigung von Geräten, Geschirr und Produktionsbereichen der Sushi-Manufaktur (Yooji's).",
+        "description": "Hygienische Reinigung von Werkzeugen und Geschirr, Reinigung von Produktionsbereichen, Büros, Garderoben und WC, korrekter Einsatz von Reinigungsmitteln, Entsorgung, Dokumentation nach Hygienekonzept, rotierende Reinigungsaufgaben.",
+        "requirements": [
+          "2-3 Jahre Reinigungserfahrung, idealerweise in der Lebensmittelproduktion",
+          "Zuverlässig und teamorientiert",
+          "Bereitschaft zu Wochenend- und Feiertagsarbeit",
+          "Gute Deutsch-Grundkenntnisse"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung, ab sofort oder nach Vereinbarung",
+        "language": "Gute Deutsch-Grundkenntnisse"
+      },
+      "id": "15544e35cc9e",
+      "foundAt": "2026-11-20T07:23:34.077Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Mitarbeiter/In für die Abwaschküche",
+      "titleEs": "Ayudante de cocina / lavaplatos (comedor de personal)",
+      "company": "Coople (cliente no nombrado)",
+      "location": "8604 Volketswil",
+      "postedAt": "2026-11-20",
+      "source": "Coople",
+      "url": "https://www.coople.com/ch/jobs/de/b900bf60-8b5b-45ef-9ec7-5404cdb1d0a2",
+      "summary": "Turno puntual como lavaplatos en un restaurante de personal en Volketswil, vía Coople.",
+      "description": "Manejar la máquina lavaplatos, mantener el flujo de trabajo, limpieza general y limpiar mesas y sillas por la tarde.",
+      "requirements": [
+        "Experiencia con máquinas lavaplatos",
+        "Nociones básicas de limpieza e higiene",
+        "Fiabilidad y trabajo en equipo"
+      ],
+      "workload": "1 turno (inicio 20.11.2026)",
+      "employmentType": "Temporal por turnos (Coople)",
+      "salary": "CHF 24.95/h",
+      "language": "No se indica requisito de idioma (anuncio en alemán)",
+      "seniority": "junior",
+      "de": {
+        "title": "Mitarbeiter/In für die Abwaschküche",
+        "summary": "Einzelner Einsatz in der Abwaschküche eines Personalrestaurants in Volketswil über Coople.",
+        "description": "Spülmaschine bedienen und Ablauf effizient halten, allgemeine Reinigung, nachmittags Tische und Stühle reinigen.",
+        "requirements": [
+          "Erfahrung mit Spülmaschinen",
+          "Grundkenntnisse Reinigung und Hygiene",
+          "Zuverlässigkeit und Teamarbeit"
+        ],
+        "workload": "1 Schicht (Start 20.11.2026)",
+        "employmentType": "Temporär im Schichteinsatz (Coople)",
+        "language": "Keine Sprachanforderung angegeben (Inserat auf Deutsch)"
+      },
+      "id": "b2dc450e5d0e",
+      "foundAt": "2026-11-20T07:23:34.077Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Spülküchen-Mitarbeitende (m/w/d)",
+      "titleEs": "Personal de cocina de lavado (lavaplatos)",
+      "company": "Coople (cliente no nombrado)",
+      "location": "8400 Winterthur",
+      "postedAt": "2026-11-20",
+      "source": "Coople",
+      "url": "https://www.coople.com/ch/jobs/de/554ceb84-7bb4-4731-8e98-8e07a1057f18",
+      "summary": "Turno puntual de lavaplatos en un restaurante/hotel de Winterthur, vía Coople.",
+      "description": "Limpiar vajilla, cubiertos, vasos y utensilios, recoger todo correctamente, limpieza general y control de los aseos de clientes.",
+      "requirements": [
+        "Experiencia deseable",
+        "Amable, extrovertido y con ganas de trabajar en equipo"
+      ],
+      "workload": "1 turno (inicio 20.11.2026)",
+      "employmentType": "Temporal por turnos (Coople)",
+      "salary": "CHF 24.95/h",
+      "language": "No se indica requisito de idioma (anuncio en alemán)",
+      "seniority": "junior",
+      "de": {
+        "title": "Spülküchen-Mitarbeitende (m/w/d)",
+        "summary": "Einzelner Einsatz in der Spülküche eines Restaurants/Hotels in Winterthur über Coople.",
+        "description": "Geschirr, Besteck, Gläser und Arbeitsgeräte reinigen, Küchenutensilien korrekt versorgen, allgemeine Reinigung, Gäste-WC kontrollieren.",
+        "requirements": [
+          "Erfahrung wünschenswert",
+          "Freundlich, aufgestellt, Freude an Teamarbeit"
+        ],
+        "workload": "1 Schicht (Start 20.11.2026)",
+        "employmentType": "Temporär im Schichteinsatz (Coople)",
+        "language": "Keine Sprachanforderung angegeben (Inserat auf Deutsch)"
+      },
+      "id": "ff7246de8449",
+      "foundAt": "2026-11-20T07:23:34.077Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Sendungen Verpacken",
+      "titleEs": "Empaquetado de envíos (logística)",
+      "company": "Coople (cliente no nombrado)",
+      "location": "8404 Winterthur",
+      "postedAt": "2026-11-20",
+      "source": "Coople",
+      "url": "https://www.coople.com/ch/jobs/de/2e4f021a-528a-4aa9-ac47-8fdbb4ba0e64",
+      "summary": "Turno puntual empaquetando envíos con albarán y etiquetas en Winterthur, vía Coople.",
+      "description": "Empaquetar correctamente envíos con albarán y etiquetas de envío; carga y descarga de camiones.",
+      "requirements": [
+        "Sin formación (Ungelernt)",
+        "Disposición para trabajo físico (carga/descarga, embalaje)",
+        "Habilidad manual, una ventaja"
+      ],
+      "workload": "1 turno (inicio 20.11.2026)",
+      "employmentType": "Temporal por turnos (Coople)",
+      "salary": "CHF 27.12/h",
+      "language": "No se indica requisito de idioma (anuncio en alemán)",
+      "seniority": "junior",
+      "de": {
+        "title": "Sendungen Verpacken",
+        "summary": "Einzelner Einsatz: Sendungen mit Lieferschein und Versandetiketten verpacken, Winterthur, über Coople.",
+        "description": "Sendungen fachgerecht mit Lieferschein und Versandetiketten verpacken; Lastwagen be- und entladen.",
+        "requirements": [
+          "Ungelernt",
+          "Bereitschaft zu körperlicher Arbeit",
+          "Handgeschick von Vorteil"
+        ],
+        "workload": "1 Schicht (Start 20.11.2026)",
+        "employmentType": "Temporär im Schichteinsatz (Coople)",
+        "language": "Keine Sprachanforderung angegeben (Inserat auf Deutsch)"
+      },
+      "id": "d50ac2784bda",
+      "foundAt": "2026-11-20T07:23:34.077Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Magazzinaggio e assistenza clienti",
+      "titleEs": "Almacén y atención al cliente (Logistiker/in)",
+      "company": "Coople (cliente no nombrado)",
+      "location": "8105 Regensdorf",
+      "postedAt": "2026-11-20",
+      "source": "Coople",
+      "url": "https://www.coople.com/ch/jobs/de/2867ca48-20ef-40ea-aaa0-78d04f3e7532",
+      "summary": "6 turnos temporales en almacén en Regensdorf para una empresa de productos de cocina sostenibles; piden italiano e inglés o alemán.",
+      "description": "Recepción, almacenaje y gestión de stock, atención a solicitudes de clientes, preparación de pedidos, mantener el puesto ordenado.",
+      "requirements": [
+        "Experiencia en almacén o atención al cliente, una ventaja",
+        "Comunicación y resolución de problemas",
+        "Ritmo rápido y precisión",
+        "Vivir en Regensdorf o a menos de 10 km"
+      ],
+      "workload": "6 turnos",
+      "employmentType": "Temporal por turnos (Coople)",
+      "salary": "CHF 27.12/h",
+      "language": "Italiano e inglés o alemán",
+      "englishOk": true,
+      "seniority": "junior",
+      "de": {
+        "title": "Magazzinaggio e assistenza clienti",
+        "summary": "6 temporäre Einsätze im Lager in Regensdorf für einen Hersteller nachhaltiger Küchenprodukte; Italienisch und Englisch oder Deutsch.",
+        "description": "Wareneingang, Lagerung und Bestandsführung, Kundenanfragen, Versandvorbereitung, Arbeitsbereich sauber halten.",
+        "requirements": [
+          "Lager- oder Kundenservice-Erfahrung von Vorteil",
+          "Kommunikation und Problemlösung",
+          "Schnelles Arbeiten, Genauigkeit",
+          "Wohnort Regensdorf oder max. 10 km"
+        ],
+        "workload": "6 Schichten",
+        "employmentType": "Temporär im Schichteinsatz (Coople)",
+        "language": "Italienisch und Englisch oder Deutsch"
+      },
+      "id": "531b3c8ca7e5",
+      "foundAt": "2026-11-20T07:23:34.077Z"
+    },
     {
       "searchId": "fullstack-ts",
       "title": "Full Stack Engineer",
@@ -106,6 +374,170 @@
       "seniority": "mid",
       "id": "f03e58ff212a",
       "foundAt": "2026-11-20T06:19:56.550Z"
+    },
+    {
+      "searchId": "umzug",
+      "title": "Umzugsmitarbeiter / Möbelmonteur 60%-100%",
+      "titleEs": "Mozo de mudanzas / montador de muebles 60-100 %",
+      "company": "Woma Work Management AG",
+      "location": "Dintikon AG",
+      "postedAt": "2026-11-19",
+      "source": "Woma Work Management AG",
+      "url": "https://www.jobscout24.ch/de/job/442bf264-8114-4b99-8bcc-7d3494487c4f",
+      "summary": "Mozo de mudanzas y montador de muebles (60-100 %), contrato fijo, vía Woma Work Management. Carga y descarga, montaje y desmontaje de muebles.",
+      "description": "Carga y descarga de oficinas, locales comerciales, cajas y muebles; transporte de mercancías; desmontaje y montaje de muebles; embalaje cuidadoso de objetos frágiles; apoyo en la organización de mudanzas; cumplimiento de normas de seguridad.",
+      "requirements": [
+        "Buena condición física",
+        "Trabajo en equipo y fiabilidad",
+        "Forma de trabajar cuidadosa",
+        "Horario flexible",
+        "Experiencia en mudanzas o logística (ventaja)"
+      ],
+      "workload": "60–100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán; carné de conducir no mencionado",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Umzugsmitarbeiter / Möbelmonteur 60%-100%",
+        "summary": "Umzugsmitarbeiter und Möbelmonteur (60-100 %), Festanstellung, über Woma Work Management. Be- und Entladen, Montage und Demontage von Möbeln.",
+        "description": "Be- und Entladen von Büros, Gewerbeobjekten, Kartons und Möbeln; Transport von Gütern; Demontage und Montage; sorgfältiges Verpacken empfindlicher Gegenstände; Unterstützung bei der Umzugsorganisation; Einhalten der Sicherheitsvorschriften.",
+        "requirements": [
+          "Körperliche Fitness",
+          "Teamfähigkeit und Zuverlässigkeit",
+          "Sorgfältige Arbeitsweise",
+          "Flexible Arbeitszeiten",
+          "Erfahrung in Umzug oder Logistik von Vorteil"
+        ],
+        "workload": "60–100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch; Führerausweis nicht erwähnt"
+      },
+      "id": "f9dee0010cfc",
+      "foundAt": "2026-11-20T07:23:34.077Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Material Handler (m/w/d)",
+      "titleEs": "Operario/a de logística de materiales",
+      "company": "Givaudan",
+      "location": "Dübendorf ZH",
+      "postedAt": "2026-11-19",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/40c20429-ee48-468c-bb28-7bc285fb75e7",
+      "summary": "Puesto de logística en almacén de alta estantería: transportes, carretilla, picking y preparación de envíos.",
+      "description": "Organizar transportes internos y externos, ubicar y retirar mercancía en el almacén de alta estantería, carretilla elevadora, carga/descarga de camiones, picking, preparar envíos (ADR/IATA), inventarios en SAP y 5S.",
+      "requirements": [
+        "Formación de logístico/a o equivalente",
+        "Varios años de experiencia en logística de almacén",
+        "Carné de carretillista SUVA",
+        "SAP y MS Office",
+        "Alemán muy bueno"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán muy bueno",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Material Handler (m/w/d)",
+        "summary": "Logistikposten im Hochregallager: Transporte, Stapler, Kommissionierung und Versandvorbereitung.",
+        "description": "Organisation interner und externer Transporte, Ein- und Auslagerungen im Hochregallager, Staplerarbeit, Be- und Entladen, Kommissionierung, Versandvorbereitung (ADR/IATA), Inventuren in SAP und 5S.",
+        "requirements": [
+          "Lehre als Logistiker/in oder gleichwertig",
+          "Mehrjährige Erfahrung in der Lagerlogistik",
+          "SUVA-Staplerausweis",
+          "SAP und MS Office",
+          "Sehr gute Deutschkenntnisse"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Sehr gute Deutschkenntnisse"
+      },
+      "id": "d038c7a53bdd",
+      "foundAt": "2026-11-20T07:23:34.077Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Ersatzteil-Spezialist / Lagerist (m/w/d) für unsere BYD-Vertragswerkstatt",
+      "titleEs": "Especialista en recambios / Almacenero/a (taller BYD)",
+      "company": "Harmony New Energy Auto Service Swiss GmbH",
+      "location": "Schlieren ZH",
+      "postedAt": "2026-11-19",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/48baefee-1b37-4bdd-80c4-1bdea90b0efc",
+      "summary": "Gestión de recambios originales BYD en el almacén de un taller: recepción, almacenaje, preparación y atención en mostrador.",
+      "description": "Identificar y gestionar recambios originales, recepción de mercancía con control de calidad y almacenaje, preparar piezas para el taller, atender el mostrador, pedidos, inventarios y garantías.",
+      "requirements": [
+        "Formación como Lagerist/a o similar",
+        "Primera experiencia en recambios de un concesionario o taller",
+        "Conocimientos de ERP",
+        "Alemán fluido"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán fluido",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Ersatzteil-Spezialist / Lagerist (m/w/d) für unsere BYD-Vertragswerkstatt",
+        "summary": "Verwaltung von BYD-Originalersatzteilen im Werkstattlager: Wareneingang, Einlagerung, Bereitstellung und Teiletheke.",
+        "description": "Identifikation und Bestandsführung von Originalersatzteilen, Wareneingang mit Prüfung und Einlagerung, Bereitstellung für die Werkstatt, Teiletheke, Bestellungen, Inventuren und Garantieabwicklung.",
+        "requirements": [
+          "Ausbildung als Lagerist/in o. ä.",
+          "Erste Erfahrung im Teiledienst",
+          "ERP-Kenntnisse",
+          "Fliessend Deutsch"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Fliessend Deutsch"
+      },
+      "id": "ced39fe25540",
+      "foundAt": "2026-11-20T07:23:34.077Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistik Frische - Mitarbeiter*in Belad Nachtschicht",
+      "titleEs": "Logística de frescos - Carga y descarga, turno de noche",
+      "company": "Migros Zürich",
+      "location": "Zürich (Pfingstweidstrasse)",
+      "postedAt": "2026-11-19",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/f1740207-fe16-4927-9273-854929a9caab",
+      "summary": "Carga y descarga de camiones, carretilla y picking manual en turno de noche (domingo a viernes).",
+      "description": "Cargar y descargar camiones, mover mercancía con carretilla y trabajo de almacén con picking manual. Turnos de unas 20:00/22:00 a 05:00/07:00, domingo a viernes.",
+      "requirements": [
+        "Formación profesional básica o superior del sector",
+        "1-2 años de experiencia en logística",
+        "Disponibilidad para turno de noche",
+        "Carné B y coche propio o residencia en el área de Zúrich",
+        "Carné de carretillista SUVA",
+        "Alemán A2"
+      ],
+      "workload": "80-100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán A2 (conocimientos básicos)",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Logistik Frische - Mitarbeiter*in Belad Nachtschicht",
+        "summary": "Be- und Entladen von LKW, Staplerarbeit und manuelle Kommissionierung in der Nachtschicht (Sonntag bis Freitag).",
+        "description": "Be- und Entladen von LKW, Warentransport mit Stapler und Lagerarbeiten inkl. manueller Kommissionierung. Schichten ca. 20:00/22:00 bis 05:00/07:00, Sonntag bis Freitag.",
+        "requirements": [
+          "Berufliche Grund- oder Weiterbildung",
+          "1-2 Jahre Logistikerfahrung",
+          "Verfügbarkeit Nachtschicht",
+          "Führerausweis B und eigenes Auto oder Wohnort Raum Zürich",
+          "SUVA-Staplerausweis",
+          "Deutsch A2"
+        ],
+        "workload": "80-100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch A2 (Grundkenntnisse)"
+      },
+      "id": "576422a0de5f",
+      "foundAt": "2026-11-20T07:23:34.077Z"
     },
     {
       "searchId": "fullstack-ts",
@@ -11633,6 +12065,66 @@
       },
       "id": "ae1fd61914be",
       "foundAt": "2026-11-12T15:20:33.966Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Commis de Cuisine (w/m)",
+      "titleEs": "Commis de cuisine (cocina de hotel de lujo)",
+      "company": "Baur au Lac",
+      "location": "Zürich",
+      "postedAt": "2026-11-06",
+      "source": "hotelcareer.ch",
+      "url": "https://www.hotelcareer.ch/jobs/baur-au-lac-509/commis-de-cuisine-4045591",
+      "summary": "Puesto de commis de cuisine en la cocina recién renovada del hotel Baur au Lac: mise en place, servicio, higiene y calidad.",
+      "requirements": [
+        "Experiencia en una posición similar en hotelería de lujo",
+        "Buenos conocimientos de alemán e inglés",
+        "Resistencia y flexibilidad"
+      ],
+      "workload": "100 %",
+      "employmentType": "Jornada completa",
+      "language": "Alemán e inglés buenos",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Commis de Cuisine (w/m)",
+        "summary": "Commis de Cuisine in der neu renovierten Küche des Hotels Baur au Lac: Mise en place, reibungsloser Serviceablauf, Hygiene und Qualität.",
+        "workload": "100 %",
+        "employmentType": "Vollzeit",
+        "language": "Gute Deutsch- und Englischkenntnisse",
+        "requirements": [
+          "Erfahrung in ähnlicher Position in der Luxushotellerie",
+          "Gute Deutsch- und Englischkenntnisse",
+          "Belastbarkeit und Flexibilität"
+        ]
+      },
+      "id": "8eef806451cf",
+      "foundAt": "2026-11-20T07:23:34.077Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Commis de Cuisine Frühstück",
+      "titleEs": "Commis de cuisine (desayunos, hotel de lujo)",
+      "company": "Baur au Lac",
+      "location": "Zürich",
+      "postedAt": "2026-11-06",
+      "source": "hotelcareer.ch",
+      "url": "https://www.hotelcareer.ch/jobs/baur-au-lac-509/commis-de-cuisine-fr%C3%BChst%C3%BCck-4052802",
+      "summary": "Puesto de commis de cuisine para el servicio de desayunos del hotel Baur au Lac en Zürich.",
+      "workload": "100 %",
+      "employmentType": "Jornada completa",
+      "language": "Alemán e inglés buenos",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Commis de Cuisine Frühstück",
+        "summary": "Commis de Cuisine für den Frühstücksservice im Hotel Baur au Lac in Zürich.",
+        "workload": "100 %",
+        "employmentType": "Vollzeit",
+        "language": "Gute Deutsch- und Englischkenntnisse"
+      },
+      "id": "f187ec825707",
+      "foundAt": "2026-11-20T07:23:34.077Z"
     },
     {
       "searchId": "kueche",
