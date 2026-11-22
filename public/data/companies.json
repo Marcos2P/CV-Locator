@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T07:17:00.784Z",
+  "updatedAt": "2026-11-22T10:29:02.320Z",
   "companies": [
     {
       "key": "randstad",
@@ -693,7 +693,8 @@
       "firstSeen": "2026-11-21",
       "lastSeen": "2026-11-21",
       "searchIds": [
-        "fullstack-ts"
+        "fullstack-ts",
+        "qa-test"
       ],
       "locations": [
         "Zürich"
@@ -707,6 +708,14 @@
           "location": "Zürich",
           "url": "https://www.jobs.ch/de/stellenangebote/detail/ae3dc603-cd58-4990-aa31-7528714e73ce",
           "englishOk": true
+        },
+        {
+          "id": "640d14ed8526",
+          "title": "Test Manager / Tester senior - varias aplicaciones",
+          "searchId": "qa-test",
+          "postedAt": "2026-11-21",
+          "location": "Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/d488efe3-349b-4fad-8acf-4e9d55b31be7"
         }
       ]
     },
@@ -1693,6 +1702,29 @@
       ]
     },
     {
+      "key": "elca informatique",
+      "name": "Elca informatique SA",
+      "agency": false,
+      "firstSeen": "2026-11-20",
+      "lastSeen": "2026-11-20",
+      "searchIds": [
+        "fullstack-ts"
+      ],
+      "locations": [
+        "Zurich"
+      ],
+      "jobs": [
+        {
+          "id": "2a53b32b9cb7",
+          "title": "Ingeniero/a senior Agentic",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-20",
+          "location": "Zurich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/92e01b51-27e8-4f8f-abc8-480c448ff857"
+        }
+      ]
+    },
+    {
       "key": "escola",
       "name": "Escola GmbH",
       "agency": false,
@@ -1727,7 +1759,7 @@
     },
     {
       "key": "experis",
-      "name": "Experis Switzerland",
+      "name": "Experis",
       "agency": true,
       "firstSeen": "2026-11-12",
       "lastSeen": "2026-11-20",
@@ -1736,7 +1768,8 @@
         "fullstack-ts"
       ],
       "locations": [
-        "Zürich"
+        "Zürich",
+        "Zurich"
       ],
       "jobs": [
         {
@@ -1746,6 +1779,14 @@
           "postedAt": "2026-11-20",
           "location": "Zürich",
           "url": "https://ch.linkedin.com/jobs/view/senior-full-stack-entwickler-angular-at-experis-switzerland-4492199598"
+        },
+        {
+          "id": "c306df2c9c91",
+          "title": "Desarrollador/a senior Full-Stack (Angular)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-20",
+          "location": "Zurich",
+          "url": "https://www.jobscout24.ch/de/job/99a871db-02ad-4baa-938a-377ccd907943"
         },
         {
           "id": "d2c2fa85d575",

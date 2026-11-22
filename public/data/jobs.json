@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T07:17:00.784Z",
+  "updatedAt": "2026-11-22T10:29:02.320Z",
   "jobs": [
     {
       "searchId": "lager",
@@ -122,6 +122,26 @@
       },
       "id": "6c05f9121962",
       "foundAt": "2026-11-22T06:23:22.992Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "Senior Test Manager / Tester - Multiple Applications 100% (f/m/d)",
+      "titleEs": "Test Manager / Tester senior - varias aplicaciones",
+      "company": "Bank Julius Bär & Co. AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-21",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/d488efe3-349b-4fad-8acf-4e9d55b31be7",
+      "summary": "Puesto senior de test manager/tester en varias aplicaciones.",
+      "seniority": "senior",
+      "de": {
+        "title": "Senior Test Manager / Tester - Multiple Applications 100% (f/m/d)",
+        "summary": "Senior-Testmanager/Tester-Stelle für mehrere Applikationen.",
+        "workload": "100 %"
+      },
+      "workload": "100 %",
+      "id": "640d14ed8526",
+      "foundAt": "2026-11-22T10:29:02.320Z"
     },
     {
       "searchId": "fullstack-ts",
@@ -1006,6 +1026,42 @@
       },
       "id": "7630b1137acb",
       "foundAt": "2026-11-21T06:21:56.881Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior Agentic Engineer",
+      "titleEs": "Ingeniero/a senior Agentic",
+      "company": "Elca informatique SA",
+      "location": "Zurich",
+      "postedAt": "2026-11-20",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/92e01b51-27e8-4f8f-abc8-480c448ff857",
+      "summary": "Puesto senior de ingeniería agentic (IA) en Zürich.",
+      "seniority": "senior",
+      "de": {
+        "title": "Senior Agentic Engineer",
+        "summary": "Senior-Stelle als Agentic Engineer in Zürich."
+      },
+      "id": "2a53b32b9cb7",
+      "foundAt": "2026-11-22T10:29:02.320Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior Full-Stack Entwickler (Angular)",
+      "titleEs": "Desarrollador/a senior Full-Stack (Angular)",
+      "company": "Experis",
+      "location": "Zurich",
+      "postedAt": "2026-11-20",
+      "source": "Experis",
+      "url": "https://www.jobscout24.ch/de/job/99a871db-02ad-4baa-938a-377ccd907943",
+      "summary": "Puesto senior fullstack con Angular vía Experis.",
+      "seniority": "senior",
+      "de": {
+        "title": "Senior Full-Stack Entwickler (Angular)",
+        "summary": "Senior-Fullstack-Stelle mit Angular über Experis."
+      },
+      "id": "c306df2c9c91",
+      "foundAt": "2026-11-22T10:29:02.320Z"
     },
     {
       "searchId": "reinigung-flughafen",
