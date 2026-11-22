@@ -1,6 +1,336 @@
 {
-  "updatedAt": "2026-11-22T06:23:22.992Z",
+  "updatedAt": "2026-11-22T07:17:00.784Z",
   "companies": [
+    {
+      "key": "randstad",
+      "name": "Randstad (Schweiz) AG",
+      "agency": true,
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-22",
+      "searchIds": [
+        "lager",
+        "reinigung-flughafen",
+        "qa-test",
+        "kueche"
+      ],
+      "locations": [
+        "Zürich",
+        "Dietlikon",
+        "Rümlang",
+        "Winterthur",
+        "Embrach",
+        "Hinwil ZH",
+        "Stadt Zürich / Zürichsee",
+        "Winterthur ZH",
+        "Embrach ZH",
+        "Bülach ZH",
+        "Zürich (Rümlang) ZH",
+        "Zürich ZH",
+        "Region Winterthur ZH",
+        "Spreitenbach AG",
+        "Dietlikon ZH",
+        "Otelfingen",
+        "Glattbrugg (Flughafen Zürich)",
+        "Kloten (Flughafen Zürich)"
+      ],
+      "jobs": [
+        {
+          "id": "f5ff81b4a5b2",
+          "title": "Mozo/a de almacén 100%",
+          "searchId": "lager",
+          "postedAt": "2026-11-22",
+          "location": "Otelfingen",
+          "url": "https://www.jobscout24.ch/de/job/fc440bc5-dbee-4336-80c8-4bc5a6fbe2ab",
+          "englishOk": false
+        },
+        {
+          "id": "2d5788a1d670",
+          "title": "Mozo/a de almacén",
+          "searchId": "lager",
+          "postedAt": "2026-11-20",
+          "location": "Winterthur ZH",
+          "url": "https://www.randstad.com/jobs/lagermitarbeiterin_winterthur_47792653",
+          "englishOk": false
+        },
+        {
+          "id": "7839866c9f4e",
+          "title": "Empleado/a de handling de aeronaves Aeropuerto de Zúrich 50 %",
+          "searchId": "reinigung-flughafen",
+          "postedAt": "2026-11-20",
+          "location": "Glattbrugg (Flughafen Zürich)",
+          "url": "https://www.randstad.com/jobs/mitarbeiter-flugzeugabfertigung-flughafen-zurich-50-prozent-mwd_glattbrugg_47791841",
+          "englishOk": false
+        },
+        {
+          "id": "bfb6d466a745",
+          "title": "Personal de servicios aeroportuarios (jornada completa / parcial)",
+          "searchId": "reinigung-flughafen",
+          "postedAt": "2026-11-20",
+          "location": "Kloten (Flughafen Zürich)",
+          "url": "https://www.randstad.com/jobs/airport-service-staff-vollzeit-teilzeit_kloten_47707170",
+          "englishOk": true
+        },
+        {
+          "id": "64d2311f7a81",
+          "title": "Mozo/a de almacén (reposición y picking) 50–100 %",
+          "searchId": "lager",
+          "postedAt": "2026-11-19",
+          "location": "Spreitenbach AG",
+          "url": "https://www.randstad.com/jobs/lagermitarbeiterin-auffullerin-kommissionierung-50-100_spreitenbach_47784888",
+          "englishOk": false
+        },
+        {
+          "id": "c57be7e1a8c1",
+          "title": "Personal de limpieza (trenes y edificios)",
+          "searchId": "reinigung-flughafen",
+          "postedAt": "2026-11-17",
+          "location": "Zürich",
+          "url": "https://www.jobscout24.ch/de/job/4b7e6ddb-ffcc-4c8c-bb7a-fa6220088d4e",
+          "englishOk": false
+        },
+        {
+          "id": "0411c123ba17",
+          "title": "Empleado/a de almacén",
+          "searchId": "lager",
+          "postedAt": "2026-11-16",
+          "location": "Region Winterthur ZH",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/721ffa48-da12-4951-a4a9-cdc0578b8828",
+          "englishOk": false
+        },
+        {
+          "id": "39e84c81f0e5",
+          "title": "Logístico/a EFZ",
+          "searchId": "lager",
+          "postedAt": "2026-11-16",
+          "location": "Region Winterthur ZH",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/a724cf90-dfd7-4d1a-9a2d-d811cdb3bc6c",
+          "englishOk": false
+        },
+        {
+          "id": "bdbdc77e3caf",
+          "title": "Personal de limpieza",
+          "searchId": "reinigung-flughafen",
+          "postedAt": "2026-11-16",
+          "location": "Zürich ZH",
+          "url": "https://www.randstad.ch/jobs/reinigungsmitarbeiterin_zuerich_aa0931d1-278d-4ab5-9ebf-4b9dd53f5c20",
+          "englishOk": false
+        },
+        {
+          "id": "907bcf037450",
+          "title": "Preparador/a de pedidos en almacén de frescos y frío 100 %",
+          "searchId": "lager",
+          "postedAt": "2026-11-14",
+          "location": "Dietlikon ZH",
+          "url": "https://www.jobscout24.ch/de/job/1e104c98-c7c3-4071-abd0-cd0cd126a03d",
+          "englishOk": false
+        },
+        {
+          "id": "a5ac0ccbc9bd",
+          "title": "Ayudante de panadería propia (≈35 %)",
+          "searchId": "kueche",
+          "postedAt": "2026-11-13",
+          "location": "Stadt Zürich / Zürichsee",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/f0fba778-f550-4e02-bb95-515ddf315eb3"
+        },
+        {
+          "id": "b35fbfcf75d2",
+          "title": "Empleado/a de almacén",
+          "searchId": "lager",
+          "postedAt": "2026-11-13",
+          "location": "Winterthur",
+          "url": "https://www.randstad.ch/jobs/lagermitarbeiterin_winterthur_f6c19fdf-f920-4502-8fd7-4ae3f29342ad"
+        },
+        {
+          "id": "8d138d2485aa",
+          "title": "Preparador/a de pedidos en almacén frigorífico 100%",
+          "searchId": "lager",
+          "postedAt": "2026-11-13",
+          "location": "Dietlikon",
+          "url": "https://www.randstad.ch/jobs/kommissionierer-frische-und-kuehllager-100-mwd_dietlikon_9c4d5b2b-9f6c-4367-a5b0-350588cbd87c"
+        },
+        {
+          "id": "f9a1a968b1b3",
+          "title": "Almacenero/a 100%",
+          "searchId": "lager",
+          "postedAt": "2026-11-13",
+          "location": "Zürich",
+          "url": "https://www.randstad.ch/jobs/lagerist-100-mwd_zuerich_1f09d097-fc3c-44a3-ae54-97999970b34d"
+        },
+        {
+          "id": "377dfab500d7",
+          "title": "Empleado/a de limpieza",
+          "searchId": "reinigung-flughafen",
+          "postedAt": "2026-11-13",
+          "location": "Zürich",
+          "url": "https://www.randstad.ch/jobs/reinigungsmitarbeiterin_zuerich_a36e8cd7-df2c-440a-8487-26afce8eac8a"
+        },
+        {
+          "id": "037f47ac28f9",
+          "title": "Logista/o EFZ (logística)",
+          "searchId": "lager",
+          "postedAt": "2026-11-13",
+          "location": "Winterthur ZH",
+          "url": "https://www.randstad.ch/jobs/logistikerin-efz_winterthur_719b1b80-f153-4b7c-9d5f-4a48968bbad4"
+        },
+        {
+          "id": "d9fda25509da",
+          "title": "Logista/o EFZ (logística)",
+          "searchId": "lager",
+          "postedAt": "2026-11-13",
+          "location": "Winterthur ZH",
+          "url": "https://www.randstad.ch/jobs/logistikerin-efz_winterthur_64d3e438-9a93-4e7a-9d41-05ec7e3499f4"
+        },
+        {
+          "id": "ba15546a2fd8",
+          "title": "Administrador/a de logística / coordinación de almacén 100%",
+          "searchId": "lager",
+          "postedAt": "2026-11-13",
+          "location": "Embrach ZH",
+          "url": "https://www.randstad.ch/jobs/mitarbeiter-logistikadministrator-lagerkoordination-100-mwd_embrach_14d9c368-c657-4d02-992a-0c2210218fa8"
+        },
+        {
+          "id": "08a405dd84af",
+          "title": "Puesto de logística en Bülach 100%",
+          "searchId": "lager",
+          "postedAt": "2026-11-13",
+          "location": "Bülach ZH",
+          "url": "https://www.randstad.ch/jobs/logistiker-stelle-in-buelach-100-mwd_buelach_4d8bcdd4-1afc-496d-8230-86b7477dd63e"
+        },
+        {
+          "id": "efe16baae345",
+          "title": "Empleado/a de logística en Rümlang 100%",
+          "searchId": "lager",
+          "postedAt": "2026-11-13",
+          "location": "Zürich (Rümlang) ZH",
+          "url": "https://www.randstad.ch/jobs/logistik-mitarbeiter-in-ruemlang-100-mwd_zuerich_d6a81aeb-6e7b-4cdd-933c-63f4454c4d8c"
+        },
+        {
+          "id": "8d963afa2e29",
+          "title": "Puesto de logística en Embrach 100%",
+          "searchId": "lager",
+          "postedAt": "2026-11-13",
+          "location": "Embrach ZH",
+          "url": "https://www.randstad.ch/jobs/logistik-stelle-in-embrach-100-mwd_embrach_92ece6f6-b80a-4d7e-b9d6-db2e6af1bfef"
+        },
+        {
+          "id": "1414833126da",
+          "title": "Ayudante de logística / polivalente 100%",
+          "searchId": "lager",
+          "postedAt": "2026-11-13",
+          "location": "Zürich ZH",
+          "url": "https://www.randstad.ch/jobs/logistikhelfer-allrounder-100-mwd_zuerich_aaf39531-956c-4790-b1c6-176200e94736"
+        },
+        {
+          "id": "d8ff8679265f",
+          "title": "Logista/o EFZ 100%",
+          "searchId": "lager",
+          "postedAt": "2026-11-13",
+          "location": "Zürich ZH",
+          "url": "https://www.randstad.ch/jobs/logistikerin-efz-100-mwd_zuerich_d819ba59-1250-4c38-bcf5-1ec9f00524c1"
+        },
+        {
+          "id": "9bd92225d241",
+          "title": "Logista/o EFZ 100%",
+          "searchId": "lager",
+          "postedAt": "2026-11-13",
+          "location": "Bülach ZH",
+          "url": "https://www.randstad.ch/jobs/logistikerin-efz-100_buelach_d0378e97-459d-44e4-9db1-df93b5fbfbdf"
+        },
+        {
+          "id": "1b6ce1435fce",
+          "title": "Ingeniero/a de automatización de pruebas (temporal, presencial)",
+          "searchId": "qa-test",
+          "postedAt": "2026-11-12",
+          "location": "Hinwil ZH",
+          "url": "https://ch.linkedin.com/jobs/view/test-automation-engineer-full-time-on-site-temporary-at-randstad-4490332920",
+          "englishOk": false
+        },
+        {
+          "id": "b7ba81ef0d52",
+          "title": "Mozo de almacén",
+          "searchId": "lager",
+          "postedAt": "2026-11-09",
+          "location": "Zürich",
+          "url": "https://www.randstad.com/jobs/lagermitarbeiter_zurich_47731709"
+        },
+        {
+          "id": "dba7a69f88d6",
+          "title": "Preparador/a de pedidos en almacén de frescos y frío (100 %)",
+          "searchId": "lager",
+          "postedAt": "2026-11-06",
+          "location": "Dietlikon",
+          "url": "https://www.randstad.com/jobs/kommissionierer-frische-und-kuhllager-100-mwd_dietlikon_47721105"
+        },
+        {
+          "id": "3db3ccf63013",
+          "title": "Almacenista / preparador/a de pedidos (100 %)",
+          "searchId": "lager",
+          "postedAt": "2026-11-06",
+          "location": "Zürich",
+          "url": "https://www.randstad.com/jobs/lagerist-100-mwd_zurich_47721051"
+        },
+        {
+          "id": "08f4c5adc3bb",
+          "title": "Ayudante de logística / polivalente (100 %)",
+          "searchId": "lager",
+          "postedAt": "2026-11-06",
+          "location": "Zürich",
+          "url": "https://www.randstad.com/jobs/logistikhelfer-allrounder-100-mwd_zurich_47350813"
+        },
+        {
+          "id": "52e5b635f0e7",
+          "title": "Empleado/a de logística en Rümlang (100 %)",
+          "searchId": "lager",
+          "postedAt": "2026-11-06",
+          "location": "Rümlang",
+          "url": "https://www.randstad.com/jobs/logistik-mitarbeiter-in-rumlang-100-mwd_zurich_47721113"
+        },
+        {
+          "id": "67b61612d812",
+          "title": "Logista EFZ 100 %",
+          "searchId": "lager",
+          "postedAt": "2026-11-06",
+          "location": "Zürich",
+          "url": "https://www.randstad.com/jobs/logistikerin-efz-100-mwd_zurich_47575681",
+          "englishOk": false
+        },
+        {
+          "id": "b36d59383442",
+          "title": "Puesto de logística en Embrach 100 % (con carretilla)",
+          "searchId": "lager",
+          "postedAt": "2026-11-06",
+          "location": "Embrach",
+          "url": "https://www.randstad.com/jobs/logistik-stelle-in-embrach-100-mwd_embrach_47350809",
+          "englishOk": false
+        },
+        {
+          "id": "979cc4348f88",
+          "title": "Logística y preparación de pedidos",
+          "searchId": "lager",
+          "postedAt": "2026-11-05",
+          "location": "Winterthur",
+          "url": "https://www.randstad.com/jobs/logistik-kommissionierung_winterthur_47714856"
+        },
+        {
+          "id": "9fd73896bedf",
+          "title": "Logista EFZ (puesto de bolsa, Winterthur)",
+          "searchId": "lager",
+          "postedAt": "2026-11-05",
+          "location": "Winterthur",
+          "url": "https://www.randstad.com/jobs/logistikerin-efz_winterthur_47714284",
+          "englishOk": false
+        },
+        {
+          "id": "f82af522c0d3",
+          "title": "Personal de limpieza (m/f/d)",
+          "searchId": "reinigung-flughafen",
+          "postedAt": "2026-11-05",
+          "location": "Zürich",
+          "url": "https://www.randstad.ch/jobs/reinigungsmitarbeiterin_zuerich_dae491e8-de17-4931-8109-3f23ccbb9aa1",
+          "englishOk": false
+        }
+      ]
+    },
     {
       "key": "rocken",
       "name": "Rocken®",
@@ -1668,6 +1998,68 @@
       ]
     },
     {
+      "key": "marriott international",
+      "name": "Marriott International",
+      "agency": false,
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-20",
+      "searchIds": [
+        "kueche",
+        "temporada-invierno"
+      ],
+      "locations": [
+        "Zürich (Neumühlequai 42)",
+        "Verbier",
+        "Zurich",
+        "Verbier VS"
+      ],
+      "jobs": [
+        {
+          "id": "0cb1bf13982b",
+          "title": "Auxiliar de spa 50 % (invierno 26/27) - W Verbier",
+          "searchId": "temporada-invierno",
+          "postedAt": "2026-11-20",
+          "location": "Verbier VS",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/8b2c951c-3fe3-424b-a124-d3e2b20e88e9",
+          "englishOk": false
+        },
+        {
+          "id": "2e79acd058d6",
+          "title": "Equipier polivalente (invierno 26/27) – W Verbier",
+          "searchId": "temporada-invierno",
+          "postedAt": "2026-11-19",
+          "location": "Verbier",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/ec662662-d95c-4fb9-add0-1fcb2a86956e"
+        },
+        {
+          "id": "aed0a1363899",
+          "title": "Personal temporal para banquetes y cocina",
+          "searchId": "kueche",
+          "postedAt": "2026-11-17",
+          "location": "Zurich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/f67e6aed-36dd-4c49-aa6f-649540ae75b6"
+        },
+        {
+          "id": "7eaa714ead59",
+          "title": "Auxiliar de banquetes / cocina",
+          "searchId": "kueche",
+          "postedAt": "2026-11-10",
+          "location": "Zürich (Neumühlequai 42)",
+          "url": "https://ch.linkedin.com/jobs/view/4487316504",
+          "englishOk": false
+        },
+        {
+          "id": "2dcddc76bbc5",
+          "title": "Style Agent / camarera de pisos (verano + invierno) - W Verbier",
+          "searchId": "temporada-invierno",
+          "postedAt": "2026-11-10",
+          "location": "Verbier VS",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/4605429c-e3ef-44db-8213-5f729ee9f3f6",
+          "englishOk": false
+        }
+      ]
+    },
+    {
       "key": "mein catering",
       "name": "mein Catering GmbH",
       "agency": false,
@@ -1744,306 +2136,6 @@
           "postedAt": "2026-11-19",
           "location": "Zürich",
           "url": "https://www.myjob.ch/job/kuechenaushilfe-public-area-cleaner-m-w-d-casual/3679742",
-          "englishOk": false
-        }
-      ]
-    },
-    {
-      "key": "randstad",
-      "name": "Randstad (Schweiz) AG",
-      "agency": true,
-      "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-20",
-      "searchIds": [
-        "lager",
-        "reinigung-flughafen",
-        "qa-test",
-        "kueche"
-      ],
-      "locations": [
-        "Zürich",
-        "Dietlikon",
-        "Rümlang",
-        "Winterthur",
-        "Embrach",
-        "Hinwil ZH",
-        "Stadt Zürich / Zürichsee",
-        "Winterthur ZH",
-        "Embrach ZH",
-        "Bülach ZH",
-        "Zürich (Rümlang) ZH",
-        "Zürich ZH",
-        "Region Winterthur ZH",
-        "Spreitenbach AG",
-        "Dietlikon ZH"
-      ],
-      "jobs": [
-        {
-          "id": "2d5788a1d670",
-          "title": "Mozo/a de almacén",
-          "searchId": "lager",
-          "postedAt": "2026-11-20",
-          "location": "Winterthur ZH",
-          "url": "https://www.randstad.com/jobs/lagermitarbeiterin_winterthur_47792653",
-          "englishOk": false
-        },
-        {
-          "id": "64d2311f7a81",
-          "title": "Mozo/a de almacén (reposición y picking) 50–100 %",
-          "searchId": "lager",
-          "postedAt": "2026-11-19",
-          "location": "Spreitenbach AG",
-          "url": "https://www.randstad.com/jobs/lagermitarbeiterin-auffullerin-kommissionierung-50-100_spreitenbach_47784888",
-          "englishOk": false
-        },
-        {
-          "id": "c57be7e1a8c1",
-          "title": "Personal de limpieza (trenes y edificios)",
-          "searchId": "reinigung-flughafen",
-          "postedAt": "2026-11-17",
-          "location": "Zürich",
-          "url": "https://www.jobscout24.ch/de/job/4b7e6ddb-ffcc-4c8c-bb7a-fa6220088d4e",
-          "englishOk": false
-        },
-        {
-          "id": "0411c123ba17",
-          "title": "Empleado/a de almacén",
-          "searchId": "lager",
-          "postedAt": "2026-11-16",
-          "location": "Region Winterthur ZH",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/721ffa48-da12-4951-a4a9-cdc0578b8828",
-          "englishOk": false
-        },
-        {
-          "id": "39e84c81f0e5",
-          "title": "Logístico/a EFZ",
-          "searchId": "lager",
-          "postedAt": "2026-11-16",
-          "location": "Region Winterthur ZH",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/a724cf90-dfd7-4d1a-9a2d-d811cdb3bc6c",
-          "englishOk": false
-        },
-        {
-          "id": "bdbdc77e3caf",
-          "title": "Personal de limpieza",
-          "searchId": "reinigung-flughafen",
-          "postedAt": "2026-11-16",
-          "location": "Zürich ZH",
-          "url": "https://www.randstad.ch/jobs/reinigungsmitarbeiterin_zuerich_aa0931d1-278d-4ab5-9ebf-4b9dd53f5c20",
-          "englishOk": false
-        },
-        {
-          "id": "907bcf037450",
-          "title": "Preparador/a de pedidos en almacén de frescos y frío 100 %",
-          "searchId": "lager",
-          "postedAt": "2026-11-14",
-          "location": "Dietlikon ZH",
-          "url": "https://www.jobscout24.ch/de/job/1e104c98-c7c3-4071-abd0-cd0cd126a03d",
-          "englishOk": false
-        },
-        {
-          "id": "a5ac0ccbc9bd",
-          "title": "Ayudante de panadería propia (≈35 %)",
-          "searchId": "kueche",
-          "postedAt": "2026-11-13",
-          "location": "Stadt Zürich / Zürichsee",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/f0fba778-f550-4e02-bb95-515ddf315eb3"
-        },
-        {
-          "id": "b35fbfcf75d2",
-          "title": "Empleado/a de almacén",
-          "searchId": "lager",
-          "postedAt": "2026-11-13",
-          "location": "Winterthur",
-          "url": "https://www.randstad.ch/jobs/lagermitarbeiterin_winterthur_f6c19fdf-f920-4502-8fd7-4ae3f29342ad"
-        },
-        {
-          "id": "8d138d2485aa",
-          "title": "Preparador/a de pedidos en almacén frigorífico 100%",
-          "searchId": "lager",
-          "postedAt": "2026-11-13",
-          "location": "Dietlikon",
-          "url": "https://www.randstad.ch/jobs/kommissionierer-frische-und-kuehllager-100-mwd_dietlikon_9c4d5b2b-9f6c-4367-a5b0-350588cbd87c"
-        },
-        {
-          "id": "f9a1a968b1b3",
-          "title": "Almacenero/a 100%",
-          "searchId": "lager",
-          "postedAt": "2026-11-13",
-          "location": "Zürich",
-          "url": "https://www.randstad.ch/jobs/lagerist-100-mwd_zuerich_1f09d097-fc3c-44a3-ae54-97999970b34d"
-        },
-        {
-          "id": "377dfab500d7",
-          "title": "Empleado/a de limpieza",
-          "searchId": "reinigung-flughafen",
-          "postedAt": "2026-11-13",
-          "location": "Zürich",
-          "url": "https://www.randstad.ch/jobs/reinigungsmitarbeiterin_zuerich_a36e8cd7-df2c-440a-8487-26afce8eac8a"
-        },
-        {
-          "id": "037f47ac28f9",
-          "title": "Logista/o EFZ (logística)",
-          "searchId": "lager",
-          "postedAt": "2026-11-13",
-          "location": "Winterthur ZH",
-          "url": "https://www.randstad.ch/jobs/logistikerin-efz_winterthur_719b1b80-f153-4b7c-9d5f-4a48968bbad4"
-        },
-        {
-          "id": "d9fda25509da",
-          "title": "Logista/o EFZ (logística)",
-          "searchId": "lager",
-          "postedAt": "2026-11-13",
-          "location": "Winterthur ZH",
-          "url": "https://www.randstad.ch/jobs/logistikerin-efz_winterthur_64d3e438-9a93-4e7a-9d41-05ec7e3499f4"
-        },
-        {
-          "id": "ba15546a2fd8",
-          "title": "Administrador/a de logística / coordinación de almacén 100%",
-          "searchId": "lager",
-          "postedAt": "2026-11-13",
-          "location": "Embrach ZH",
-          "url": "https://www.randstad.ch/jobs/mitarbeiter-logistikadministrator-lagerkoordination-100-mwd_embrach_14d9c368-c657-4d02-992a-0c2210218fa8"
-        },
-        {
-          "id": "08a405dd84af",
-          "title": "Puesto de logística en Bülach 100%",
-          "searchId": "lager",
-          "postedAt": "2026-11-13",
-          "location": "Bülach ZH",
-          "url": "https://www.randstad.ch/jobs/logistiker-stelle-in-buelach-100-mwd_buelach_4d8bcdd4-1afc-496d-8230-86b7477dd63e"
-        },
-        {
-          "id": "efe16baae345",
-          "title": "Empleado/a de logística en Rümlang 100%",
-          "searchId": "lager",
-          "postedAt": "2026-11-13",
-          "location": "Zürich (Rümlang) ZH",
-          "url": "https://www.randstad.ch/jobs/logistik-mitarbeiter-in-ruemlang-100-mwd_zuerich_d6a81aeb-6e7b-4cdd-933c-63f4454c4d8c"
-        },
-        {
-          "id": "8d963afa2e29",
-          "title": "Puesto de logística en Embrach 100%",
-          "searchId": "lager",
-          "postedAt": "2026-11-13",
-          "location": "Embrach ZH",
-          "url": "https://www.randstad.ch/jobs/logistik-stelle-in-embrach-100-mwd_embrach_92ece6f6-b80a-4d7e-b9d6-db2e6af1bfef"
-        },
-        {
-          "id": "1414833126da",
-          "title": "Ayudante de logística / polivalente 100%",
-          "searchId": "lager",
-          "postedAt": "2026-11-13",
-          "location": "Zürich ZH",
-          "url": "https://www.randstad.ch/jobs/logistikhelfer-allrounder-100-mwd_zuerich_aaf39531-956c-4790-b1c6-176200e94736"
-        },
-        {
-          "id": "d8ff8679265f",
-          "title": "Logista/o EFZ 100%",
-          "searchId": "lager",
-          "postedAt": "2026-11-13",
-          "location": "Zürich ZH",
-          "url": "https://www.randstad.ch/jobs/logistikerin-efz-100-mwd_zuerich_d819ba59-1250-4c38-bcf5-1ec9f00524c1"
-        },
-        {
-          "id": "9bd92225d241",
-          "title": "Logista/o EFZ 100%",
-          "searchId": "lager",
-          "postedAt": "2026-11-13",
-          "location": "Bülach ZH",
-          "url": "https://www.randstad.ch/jobs/logistikerin-efz-100_buelach_d0378e97-459d-44e4-9db1-df93b5fbfbdf"
-        },
-        {
-          "id": "1b6ce1435fce",
-          "title": "Ingeniero/a de automatización de pruebas (temporal, presencial)",
-          "searchId": "qa-test",
-          "postedAt": "2026-11-12",
-          "location": "Hinwil ZH",
-          "url": "https://ch.linkedin.com/jobs/view/test-automation-engineer-full-time-on-site-temporary-at-randstad-4490332920",
-          "englishOk": false
-        },
-        {
-          "id": "b7ba81ef0d52",
-          "title": "Mozo de almacén",
-          "searchId": "lager",
-          "postedAt": "2026-11-09",
-          "location": "Zürich",
-          "url": "https://www.randstad.com/jobs/lagermitarbeiter_zurich_47731709"
-        },
-        {
-          "id": "dba7a69f88d6",
-          "title": "Preparador/a de pedidos en almacén de frescos y frío (100 %)",
-          "searchId": "lager",
-          "postedAt": "2026-11-06",
-          "location": "Dietlikon",
-          "url": "https://www.randstad.com/jobs/kommissionierer-frische-und-kuhllager-100-mwd_dietlikon_47721105"
-        },
-        {
-          "id": "3db3ccf63013",
-          "title": "Almacenista / preparador/a de pedidos (100 %)",
-          "searchId": "lager",
-          "postedAt": "2026-11-06",
-          "location": "Zürich",
-          "url": "https://www.randstad.com/jobs/lagerist-100-mwd_zurich_47721051"
-        },
-        {
-          "id": "08f4c5adc3bb",
-          "title": "Ayudante de logística / polivalente (100 %)",
-          "searchId": "lager",
-          "postedAt": "2026-11-06",
-          "location": "Zürich",
-          "url": "https://www.randstad.com/jobs/logistikhelfer-allrounder-100-mwd_zurich_47350813"
-        },
-        {
-          "id": "52e5b635f0e7",
-          "title": "Empleado/a de logística en Rümlang (100 %)",
-          "searchId": "lager",
-          "postedAt": "2026-11-06",
-          "location": "Rümlang",
-          "url": "https://www.randstad.com/jobs/logistik-mitarbeiter-in-rumlang-100-mwd_zurich_47721113"
-        },
-        {
-          "id": "67b61612d812",
-          "title": "Logista EFZ 100 %",
-          "searchId": "lager",
-          "postedAt": "2026-11-06",
-          "location": "Zürich",
-          "url": "https://www.randstad.com/jobs/logistikerin-efz-100-mwd_zurich_47575681",
-          "englishOk": false
-        },
-        {
-          "id": "b36d59383442",
-          "title": "Puesto de logística en Embrach 100 % (con carretilla)",
-          "searchId": "lager",
-          "postedAt": "2026-11-06",
-          "location": "Embrach",
-          "url": "https://www.randstad.com/jobs/logistik-stelle-in-embrach-100-mwd_embrach_47350809",
-          "englishOk": false
-        },
-        {
-          "id": "979cc4348f88",
-          "title": "Logística y preparación de pedidos",
-          "searchId": "lager",
-          "postedAt": "2026-11-05",
-          "location": "Winterthur",
-          "url": "https://www.randstad.com/jobs/logistik-kommissionierung_winterthur_47714856"
-        },
-        {
-          "id": "9fd73896bedf",
-          "title": "Logista EFZ (puesto de bolsa, Winterthur)",
-          "searchId": "lager",
-          "postedAt": "2026-11-05",
-          "location": "Winterthur",
-          "url": "https://www.randstad.com/jobs/logistikerin-efz_winterthur_47714284",
-          "englishOk": false
-        },
-        {
-          "id": "f82af522c0d3",
-          "title": "Personal de limpieza (m/f/d)",
-          "searchId": "reinigung-flughafen",
-          "postedAt": "2026-11-05",
-          "location": "Zürich",
-          "url": "https://www.randstad.ch/jobs/reinigungsmitarbeiterin_zuerich_dae491e8-de17-4931-8109-3f23ccbb9aa1",
           "englishOk": false
         }
       ]
@@ -2636,49 +2728,6 @@
       ]
     },
     {
-      "key": "marriott international",
-      "name": "Marriott International",
-      "agency": false,
-      "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-19",
-      "searchIds": [
-        "kueche",
-        "temporada-invierno"
-      ],
-      "locations": [
-        "Zürich (Neumühlequai 42)",
-        "Verbier",
-        "Zurich"
-      ],
-      "jobs": [
-        {
-          "id": "2e79acd058d6",
-          "title": "Equipier polivalente (invierno 26/27) – W Verbier",
-          "searchId": "temporada-invierno",
-          "postedAt": "2026-11-19",
-          "location": "Verbier",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/ec662662-d95c-4fb9-add0-1fcb2a86956e"
-        },
-        {
-          "id": "aed0a1363899",
-          "title": "Personal temporal para banquetes y cocina",
-          "searchId": "kueche",
-          "postedAt": "2026-11-17",
-          "location": "Zurich",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/f67e6aed-36dd-4c49-aa6f-649540ae75b6"
-        },
-        {
-          "id": "7eaa714ead59",
-          "title": "Auxiliar de banquetes / cocina",
-          "searchId": "kueche",
-          "postedAt": "2026-11-10",
-          "location": "Zürich (Neumühlequai 42)",
-          "url": "https://ch.linkedin.com/jobs/view/4487316504",
-          "englishOk": false
-        }
-      ]
-    },
-    {
       "key": "migros zurich",
       "name": "Migros Zürich",
       "agency": false,
@@ -3097,6 +3146,39 @@
           "postedAt": "2026-11-19",
           "location": "Zürich",
           "url": "https://ch.linkedin.com/jobs/view/software-engineer-payments-java-spring-boot-at-worldline-4475574213"
+        }
+      ]
+    },
+    {
+      "key": "zsauber",
+      "name": "zsauber gmbh",
+      "agency": false,
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "searchIds": [
+        "reinigung-flughafen"
+      ],
+      "locations": [
+        "8001 Zürich"
+      ],
+      "jobs": [
+        {
+          "id": "b3b51d8ac4fe",
+          "title": "Empleada de limpieza 80-100%",
+          "searchId": "reinigung-flughafen",
+          "postedAt": "2026-11-19",
+          "location": "8001 Zürich",
+          "url": "https://www.jobscout24.ch/de/job/aa0887fc-5552-4e3f-88ed-5c1d5e7786c5",
+          "englishOk": false
+        },
+        {
+          "id": "95b7453b410c",
+          "title": "Empleada de limpieza 60-80%",
+          "searchId": "reinigung-flughafen",
+          "postedAt": "2026-11-19",
+          "location": "8001 Zürich",
+          "url": "https://www.jobscout24.ch/de/job/d9c97e96-fa20-4b41-a55c-31880e89e26e",
+          "englishOk": false
         }
       ]
     },
@@ -3600,6 +3682,30 @@
           "postedAt": "2026-11-18",
           "location": "Urdorf",
           "url": "https://www.jobs.ch/de/stellenangebote/detail/59ff80a5-4b01-4311-90fc-f6f201feddd6"
+        }
+      ]
+    },
+    {
+      "key": "genossenschaft migros zurich mm limmatplatz",
+      "name": "Genossenschaft Migros Zürich MM Limmatplatz",
+      "agency": false,
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "searchIds": [
+        "kueche"
+      ],
+      "locations": [
+        "Zürich ZH"
+      ],
+      "jobs": [
+        {
+          "id": "46b87daa5ed2",
+          "title": "Auxiliar de cocina de lavaplatos 50%",
+          "searchId": "kueche",
+          "postedAt": "2026-11-18",
+          "location": "Zürich ZH",
+          "url": "https://www.myjob.ch/job/abwaschkuechenmitarbeiterin-50/3675528",
+          "englishOk": false
         }
       ]
     },
@@ -4139,6 +4245,30 @@
           "postedAt": "2026-11-06",
           "location": "Zürich (Kreis 12)",
           "url": "https://www.jobscout24.ch/de/job/cd7b8756-8dab-42c1-b55f-7ce97f13e9d1",
+          "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "stadtspital zurich",
+      "name": "Stadtspital Zürich",
+      "agency": false,
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "searchIds": [
+        "lager"
+      ],
+      "locations": [
+        "Zürich (Waid und Triemli)"
+      ],
+      "jobs": [
+        {
+          "id": "5a1d6db070fa",
+          "title": "Empleado/a de transporte interno de mercancías y eliminación de residuos",
+          "searchId": "lager",
+          "postedAt": "2026-11-18",
+          "location": "Zürich (Waid und Triemli)",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/2b561fc0-d3f8-4abf-be7c-a026842a60f1",
           "englishOk": false
         }
       ]
@@ -5039,6 +5169,30 @@
       ]
     },
     {
+      "key": "primarschule ottenbach",
+      "name": "Primarschule Ottenbach",
+      "agency": false,
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17",
+      "searchIds": [
+        "reinigung-flughafen"
+      ],
+      "locations": [
+        "Ottenbach"
+      ],
+      "jobs": [
+        {
+          "id": "4a1582e7bb6c",
+          "title": "Personal de limpieza (30%)",
+          "searchId": "reinigung-flughafen",
+          "postedAt": "2026-11-17",
+          "location": "Ottenbach",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/3e02c574-2a49-441d-b003-1da69ed8fa69",
+          "englishOk": false
+        }
+      ]
+    },
+    {
       "key": "pro informatik",
       "name": "Pro Informatik AG",
       "agency": false,
@@ -5818,6 +5972,97 @@
           "postedAt": "2026-11-08",
           "location": "Zürich",
           "url": "https://ch.linkedin.com/jobs/view/4479655549"
+        }
+      ]
+    },
+    {
+      "key": "manpower",
+      "name": "Manpower",
+      "agency": true,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
+      "searchIds": [
+        "lager",
+        "umzug"
+      ],
+      "locations": [
+        "Dietikon",
+        "Buchs ZH",
+        "Regensdorf",
+        "Dübendorf",
+        "Zürich",
+        "Kloten"
+      ],
+      "jobs": [
+        {
+          "id": "9464e6d21500",
+          "title": "Carretillero/a 80-100%",
+          "searchId": "lager",
+          "postedAt": "2026-11-16",
+          "location": "Kloten",
+          "url": "https://www.manpower.ch/de/job/kloten/staplerfahrer-in-80-100-m-w-d-/626004",
+          "englishOk": false
+        },
+        {
+          "id": "33869b85a04f",
+          "title": "Empleado/a de almacén 80-100% (turno de noche)",
+          "searchId": "lager",
+          "postedAt": "2026-11-13",
+          "location": "Dietikon",
+          "url": "https://www.manpower.ch/fr/job/dietikon/lagermitarbeiter-in-80-100-nachtschicht-/634074"
+        },
+        {
+          "id": "1474c9305f96",
+          "title": "Almacenero/a turno de noche desde las 22:00 (picker de fruta y verdura)",
+          "searchId": "lager",
+          "postedAt": "2026-11-10",
+          "location": "Dietikon",
+          "url": "https://www.manpower.ch/en/job/zurich/lagermitarbeiter-in-fur-die-nachtschicht-ab-22-uhr/634671",
+          "englishOk": false
+        },
+        {
+          "id": "c22e63f4f1b1",
+          "title": "Carretillero/a 100 % en Buchs ZH",
+          "searchId": "lager",
+          "postedAt": "2026-11-10",
+          "location": "Buchs ZH",
+          "url": "https://www.manpower.ch/en/job/buchs/staplerfahrer-in-100-m-w-d-in-8107-buchs-zh/637405",
+          "englishOk": false
+        },
+        {
+          "id": "5bb4bb28f615",
+          "title": "Carretillero/a 100 % en Buchs ZH",
+          "searchId": "lager",
+          "postedAt": "2026-11-10",
+          "location": "Buchs ZH",
+          "url": "https://www.manpower.ch/de/job/buchs/staplerfahrer-in-100-m-w-d-in-8107-buchs-zh/637405",
+          "englishOk": false
+        },
+        {
+          "id": "2e121628bef5",
+          "title": "Planificador/a de logística de mudanzas 100 %",
+          "searchId": "umzug",
+          "postedAt": "2026-11-10",
+          "location": "Zürich",
+          "url": "https://www.myjob.ch/job/disponent-logistik-fuer-umzug-m-w-d-100/3650377"
+        },
+        {
+          "id": "50b45c62199a",
+          "title": "Logista EFZ 100 %",
+          "searchId": "lager",
+          "postedAt": "2026-11-09",
+          "location": "Regensdorf",
+          "url": "https://www.manpower.ch/en/job/regensdorf/logistiker-efz-100-m-w-d-/625971",
+          "englishOk": false
+        },
+        {
+          "id": "c05c47ceb257",
+          "title": "Carretillero/a 80–100 %",
+          "searchId": "lager",
+          "postedAt": "2026-11-09",
+          "location": "Dübendorf",
+          "url": "https://www.manpower.ch/de/job/dubendorf/staplerfahrer-in-80-100-m-w-d-/626005",
+          "englishOk": false
         }
       ]
     },
@@ -7272,87 +7517,6 @@
           "postedAt": "2026-11-08",
           "location": "Hombrechtikon ZH",
           "url": "https://www.myjob.ch/job/umzugsleiter-100/3647147"
-        }
-      ]
-    },
-    {
-      "key": "manpower",
-      "name": "Manpower",
-      "agency": true,
-      "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-13",
-      "searchIds": [
-        "lager",
-        "umzug"
-      ],
-      "locations": [
-        "Dietikon",
-        "Buchs ZH",
-        "Regensdorf",
-        "Dübendorf",
-        "Zürich"
-      ],
-      "jobs": [
-        {
-          "id": "33869b85a04f",
-          "title": "Empleado/a de almacén 80-100% (turno de noche)",
-          "searchId": "lager",
-          "postedAt": "2026-11-13",
-          "location": "Dietikon",
-          "url": "https://www.manpower.ch/fr/job/dietikon/lagermitarbeiter-in-80-100-nachtschicht-/634074"
-        },
-        {
-          "id": "1474c9305f96",
-          "title": "Almacenero/a turno de noche desde las 22:00 (picker de fruta y verdura)",
-          "searchId": "lager",
-          "postedAt": "2026-11-10",
-          "location": "Dietikon",
-          "url": "https://www.manpower.ch/en/job/zurich/lagermitarbeiter-in-fur-die-nachtschicht-ab-22-uhr/634671",
-          "englishOk": false
-        },
-        {
-          "id": "c22e63f4f1b1",
-          "title": "Carretillero/a 100 % en Buchs ZH",
-          "searchId": "lager",
-          "postedAt": "2026-11-10",
-          "location": "Buchs ZH",
-          "url": "https://www.manpower.ch/en/job/buchs/staplerfahrer-in-100-m-w-d-in-8107-buchs-zh/637405",
-          "englishOk": false
-        },
-        {
-          "id": "5bb4bb28f615",
-          "title": "Carretillero/a 100 % en Buchs ZH",
-          "searchId": "lager",
-          "postedAt": "2026-11-10",
-          "location": "Buchs ZH",
-          "url": "https://www.manpower.ch/de/job/buchs/staplerfahrer-in-100-m-w-d-in-8107-buchs-zh/637405",
-          "englishOk": false
-        },
-        {
-          "id": "2e121628bef5",
-          "title": "Planificador/a de logística de mudanzas 100 %",
-          "searchId": "umzug",
-          "postedAt": "2026-11-10",
-          "location": "Zürich",
-          "url": "https://www.myjob.ch/job/disponent-logistik-fuer-umzug-m-w-d-100/3650377"
-        },
-        {
-          "id": "50b45c62199a",
-          "title": "Logista EFZ 100 %",
-          "searchId": "lager",
-          "postedAt": "2026-11-09",
-          "location": "Regensdorf",
-          "url": "https://www.manpower.ch/en/job/regensdorf/logistiker-efz-100-m-w-d-/625971",
-          "englishOk": false
-        },
-        {
-          "id": "c05c47ceb257",
-          "title": "Carretillero/a 80–100 %",
-          "searchId": "lager",
-          "postedAt": "2026-11-09",
-          "location": "Dübendorf",
-          "url": "https://www.manpower.ch/de/job/dubendorf/staplerfahrer-in-80-100-m-w-d-/626005",
-          "englishOk": false
         }
       ]
     },

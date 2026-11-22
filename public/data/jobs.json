@@ -1,6 +1,45 @@
 {
-  "updatedAt": "2026-11-22T06:23:22.992Z",
+  "updatedAt": "2026-11-22T07:17:00.784Z",
   "jobs": [
+    {
+      "searchId": "lager",
+      "title": "Lagermitarbeiter m/w 100%",
+      "titleEs": "Mozo/a de almacén 100%",
+      "company": "Randstad (Schweiz) AG",
+      "location": "Otelfingen",
+      "postedAt": "2026-11-22",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/fc440bc5-dbee-4336-80c8-4bc5a6fbe2ab",
+      "summary": "Puesto temporal de almacén en Otelfingen: picking, etiquetado y preparación de envíos, de lunes a viernes de 6:00 a 16:00.",
+      "description": "Preparación de pedidos, trabajos generales de almacén, etiquetado, embalaje y preparación de envíos, manteniendo el área ordenada y segura.",
+      "requirements": [
+        "Experiencia como operario de almacén y en picking",
+        "Capacidad de aprendizaje",
+        "Responsable e independiente",
+        "Alemán mínimo A2"
+      ],
+      "workload": "100 %",
+      "employmentType": "Temporal",
+      "language": "Alemán A2",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "summary": "Temporärer Lagerjob in Otelfingen: Kommissionieren, Etikettieren und Versandbereitstellung, Mo-Fr 6:00-16:00.",
+        "description": "Kommissionieren, allgemeine Lagerarbeiten, Etikettieren, Verpacken und Bereitstellen von Sendungen, Ordnung und Sauberkeit im Bereich.",
+        "requirements": [
+          "Erfahrung als Lagermitarbeiter und im Rüsten/Kommissionieren",
+          "Lernbereitschaft",
+          "Verantwortungsbewusst und selbständig",
+          "Deutsch mind. A2"
+        ],
+        "workload": "100 %",
+        "employmentType": "Temporär / Aushilfe",
+        "language": "Deutsch A2",
+        "title": "Lagermitarbeiter m/w 100%"
+      },
+      "id": "f5ff81b4a5b2",
+      "foundAt": "2026-11-22T07:17:00.784Z"
+    },
     {
       "searchId": "fullstack-ts",
       "title": "Senior Java / Kotlin Microservices Engineer (m/w/d)",
@@ -967,6 +1006,128 @@
       },
       "id": "7630b1137acb",
       "foundAt": "2026-11-21T06:21:56.881Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Mitarbeiter Flugzeugabfertigung Flughafen Zürich 50 % (m/w/d)",
+      "titleEs": "Empleado/a de handling de aeronaves Aeropuerto de Zúrich 50 %",
+      "company": "Randstad (Schweiz) AG",
+      "location": "Glattbrugg (Flughafen Zürich)",
+      "postedAt": "2026-11-20",
+      "source": "Randstad",
+      "url": "https://www.randstad.com/jobs/mitarbeiter-flugzeugabfertigung-flughafen-zurich-50-prozent-mwd_glattbrugg_47791841",
+      "summary": "Handling de aeronaves en la plataforma del aeropuerto de Zúrich (carga de equipaje, calzos, equipos de rampa). No incluye limpieza. Temporal, 50 % ampliable hasta 100 %.",
+      "description": "Recibir aviones, colocar calzos y marcas, cargar y descargar equipaje y carga, coordinar el atraque, suministro eléctrico y manejo de equipos de rampa. Turnos aprox. 4:00-23:30, también fines de semana.",
+      "requirements": [
+        "Buena forma física y trabajo al aire libre",
+        "Alemán fluido",
+        "Turnos irregulares",
+        "Carné B suizo y coche propio",
+        "Certificado de antecedentes penales limpio",
+        "Pasaporte suizo o permiso B/C"
+      ],
+      "workload": "50 % (hasta 100 %)",
+      "employmentType": "Temporal, posible contrato fijo tras 6 meses",
+      "language": "Alemán fluido",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "summary": "Flugzeugabfertigung auf dem Vorfeld des Flughafens Zürich (Gepäck, Unterlegkeile, Rampengeräte), keine Reinigung. Temporär, 50 % bis 100 %.",
+        "description": "Ankommende Flugzeuge empfangen, Unterlegkeile und Bodenmarkierungen setzen, Gepäck und Fracht ein- und ausladen, Andocken koordinieren, Stromversorgung sicherstellen und Rampengeräte bedienen. Schichten ca. 4:00-23:30, auch Wochenende und Feiertage.",
+        "requirements": [
+          "Körperlich fit und wetterfest",
+          "Fliessend Deutsch",
+          "Unregelmässige Schichten",
+          "Schweizer Führerausweis Kat. B und eigenes Auto",
+          "Einwandfreier Strafregisterauszug",
+          "Schweizer Pass oder gültige Bewilligung B/C"
+        ],
+        "workload": "50 % (bis 100 %)",
+        "employmentType": "Temporär, nach 6 Monaten Festanstellung möglich",
+        "language": "Deutsch fliessend",
+        "title": "Mitarbeiter Flugzeugabfertigung Flughafen Zürich 50 % (m/w/d)"
+      },
+      "id": "7839866c9f4e",
+      "foundAt": "2026-11-22T07:17:00.784Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Airport Service Staff (Vollzeit / Teilzeit)",
+      "titleEs": "Personal de servicios aeroportuarios (jornada completa / parcial)",
+      "company": "Randstad (Schweiz) AG",
+      "location": "Kloten (Flughafen Zürich)",
+      "postedAt": "2026-11-20",
+      "source": "Randstad",
+      "url": "https://www.randstad.com/jobs/airport-service-staff-vollzeit-teilzeit_kloten_47707170",
+      "summary": "Puesto temporal de servicios aeroportuarios en Kloten: logística y carga, equipaje y limpieza de cabinas de aeronaves. Alemán B1 o inglés fluido.",
+      "description": "Gestión de stock de almacén y traspaso de paquetes, apoyo en clasificación y carga de equipaje, limpieza de cabinas para el siguiente vuelo y apoyo general en plataforma.",
+      "requirements": [
+        "Alemán B1 o inglés fluido",
+        "Carné de carretillero SUVA (ventaja)",
+        "Carné de conducir suizo y coche (ventaja)",
+        "Certificado de antecedentes penales limpio",
+        "Buena forma física"
+      ],
+      "workload": "Jornada completa o parcial",
+      "employmentType": "Temporal",
+      "language": "Alemán B1 o inglés fluido",
+      "englishOk": true,
+      "seniority": "junior",
+      "de": {
+        "summary": "Temporärer Airport-Service in Kloten: Logistik und Fracht, Gepäck und Flugzeugkabinenreinigung. Deutsch B1 oder fliessend Englisch.",
+        "description": "Lagerbestände verwalten und Pakete umschlagen, bei Gepäcksortierung und Verladung helfen, Kabinen für den nächsten Abflug reinigen und allgemein auf dem Vorfeld unterstützen.",
+        "requirements": [
+          "Deutsch B1 oder fliessend Englisch",
+          "SUVA-Staplerausweis von Vorteil",
+          "Schweizer Führerausweis und Auto von Vorteil",
+          "Einwandfreier Strafregisterauszug",
+          "Körperlich fit und belastbar"
+        ],
+        "workload": "Vollzeit / Teilzeit",
+        "employmentType": "Temporär",
+        "language": "Deutsch B1 oder fliessend Englisch",
+        "title": "Airport Service Staff (Vollzeit / Teilzeit)"
+      },
+      "id": "bfb6d466a745",
+      "foundAt": "2026-11-22T07:17:00.784Z"
+    },
+    {
+      "searchId": "temporada-invierno",
+      "title": "Spa-Mitarbeiter 50 % (Winter 26/27) - W VERBIER",
+      "titleEs": "Auxiliar de spa 50 % (invierno 26/27) - W Verbier",
+      "company": "Marriott International",
+      "location": "Verbier VS",
+      "postedAt": "2026-11-20",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/8b2c951c-3fe3-424b-a124-d3e2b20e88e9",
+      "summary": "Puesto de auxiliar de spa en el hotel W Verbier para la temporada de invierno (diciembre 2026 a marzo 2027), unas 4 horas al día por la tarde.",
+      "description": "Limpieza del área de spa y de sus baños, organización y almacenaje de los artículos del spa y reposición de toallas, albornoces y zapatillas. Solo se consideran candidatos de Suiza o la UE.",
+      "requirements": [
+        "Experiencia previa como auxiliar de spa",
+        "Experiencia en hostelería",
+        "Francés e inglés fluidos",
+        "Atención al detalle"
+      ],
+      "workload": "50 %",
+      "employmentType": "Temporada de invierno (dic 2026 – mar 2027)",
+      "language": "Francés e inglés fluidos",
+      "englishOk": false,
+      "de": {
+        "title": "Spa-Mitarbeiter 50 % (Winter 26/27) - W VERBIER",
+        "summary": "Stelle als Spa-Mitarbeiter im W Verbier für die Wintersaison (Dezember 2026 bis März 2027), ca. 4 Stunden pro Tag am Nachmittag.",
+        "description": "Reinigung des Spa-Bereichs inkl. Spa-Toiletten, Organisation und Lagerung der Spa-Artikel sowie Auffüllen von Handtüchern, Bademänteln und Pantoffeln. Nur Bewerbungen aus der Schweiz oder der EU.",
+        "requirements": [
+          "Erfahrung als Spa-Mitarbeiter",
+          "Erfahrung in der Hotellerie",
+          "Fliessend Französisch und Englisch",
+          "Liebe zum Detail"
+        ],
+        "workload": "50 %",
+        "employmentType": "Wintersaison (Dez 2026 – Mär 2027)",
+        "language": "Fliessend Französisch und Englisch"
+      },
+      "id": "0cb1bf13982b",
+      "foundAt": "2026-11-22T07:17:00.784Z"
     },
     {
       "searchId": "frontend-react",
@@ -2157,6 +2318,86 @@
       "foundAt": "2026-11-20T06:19:56.550Z"
     },
     {
+      "searchId": "reinigung-flughafen",
+      "title": "Raumpflegerin 80 bis 100%",
+      "titleEs": "Empleada de limpieza 80-100%",
+      "company": "zsauber gmbh",
+      "location": "8001 Zürich",
+      "postedAt": "2026-11-19",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/aa0887fc-5552-4e3f-88ed-5c1d5e7786c5",
+      "summary": "Limpieza de habitaciones para clientes fijos en Zúrich, lunes a viernes, sin fines de semana, desde mediados de enero de 2027, con abono GA ZVV.",
+      "description": "Limpieza de habitaciones para una cartera fija de clientes, turnos de lunes a viernes aprox. 7:00 a 19:30.",
+      "requirements": [
+        "Experiencia previa en limpieza de habitaciones",
+        "Buen alemán",
+        "Conocimiento del método de cuatro colores",
+        "Fiable y atenta al detalle",
+        "Manejo de smartphone, apps y Google Maps"
+      ],
+      "workload": "80-100 %",
+      "employmentType": "Contrato fijo (salario fijo según GAV)",
+      "language": "Alemán bueno",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "summary": "Zimmerreinigung für feste Kundschaft in Zürich, Mo-Fr ohne Wochenende, ab Mitte Januar 2027, inkl. GA ZVV.",
+        "description": "Zimmerreinigung bei einem festen Kundenstamm, Einsätze Montag bis Freitag ca. 7:00 bis 19:30 Uhr.",
+        "requirements": [
+          "Erfahrung in der Zimmerreinigung",
+          "Gute Deutschkenntnisse",
+          "Kenntnis der Vier-Farben-Methode",
+          "Zuverlässig und detailorientiert",
+          "Sicherer Umgang mit Smartphone, Apps und Google Maps"
+        ],
+        "workload": "80-100 %",
+        "employmentType": "Festanstellung (Fixlohn gemäss GAV)",
+        "language": "Gute Deutschkenntnisse",
+        "title": "Raumpflegerin 80 bis 100%"
+      },
+      "id": "b3b51d8ac4fe",
+      "foundAt": "2026-11-22T07:17:00.784Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Raumpflegerin 60 bis 80%",
+      "titleEs": "Empleada de limpieza 60-80%",
+      "company": "zsauber gmbh",
+      "location": "8001 Zürich",
+      "postedAt": "2026-11-19",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/d9c97e96-fa20-4b41-a55c-31880e89e26e",
+      "summary": "Limpieza de oficinas fuera del horario de los clientes en Zúrich, de miércoles a sábado (6-10 y 17-21), desde mediados de enero de 2027.",
+      "description": "Limpieza y cuidado de oficinas con cartera fija de clientes, bloques fijos de miércoles a sábado de 6:00 a 10:00 y de 17:00 a 21:00.",
+      "requirements": [
+        "Experiencia en limpieza",
+        "Conocimiento del principio de cuatro colores",
+        "Buen alemán",
+        "Trabajo autónomo y en equipo"
+      ],
+      "workload": "60-80 %",
+      "employmentType": "Contrato fijo (salario fijo según GAV)",
+      "language": "Alemán bueno",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "summary": "Büroreinigung ausserhalb der Kundenzeiten in Zürich, Mi-Sa (6-10 und 17-21 Uhr), ab Mitte Januar 2027.",
+        "description": "Reinigung und Pflege von Büroräumen bei festem Kundenstamm, feste Einsatzblöcke Mittwoch bis Samstag 6:00-10:00 und 17:00-21:00.",
+        "requirements": [
+          "Reinigungserfahrung",
+          "Kenntnis des Vier-Farben-Prinzips",
+          "Gute Deutschkenntnisse",
+          "Selbständige Arbeitsweise und Teamfähigkeit"
+        ],
+        "workload": "60-80 %",
+        "employmentType": "Festanstellung (Fixlohn gemäss GAV)",
+        "language": "Gute Deutschkenntnisse",
+        "title": "Raumpflegerin 60 bis 80%"
+      },
+      "id": "95b7453b410c",
+      "foundAt": "2026-11-22T07:17:00.784Z"
+    },
+    {
       "searchId": "qa-test",
       "title": "V&V Engineer",
       "titleEs": "Ingeniero/a de verificación y validación (V&V)",
@@ -3201,6 +3442,86 @@
       },
       "id": "407c3c540eb9",
       "foundAt": "2026-11-19T10:46:09.094Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Abwaschküchenmitarbeiter*in 50%",
+      "titleEs": "Auxiliar de cocina de lavaplatos 50%",
+      "company": "Genossenschaft Migros Zürich MM Limmatplatz",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-18",
+      "source": "myjob.ch",
+      "url": "https://www.myjob.ch/job/abwaschkuechenmitarbeiterin-50/3675528",
+      "summary": "Puesto fijo al 50% en la cocina de lavaplatos del restaurante Migros Limmatplatz, de lunes a viernes de 11:30 a 16:00, sin fines de semana ni festivos.",
+      "description": "Lavar y cuidar vajilla, porcelana y cubiertos y manejar el lavavajillas; limpiar y preparar la zona de mesas y mostradores durante el servicio de mediodía; apoyar la oficina de cocina y ayudar en la cocina de preparación; montar la terraza.",
+      "requirements": [
+        "No se exige formación",
+        "Varios años de experiencia en gastronomía",
+        "Fiable, limpio y eficiente",
+        "Puntual, flexible y en buena forma física",
+        "Conocimientos básicos de PC (Outlook)"
+      ],
+      "workload": "50 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán B1",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Abwaschküchenmitarbeiter*in 50%",
+        "summary": "Festanstellung zu 50% in der Abwaschküche des Migros Restaurants Limmatplatz, Montag bis Freitag von 11.30 bis 16.00 Uhr, ohne Wochenenden und Feiertage.",
+        "description": "Geschirr, Porzellan und Besteck waschen und pflegen sowie die Spülmaschine bedienen; Tischbereich und Theken während des Mittagsservice reinigen und vorbereiten; Küchenoffice unterstützen und regelmässig in der Vorbereitungsküche helfen; Terrasse einrichten.",
+        "requirements": [
+          "Keine Ausbildung erforderlich",
+          "Mehrjährige Erfahrung in der Gastronomie",
+          "Zuverlässig, sauber und effizient",
+          "Pünktlich, flexibel und körperlich fit",
+          "Grundkenntnisse am PC (Outlook)"
+        ],
+        "workload": "50 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch B1"
+      },
+      "id": "46b87daa5ed2",
+      "foundAt": "2026-11-22T07:17:00.784Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Mitarbeiter*in Warentransport und Entsorgung",
+      "titleEs": "Empleado/a de transporte interno de mercancías y eliminación de residuos",
+      "company": "Stadtspital Zürich",
+      "location": "Zürich (Waid und Triemli)",
+      "postedAt": "2026-11-18",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/2b561fc0-d3f8-4abf-be7c-a026842a60f1",
+      "summary": "Transporte interno de mercancías y gestión de residuos en el Stadtspital Zürich, 50 %, contrato de un año desde febrero de 2027.",
+      "description": "Rutas diarias de transporte interno y turnos de fin de semana, escaneo de paquetes y seguimiento de envíos, eliminación correcta de residuos, manejo de compactadoras y mantenimiento básico de vehículos.",
+      "requirements": [
+        "Disponibilidad para trabajar en Waid y Triemli, fines de semana y turnos tardíos",
+        "Idealmente Logistiker EFZ o experiencia práctica en logística",
+        "Buen alemán y MS Office",
+        "Carné de conducir categoría B suizo"
+      ],
+      "workload": "50 %",
+      "employmentType": "Contrato de 1 año",
+      "language": "Alemán fluido",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "summary": "Interner Warentransport und Entsorgung im Stadtspital Zürich (Waid und Triemli), 50 %, befristet auf ein Jahr ab Februar 2027.",
+        "description": "Tägliche interne Transporttouren und Wochenenddienste, Scannen von Paketen und Sendungsverfolgung, fachgerechte Entsorgung, Bedienung von Karton- und Abfallpressen, Wartung von Fahrzeugen und Geräten.",
+        "requirements": [
+          "Bereitschaft für Einsätze in Waid und Triemli, Wochenend- und Spätdienste",
+          "Idealerweise Logistiker/in EFZ oder praktische Logistikerfahrung",
+          "Gutes Deutsch und MS-Office-Kenntnisse",
+          "Schweizer Führerausweis Kat. B"
+        ],
+        "workload": "50 %",
+        "employmentType": "Befristet (1 Jahr)",
+        "language": "Deutsch fliessend",
+        "title": "Mitarbeiter*in Warentransport und Entsorgung"
+      },
+      "id": "5a1d6db070fa",
+      "foundAt": "2026-11-22T07:17:00.784Z"
     },
     {
       "searchId": "qa-test",
@@ -4951,6 +5272,82 @@
       },
       "id": "46b08b510453",
       "foundAt": "2026-11-18T07:22:33.933Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Staplerfahrer/-in 100% (m/w/d) in 8107 Buchs ZH",
+      "titleEs": "Carretillero/a 100% en Buchs ZH",
+      "company": "Manpower",
+      "location": "Buchs ZH",
+      "postedAt": "2026-11-17",
+      "source": "Manpower",
+      "url": "https://www.manpower.ch/de/job/buchs/staplerfahrer-in-100-m-w-d-in-8107-buchs-zh/637405",
+      "summary": "Carretillero en Buchs ZH vía Manpower: almacenaje, picking y carga de camiones, lunes a viernes 7:30-17:30. Exige varios años de experiencia logística.",
+      "description": "Almacenar mercancías con carretillas retráctiles o frontales, preparar pedidos, cargar camiones y tareas generales de expedición.",
+      "requirements": [
+        "Varios años de experiencia en logística",
+        "Carné de carretillero reconocido por SUVA con práctica",
+        "Buen alemán hablado",
+        "Resistencia física"
+      ],
+      "workload": "100 %",
+      "employmentType": "Temporal con opción a contrato fijo",
+      "language": "Alemán hablado bueno",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "summary": "Staplerfahrer in Buchs ZH über Manpower: Lagerung, Kommissionierung und LKW-Beladung, Mo-Fr 7:30-17:30. Mehrjährige Logistikerfahrung nötig.",
+        "description": "Waren mit Schubmast- oder Gegengewichtsstapler einlagern, Produkte kommissionieren und bereitstellen, LKW verladen und allgemeine Speditionsarbeiten.",
+        "requirements": [
+          "Mehrjährige Erfahrung in der Logistik",
+          "SUVA-anerkannter Staplerausweis mit Praxis",
+          "Gute Deutschkenntnisse in Wort",
+          "Körperliche Belastbarkeit"
+        ],
+        "workload": "100 %",
+        "employmentType": "Temporär mit Option auf Festanstellung",
+        "language": "Gute Deutschkenntnisse in Wort",
+        "title": "Staplerfahrer/-in 100% (m/w/d) in 8107 Buchs ZH"
+      },
+      "id": "5bb4bb28f615",
+      "foundAt": "2026-11-22T07:17:00.784Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Reinigungsfachkraft (30%)",
+      "titleEs": "Personal de limpieza (30%)",
+      "company": "Primarschule Ottenbach",
+      "location": "Ottenbach",
+      "postedAt": "2026-11-17",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/3e02c574-2a49-441d-b003-1da69ed8fa69",
+      "summary": "Limpieza al 30 % en la escuela primaria de Ottenbach, apoyando al equipo de conserjería, inicio el 1 de marzo de 2027.",
+      "description": "Apoyar al equipo de conserjería en la limpieza, mantener los locales limpios e higiénicos y colaborar con el responsable de mantenimiento cuando haga falta.",
+      "requirements": [
+        "Experiencia en limpieza (ventaja)",
+        "Trabajo preciso y fiable",
+        "Capacidad de trabajo en equipo y flexibilidad"
+      ],
+      "workload": "30 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "summary": "Reinigung zu 30 % an der Primarschule Ottenbach zur Unterstützung des Hauswartteams, Start 1. März 2027.",
+        "description": "Das Hauswartteam bei der Reinigung unterstützen, Räume sauber und hygienisch halten und bei Bedarf mit dem Leiter Gebäudeunterhalt zusammenarbeiten.",
+        "requirements": [
+          "Reinigungserfahrung von Vorteil",
+          "Genaue und zuverlässige Arbeitsweise",
+          "Teamfähigkeit und Flexibilität"
+        ],
+        "workload": "30 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch",
+        "title": "Reinigungsfachkraft (30%)"
+      },
+      "id": "4a1582e7bb6c",
+      "foundAt": "2026-11-22T07:17:00.784Z"
     },
     {
       "searchId": "lager",
@@ -6725,6 +7122,45 @@
       },
       "id": "e5a156474c01",
       "foundAt": "2026-11-17T06:20:07.343Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Staplerfahrer/-in 80-100% (m/w/d)",
+      "titleEs": "Carretillero/a 80-100%",
+      "company": "Manpower",
+      "location": "Kloten",
+      "postedAt": "2026-11-16",
+      "source": "Manpower",
+      "url": "https://www.manpower.ch/de/job/kloten/staplerfahrer-in-80-100-m-w-d-/626004",
+      "summary": "Carretillero en Kloten vía Manpower: almacenaje, picking, carga de camiones y documentos de entrega, con turnos.",
+      "description": "Almacenar mercancías con carretillas, preparar productos, cargar camiones, revisar y procesar documentos de entrega y tareas generales de expedición.",
+      "requirements": [
+        "Varios años de experiencia logística",
+        "Carné de carretillero reconocido por SUVA",
+        "Buen alemán",
+        "Disponibilidad para turnos"
+      ],
+      "workload": "80-100 %",
+      "employmentType": "Temporal con opción a contrato fijo",
+      "language": "Alemán bueno",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "summary": "Staplerfahrer in Kloten über Manpower: Lagerung, Kommissionierung, LKW-Beladung und Lieferdokumente im Schichtbetrieb.",
+        "description": "Waren mit Stapler einlagern, Produkte kommissionieren und bereitstellen, LKW beladen, Lieferpapiere prüfen und bearbeiten, allgemeine Speditionsarbeiten.",
+        "requirements": [
+          "Mehrjährige Logistikerfahrung",
+          "SUVA-anerkannter Staplerausweis",
+          "Gute Deutschkenntnisse",
+          "Bereitschaft zu Schichtarbeit"
+        ],
+        "workload": "80-100 %",
+        "employmentType": "Temporär mit Option auf Festanstellung",
+        "language": "Gute Deutschkenntnisse",
+        "title": "Staplerfahrer/-in 80-100% (m/w/d)"
+      },
+      "id": "9464e6d21500",
+      "foundAt": "2026-11-22T07:17:00.784Z"
     },
     {
       "searchId": "fullstack-ts",
@@ -12472,6 +12908,42 @@
       },
       "id": "6d58f43b5702",
       "foundAt": "2026-11-12T10:00:08.920Z"
+    },
+    {
+      "searchId": "temporada-invierno",
+      "title": "Style Agent (Hausdame) (Sommer + Winter) - W VERBIER",
+      "titleEs": "Style Agent / camarera de pisos (verano + invierno) - W Verbier",
+      "company": "Marriott International",
+      "location": "Verbier VS",
+      "postedAt": "2026-11-10",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/4605429c-e3ef-44db-8213-5f729ee9f3f6",
+      "summary": "Puesto de camarera/o de pisos (housekeeping) a tiempo completo en el hotel W Verbier, de verano e invierno.",
+      "description": "Limpieza de habitaciones y baños de huéspedes (incluso ocupadas) según los estándares del hotel, preparación y reposición de carros de limpieza y orden de los armarios de ropa blanca en las plantas asignadas. Solo se consideran candidatos de Suiza o la UE.",
+      "requirements": [
+        "Experiencia en housekeeping en hotel de 5 estrellas",
+        "Francés e inglés fluidos",
+        "Motivación y atención al detalle"
+      ],
+      "workload": "100 %",
+      "employmentType": "Verano e invierno (temporada)",
+      "language": "Francés e inglés fluidos",
+      "englishOk": false,
+      "de": {
+        "title": "Style Agent (Hausdame) (Sommer + Winter) - W VERBIER",
+        "summary": "Vollzeitstelle im Housekeeping im W Verbier (Sommer und Winter).",
+        "description": "Reinigung der Gästezimmer und Badezimmer (auch belegt) nach Hotelstandards, Vorbereitung und Auffüllen der Reinigungswagen sowie Ordnung der Wäscheschränke auf den zugewiesenen Etagen. Nur Bewerbungen aus der Schweiz und der EU.",
+        "requirements": [
+          "Housekeeping-Erfahrung in einem 5-Sterne-Hotel",
+          "Fliessend Französisch und Englisch",
+          "Hohe Motivation und Liebe zum Detail"
+        ],
+        "workload": "100 %",
+        "employmentType": "Sommer + Winter",
+        "language": "Fliessend Französisch und Englisch"
+      },
+      "id": "2dcddc76bbc5",
+      "foundAt": "2026-11-22T07:17:00.784Z"
     },
     {
       "searchId": "hotel",
