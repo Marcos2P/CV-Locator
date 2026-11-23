@@ -1,98 +1,12 @@
 {
-  "updatedAt": "2026-11-23T06:17:17.789Z",
+  "updatedAt": "2026-11-23T07:19:03.443Z",
   "companies": [
-    {
-      "key": "stadt zurich organisation und informatik",
-      "name": "Stadt Zürich – Organisation und Informatik",
-      "agency": false,
-      "firstSeen": "2026-11-23",
-      "lastSeen": "2026-11-23",
-      "searchIds": [
-        "fullstack-ts"
-      ],
-      "locations": [
-        "Zürich"
-      ],
-      "jobs": [
-        {
-          "id": "ebd1674956ff",
-          "title": "Desarrollador/a de software",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-23",
-          "location": "Zürich",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/71a419c2-ec48-419f-9b9f-a3c694e56eaa",
-          "englishOk": false
-        }
-      ]
-    },
-    {
-      "key": "vontobel",
-      "name": "Vontobel",
-      "agency": false,
-      "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-23",
-      "searchIds": [
-        "fullstack-ts"
-      ],
-      "locations": [
-        "Zürich"
-      ],
-      "jobs": [
-        {
-          "id": "a539a5c5973a",
-          "title": "Senior Full-Stack SW Engineer E-Banking",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-23",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/4466693712"
-        },
-        {
-          "id": "1089b9a8f01e",
-          "title": "Senior Full-Stack SW Engineer E-Banking",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-06",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/senior-full-stack-sw-engineer-e-banking-at-vontobel-4466693712"
-        }
-      ]
-    },
-    {
-      "key": "xorlab",
-      "name": "xorlab",
-      "agency": false,
-      "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-23",
-      "searchIds": [
-        "fullstack-ts"
-      ],
-      "locations": [
-        "Zürich"
-      ],
-      "jobs": [
-        {
-          "id": "7a434e0d5900",
-          "title": "Full-Stack Software Engineer (producto nativo de IA)",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-23",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/4492351853"
-        },
-        {
-          "id": "b8686f209603",
-          "title": "Full-Stack Software Engineer - AI-Native Product Development",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-10-30",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/full-stack-software-engineer-ai-native-product-development-at-xorlab-4480674486"
-        }
-      ]
-    },
     {
       "key": "coople",
       "name": "Coople",
       "agency": true,
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-22",
+      "lastSeen": "2026-11-23",
       "searchIds": [
         "hotel",
         "reinigung-flughafen",
@@ -115,9 +29,19 @@
         "8001 Zürich",
         "Otelfingen ZH",
         "Zürich ZH (8044)",
-        "Zürich ZH (8001)"
+        "Zürich ZH (8001)",
+        "Adliswil"
       ],
       "jobs": [
+        {
+          "id": "48d4c223b969",
+          "title": "Cocinero/a de apoyo (turno puntual)",
+          "searchId": "kueche",
+          "postedAt": "2026-11-23",
+          "location": "Adliswil",
+          "url": "https://www.coople.com/ch/jobs/de/f068281e-9ab0-4ce8-a9ae-d5202858534b",
+          "englishOk": false
+        },
         {
           "id": "67d53cf70ce8",
           "title": "Preparador/a de pedidos (tienda) – turno puntual",
@@ -290,6 +214,175 @@
       ]
     },
     {
+      "key": "honegger",
+      "name": "Honegger AG",
+      "agency": false,
+      "firstSeen": "2026-11-23",
+      "lastSeen": "2026-11-23",
+      "searchIds": [
+        "reinigung-flughafen"
+      ],
+      "locations": [
+        "Bülach"
+      ],
+      "jobs": [
+        {
+          "id": "36e4595398d4",
+          "title": "Personal de limpieza (10–50 %)",
+          "searchId": "reinigung-flughafen",
+          "postedAt": "2026-11-23",
+          "location": "Bülach",
+          "url": "https://www.myjob.ch/job/mitarbeiter-in-reinigung-m-w-d/2922609",
+          "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "job impuls lenzburg",
+      "name": "job impuls ag Lenzburg",
+      "agency": false,
+      "firstSeen": "2026-11-23",
+      "lastSeen": "2026-11-23",
+      "searchIds": [
+        "lager"
+      ],
+      "locations": [
+        "Adliswil"
+      ],
+      "jobs": [
+        {
+          "id": "b5ceef6d0e08",
+          "title": "Mozo/a de almacén",
+          "searchId": "lager",
+          "postedAt": "2026-11-23",
+          "location": "Adliswil",
+          "url": "https://www.myjob.ch/job/lagermitarbeiter/3694092",
+          "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "stadt zurich organisation und informatik",
+      "name": "Stadt Zürich – Organisation und Informatik",
+      "agency": false,
+      "firstSeen": "2026-11-23",
+      "lastSeen": "2026-11-23",
+      "searchIds": [
+        "fullstack-ts"
+      ],
+      "locations": [
+        "Zürich"
+      ],
+      "jobs": [
+        {
+          "id": "ebd1674956ff",
+          "title": "Desarrollador/a de software",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-23",
+          "location": "Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/71a419c2-ec48-419f-9b9f-a3c694e56eaa",
+          "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "trabeco",
+      "name": "Trabeco AG",
+      "agency": false,
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-23",
+      "searchIds": [
+        "umzug",
+        "lager"
+      ],
+      "locations": [
+        "Dübendorf ZH",
+        "Zürich"
+      ],
+      "jobs": [
+        {
+          "id": "05baf4ead81a",
+          "title": "Mozo/a de almacén – recepción de mercancías",
+          "searchId": "lager",
+          "postedAt": "2026-11-23",
+          "location": "Zürich",
+          "url": "https://www.myjob.ch/job/lagermitarbeiter-warenannahme-m-w-d/3692811",
+          "englishOk": false
+        },
+        {
+          "id": "8c901209de43",
+          "title": "Mozo/a de mudanzas 100%",
+          "searchId": "umzug",
+          "postedAt": "2026-11-21",
+          "location": "Dübendorf ZH",
+          "url": "https://www.myjob.ch/job/umzugsmitarbeiter-100-m-w-d/3687867",
+          "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "vontobel",
+      "name": "Vontobel",
+      "agency": false,
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-23",
+      "searchIds": [
+        "fullstack-ts"
+      ],
+      "locations": [
+        "Zürich"
+      ],
+      "jobs": [
+        {
+          "id": "a539a5c5973a",
+          "title": "Senior Full-Stack SW Engineer E-Banking",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-23",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/4466693712"
+        },
+        {
+          "id": "1089b9a8f01e",
+          "title": "Senior Full-Stack SW Engineer E-Banking",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-06",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/senior-full-stack-sw-engineer-e-banking-at-vontobel-4466693712"
+        }
+      ]
+    },
+    {
+      "key": "xorlab",
+      "name": "xorlab",
+      "agency": false,
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-11-23",
+      "searchIds": [
+        "fullstack-ts"
+      ],
+      "locations": [
+        "Zürich"
+      ],
+      "jobs": [
+        {
+          "id": "7a434e0d5900",
+          "title": "Full-Stack Software Engineer (producto nativo de IA)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-23",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/4492351853"
+        },
+        {
+          "id": "b8686f209603",
+          "title": "Full-Stack Software Engineer - AI-Native Product Development",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-10-30",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/full-stack-software-engineer-ai-native-product-development-at-xorlab-4480674486"
+        }
+      ]
+    },
+    {
       "key": "endeso",
       "name": "endeso GmbH",
       "agency": false,
@@ -320,6 +413,58 @@
           "location": "Dübendorf ZH",
           "url": "https://www.jobscout24.ch/de/job/0c0a5b9e-c472-42c6-8e58-422eb8e14c92",
           "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "jobcourier ch",
+      "name": "jobcourier.ch",
+      "agency": false,
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-22",
+      "searchIds": [
+        "junior-it",
+        "reinigung-flughafen",
+        "lager"
+      ],
+      "locations": [
+        "Zug",
+        "Winterthur ZH",
+        "Zürich"
+      ],
+      "jobs": [
+        {
+          "id": "82dfa3220836",
+          "title": "Mozo/a de almacén 60–100 %",
+          "searchId": "lager",
+          "postedAt": "2026-11-22",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/lagermitarbeiter-in-60%3F100%25-m-w-d-at-jobcourier-ch-4493561561",
+          "englishOk": false
+        },
+        {
+          "id": "39784ed2cb30",
+          "title": "Operario/a de limpieza (cleaning) en Winterthur, 80 %, 3 turnos",
+          "searchId": "reinigung-flughafen",
+          "postedAt": "2026-11-17",
+          "location": "Winterthur ZH",
+          "url": "https://ch.linkedin.com/jobs/view/mitarbeiter-cleaning-in-winterthur-m-w-d-80%25-3-schicht-naddjp00005001-at-jobcourier-ch-4491463444"
+        },
+        {
+          "id": "86a24bc09a19",
+          "title": "Picking / mozo/a de almacén en turnos",
+          "searchId": "lager",
+          "postedAt": "2026-11-12",
+          "location": "Winterthur ZH",
+          "url": "https://ch.linkedin.com/jobs/view/kommissionierung-lagermitarbeiter-in-schichtmodus-m-w-d-at-jobcourier-ch-4492119225"
+        },
+        {
+          "id": "699b0abc9930",
+          "title": "Softwareentwickler (m/w) 100%",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-06",
+          "location": "Zug",
+          "url": "https://ch.linkedin.com/jobs/view/softwareentwickler-m-w-100%25-at-jobcourier-ch-4487374736"
         }
       ]
     },
@@ -1462,30 +1607,6 @@
           "postedAt": "2026-11-21",
           "location": "Baden AG",
           "url": "https://www.myjob.ch/job/aushilfe-abwaschkueche/3688437",
-          "englishOk": false
-        }
-      ]
-    },
-    {
-      "key": "trabeco",
-      "name": "Trabeco AG",
-      "agency": false,
-      "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-21",
-      "searchIds": [
-        "umzug"
-      ],
-      "locations": [
-        "Dübendorf ZH"
-      ],
-      "jobs": [
-        {
-          "id": "8c901209de43",
-          "title": "Mozo/a de mudanzas 100%",
-          "searchId": "umzug",
-          "postedAt": "2026-11-21",
-          "location": "Dübendorf ZH",
-          "url": "https://www.myjob.ch/job/umzugsmitarbeiter-100-m-w-d/3687867",
           "englishOk": false
         }
       ]
@@ -3288,6 +3409,30 @@
           "postedAt": "2026-11-19",
           "location": "8008 Zürich",
           "url": "https://www.jobs.ch/de/stellenangebote/detail/46cca55a-40c2-46d9-8f22-4964f7d620cb",
+          "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "lidl",
+      "name": "Lidl Schweiz AG",
+      "agency": false,
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "searchIds": [
+        "reinigung-flughafen"
+      ],
+      "locations": [
+        "Adliswil"
+      ],
+      "jobs": [
+        {
+          "id": "173f434e67f9",
+          "title": "Personal de limpieza de tienda 20–40 %",
+          "searchId": "reinigung-flughafen",
+          "postedAt": "2026-11-19",
+          "location": "Adliswil",
+          "url": "https://www.myjob.ch/job/mitarbeiter-mitarbeiterin-reinigung-m-w-d-20-40/3682035",
           "englishOk": false
         }
       ]
@@ -5488,48 +5633,6 @@
           "location": "Zürich",
           "url": "https://ch.linkedin.com/jobs/view/senior-test-manager-80-100%25-at-inventx-ag-4490648849",
           "englishOk": false
-        }
-      ]
-    },
-    {
-      "key": "jobcourier ch",
-      "name": "jobcourier.ch",
-      "agency": false,
-      "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-17",
-      "searchIds": [
-        "junior-it",
-        "reinigung-flughafen",
-        "lager"
-      ],
-      "locations": [
-        "Zug",
-        "Winterthur ZH"
-      ],
-      "jobs": [
-        {
-          "id": "39784ed2cb30",
-          "title": "Operario/a de limpieza (cleaning) en Winterthur, 80 %, 3 turnos",
-          "searchId": "reinigung-flughafen",
-          "postedAt": "2026-11-17",
-          "location": "Winterthur ZH",
-          "url": "https://ch.linkedin.com/jobs/view/mitarbeiter-cleaning-in-winterthur-m-w-d-80%25-3-schicht-naddjp00005001-at-jobcourier-ch-4491463444"
-        },
-        {
-          "id": "86a24bc09a19",
-          "title": "Picking / mozo/a de almacén en turnos",
-          "searchId": "lager",
-          "postedAt": "2026-11-12",
-          "location": "Winterthur ZH",
-          "url": "https://ch.linkedin.com/jobs/view/kommissionierung-lagermitarbeiter-in-schichtmodus-m-w-d-at-jobcourier-ch-4492119225"
-        },
-        {
-          "id": "699b0abc9930",
-          "title": "Softwareentwickler (m/w) 100%",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-06",
-          "location": "Zug",
-          "url": "https://ch.linkedin.com/jobs/view/softwareentwickler-m-w-100%25-at-jobcourier-ch-4487374736"
         }
       ]
     },

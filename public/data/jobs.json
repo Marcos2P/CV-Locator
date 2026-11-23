@@ -1,6 +1,156 @@
 {
-  "updatedAt": "2026-11-23T06:17:17.789Z",
+  "updatedAt": "2026-11-23T07:19:03.443Z",
   "jobs": [
+    {
+      "searchId": "lager",
+      "title": "Lagermitarbeiter Warenannahme (m/w/d)",
+      "titleEs": "Mozo/a de almacén – recepción de mercancías",
+      "company": "Trabeco AG (cliente: productor de alimentos)",
+      "location": "Zürich",
+      "postedAt": "2026-11-23",
+      "source": "myjob.ch",
+      "url": "https://www.myjob.ch/job/lagermitarbeiter-warenannahme-m-w-d/3692811",
+      "summary": "Puesto de almacén 100 % en recepción y salida de mercancías con carretilla, en cámara a 3–5 °C y turnos rotativos.",
+      "description": "Entrada y salida de productos con carretilla elevadora, control de mercancía entrante, inventario diario y mantenimiento de la temperatura de la cámara (3–5 °C). Trabajo en tres turnos, incluidos fines de semana.",
+      "requirements": [
+        "Experiencia en logística (ventaja)",
+        "Carné de carretillero SUVA (ventaja)",
+        "Carné B y coche propio (ventaja)",
+        "Disponibilidad de lunes a domingo, 5 días"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán bueno",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Lagermitarbeiter Warenannahme (m/w/d)",
+        "summary": "Lagerstelle 100 % im Wareneingang und -ausgang mit Stapler, Kühlraum 3–5 °C, Dreischichtbetrieb.",
+        "description": "Ein- und Auslagern von Produkten mit dem Stapler, Wareneingangskontrolle, tägliche Bestandskontrollen und Einhaltung der Raumtemperatur (3–5 °C). Dreischichtbetrieb inkl. Wochenende.",
+        "requirements": [
+          "Logistikerfahrung von Vorteil",
+          "SUVA-Staplerausweis von Vorteil",
+          "Führerausweis B und eigenes Auto von Vorteil",
+          "Bereitschaft für Montag bis Sonntag, 5 Arbeitstage"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Gute Deutschkenntnisse"
+      },
+      "id": "05baf4ead81a",
+      "foundAt": "2026-11-23T07:19:03.443Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Lagermitarbeiter",
+      "titleEs": "Mozo/a de almacén",
+      "company": "job impuls ag Lenzburg",
+      "location": "Adliswil",
+      "postedAt": "2026-11-23",
+      "source": "myjob.ch",
+      "url": "https://www.myjob.ch/job/lagermitarbeiter/3694092",
+      "summary": "Puesto de almacén 100 % con preparación de pedidos y clasificación en Adliswil; se piden 2 años de experiencia en almacén o Lagerist EBA.",
+      "description": "Trabajos de almacén, preparación de pedidos (picking) y clasificación. Se trabaja por turnos.",
+      "requirements": [
+        "2 años de experiencia en almacén o Lagerist EBA",
+        "Carné de carretillero no obligatorio",
+        "Disponibilidad para turnos"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán muy bueno",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Lagermitarbeiter",
+        "summary": "Lagerstelle 100 % mit Kommissionierung und Sortierung in Adliswil; 2 Jahre Lagererfahrung oder Lagerist EBA.",
+        "description": "Lagertätigkeiten, Kommissionieren und Sortieren. Schichtarbeit.",
+        "requirements": [
+          "2 Jahre Lagererfahrung oder Lagerist EBA",
+          "Staplerausweis nicht zwingend",
+          "Bereitschaft zu Schichtarbeit"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Sehr gute Deutschkenntnisse"
+      },
+      "id": "b5ceef6d0e08",
+      "foundAt": "2026-11-23T07:19:03.443Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Mitarbeiter/in Reinigung (m/w/d)",
+      "titleEs": "Personal de limpieza (10–50 %)",
+      "company": "Honegger AG",
+      "location": "Bülach",
+      "postedAt": "2026-11-23",
+      "source": "myjob.ch",
+      "url": "https://www.myjob.ch/job/mitarbeiter-in-reinigung-m-w-d/2922609",
+      "summary": "Limpieza de mantenimiento y a fondo en Bülach, 10–50 %, de lunes a viernes de 8 a 10 h (se menciona también el domingo).",
+      "description": "Limpiezas de mantenimiento y básicas según el plan de limpieza, uso correcto de productos y cumplimiento de normas de seguridad e higiene. Horario lunes a viernes 08:00–10:00.",
+      "requirements": [
+        "Altos estándares de higiene",
+        "Trato amable y orientado al servicio",
+        "Fiabilidad y puntualidad"
+      ],
+      "workload": "10–50 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán (sin nivel indicado)",
+      "englishOk": false,
+      "de": {
+        "title": "Mitarbeiter/in Reinigung (m/w/d)",
+        "summary": "Unterhalts- und Grundreinigung in Bülach, 10–50 %, Mo–Fr 08–10 Uhr (Sonntag erwähnt).",
+        "description": "Unterhalts- und Grundreinigungen gemäss Reinigungsplan, sachgerechter Einsatz der Reinigungsmittel, Einhaltung von Sicherheits-, Hygiene- und Qualitätsvorgaben. Arbeitszeit Mo–Fr 08:00–10:00.",
+        "requirements": [
+          "Hohe Hygienestandards",
+          "Kundenfreundliches, serviceorientiertes Auftreten",
+          "Engagement, Zuverlässigkeit, Pünktlichkeit"
+        ],
+        "workload": "10–50 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch (kein Niveau angegeben)"
+      },
+      "id": "36e4595398d4",
+      "foundAt": "2026-11-23T07:19:03.443Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Aushilfskoch (Koch/Köchin)",
+      "titleEs": "Cocinero/a de apoyo (turno puntual)",
+      "company": "Coople (cliente no nombrado)",
+      "location": "Adliswil",
+      "postedAt": "2026-11-23",
+      "source": "Coople",
+      "url": "https://www.coople.com/ch/jobs/de/f068281e-9ab0-4ce8-a9ae-d5202858534b",
+      "summary": "Turno puntual como cocinero/a de apoyo en servicio de comidas en Adliswil, CHF 29.43/h; no exige EFZ pero sí más de 20 meses de experiencia.",
+      "description": "Cocinar de forma autónoma durante el servicio de mediodía, preparar y presentar platos de buffet y el menú del día (pasta, pinsas), montar, recoger y limpiar la cocina.",
+      "requirements": [
+        "Experiencia en gastronomía",
+        "Trabajo autónomo y bajo presión",
+        "Sin formación completa pero >20 meses de experiencia"
+      ],
+      "workload": "1 turno (por horas)",
+      "employmentType": "Por horas / a demanda",
+      "language": "Alemán (sin nivel indicado)",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Aushilfskoch (Koch/Köchin)",
+        "summary": "Einzelner Einsatz als Aushilfskoch im Mittagsservice in Adliswil, CHF 29.43/h; ohne Lehrabschluss, aber mit mehr als 20 Monaten Erfahrung.",
+        "description": "Selbständiges Kochen im Mittagsservice, Vorbereiten und Präsentieren von Buffetgerichten und Tagesmenü (Pasta, Pinsa), Auf- und Abbau sowie Reinigung des Küchenbereichs.",
+        "requirements": [
+          "Erfahrung in der Gastronomie",
+          "Selbständiges Arbeiten und Belastbarkeit",
+          "Ungelernt mit >20 Monaten Erfahrung"
+        ],
+        "workload": "1 Einsatz (Stundenlohn)",
+        "employmentType": "Einsatz auf Abruf",
+        "language": "Deutsch (kein Niveau angegeben)"
+      },
+      "salary": "CHF 29.43/h",
+      "id": "48d4c223b969",
+      "foundAt": "2026-11-23T07:19:03.443Z"
+    },
     {
       "searchId": "fullstack-ts",
       "title": "Full-Stack Software Engineer - AI-Native Product Development",
@@ -53,6 +203,43 @@
       "englishOk": false,
       "id": "ebd1674956ff",
       "foundAt": "2026-11-23T06:17:17.789Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Lagermitarbeiter/in 60–100% (m/w/d)",
+      "titleEs": "Mozo/a de almacén 60–100 %",
+      "company": "jobcourier.ch",
+      "location": "Zürich",
+      "postedAt": "2026-11-22",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/lagermitarbeiter-in-60%3F100%25-m-w-d-at-jobcourier-ch-4493561561",
+      "summary": "Puesto de almacén con picking por voz, descarga de envases vacíos y clasificación de devoluciones en Zürich; nivel de entrada.",
+      "description": "Preparación de pedidos con terminal de radio (pick-by-voice), descarga y tratamiento de envases vacíos, clasificación, control y almacenaje de devoluciones y uso seguro de equipos de transporte.",
+      "requirements": [
+        "Buen alemán",
+        "Buena condición física y resistencia",
+        "Calzado de seguridad obligatorio"
+      ],
+      "workload": "60–100 %",
+      "employmentType": "Por determinar",
+      "language": "Alemán bueno",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Lagermitarbeiter/in 60–100% (m/w/d)",
+        "summary": "Lagerstelle mit Pick-by-Voice, Leergutverarbeitung und Retourensortierung in Zürich; Berufseinstieg.",
+        "description": "Kommissionieren mit Datenfunkterminal (Pick-by-Voice), Entladen und Verarbeiten von Leergut, Sortieren, Prüfen und Einlagern von Retouren, sicherer Umgang mit Transportmitteln.",
+        "requirements": [
+          "Gute Deutschkenntnisse",
+          "Körperliche Fitness und Belastbarkeit",
+          "Sicherheitsschuhe zwingend"
+        ],
+        "workload": "60–100 %",
+        "employmentType": "Nicht angegeben",
+        "language": "Gute Deutschkenntnisse"
+      },
+      "id": "82dfa3220836",
+      "foundAt": "2026-11-23T07:19:03.443Z"
     },
     {
       "searchId": "lager",
@@ -3021,6 +3208,42 @@
       "seniority": "mid",
       "id": "f03e58ff212a",
       "foundAt": "2026-11-20T06:19:56.550Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Mitarbeiter / Mitarbeiterin Reinigung (m/w/d) 20-40%",
+      "titleEs": "Personal de limpieza de tienda 20–40 %",
+      "company": "Lidl Schweiz AG",
+      "location": "Adliswil",
+      "postedAt": "2026-11-19",
+      "source": "myjob.ch",
+      "url": "https://www.myjob.ch/job/mitarbeiter-mitarbeiterin-reinigung-m-w-d-20-40/3682035",
+      "summary": "Limpieza de la tienda Lidl en Adliswil, 20–40 %, turnos de 5–9 h o 17–21 h varias veces por semana.",
+      "description": "Limpieza de la zona de ventas y salas anexas según estándares de calidad e higiene. Convenio colectivo (GAV) de Lidl.",
+      "requirements": [
+        "Experiencia en limpieza (ventaja)",
+        "Flexibilidad horaria (05:00–09:00 o 17:00–21:00)",
+        "Trabajo fiable e independiente"
+      ],
+      "workload": "20–40 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán (sin nivel indicado)",
+      "englishOk": false,
+      "de": {
+        "title": "Mitarbeiter / Mitarbeiterin Reinigung (m/w/d) 20-40%",
+        "summary": "Reinigung der Filiale in Adliswil, 20–40 %, Einsätze 05–09 oder 17–21 Uhr mehrmals pro Woche.",
+        "description": "Reinigung der Verkaufsfläche und Nebenräume nach Qualitäts- und Hygienestandards. GAV von Lidl.",
+        "requirements": [
+          "Reinigungserfahrung von Vorteil",
+          "Flexible Einsatzzeiten (05:00–09:00 oder 17:00–21:00)",
+          "Zuverlässige, selbständige Arbeitsweise"
+        ],
+        "workload": "20–40 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch (kein Niveau angegeben)"
+      },
+      "id": "173f434e67f9",
+      "foundAt": "2026-11-23T07:19:03.443Z"
     },
     {
       "searchId": "reinigung-flughafen",
