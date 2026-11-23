@@ -1,6 +1,92 @@
 {
-  "updatedAt": "2026-11-22T11:48:29.476Z",
+  "updatedAt": "2026-11-23T06:17:17.789Z",
   "companies": [
+    {
+      "key": "stadt zurich organisation und informatik",
+      "name": "Stadt Zürich – Organisation und Informatik",
+      "agency": false,
+      "firstSeen": "2026-11-23",
+      "lastSeen": "2026-11-23",
+      "searchIds": [
+        "fullstack-ts"
+      ],
+      "locations": [
+        "Zürich"
+      ],
+      "jobs": [
+        {
+          "id": "ebd1674956ff",
+          "title": "Desarrollador/a de software",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-23",
+          "location": "Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/71a419c2-ec48-419f-9b9f-a3c694e56eaa",
+          "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "vontobel",
+      "name": "Vontobel",
+      "agency": false,
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-23",
+      "searchIds": [
+        "fullstack-ts"
+      ],
+      "locations": [
+        "Zürich"
+      ],
+      "jobs": [
+        {
+          "id": "a539a5c5973a",
+          "title": "Senior Full-Stack SW Engineer E-Banking",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-23",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/4466693712"
+        },
+        {
+          "id": "1089b9a8f01e",
+          "title": "Senior Full-Stack SW Engineer E-Banking",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-06",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/senior-full-stack-sw-engineer-e-banking-at-vontobel-4466693712"
+        }
+      ]
+    },
+    {
+      "key": "xorlab",
+      "name": "xorlab",
+      "agency": false,
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-11-23",
+      "searchIds": [
+        "fullstack-ts"
+      ],
+      "locations": [
+        "Zürich"
+      ],
+      "jobs": [
+        {
+          "id": "7a434e0d5900",
+          "title": "Full-Stack Software Engineer (producto nativo de IA)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-23",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/4492351853"
+        },
+        {
+          "id": "b8686f209603",
+          "title": "Full-Stack Software Engineer - AI-Native Product Development",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-10-30",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/full-stack-software-engineer-ai-native-product-development-at-xorlab-4480674486"
+        }
+      ]
+    },
     {
       "key": "coople",
       "name": "Coople",
@@ -967,7 +1053,7 @@
     },
     {
       "key": "code compass",
-      "name": "Code Compass 🧭",
+      "name": "Code Compass",
       "agency": false,
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-21",
@@ -976,7 +1062,8 @@
       ],
       "locations": [
         "Zürich",
-        "Zürich (remoto posible)"
+        "Zürich (remoto posible)",
+        "Zürich (área metropolitana)"
       ],
       "jobs": [
         {
@@ -987,6 +1074,14 @@
           "location": "Zürich (remoto posible)",
           "url": "https://ch.linkedin.com/jobs/view/software-engineer-at-code-compass-%F0%9F%A7%AD-4491912488",
           "englishOk": true
+        },
+        {
+          "id": "2edeb0dedfa7",
+          "title": "Software Engineer",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-21",
+          "location": "Zürich (área metropolitana)",
+          "url": "https://ch.linkedin.com/jobs/view/4491912488"
         },
         {
           "id": "7b9c97c144de",
@@ -1103,6 +1198,14 @@
           "postedAt": "2026-11-21",
           "location": "Zürich",
           "url": "https://ch.linkedin.com/jobs/view/senior-test-manager-tester-multiple-applications-100%25-f-m-d-contract-through-our-external-payroll-partner-with-immediate-start-until-30-09-2027-possible-extension-at-julius-baer-4492967944"
+        },
+        {
+          "id": "8e13656267b7",
+          "title": "Senior Test Manager / Tester 100%",
+          "searchId": "qa-test",
+          "postedAt": "2026-11-21",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/4492967944"
         },
         {
           "id": "0c4bc44a0ba1",
@@ -2796,6 +2899,14 @@
           "location": "Zürich ZH",
           "url": "https://ch.linkedin.com/jobs/view/senior-software-engineer-java-all-genders-at-adesso-schweiz-ag-4197043934",
           "englishOk": false
+        },
+        {
+          "id": "e18729667e32",
+          "title": "Senior Consultant Agentic Test Automation",
+          "searchId": "qa-test",
+          "postedAt": "2026-11-09",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/4487266419"
         },
         {
           "id": "cd65b76714f9",
@@ -6137,6 +6248,38 @@
           "location": "Zürich",
           "url": "https://www.hotelcareer.ch/jobs/baur-au-lac-509/commis-de-cuisine-fr%C3%BChst%C3%BCck-4052802",
           "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "brack alltron",
+      "name": "Brack.Alltron AG",
+      "agency": false,
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-16",
+      "searchIds": [
+        "frontend-react"
+      ],
+      "locations": [
+        "Zürich und/oder Mägenwil",
+        "Zürich / Mägenwil"
+      ],
+      "jobs": [
+        {
+          "id": "51fb10dfdc30",
+          "title": "Lead Frontend Engineer",
+          "searchId": "frontend-react",
+          "postedAt": "2026-11-16",
+          "location": "Zürich / Mägenwil",
+          "url": "https://ch.linkedin.com/jobs/view/4487250602"
+        },
+        {
+          "id": "2ad53405872e",
+          "title": "Lead Frontend Engineer",
+          "searchId": "frontend-react",
+          "postedAt": "2026-11-05",
+          "location": "Zürich und/oder Mägenwil",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/4598c34a-f8bc-421a-bcf3-6ed01e7ba9c7"
         }
       ]
     },
@@ -9772,6 +9915,39 @@
       ]
     },
     {
+      "key": "lionstep",
+      "name": "LIONSTEP",
+      "agency": true,
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-09",
+      "searchIds": [
+        "fullstack-ts"
+      ],
+      "locations": [
+        "Winterthur ZH"
+      ],
+      "jobs": [
+        {
+          "id": "ee338545ff4b",
+          "title": "Senior Full-Stack Developer en Andeo",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-09",
+          "location": "Winterthur ZH",
+          "url": "https://ch.linkedin.com/jobs/view/4485598653",
+          "englishOk": false
+        },
+        {
+          "id": "d2f2c1a20e00",
+          "title": "Desarrollador/a Full-Stack senior @Andeo",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-05",
+          "location": "Winterthur ZH",
+          "url": "https://ch.linkedin.com/jobs/view/senior-full-stack-developer-m-w-d-%40andeo-at-lionstep-4485598653",
+          "englishOk": false
+        }
+      ]
+    },
+    {
       "key": "siemens healthineers",
       "name": "Siemens Healthineers",
       "agency": false,
@@ -10635,29 +10811,6 @@
       ]
     },
     {
-      "key": "vontobel",
-      "name": "Vontobel",
-      "agency": false,
-      "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-06",
-      "searchIds": [
-        "fullstack-ts"
-      ],
-      "locations": [
-        "Zürich"
-      ],
-      "jobs": [
-        {
-          "id": "1089b9a8f01e",
-          "title": "Senior Full-Stack SW Engineer E-Banking",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-06",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/senior-full-stack-sw-engineer-e-banking-at-vontobel-4466693712"
-        }
-      ]
-    },
-    {
       "key": "woodpecker",
       "name": "Woodpecker Group AG",
       "agency": false,
@@ -10795,29 +10948,6 @@
           "postedAt": "2026-11-05",
           "location": "Zug",
           "url": "https://ch.linkedin.com/jobs/view/information-technology-support-engineer-at-axiom-technologies-4486035382"
-        }
-      ]
-    },
-    {
-      "key": "brack alltron",
-      "name": "Brack.Alltron AG",
-      "agency": false,
-      "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-05",
-      "searchIds": [
-        "frontend-react"
-      ],
-      "locations": [
-        "Zürich und/oder Mägenwil"
-      ],
-      "jobs": [
-        {
-          "id": "2ad53405872e",
-          "title": "Lead Frontend Engineer",
-          "searchId": "frontend-react",
-          "postedAt": "2026-11-05",
-          "location": "Zürich und/oder Mägenwil",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/4598c34a-f8bc-421a-bcf3-6ed01e7ba9c7"
         }
       ]
     },
@@ -11077,30 +11207,6 @@
           "location": "Zürich (equipo principal en Bendern, LI)",
           "url": "https://ch.linkedin.com/jobs/view/frontend-developer-%E2%80%93-b2b-digital-banking-app-development-80-100%25-f-m-d-at-lgt-private-banking-4486043718",
           "englishOk": true
-        }
-      ]
-    },
-    {
-      "key": "lionstep",
-      "name": "LIONSTEP (para Andeo AG)",
-      "agency": true,
-      "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-05",
-      "searchIds": [
-        "fullstack-ts"
-      ],
-      "locations": [
-        "Winterthur ZH"
-      ],
-      "jobs": [
-        {
-          "id": "d2f2c1a20e00",
-          "title": "Desarrollador/a Full-Stack senior @Andeo",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-05",
-          "location": "Winterthur ZH",
-          "url": "https://ch.linkedin.com/jobs/view/senior-full-stack-developer-m-w-d-%40andeo-at-lionstep-4485598653",
-          "englishOk": false
         }
       ]
     },
@@ -11792,29 +11898,6 @@
           "location": "Zürich",
           "url": "https://www.jobs.ch/de/stellenangebote/detail/e1d8a922-a10a-47ff-90c2-bdbb9eb57f88",
           "englishOk": true
-        }
-      ]
-    },
-    {
-      "key": "xorlab",
-      "name": "xorlab",
-      "agency": false,
-      "firstSeen": "2026-10-30",
-      "lastSeen": "2026-10-30",
-      "searchIds": [
-        "fullstack-ts"
-      ],
-      "locations": [
-        "Zürich"
-      ],
-      "jobs": [
-        {
-          "id": "b8686f209603",
-          "title": "Full-Stack Software Engineer - AI-Native Product Development",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-10-30",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/full-stack-software-engineer-ai-native-product-development-at-xorlab-4480674486"
         }
       ]
     }

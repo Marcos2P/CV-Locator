@@ -1,6 +1,59 @@
 {
-  "updatedAt": "2026-11-22T11:48:29.476Z",
+  "updatedAt": "2026-11-23T06:17:17.789Z",
   "jobs": [
+    {
+      "searchId": "fullstack-ts",
+      "title": "Full-Stack Software Engineer - AI-Native Product Development",
+      "titleEs": "Full-Stack Software Engineer (producto nativo de IA)",
+      "company": "xorlab",
+      "location": "Zürich",
+      "postedAt": "2026-11-23",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/4492351853",
+      "summary": "Oferta publicada en LinkedIn: Full-Stack Software Engineer (producto nativo de IA) en xorlab (Zürich). Resumen basado solo en el listado; detalles en el enlace.",
+      "de": {
+        "title": "Full-Stack Software Engineer - AI-Native Product Development",
+        "summary": "Stelle auf LinkedIn: Full-Stack Software Engineer - AI-Native Product Development bei xorlab (Zürich). Zusammenfassung nur aus der Trefferliste; Details im Link."
+      },
+      "id": "7a434e0d5900",
+      "foundAt": "2026-11-23T06:17:17.789Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Senior Full-Stack SW Engineer E-Banking",
+      "titleEs": "Senior Full-Stack SW Engineer E-Banking",
+      "company": "Vontobel",
+      "location": "Zürich",
+      "postedAt": "2026-11-23",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/4466693712",
+      "summary": "Oferta publicada en LinkedIn: Senior Full-Stack SW Engineer E-Banking en Vontobel (Zürich). Resumen basado solo en el listado; detalles en el enlace.",
+      "de": {
+        "title": "Senior Full-Stack SW Engineer E-Banking",
+        "summary": "Stelle auf LinkedIn: Senior Full-Stack SW Engineer E-Banking bei Vontobel (Zürich). Zusammenfassung nur aus der Trefferliste; Details im Link."
+      },
+      "seniority": "senior",
+      "id": "a539a5c5973a",
+      "foundAt": "2026-11-23T06:17:17.789Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Software Entwickler*in",
+      "titleEs": "Desarrollador/a de software",
+      "company": "Stadt Zürich – Organisation und Informatik",
+      "location": "Zürich",
+      "postedAt": "2026-11-23",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/71a419c2-ec48-419f-9b9f-a3c694e56eaa",
+      "summary": "Oferta publicada en jobs.ch: Desarrollador/a de software en Stadt Zürich – Organisation und Informatik (Zürich). Resumen basado solo en el listado; detalles en el enlace.",
+      "de": {
+        "title": "Software Entwickler*in",
+        "summary": "Stelle auf jobs.ch: Software Entwickler*in bei Stadt Zürich – Organisation und Informatik (Zürich). Zusammenfassung nur aus der Trefferliste; Details im Link."
+      },
+      "englishOk": false,
+      "id": "ebd1674956ff",
+      "foundAt": "2026-11-23T06:17:17.789Z"
+    },
     {
       "searchId": "lager",
       "title": "Picker Shop",
@@ -351,6 +404,41 @@
       },
       "id": "6c05f9121962",
       "foundAt": "2026-11-22T06:23:22.992Z"
+    },
+    {
+      "searchId": "fullstack-ts",
+      "title": "Software Engineer",
+      "titleEs": "Software Engineer",
+      "company": "Code Compass",
+      "location": "Zürich (área metropolitana)",
+      "postedAt": "2026-11-21",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/4491912488",
+      "summary": "Oferta publicada en LinkedIn: Software Engineer en Code Compass (Zürich (área metropolitana)). Resumen basado solo en el listado; detalles en el enlace.",
+      "de": {
+        "title": "Software Engineer",
+        "summary": "Stelle auf LinkedIn: Software Engineer bei Code Compass (Zürich (área metropolitana)). Zusammenfassung nur aus der Trefferliste; Details im Link."
+      },
+      "id": "2edeb0dedfa7",
+      "foundAt": "2026-11-23T06:17:17.789Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "Senior Test Manager / Tester – Multiple Applications 100% (f/m/d)",
+      "titleEs": "Senior Test Manager / Tester 100%",
+      "company": "Julius Baer",
+      "location": "Zürich",
+      "postedAt": "2026-11-21",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/4492967944",
+      "summary": "Oferta publicada en LinkedIn: Senior Test Manager / Tester 100% en Julius Baer (Zürich). Resumen basado solo en el listado; detalles en el enlace.",
+      "de": {
+        "title": "Senior Test Manager / Tester – Multiple Applications 100% (f/m/d)",
+        "summary": "Stelle auf LinkedIn: Senior Test Manager / Tester – Multiple Applications 100% (f/m/d) bei Julius Baer (Zürich). Zusammenfassung nur aus der Trefferliste; Details im Link."
+      },
+      "seniority": "senior",
+      "id": "8e13656267b7",
+      "foundAt": "2026-11-23T06:17:17.789Z"
     },
     {
       "searchId": "kueche",
@@ -8064,6 +8152,24 @@
       "foundAt": "2026-11-17T06:20:07.343Z"
     },
     {
+      "searchId": "frontend-react",
+      "title": "Lead Frontend Engineer",
+      "titleEs": "Lead Frontend Engineer",
+      "company": "Brack.Alltron AG",
+      "location": "Zürich / Mägenwil",
+      "postedAt": "2026-11-16",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/4487250602",
+      "summary": "Oferta publicada en LinkedIn: Lead Frontend Engineer en Brack.Alltron AG (Zürich / Mägenwil). Resumen basado solo en el listado; detalles en el enlace.",
+      "de": {
+        "title": "Lead Frontend Engineer",
+        "summary": "Stelle auf LinkedIn: Lead Frontend Engineer bei Brack.Alltron AG (Zürich / Mägenwil). Zusammenfassung nur aus der Trefferliste; Details im Link."
+      },
+      "seniority": "lead",
+      "id": "51fb10dfdc30",
+      "foundAt": "2026-11-23T06:17:17.789Z"
+    },
+    {
       "searchId": "umzug",
       "title": "Montage-Assistent:in für die Heimlieferung von Elektrohaushaltgeräten",
       "titleEs": "Asistente/a de montaje para entrega a domicilio de electrodomésticos",
@@ -10052,49 +10158,6 @@
       "foundAt": "2026-11-21T07:18:59.848Z"
     },
     {
-      "searchId": "reinigung-flughafen",
-      "title": "Leiter Abteilung Reinigung 100%",
-      "titleEs": "Responsable del departamento de limpieza 100%",
-      "company": "Eisberg",
-      "location": "Dällikon ZH",
-      "postedAt": "2026-11-15",
-      "source": "LinkedIn",
-      "url": "https://ch.linkedin.com/jobs/view/leiter-abteilung-reinigung-100%25-at-eisberg-4482873997",
-      "summary": "Puesto de dirección: lidera 29 personas de limpieza en dos plantas de producción de alimentos, con turnos de noche. Exige 5 años de experiencia y 2 de liderazgo.",
-      "description": "Dirigir y coordinar a 29 empleados de limpieza en dos plantas de producción (incluidos turnos nocturnos), vigilar la higiene de la maquinaria, planificar y controlar la limpieza diaria y periódica, cumplir normas de seguridad e higiene, optimizar productos químicos, agua y personal, apoyar la puesta en marcha de equipos nuevos, realizar controles microbiológicos y químicos y gestionar el presupuesto de limpieza.",
-      "requirements": [
-        "Mínimo 5 años de experiencia en limpieza, idealmente en producción alimentaria",
-        "Mínimo 2 años de experiencia de liderazgo",
-        "Muy buen alemán oral y escrito",
-        "Manejo de MS Office",
-        "Vehículo propio obligatorio",
-        "Disposición para turnos de noche fijos, de día y fines de semana"
-      ],
-      "workload": "100 %",
-      "employmentType": "Jornada completa",
-      "language": "Alemán muy bueno",
-      "englishOk": false,
-      "seniority": "lead",
-      "de": {
-        "title": "Leiter Abteilung Reinigung 100%",
-        "summary": "Führungsstelle: Leitung von 29 Reinigungsmitarbeitenden an zwei Produktionsstandorten der Lebensmittelherstellung, inkl. Nachtschichten.",
-        "description": "Führen und Koordinieren von 29 Reinigungsmitarbeitenden auf zwei Produktionsstandorten (inkl. Nachtschicht), Überwachung der Hygiene der Produktionsanlagen, Planung und Kontrolle der täglichen und periodischen Reinigung, Einhaltung von Sicherheits- und Hygienevorschriften, Optimierung von Reinigungschemie, Wasser und Personal, Unterstützung bei der Inbetriebnahme neuer Anlagen, mikrobiologische und chemische Kontrollen, Verantwortung für das Reinigungsbudget.",
-        "requirements": [
-          "Mindestens 5 Jahre Reinigungserfahrung, idealerweise in der Lebensmittelproduktion",
-          "Mindestens 2 Jahre Führungserfahrung",
-          "Sehr gute Deutschkenntnisse in Wort und Schrift",
-          "Sicherer Umgang mit MS Office",
-          "Eigenes Fahrzeug zwingend",
-          "Bereitschaft zu ständiger Nachtschicht sowie Tag- und Wochenenddiensten"
-        ],
-        "workload": "100 %",
-        "employmentType": "Vollzeit",
-        "language": "Sehr gutes Deutsch"
-      },
-      "id": "2c3539be524a",
-      "foundAt": "2026-11-21T07:18:59.848Z"
-    },
-    {
       "searchId": "kueche",
       "title": "Buffet-Mitarbeiter:in (Daimler Bistro)",
       "titleEs": "Auxiliar de buffet (Daimler Bistro)",
@@ -10301,23 +10364,6 @@
       },
       "id": "41dad4e25f95",
       "foundAt": "2026-11-16T06:17:50.470Z"
-    },
-    {
-      "searchId": "reinigung-flughafen",
-      "title": "Reinigung",
-      "titleEs": "Limpieza",
-      "company": "Coople (cliente no nombrado)",
-      "location": "8048 Zürich",
-      "postedAt": "2026-11-15",
-      "source": "Coople",
-      "url": "https://www.coople.com/ch/jobs/de/2509fc7a-dd0e-4a02-a223-538bcef1452b",
-      "summary": "Puesto temporal de limpieza en Zúrich a través de Coople.",
-      "de": {
-        "title": "Reinigung",
-        "summary": "Temporäre Reinigungsstelle in Zürich über Coople."
-      },
-      "id": "eb99a3fcc283",
-      "foundAt": "2026-11-15T07:14:04.871Z"
     },
     {
       "searchId": "junior-it",
@@ -15197,6 +15243,43 @@
       "foundAt": "2026-11-12T11:44:58.393Z"
     },
     {
+      "searchId": "fullstack-ts",
+      "title": "Senior Full-Stack Developer (m/w/d) @Andeo",
+      "titleEs": "Senior Full-Stack Developer en Andeo",
+      "company": "LIONSTEP",
+      "location": "Winterthur ZH",
+      "postedAt": "2026-11-09",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/4485598653",
+      "summary": "Oferta publicada en LinkedIn: Senior Full-Stack Developer en Andeo en LIONSTEP (Winterthur ZH). Resumen basado solo en el listado; detalles en el enlace.",
+      "de": {
+        "title": "Senior Full-Stack Developer (m/w/d) @Andeo",
+        "summary": "Stelle auf LinkedIn: Senior Full-Stack Developer (m/w/d) @Andeo bei LIONSTEP (Winterthur ZH). Zusammenfassung nur aus der Trefferliste; Details im Link."
+      },
+      "seniority": "senior",
+      "englishOk": false,
+      "id": "ee338545ff4b",
+      "foundAt": "2026-11-23T06:17:17.789Z"
+    },
+    {
+      "searchId": "qa-test",
+      "title": "Senior Consultant Agentic Test Automation (all genders)",
+      "titleEs": "Senior Consultant Agentic Test Automation",
+      "company": "adesso Schweiz AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-09",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/4487266419",
+      "summary": "Oferta publicada en LinkedIn: Senior Consultant Agentic Test Automation en adesso Schweiz AG (Zürich). Resumen basado solo en el listado; detalles en el enlace.",
+      "de": {
+        "title": "Senior Consultant Agentic Test Automation (all genders)",
+        "summary": "Stelle auf LinkedIn: Senior Consultant Agentic Test Automation (all genders) bei adesso Schweiz AG (Zürich). Zusammenfassung nur aus der Trefferliste; Details im Link."
+      },
+      "seniority": "senior",
+      "id": "e18729667e32",
+      "foundAt": "2026-11-23T06:17:17.789Z"
+    },
+    {
       "searchId": "hotel",
       "title": "Mitarbeiter Housekeeping (m/w) 40% - 80%",
       "titleEs": "Empleado/a de housekeeping 40–80 %",
@@ -15964,72 +16047,6 @@
       "foundAt": "2026-11-12T11:44:58.393Z"
     },
     {
-      "searchId": "kueche",
-      "title": "Haushalts- und Küchenhilfe",
-      "titleEs": "Ayudante de hogar y cocina",
-      "company": "Stadt Bülach",
-      "location": "Bülach",
-      "postedAt": "2026-11-08",
-      "source": "myjob.ch",
-      "url": "https://www.myjob.ch/job/haushalts-und-kuechenhilfe/3644398",
-      "summary": "Puesto de ayudante de hogar y cocina al 100 % en la ciudad de Bülach; la página solo indica fecha, lugar y tipo de contrato.",
-      "workload": "100 %",
-      "employmentType": "Contrato fijo",
-      "seniority": "junior",
-      "de": {
-        "title": "Haushalts- und Küchenhilfe",
-        "summary": "Stelle als Haushalts- und Küchenhilfe zu 100 % bei der Stadt Bülach; die Anzeige nennt nur Datum, Ort und Anstellungsart.",
-        "workload": "100 %",
-        "employmentType": "Festanstellung"
-      },
-      "id": "1651f3d818ca",
-      "foundAt": "2026-11-19T07:24:45.312Z"
-    },
-    {
-      "searchId": "kueche",
-      "title": "Office-Mitarbeiter:in (50%)",
-      "titleEs": "Auxiliar de office / cocina de lavado (50%)",
-      "company": "Genossenschaft ZFV-Unternehmungen",
-      "location": "Dübendorf",
-      "postedAt": "2026-11-08",
-      "source": "myjob.ch",
-      "url": "https://myjob.ch/job/office-mitarbeiterin-50/3646194",
-      "summary": "Puesto de Office-Mitarbeiter (office/cocina de lavado) en un restaurante de ZFV en Dübendorf. El anuncio no detalla tareas ni requisitos.",
-      "workload": "50 %",
-      "employmentType": "Contrato fijo",
-      "seniority": "junior",
-      "de": {
-        "title": "Office-Mitarbeiter:in (50%)",
-        "summary": "Office-Mitarbeiter:in in einem ZFV-Betrieb in Dübendorf. Die Anzeige nennt keine Aufgaben oder Anforderungen.",
-        "workload": "50 %",
-        "employmentType": "Festanstellung"
-      },
-      "id": "b2faf5493757",
-      "foundAt": "2026-11-17T07:17:52.686Z"
-    },
-    {
-      "searchId": "kueche",
-      "title": "Office-Mitarbeiter:in (30-40%)",
-      "titleEs": "Auxiliar de office / cocina de lavado (30-40%)",
-      "company": "Genossenschaft ZFV-Unternehmungen",
-      "location": "Zürich",
-      "postedAt": "2026-11-08",
-      "source": "myjob.ch",
-      "url": "https://myjob.ch/job/office-mitarbeiterin/3646191",
-      "summary": "Puesto de Office-Mitarbeiter (office/cocina de lavado) en un restaurante de ZFV en Zürich. El anuncio no detalla tareas ni requisitos.",
-      "workload": "30-40 %",
-      "employmentType": "Contrato fijo",
-      "seniority": "junior",
-      "de": {
-        "title": "Office-Mitarbeiter:in (30-40%)",
-        "summary": "Office-Mitarbeiter:in in einem ZFV-Betrieb in Zürich. Die Anzeige nennt keine Aufgaben oder Anforderungen.",
-        "workload": "30-40 %",
-        "employmentType": "Festanstellung"
-      },
-      "id": "c43f9573f2c4",
-      "foundAt": "2026-11-17T07:17:52.686Z"
-    },
-    {
       "searchId": "umzug",
       "title": "Umzugsleiter 100 %",
       "titleEs": "Jefe/a de mudanzas 100 %",
@@ -16050,123 +16067,6 @@
       },
       "id": "5be10a7367e8",
       "foundAt": "2026-11-16T18:59:57.766Z"
-    },
-    {
-      "searchId": "fullstack-ts",
-      "title": "Senior Software Engineer, Engineering Productivity",
-      "titleEs": "Ingeniero/a de software senior, productividad de ingeniería",
-      "company": "Snowflake",
-      "location": "Zürich",
-      "postedAt": "2026-11-08",
-      "source": "linkedin.com/jobs",
-      "url": "https://ch.linkedin.com/jobs/view/senior-software-engineer-engineering-productivity-at-snowflake-4478520079",
-      "summary": "Puesto de ingeniería de software senior en el equipo de productividad de ingeniería de Snowflake en Zürich. (Datos tomados del listado; sin detalle ampliado.)",
-      "de": {
-        "title": "Senior Software Engineer, Engineering Productivity",
-        "summary": "Senior Software Engineer im Team Engineering Productivity bei Snowflake in Zürich."
-      },
-      "englishOk": true,
-      "seniority": "senior",
-      "id": "2de52833def2",
-      "foundAt": "2026-11-15T06:20:08.663Z"
-    },
-    {
-      "searchId": "junior-it",
-      "title": "Praktikum Software Engineering",
-      "titleEs": "Prácticas de ingeniería de software",
-      "company": "ti&m",
-      "location": "Zürich",
-      "postedAt": "2026-11-08",
-      "source": "linkedin.com/jobs",
-      "url": "https://ch.linkedin.com/jobs/view/praktikum-software-engineering-at-ti-m-4486962997",
-      "summary": "Prácticas de ingeniería de software en ti&m Zürich. (Datos del listado.)",
-      "de": {
-        "title": "Praktikum Software Engineering",
-        "summary": "Praktikum Software Engineering bei ti&m in Zürich."
-      },
-      "seniority": "intern",
-      "id": "e57a182b35f6",
-      "foundAt": "2026-11-15T06:20:08.663Z"
-    },
-    {
-      "searchId": "qa-test",
-      "title": "Software Tester within RMD System Development (contract)",
-      "titleEs": "Tester de software en desarrollo de sistemas RMD (contrato)",
-      "company": "Roche",
-      "location": "Rotkreuz ZG",
-      "postedAt": "2026-11-08",
-      "source": "LinkedIn",
-      "url": "https://ch.linkedin.com/jobs/view/software-tester-within-rmd-system-development-contract-at-roche-4306267422",
-      "summary": "Verificación de sistemas de instrumentos de diagnóstico con casos de prueba y entornos de prueba automatizados (fecha aproximada: hace 4 días). El anuncio indica que aún no está ligado a una vacante abierta.",
-      "description": "Planificar y ejecutar paquetes de trabajo, escribir y ejecutar casos de prueba, analizar resultados, seguimiento de incidencias, documentación técnica y montaje de entornos de prueba automatizados.",
-      "requirements": [
-        "Titulación técnica o de ciencias de la vida, o experiencia equivalente",
-        "Mín. 1 año desarrollando sistemas de diagnóstico",
-        "Windows, Linux y protocolos de red (TCP/IP, HTTP, SSL)",
-        "Protocolos instrumento-LIS",
-        "Análisis estadístico de datos",
-        "Inglés y alemán fluidos"
-      ],
-      "workload": "Tiempo completo",
-      "employmentType": "Contrato temporal",
-      "language": "Inglés y alemán fluidos",
-      "englishOk": false,
-      "seniority": "junior",
-      "de": {
-        "title": "Software Tester within RMD System Development (contract)",
-        "summary": "Systemverifikation von Diagnostikgeräten mit Testfällen und automatisierten Testumgebungen (Datum ca.: vor 4 Tagen). Laut Anzeige derzeit nicht an eine offene Stelle gebunden.",
-        "description": "Arbeitspakete planen und ausführen, Testfälle schreiben und durchführen, Ergebnisse analysieren, Issues verfolgen, technische Dokumentation und Aufbau automatisierter Testumgebungen.",
-        "requirements": [
-          "Technischer oder naturwissenschaftlicher Abschluss bzw. gleichwertige Erfahrung",
-          "Mind. 1 Jahr Entwicklung von Diagnostiksystemen",
-          "Windows, Linux und Netzwerkprotokolle (TCP/IP, HTTP, SSL)",
-          "Kommunikationsprotokolle Instrument-LIS",
-          "Statistische Datenanalyse",
-          "Fliessend Englisch und Deutsch"
-        ],
-        "workload": "Vollzeit",
-        "employmentType": "Befristet (Contract)",
-        "language": "Fliessend Englisch und Deutsch"
-      },
-      "id": "cb8cef3a05d3",
-      "foundAt": "2026-11-12T20:17:38.597Z"
-    },
-    {
-      "title": "IT Supporter:in (a) 100% [Ref:2200]",
-      "titleEs": "Soporte IT (1.er y 2.º nivel)",
-      "company": "Freestar-Informatik AG",
-      "location": "Zürich",
-      "postedAt": "2026-11-08",
-      "source": "jobs.ch",
-      "url": "https://www.jobs.ch/de/stellenangebote/detail/14061092-1391-4af2-a13c-41263ee5c06b",
-      "summary": "Soporte IT de 1.er y 2.º nivel, remoto y presencial, con herramienta de tickets. Exige alemán C2 y experiencia previa.",
-      "description": "Recibir y clasificar incidencias de hardware, software, aplicaciones y redes, dar soporte remoto y presencial y documentar en una herramienta de tickets central.",
-      "requirements": [
-        "Formación profesional, preferiblemente en TI",
-        "Experiencia en soporte de 1.er y 2.º nivel",
-        "Alemán C2 obligatorio"
-      ],
-      "workload": "80–100 %",
-      "employmentType": "Temporal / fijo",
-      "language": "Alemán C2",
-      "englishOk": false,
-      "seniority": "mid",
-      "de": {
-        "title": "IT Supporter:in (a) 100% [Ref:2200]",
-        "summary": "IT-Support im 1st und 2nd Level, remote und vor Ort, mit Ticket-Tool. Deutsch C2 und Berufserfahrung verlangt.",
-        "description": "Störungen, Fragen und Änderungswünsche zu Hardware, Software, Applikationen und Netzwerken aufnehmen und klassifizieren, Remote- und Vor-Ort-Support leisten, in zentralem Ticketing-Tool dokumentieren.",
-        "requirements": [
-          "Berufsausbildung, vorzugsweise in der IT",
-          "Erfahrung im 1st- und 2nd-Level-Support",
-          "Deutsch C2 zwingend"
-        ],
-        "workload": "80–100 %",
-        "employmentType": "Temporär / Festanstellung",
-        "language": "Deutsch C2"
-      },
-      "searchId": "junior-it",
-      "id": "050e5b9dd064",
-      "foundAt": "2026-11-12T20:17:38.597Z"
     },
     {
       "searchId": "umzug",
