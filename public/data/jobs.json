@@ -1,6 +1,122 @@
 {
-  "updatedAt": "2026-11-24T06:22:05.574Z",
+  "updatedAt": "2026-11-24T07:18:34.081Z",
   "jobs": [
+    {
+      "searchId": "kueche",
+      "title": "BMA Anrichten/ Free Flow /SV",
+      "titleEs": "Ayudante de cocina/buffet (anrichten, free flow) - SV",
+      "company": "Coople (cliente SV, no confirmado)",
+      "location": "Zürich 8045",
+      "postedAt": "2026-11-24",
+      "source": "Coople",
+      "url": "https://www.coople.com/ch/jobs/46a594d7-5918-4f9d-9172-ff60d6e93b6e",
+      "summary": "Trabajo temporal por turnos (3 turnos desde 24-11) en restauración de empresa: mise en place, emplatado y porciones delante de los clientes y limpieza. CHF 28.00/h, sin formación necesaria.",
+      "description": "Mise en place, emplatado y porcionado en el free flow, limpieza general y cumplimiento de normas ISO y HACCP. Requiere trabajo en equipo y gusto por el contacto con clientes.",
+      "requirements": [
+        "Sin formación (ungelernt)",
+        "Trabajo en equipo",
+        "Gusto por servir y atender"
+      ],
+      "workload": "3 turnos",
+      "employmentType": "Temporal (Coople)",
+      "salary": "CHF 28.00/h",
+      "language": "Alemán (anuncio en alemán, sin nivel indicado)",
+      "seniority": "junior",
+      "de": {
+        "title": "BMA Anrichten/ Free Flow /SV",
+        "summary": "Temporäre Schichteinsätze (3 Schichten ab 24.11.) in der Gemeinschaftsgastronomie: Mise en place, Anrichten und Portionieren vor den Gästen, Reinigung. CHF 28.00/h, keine Ausbildung nötig.",
+        "description": "Mise en place, Anrichten und Portionieren im Free Flow, allgemeine Reinigung, Einhaltung der ISO- und HACCP-Richtlinien. Teamfähigkeit ist Voraussetzung.",
+        "requirements": [
+          "Ungelernt",
+          "Teamfähigkeit",
+          "Freude am Servieren und Gästekontakt"
+        ],
+        "workload": "3 Schichten",
+        "employmentType": "Temporär (Coople)",
+        "language": "Deutsch (Inserat auf Deutsch, kein Niveau angegeben)"
+      },
+      "id": "86ece7ebb1d3",
+      "foundAt": "2026-11-24T07:18:34.081Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistiker m/w/d",
+      "titleEs": "Logístico/a (m/f/d), temporal",
+      "company": "Coople (cliente no nombrado)",
+      "location": "Rümlang ZH",
+      "postedAt": "2026-11-24",
+      "source": "Coople",
+      "url": "https://www.coople.com/ch/jobs/de/fb014f63-29b2-4cc5-929b-23be28353846",
+      "summary": "Picking de bebidas con carretilla y preparación de palés en un almacén de Rümlang; temporal de 27 turnos, CHF 30/h.",
+      "description": "Preparar pedidos de bebidas por artículo, cantidad y ubicación con carretillas, construir palés estables, usar escáner móvil y PC y mantener el almacén limpio y ordenado.",
+      "requirements": [
+        "Carné de carretillero reconocido por SUVA (obligatorio)",
+        "Experiencia con distintas carretillas",
+        "Manejo de escáneres de mano",
+        "Buena forma física, fiable y flexible",
+        "Buen alemán"
+      ],
+      "workload": "27 turnos (07:00–17:00 / 08:30–18:00)",
+      "employmentType": "Temporal (Coople)",
+      "salary": "CHF 30.00/h (CHF 6'885 total)",
+      "language": "Alemán (bueno)",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Logistiker m/w/d",
+        "summary": "Kommissionierung von Getränken mit Flurförderzeugen und Palettenbau in einem Lager in Rümlang; befristeter Einsatz über 27 Schichten, CHF 30/Std.",
+        "description": "Getränke nach Artikel, Menge und Lagerort mit Flurförderzeugen kommissionieren, stabile Paletten bauen, mobilen Scanner und PC bedienen und die Lager sauber halten.",
+        "requirements": [
+          "SUVA-anerkannter Staplerausweis (zwingend)",
+          "Erfahrung mit verschiedenen Flurförderzeugen",
+          "Umgang mit Handscannern",
+          "Körperlich belastbar, zuverlässig und flexibel",
+          "Gute Deutschkenntnisse"
+        ],
+        "workload": "27 Schichten (07:00–17:00 / 08:30–18:00)",
+        "employmentType": "Temporär (Coople)",
+        "language": "Deutsch (gut)"
+      },
+      "id": "5836cb74e470",
+      "foundAt": "2026-11-24T07:18:34.081Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistiker/in (Geschenke & Sendungen Verpacken)",
+      "titleEs": "Logístico/a (empaquetado de regalos y envíos), temporal",
+      "company": "Coople (cliente no nombrado)",
+      "location": "Winterthur ZH",
+      "postedAt": "2026-11-24",
+      "source": "Coople",
+      "url": "https://www.coople.com/ch/jobs/de/67fd557d-dba6-4a5b-8493-1d55882f5052",
+      "summary": "Envolver regalos y empaquetar envíos con albarán y etiqueta en Winterthur; temporal de 22 turnos, CHF 27.12/h, sin formación previa.",
+      "description": "Envolver regalos en papel y empaquetar correctamente los envíos con albarán y etiquetas de envío; carga y descarga de camiones.",
+      "requirements": [
+        "Sin formación previa necesaria",
+        "Disposición para trabajo físico (carga y descarga)",
+        "Destreza manual (ventaja)"
+      ],
+      "workload": "22 turnos",
+      "employmentType": "Temporal (Coople)",
+      "salary": "CHF 27.12/h (CHF 5'966 total)",
+      "language": "Alemán",
+      "seniority": "junior",
+      "de": {
+        "title": "Logistiker/in (Geschenke & Sendungen Verpacken)",
+        "summary": "Geschenke einpacken und Sendungen mit Lieferschein und Versandetikett verpacken in Winterthur; befristeter Einsatz über 22 Schichten, CHF 27.12/Std., ungelernt möglich.",
+        "description": "Geschenke in Geschenkpapier einpacken und Sendungen korrekt mit Lieferschein und Versandetiketten verpacken; Lastwagen be- und entladen.",
+        "requirements": [
+          "Keine Ausbildung nötig",
+          "Bereitschaft zu körperlicher Arbeit (Be- und Entladen)",
+          "Handwerkliches Geschick von Vorteil"
+        ],
+        "workload": "22 Schichten",
+        "employmentType": "Temporär (Coople)",
+        "language": "Deutsch"
+      },
+      "id": "6d5a5dc04848",
+      "foundAt": "2026-11-24T07:18:34.081Z"
+    },
     {
       "searchId": "fullstack-ts",
       "title": "Senior Fullstack Engineer - Java & Angular",
@@ -206,6 +322,88 @@
       },
       "id": "d7abea90d767",
       "foundAt": "2026-11-24T06:22:05.574Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Mitarbeiter Lager (m/w/d)",
+      "titleEs": "Mozo/a de almacén (m/f/d)",
+      "company": "Planzer Paket",
+      "location": "Zürich-Altstetten",
+      "postedAt": "2026-11-23",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/6d30175b-7741-423f-9dd1-0c7a7c640a2a",
+      "summary": "Carga y descarga de camiones, control de mercancía y palés y almacenaje en el almacén de paquetería de Altstetten. Turnos de tarde o noche.",
+      "description": "Cargar y descargar camiones, comprobar mercancía y palés, almacenarla en su sitio, registrar movimientos de material, tramitar albaranes y mantener el orden del almacén.",
+      "requirements": [
+        "Disponibilidad para turnos (14:00–23:30 o 23:30–08:00)",
+        "Algo de experiencia en almacén y manejo de transpaleta",
+        "Carné de carretillero (Staplerausweis)",
+        "Buena forma física y fiabilidad",
+        "Alemán oral y escrito"
+      ],
+      "workload": "60 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Mitarbeiter Lager (m/w/d)",
+        "summary": "Be- und Entladen von LKW, Kontrolle von Ware und Paletten sowie Einlagerung im Paketlager Altstetten. Spät- oder Nachtschicht.",
+        "description": "LKW be- und entladen, Ware und Paletten kontrollieren, korrekt einlagern, Materialbewegungen im System erfassen, Lieferscheine und Ladepapiere bearbeiten und das Lager in Ordnung halten.",
+        "requirements": [
+          "Bereitschaft zu Schichtarbeit (14:00–23:30 oder 23:30–08:00)",
+          "Etwas Lagererfahrung und Kenntnisse im Umgang mit Hubwagen",
+          "Staplerausweis",
+          "Körperliche Fitness und Zuverlässigkeit",
+          "Sichere mündliche und schriftliche Deutschkenntnisse"
+        ],
+        "workload": "60 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch"
+      },
+      "id": "50d23f213d62",
+      "foundAt": "2026-11-24T07:18:34.081Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistiker EFZ / EBA - Lager & Spedition (m/w/d) Oberhasli 100%",
+      "titleEs": "Logístico/a EFZ/EBA - almacén y expedición, Oberhasli",
+      "company": "Flexsis AG, Filiale Schaffhausen",
+      "location": "Oberhasli ZH",
+      "postedAt": "2026-11-23",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/54dc36ae-70c4-4808-ba5e-d340d8210612",
+      "summary": "Puesto temporal de almacén y expedición en Oberhasli: picking, embalaje, carga/descarga de camiones y recepción de mercancía. Se piden carné de carretillero y carné B.",
+      "description": "Preparar, empaquetar y controlar pedidos, cargar y descargar camiones, controlar y almacenar la mercancía recibida, mantener el almacén limpio, atender a clientes que recogen y repartir con vehículo de 3,5 t cuando haga falta.",
+      "requirements": [
+        "Formación como logístico EFZ o EBA (principiantes bienvenidos)",
+        "Carné de conducir categoría B, idealmente B/E",
+        "Carné de carretillero reconocido por SUVA",
+        "Experiencia en almacén",
+        "Buen alemán oral y escrito"
+      ],
+      "workload": "100 %",
+      "employmentType": "Temporal",
+      "language": "Alemán (bueno)",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Logistiker EFZ / EBA - Lager & Spedition (m/w/d) Oberhasli 100%",
+        "summary": "Temporäre Stelle in Lager und Spedition in Oberhasli: Kommissionieren, Verpacken, LKW be- und entladen und Wareneingang. Staplerausweis und Führerausweis B erforderlich.",
+        "description": "Aufträge kommissionieren, verpacken und kontrollieren, LKW be- und entladen, Wareneingang prüfen und korrekt einlagern, Lager sauber halten, Abholkunden bedienen und bei Bedarf mit 3,5-t-Fahrzeug ausliefern.",
+        "requirements": [
+          "Abgeschlossene Ausbildung als Logistiker EFZ oder EBA (Berufseinsteiger willkommen)",
+          "Führerausweis Kat. B, idealerweise B/E",
+          "SUVA-anerkannter Staplerausweis",
+          "Lagererfahrung",
+          "Gute Deutschkenntnisse in Wort und Schrift"
+        ],
+        "workload": "100 %",
+        "employmentType": "Temporär",
+        "language": "Deutsch (gut)"
+      },
+      "id": "a872a6ffcdc7",
+      "foundAt": "2026-11-24T07:18:34.081Z"
     },
     {
       "searchId": "frontend-react",
@@ -794,6 +992,84 @@
       "foundAt": "2026-11-23T06:17:17.789Z"
     },
     {
+      "searchId": "temporada-invierno",
+      "title": "Personalkoch (m/w/d) Wintersaison 2026/2027",
+      "titleEs": "Cocinero/a de personal (m/f/d), temporada de invierno 2026/27",
+      "company": "Tschuggen Collection AG",
+      "location": "St. Moritz GR",
+      "postedAt": "2026-11-22",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/2dd98b10-fb60-416d-b3c8-687858299acd",
+      "summary": "Cocinero/a de personal en el hotel de 5 estrellas Carlton de St. Moritz, contrato de temporada hasta finales de marzo 2027. Alojamiento para el personal cerca del hotel.",
+      "description": "Preparar platos (cocer, asar, brasear), mise en place, pedidos y almacenamiento, HACCP y limpieza de la cocina, emplatado antes del servicio.",
+      "requirements": [
+        "Formación profesional completada",
+        "Experiencia en hoteles de 4–5 estrellas",
+        "Higiene estricta y buena presencia",
+        "Alemán, italiano o inglés"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato de temporada (hasta fines de marzo 2027)",
+      "language": "Alemán, italiano o inglés",
+      "englishOk": true,
+      "seniority": "mid",
+      "de": {
+        "title": "Personalkoch (m/w/d) Wintersaison 2026/2027",
+        "summary": "Personalkoch im 5-Sterne-Hotel Carlton in St. Moritz, befristet bis Ende März 2027. Personalunterkunft in Hotelnähe.",
+        "description": "Gerichte zubereiten (kochen, braten, schmoren), Mise en Place, Bestellung und Lagerung, HACCP und Reinigung der Küche, Anrichten vor dem Service.",
+        "requirements": [
+          "Abgeschlossene Berufsausbildung",
+          "Erfahrung in 4–5-Sterne-Hotels",
+          "Strikte Hygiene und gepflegtes Auftreten",
+          "Deutsch, Italienisch oder Englisch"
+        ],
+        "workload": "100 %",
+        "employmentType": "Saisonstelle (befristet bis Ende März 2027)",
+        "language": "Deutsch, Italienisch oder Englisch"
+      },
+      "id": "a27bf3890afc",
+      "foundAt": "2026-11-24T07:18:34.081Z"
+    },
+    {
+      "searchId": "temporada-invierno",
+      "title": "Front Office Agent (m/w/d) befristet bis Ende Wintersaison 2026/2027",
+      "titleEs": "Agente de recepción (m/f/d), hasta fin de la temporada de invierno 2026/27",
+      "company": "Tschuggen Collection AG",
+      "location": "St. Moritz GR",
+      "postedAt": "2026-11-22",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/d5f919d6-e80b-4b7b-8d67-4d0a7dcfa25a",
+      "summary": "Recepción en hotel de lujo de St. Moritz, turnos de mañana y tarde, contrato hasta finales de marzo 2027 con inicio el 7-12-2026. Alojamiento para el personal. Exige 2 años de experiencia y alemán e inglés fluidos.",
+      "description": "Gestionar la recepción en turnos de mañana y tarde con listas de control, trabajar con reservas, apoyar al conserje y vender servicios adicionales del hotel.",
+      "requirements": [
+        "Formación comercial completada",
+        "Mínimo 2 años de experiencia en recepción de hotel 4–5 estrellas",
+        "Alemán e inglés fluidos",
+        "Orientación al servicio y discreción"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato de temporada (hasta fines de marzo 2027)",
+      "language": "Alemán e inglés fluidos",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Front Office Agent (m/w/d) befristet bis Ende Wintersaison 2026/2027",
+        "summary": "Rezeption im Luxushotel in St. Moritz, Früh- und Spätdienst, befristet bis Ende März 2027, Start 7.12.2026. Personalunterkunft. 2 Jahre Erfahrung sowie fliessend Deutsch und Englisch erforderlich.",
+        "description": "Front-Office-Aufgaben im Früh- und Spätdienst anhand von Checklisten, enge Zusammenarbeit mit der Reservation, Unterstützung des Concierge und aktiver Verkauf zusätzlicher Hotelleistungen.",
+        "requirements": [
+          "Abgeschlossene kaufmännische Ausbildung",
+          "Mind. 2 Jahre Front-Office-Erfahrung in 4–5-Sterne-Hotel",
+          "Fliessend Deutsch und Englisch",
+          "Serviceorientierung und Diskretion"
+        ],
+        "workload": "100 %",
+        "employmentType": "Saisonstelle (befristet bis Ende März 2027)",
+        "language": "Deutsch und Englisch fliessend"
+      },
+      "id": "3bdeda20ad2c",
+      "foundAt": "2026-11-24T07:18:34.081Z"
+    },
+    {
       "searchId": "junior-it",
       "title": "ICT Support (1st Level) 100%",
       "titleEs": "Soporte ICT (1.er nivel) 100 %",
@@ -1198,6 +1474,43 @@
       },
       "id": "6c05f9121962",
       "foundAt": "2026-11-22T06:23:22.992Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Mitarbeiterin / Mitarbeiter Room Service",
+      "titleEs": "Personal de Room Service (hospital)",
+      "company": "Kantonsspital Winterthur",
+      "location": "Winterthur ZH",
+      "postedAt": "2026-11-21",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/mitarbeiterin-mitarbeiter-room-service-at-kantonsspital-winterthur-4492569709",
+      "summary": "Servicio de hostelería a pacientes del hospital: toma de pedidos de comida y bebida y reparto en las habitaciones. Exige EFZ de hostelería o varios años de experiencia.",
+      "description": "Atención de hostelería a pacientes, familiares y visitantes, toma de pedidos (sistema Orgacard), reparto de comidas y bebidas, apoyo en ingresos y altas y coordinación con el personal de enfermería.",
+      "requirements": [
+        "EFZ en hotelería/economía doméstica, restauración o varios años de experiencia en hostelería sanitaria",
+        "Alemán mínimo B2",
+        "Flexibilidad para turnos, fines de semana y festivos"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán B2",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Mitarbeiterin / Mitarbeiter Room Service",
+        "summary": "Gästebetreuung bei Patientinnen und Patienten im Spital: Bestellungen aufnehmen sowie Essen und Getränke servieren. EFZ in Hotellerie oder mehrjährige Erfahrung erforderlich.",
+        "description": "Gastgeberdienst für Patienten, Angehörige und Besucher, Bestellungen (Orgacard), Speisen- und Getränkeservice, Unterstützung bei Ein- und Austritten und Zusammenarbeit mit der Pflege.",
+        "requirements": [
+          "EFZ Hotellerie/Hauswirtschaft, Restauration oder mehrjährige Erfahrung in der Spitalhotellerie",
+          "Deutsch mind. B2",
+          "Flexibilität für Schicht-, Wochenend- und Feiertagsdienst"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch B2"
+      },
+      "id": "6a20d2c36efb",
+      "foundAt": "2026-11-24T07:18:34.081Z"
     },
     {
       "searchId": "fullstack-ts",
@@ -2243,6 +2556,47 @@
       },
       "id": "7630b1137acb",
       "foundAt": "2026-11-21T06:21:56.881Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Logistiker / Staplerfahrer (m/w/d) 100%",
+      "titleEs": "Logístico/a / carretillero/a (m/f/d)",
+      "company": "Bellini Personal AG",
+      "location": "Zürich (también Vals GR y Olten)",
+      "postedAt": "2026-11-20",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/8e99f6a8-9a4d-4cb6-b1a7-5ee15915d2b4",
+      "summary": "Puesto temporal con posibilidad de contrato fijo: recepción y almacenaje de mercancía, preparación de pedidos y carretilla. Experiencia en almacén obligatoria. Ubicaciones: Cantón de Zürich, Vals y Olten.",
+      "description": "Recibir y controlar entregas, almacenar y sacar mercancía y material, cargar y descargar camiones, preparar pedidos, manejar carretillas para transporte interno y mantener el almacén ordenado, limpio y seguro.",
+      "requirements": [
+        "Experiencia en logística o almacén (obligatoria)",
+        "Carné de carretillero válido",
+        "Buen alemán",
+        "Fiabilidad, autonomía y buena forma física",
+        "Experiencia en producción alimentaria (ventaja)"
+      ],
+      "workload": "100 %",
+      "employmentType": "Temporal con opción a fijo",
+      "language": "Alemán (bueno)",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Logistiker / Staplerfahrer (m/w/d) 100%",
+        "summary": "Temporäre Stelle mit Option auf Festanstellung: Warenannahme, Lagerung, Kommissionierung und Staplerfahren. Lagererfahrung zwingend. Einsatzorte: Kanton Zürich, Vals und Olten.",
+        "description": "Lieferungen annehmen und kontrollieren, Waren ein- und auslagern, LKW be- und entladen, Aufträge kommissionieren, Stapler für internen Transport bedienen und das Lager ordentlich, sauber und sicher halten.",
+        "requirements": [
+          "Logistik- oder Lagererfahrung (zwingend)",
+          "Gültiger Staplerausweis",
+          "Gute Deutschkenntnisse",
+          "Zuverlässigkeit, Selbständigkeit und körperliche Fitness",
+          "Erfahrung in der Lebensmittelproduktion von Vorteil"
+        ],
+        "workload": "100 %",
+        "employmentType": "Temporär mit Option auf Festanstellung",
+        "language": "Deutsch (gut)"
+      },
+      "id": "e6cd8947665c",
+      "foundAt": "2026-11-24T07:18:34.081Z"
     },
     {
       "searchId": "junior-it",
@@ -3882,6 +4236,43 @@
       "seniority": "mid",
       "id": "f03e58ff212a",
       "foundAt": "2026-11-20T06:19:56.550Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Mitarbeiterin / Mitarbeiter Etagenreinigung (a) 50%",
+      "titleEs": "Personal de limpieza de plantas 50%",
+      "company": "Klinik Hirslanden",
+      "location": "Zürich",
+      "postedAt": "2026-11-19",
+      "source": "myjob.ch",
+      "url": "https://www.myjob.ch/job/mitarbeiterin-mitarbeiter-etagenreinigung-a-50/3681682",
+      "summary": "Limpieza de una planta de la clínica (habitaciones de aislamiento, paritorios, pasillos), 50 % fijo desde el 1 de enero de 2027 o a convenir.",
+      "description": "Limpiar el área asignada, habitaciones de aislamiento, paritorios, salas auxiliares y pasillos; usar con economía máquinas y productos, eliminar residuos correctamente y formar a nuevo personal.",
+      "requirements": [
+        "Experiencia previa en limpieza",
+        "Orientación al servicio y responsabilidad",
+        "Alemán mínimo B1"
+      ],
+      "workload": "50 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán B1",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Mitarbeiterin / Mitarbeiter Etagenreinigung (a) 50%",
+        "summary": "Reinigung einer Klinikabteilung (Isolationszimmer, Gebärsäle, Gänge), unbefristet 50 % ab 1. Januar 2027 oder nach Vereinbarung.",
+        "description": "Reinigung des zugeteilten Bereichs, Isolationszimmer, Gebärsäle, Nebenräume und Gänge; sparsamer Einsatz von Geräten und Mitteln, korrekte Entsorgung und Einarbeitung neuer Mitarbeitender.",
+        "requirements": [
+          "Reinigungserfahrung",
+          "Serviceorientierung und Verantwortungsbewusstsein",
+          "Gute Deutschkenntnisse mind. B1"
+        ],
+        "workload": "50 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch B1"
+      },
+      "id": "1325bd714715",
+      "foundAt": "2026-11-24T07:18:34.081Z"
     },
     {
       "searchId": "fullstack-ts",
@@ -14283,6 +14674,47 @@
       },
       "id": "6d58f43b5702",
       "foundAt": "2026-11-12T10:00:08.920Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Teamleiter / Teamleiterin Housekeeping Bereich Hotel (100 %)",
+      "titleEs": "Jefe/a de equipo de Housekeeping en hotel (100 %)",
+      "company": "CRS Management & Service AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-10",
+      "source": "join.com",
+      "url": "https://join.com/companies/crsms/16933538-teamleiter-teamleiterin-housekeeping-bereich-hotel-100",
+      "summary": "Dirigir un equipo de housekeeping de unas 50 personas en un hotel de Zürich, interlocutor del cliente y organización de turnos. Salario CHF 4'500-5'200 al mes.",
+      "description": "Liderar un equipo de 50 personas, ser el contacto principal del cliente, garantizar el funcionamiento diario, cumplir normas de higiene y seguridad, planificar vacaciones y turnos, formar al personal y trabajar en la operativa, también fines de semana.",
+      "requirements": [
+        "Formación hotelera o experiencia equivalente",
+        "Al menos 3 años de experiencia de liderazgo en limpieza hotelera o de edificios",
+        "Buen alemán hablado e inglés",
+        "Disponibilidad para fines de semana; inicio a las 07:00"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "salary": "CHF 4'500-5'200 al mes",
+      "language": "Alemán hablado bueno e inglés",
+      "englishOk": false,
+      "seniority": "lead",
+      "de": {
+        "title": "Teamleiter / Teamleiterin Housekeeping Bereich Hotel (100 %)",
+        "summary": "Leitung eines Housekeeping-Teams von rund 50 Personen in einem Zürcher Hotel, Ansprechperson für den Kunden und Einsatzplanung. Lohn CHF 4'500-5'200 pro Monat.",
+        "description": "Führung eines Teams von 50 Personen, Hauptansprechperson des Kunden, reibungsloser Tagesbetrieb, Einhaltung von Hygiene- und Sicherheitsvorschriften, Ferien- und Schichtplanung, Mitarbeitende schulen und im operativen Betrieb mitarbeiten, auch am Wochenende.",
+        "requirements": [
+          "Hotelfachausbildung oder gleichwertige Erfahrung",
+          "Mind. 3 Jahre Führungserfahrung in Hotel- oder Gebäudereinigung",
+          "Gute Deutsch- und Englischkenntnisse mündlich",
+          "Bereitschaft zu Wochenenddiensten; Arbeitsbeginn 07:00"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "salary": "CHF 4'500-5'200 pro Monat",
+        "language": "Gutes Deutsch und Englisch (mündlich)"
+      },
+      "id": "ab68a6bed724",
+      "foundAt": "2026-11-24T07:18:34.081Z"
     },
     {
       "searchId": "junior-it",

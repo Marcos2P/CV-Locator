@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T06:22:05.574Z",
+  "updatedAt": "2026-11-24T07:18:34.081Z",
   "companies": [
     {
       "key": "arztekasse genossenschaft",
@@ -31,6 +31,245 @@
           "location": "Urdorf ZH",
           "url": "https://www.jobs.ch/de/stellenangebote/detail/e43d50d2-bd28-4e12-b3cc-d4a678d312a6",
           "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "coople",
+      "name": "Coople",
+      "agency": true,
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-24",
+      "searchIds": [
+        "hotel",
+        "reinigung-flughafen",
+        "lager",
+        "kueche"
+      ],
+      "locations": [
+        "Adliswil ZH",
+        "8048 Zürich",
+        "Volketswil ZH",
+        "Zürich ZH",
+        "Dietikon ZH",
+        "Winterthur ZH",
+        "Volketswil ZH (8604)",
+        "Buchs ZH (8107)",
+        "8604 Volketswil",
+        "8400 Winterthur",
+        "8404 Winterthur",
+        "8105 Regensdorf",
+        "8001 Zürich",
+        "Otelfingen ZH",
+        "Zürich ZH (8044)",
+        "Zürich ZH (8001)",
+        "Adliswil",
+        "Zürich 8045",
+        "Rümlang ZH"
+      ],
+      "jobs": [
+        {
+          "id": "86ece7ebb1d3",
+          "title": "Ayudante de cocina/buffet (anrichten, free flow) - SV",
+          "searchId": "kueche",
+          "postedAt": "2026-11-24",
+          "location": "Zürich 8045",
+          "url": "https://www.coople.com/ch/jobs/46a594d7-5918-4f9d-9172-ff60d6e93b6e"
+        },
+        {
+          "id": "5836cb74e470",
+          "title": "Logístico/a (m/f/d), temporal",
+          "searchId": "lager",
+          "postedAt": "2026-11-24",
+          "location": "Rümlang ZH",
+          "url": "https://www.coople.com/ch/jobs/de/fb014f63-29b2-4cc5-929b-23be28353846",
+          "englishOk": false
+        },
+        {
+          "id": "6d5a5dc04848",
+          "title": "Logístico/a (empaquetado de regalos y envíos), temporal",
+          "searchId": "lager",
+          "postedAt": "2026-11-24",
+          "location": "Winterthur ZH",
+          "url": "https://www.coople.com/ch/jobs/de/67fd557d-dba6-4a5b-8493-1d55882f5052"
+        },
+        {
+          "id": "48d4c223b969",
+          "title": "Cocinero/a de apoyo (turno puntual)",
+          "searchId": "kueche",
+          "postedAt": "2026-11-23",
+          "location": "Adliswil",
+          "url": "https://www.coople.com/ch/jobs/de/f068281e-9ab0-4ce8-a9ae-d5202858534b",
+          "englishOk": false
+        },
+        {
+          "id": "67d53cf70ce8",
+          "title": "Preparador/a de pedidos (tienda) – turno puntual",
+          "searchId": "lager",
+          "postedAt": "2026-11-22",
+          "location": "Volketswil ZH",
+          "url": "https://www.coople.com/ch/jobs/de/e8f1ce78-8ec0-41c5-b90b-0a639810858c"
+        },
+        {
+          "id": "ce2e8f07c37e",
+          "title": "Personal de logística – devoluciones",
+          "searchId": "lager",
+          "postedAt": "2026-11-22",
+          "location": "Otelfingen ZH",
+          "url": "https://www.coople.com/ch/jobs/de/a69b7048-735f-4cfc-acaa-3b51de29f2d1",
+          "englishOk": false
+        },
+        {
+          "id": "795347863de6",
+          "title": "Ayudante de office/friegaplatos con experiencia – turno puntual",
+          "searchId": "kueche",
+          "postedAt": "2026-11-22",
+          "location": "Zürich ZH (8044)",
+          "url": "https://www.coople.com/ch/jobs/de/bbfc74f0-0316-4122-b523-7abb26dff674"
+        },
+        {
+          "id": "b08139344f0e",
+          "title": "Ayudante de cocina (personal de restaurante de empresa) – turno puntual",
+          "searchId": "kueche",
+          "postedAt": "2026-11-22",
+          "location": "Zürich ZH (8001)",
+          "url": "https://www.coople.com/ch/jobs/de/834d7a15-f46b-472d-8b80-de95b9df5661"
+        },
+        {
+          "id": "eadc1214d4f5",
+          "title": "Empleado/a de stewarding (lavado de vajilla y barra)",
+          "searchId": "kueche",
+          "postedAt": "2026-11-21",
+          "location": "8001 Zürich",
+          "url": "https://www.coople.com/ch/jobs/de/03f652cd-1c7a-448a-9a24-fb7c5563a425",
+          "englishOk": false
+        },
+        {
+          "id": "b2dc450e5d0e",
+          "title": "Ayudante de cocina / lavaplatos (comedor de personal)",
+          "searchId": "kueche",
+          "postedAt": "2026-11-20",
+          "location": "8604 Volketswil",
+          "url": "https://www.coople.com/ch/jobs/de/b900bf60-8b5b-45ef-9ec7-5404cdb1d0a2"
+        },
+        {
+          "id": "ff7246de8449",
+          "title": "Personal de cocina de lavado (lavaplatos)",
+          "searchId": "kueche",
+          "postedAt": "2026-11-20",
+          "location": "8400 Winterthur",
+          "url": "https://www.coople.com/ch/jobs/de/554ceb84-7bb4-4731-8e98-8e07a1057f18"
+        },
+        {
+          "id": "d50ac2784bda",
+          "title": "Empaquetado de envíos (logística)",
+          "searchId": "lager",
+          "postedAt": "2026-11-20",
+          "location": "8404 Winterthur",
+          "url": "https://www.coople.com/ch/jobs/de/2e4f021a-528a-4aa9-ac47-8fdbb4ba0e64"
+        },
+        {
+          "id": "531b3c8ca7e5",
+          "title": "Almacén y atención al cliente (Logistiker/in)",
+          "searchId": "lager",
+          "postedAt": "2026-11-20",
+          "location": "8105 Regensdorf",
+          "url": "https://www.coople.com/ch/jobs/de/2867ca48-20ef-40ea-aaa0-78d04f3e7532",
+          "englishOk": true
+        },
+        {
+          "id": "fb36e0c5bad9",
+          "title": "Picker de tienda (turno de 8 h)",
+          "searchId": "lager",
+          "postedAt": "2026-11-18",
+          "location": "Volketswil ZH (8604)",
+          "url": "https://www.coople.com/ch/jobs/de/52ef34e6-779f-4d01-a8ac-ff68d328f739"
+        },
+        {
+          "id": "46b08b510453",
+          "title": "Descarga de contenedores (noviembre), DPD Buchs",
+          "searchId": "lager",
+          "postedAt": "2026-11-18",
+          "location": "Buchs ZH (8107)",
+          "url": "https://www.coople.com/ch/jobs/de/23a1277c-be30-40e2-9fb3-33b82f78345c"
+        },
+        {
+          "id": "1581ae7352a9",
+          "title": "Ayudante de lavado (Winterthur)",
+          "searchId": "kueche",
+          "postedAt": "2026-11-17",
+          "location": "Winterthur ZH",
+          "url": "https://www.coople.com/ch/jobs/en/befebc46-7bf2-49fb-a9b0-2085bfbb2085",
+          "englishOk": false
+        },
+        {
+          "id": "2c5f72995089",
+          "title": "Empleados/as de picking exprés - desde las 13:00",
+          "searchId": "lager",
+          "postedAt": "2026-11-16",
+          "location": "Volketswil ZH",
+          "url": "https://www.coople.com/ch/jobs/en/c29ffb21-d87e-42d1-8cba-25319cae605d",
+          "englishOk": false
+        },
+        {
+          "id": "7c495c24784e",
+          "title": "Operario/a de logística (carretillero/a) – logística de devoluciones Migros",
+          "searchId": "lager",
+          "postedAt": "2026-11-16",
+          "location": "Zürich ZH",
+          "url": "https://www.coople.com/ch/jobs/en/d17b566f-c98b-48ff-b16a-365f97d9118d",
+          "englishOk": false
+        },
+        {
+          "id": "6abd2386da3c",
+          "title": "Ayudante de lavavajillas",
+          "searchId": "kueche",
+          "postedAt": "2026-11-16",
+          "location": "Zürich ZH",
+          "url": "https://www.coople.com/ch/jobs/en/704308dc-867a-4444-80c1-e784bb17d282",
+          "englishOk": false
+        },
+        {
+          "id": "e07088ef17cf",
+          "title": "Ayudante de lavavajillas con experiencia (Office)",
+          "searchId": "kueche",
+          "postedAt": "2026-11-16",
+          "location": "Dietikon ZH",
+          "url": "https://www.coople.com/ch/jobs/en/e7f31270-148c-409b-9a08-ffe0599d7892",
+          "englishOk": false
+        },
+        {
+          "id": "d7a5e3ca2cd2",
+          "title": "Servicio de cobertura/turndown en hotel",
+          "searchId": "hotel",
+          "postedAt": "2026-11-16",
+          "location": "Zürich ZH",
+          "url": "https://www.coople.com/ch/jobs/en/b836bddd-d42b-486d-aa2c-1aa40486377c",
+          "englishOk": false
+        },
+        {
+          "id": "8f1dcc415ad0",
+          "title": "Ayudante de cocina (aushilfe)",
+          "searchId": "kueche",
+          "postedAt": "2026-11-16",
+          "location": "Adliswil ZH",
+          "url": "https://www.coople.com/ch/jobs/en/4fd3a995-ac4e-49fa-9021-2c7434b905c1"
+        },
+        {
+          "id": "eb99a3fcc283",
+          "title": "Limpieza",
+          "searchId": "reinigung-flughafen",
+          "postedAt": "2026-11-15",
+          "location": "8048 Zürich",
+          "url": "https://www.coople.com/ch/jobs/de/2509fc7a-dd0e-4a02-a223-538bcef1452b"
+        },
+        {
+          "id": "69447c6f97c2",
+          "title": "Housekeeping (limpieza de habitaciones de hotel, turno único)",
+          "searchId": "hotel",
+          "postedAt": "2026-11-12",
+          "location": "Adliswil ZH",
+          "url": "https://www.coople.com/ch/jobs/en/25808e6f-dfae-4d6f-b88c-6c44c051ad42"
         }
       ]
     },
@@ -439,218 +678,6 @@
       ]
     },
     {
-      "key": "coople",
-      "name": "Coople",
-      "agency": true,
-      "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-23",
-      "searchIds": [
-        "hotel",
-        "reinigung-flughafen",
-        "lager",
-        "kueche"
-      ],
-      "locations": [
-        "Adliswil ZH",
-        "8048 Zürich",
-        "Volketswil ZH",
-        "Zürich ZH",
-        "Dietikon ZH",
-        "Winterthur ZH",
-        "Volketswil ZH (8604)",
-        "Buchs ZH (8107)",
-        "8604 Volketswil",
-        "8400 Winterthur",
-        "8404 Winterthur",
-        "8105 Regensdorf",
-        "8001 Zürich",
-        "Otelfingen ZH",
-        "Zürich ZH (8044)",
-        "Zürich ZH (8001)",
-        "Adliswil"
-      ],
-      "jobs": [
-        {
-          "id": "48d4c223b969",
-          "title": "Cocinero/a de apoyo (turno puntual)",
-          "searchId": "kueche",
-          "postedAt": "2026-11-23",
-          "location": "Adliswil",
-          "url": "https://www.coople.com/ch/jobs/de/f068281e-9ab0-4ce8-a9ae-d5202858534b",
-          "englishOk": false
-        },
-        {
-          "id": "67d53cf70ce8",
-          "title": "Preparador/a de pedidos (tienda) – turno puntual",
-          "searchId": "lager",
-          "postedAt": "2026-11-22",
-          "location": "Volketswil ZH",
-          "url": "https://www.coople.com/ch/jobs/de/e8f1ce78-8ec0-41c5-b90b-0a639810858c"
-        },
-        {
-          "id": "ce2e8f07c37e",
-          "title": "Personal de logística – devoluciones",
-          "searchId": "lager",
-          "postedAt": "2026-11-22",
-          "location": "Otelfingen ZH",
-          "url": "https://www.coople.com/ch/jobs/de/a69b7048-735f-4cfc-acaa-3b51de29f2d1",
-          "englishOk": false
-        },
-        {
-          "id": "795347863de6",
-          "title": "Ayudante de office/friegaplatos con experiencia – turno puntual",
-          "searchId": "kueche",
-          "postedAt": "2026-11-22",
-          "location": "Zürich ZH (8044)",
-          "url": "https://www.coople.com/ch/jobs/de/bbfc74f0-0316-4122-b523-7abb26dff674"
-        },
-        {
-          "id": "b08139344f0e",
-          "title": "Ayudante de cocina (personal de restaurante de empresa) – turno puntual",
-          "searchId": "kueche",
-          "postedAt": "2026-11-22",
-          "location": "Zürich ZH (8001)",
-          "url": "https://www.coople.com/ch/jobs/de/834d7a15-f46b-472d-8b80-de95b9df5661"
-        },
-        {
-          "id": "eadc1214d4f5",
-          "title": "Empleado/a de stewarding (lavado de vajilla y barra)",
-          "searchId": "kueche",
-          "postedAt": "2026-11-21",
-          "location": "8001 Zürich",
-          "url": "https://www.coople.com/ch/jobs/de/03f652cd-1c7a-448a-9a24-fb7c5563a425",
-          "englishOk": false
-        },
-        {
-          "id": "b2dc450e5d0e",
-          "title": "Ayudante de cocina / lavaplatos (comedor de personal)",
-          "searchId": "kueche",
-          "postedAt": "2026-11-20",
-          "location": "8604 Volketswil",
-          "url": "https://www.coople.com/ch/jobs/de/b900bf60-8b5b-45ef-9ec7-5404cdb1d0a2"
-        },
-        {
-          "id": "ff7246de8449",
-          "title": "Personal de cocina de lavado (lavaplatos)",
-          "searchId": "kueche",
-          "postedAt": "2026-11-20",
-          "location": "8400 Winterthur",
-          "url": "https://www.coople.com/ch/jobs/de/554ceb84-7bb4-4731-8e98-8e07a1057f18"
-        },
-        {
-          "id": "d50ac2784bda",
-          "title": "Empaquetado de envíos (logística)",
-          "searchId": "lager",
-          "postedAt": "2026-11-20",
-          "location": "8404 Winterthur",
-          "url": "https://www.coople.com/ch/jobs/de/2e4f021a-528a-4aa9-ac47-8fdbb4ba0e64"
-        },
-        {
-          "id": "531b3c8ca7e5",
-          "title": "Almacén y atención al cliente (Logistiker/in)",
-          "searchId": "lager",
-          "postedAt": "2026-11-20",
-          "location": "8105 Regensdorf",
-          "url": "https://www.coople.com/ch/jobs/de/2867ca48-20ef-40ea-aaa0-78d04f3e7532",
-          "englishOk": true
-        },
-        {
-          "id": "fb36e0c5bad9",
-          "title": "Picker de tienda (turno de 8 h)",
-          "searchId": "lager",
-          "postedAt": "2026-11-18",
-          "location": "Volketswil ZH (8604)",
-          "url": "https://www.coople.com/ch/jobs/de/52ef34e6-779f-4d01-a8ac-ff68d328f739"
-        },
-        {
-          "id": "46b08b510453",
-          "title": "Descarga de contenedores (noviembre), DPD Buchs",
-          "searchId": "lager",
-          "postedAt": "2026-11-18",
-          "location": "Buchs ZH (8107)",
-          "url": "https://www.coople.com/ch/jobs/de/23a1277c-be30-40e2-9fb3-33b82f78345c"
-        },
-        {
-          "id": "1581ae7352a9",
-          "title": "Ayudante de lavado (Winterthur)",
-          "searchId": "kueche",
-          "postedAt": "2026-11-17",
-          "location": "Winterthur ZH",
-          "url": "https://www.coople.com/ch/jobs/en/befebc46-7bf2-49fb-a9b0-2085bfbb2085",
-          "englishOk": false
-        },
-        {
-          "id": "2c5f72995089",
-          "title": "Empleados/as de picking exprés - desde las 13:00",
-          "searchId": "lager",
-          "postedAt": "2026-11-16",
-          "location": "Volketswil ZH",
-          "url": "https://www.coople.com/ch/jobs/en/c29ffb21-d87e-42d1-8cba-25319cae605d",
-          "englishOk": false
-        },
-        {
-          "id": "7c495c24784e",
-          "title": "Operario/a de logística (carretillero/a) – logística de devoluciones Migros",
-          "searchId": "lager",
-          "postedAt": "2026-11-16",
-          "location": "Zürich ZH",
-          "url": "https://www.coople.com/ch/jobs/en/d17b566f-c98b-48ff-b16a-365f97d9118d",
-          "englishOk": false
-        },
-        {
-          "id": "6abd2386da3c",
-          "title": "Ayudante de lavavajillas",
-          "searchId": "kueche",
-          "postedAt": "2026-11-16",
-          "location": "Zürich ZH",
-          "url": "https://www.coople.com/ch/jobs/en/704308dc-867a-4444-80c1-e784bb17d282",
-          "englishOk": false
-        },
-        {
-          "id": "e07088ef17cf",
-          "title": "Ayudante de lavavajillas con experiencia (Office)",
-          "searchId": "kueche",
-          "postedAt": "2026-11-16",
-          "location": "Dietikon ZH",
-          "url": "https://www.coople.com/ch/jobs/en/e7f31270-148c-409b-9a08-ffe0599d7892",
-          "englishOk": false
-        },
-        {
-          "id": "d7a5e3ca2cd2",
-          "title": "Servicio de cobertura/turndown en hotel",
-          "searchId": "hotel",
-          "postedAt": "2026-11-16",
-          "location": "Zürich ZH",
-          "url": "https://www.coople.com/ch/jobs/en/b836bddd-d42b-486d-aa2c-1aa40486377c",
-          "englishOk": false
-        },
-        {
-          "id": "8f1dcc415ad0",
-          "title": "Ayudante de cocina (aushilfe)",
-          "searchId": "kueche",
-          "postedAt": "2026-11-16",
-          "location": "Adliswil ZH",
-          "url": "https://www.coople.com/ch/jobs/en/4fd3a995-ac4e-49fa-9021-2c7434b905c1"
-        },
-        {
-          "id": "eb99a3fcc283",
-          "title": "Limpieza",
-          "searchId": "reinigung-flughafen",
-          "postedAt": "2026-11-15",
-          "location": "8048 Zürich",
-          "url": "https://www.coople.com/ch/jobs/de/2509fc7a-dd0e-4a02-a223-538bcef1452b"
-        },
-        {
-          "id": "69447c6f97c2",
-          "title": "Housekeeping (limpieza de habitaciones de hotel, turno único)",
-          "searchId": "hotel",
-          "postedAt": "2026-11-12",
-          "location": "Adliswil ZH",
-          "url": "https://www.coople.com/ch/jobs/en/25808e6f-dfae-4d6f-b88c-6c44c051ad42"
-        }
-      ]
-    },
-    {
       "key": "eth zurich",
       "name": "ETH Zürich",
       "agency": false,
@@ -682,6 +709,39 @@
           "location": "Zürich ZH",
           "url": "https://www.jobscout24.ch/de/job/d164730f-b963-45d7-b374-6592f6473939",
           "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "flexsis filiale schaffhausen",
+      "name": "Flexsis AG, Filiale Schaffhausen",
+      "agency": false,
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-23",
+      "searchIds": [
+        "lager"
+      ],
+      "locations": [
+        "Urdorf",
+        "Oberhasli ZH"
+      ],
+      "jobs": [
+        {
+          "id": "a872a6ffcdc7",
+          "title": "Logístico/a EFZ/EBA - almacén y expedición, Oberhasli",
+          "searchId": "lager",
+          "postedAt": "2026-11-23",
+          "location": "Oberhasli ZH",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/54dc36ae-70c4-4808-ba5e-d340d8210612",
+          "englishOk": false
+        },
+        {
+          "id": "601853894d1b",
+          "title": "Mozo de almacén 80 % (18:00–03:00), temporal hasta enero 2027",
+          "searchId": "lager",
+          "postedAt": "2026-11-18",
+          "location": "Urdorf",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/59ff80a5-4b01-4311-90fc-f6f201feddd6"
         }
       ]
     },
@@ -876,6 +936,30 @@
           "postedAt": "2026-11-02",
           "location": "Zürich",
           "url": "https://join.com/companies/paretolabs/16869708-frontend-developer-intern"
+        }
+      ]
+    },
+    {
+      "key": "planzer paket",
+      "name": "Planzer Paket",
+      "agency": false,
+      "firstSeen": "2026-11-23",
+      "lastSeen": "2026-11-23",
+      "searchIds": [
+        "lager"
+      ],
+      "locations": [
+        "Zürich-Altstetten"
+      ],
+      "jobs": [
+        {
+          "id": "50d23f213d62",
+          "title": "Mozo/a de almacén (m/f/d)",
+          "searchId": "lager",
+          "postedAt": "2026-11-23",
+          "location": "Zürich-Altstetten",
+          "url": "https://www.jobscout24.ch/de/job/6d30175b-7741-423f-9dd1-0c7a7c640a2a",
+          "englishOk": false
         }
       ]
     },
@@ -1636,6 +1720,57 @@
       ]
     },
     {
+      "key": "tschuggen collection",
+      "name": "Tschuggen Collection AG",
+      "agency": false,
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-22",
+      "searchIds": [
+        "temporada-invierno"
+      ],
+      "locations": [
+        "Arosa GR",
+        "St. Moritz GR"
+      ],
+      "jobs": [
+        {
+          "id": "a27bf3890afc",
+          "title": "Cocinero/a de personal (m/f/d), temporada de invierno 2026/27",
+          "searchId": "temporada-invierno",
+          "postedAt": "2026-11-22",
+          "location": "St. Moritz GR",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/2dd98b10-fb60-416d-b3c8-687858299acd",
+          "englishOk": true
+        },
+        {
+          "id": "3bdeda20ad2c",
+          "title": "Agente de recepción (m/f/d), hasta fin de la temporada de invierno 2026/27",
+          "searchId": "temporada-invierno",
+          "postedAt": "2026-11-22",
+          "location": "St. Moritz GR",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/d5f919d6-e80b-4b7b-8d67-4d0a7dcfa25a",
+          "englishOk": false
+        },
+        {
+          "id": "9af8245b20fe",
+          "title": "Conserje / relevo de night audit, temporada de invierno 2026/2027",
+          "searchId": "temporada-invierno",
+          "postedAt": "2026-11-12",
+          "location": "Arosa GR",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/d59dba57-af15-400b-a69c-7db13e65ea2c"
+        },
+        {
+          "id": "4f749f61a38b",
+          "title": "Cocinero/a de desayunos, temporada de invierno 2026/2027",
+          "searchId": "temporada-invierno",
+          "postedAt": "2026-11-10",
+          "location": "Arosa GR",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/8402cb92-8931-4e48-9f70-f05651c9b1b8",
+          "englishOk": true
+        }
+      ]
+    },
+    {
       "key": "actuways",
       "name": "Actuways AG",
       "agency": false,
@@ -1967,7 +2102,8 @@
       "lastSeen": "2026-11-21",
       "searchIds": [
         "lager",
-        "reinigung-flughafen"
+        "reinigung-flughafen",
+        "hotel"
       ],
       "locations": [
         "Winterthur",
@@ -1981,6 +2117,15 @@
           "postedAt": "2026-11-21",
           "location": "Winterthur ZH",
           "url": "https://www.jobs.ch/de/stellenangebote/detail/0aaa7ad6-ab0f-4acb-897e-105ccc80ad88",
+          "englishOk": false
+        },
+        {
+          "id": "6a20d2c36efb",
+          "title": "Personal de Room Service (hospital)",
+          "searchId": "hotel",
+          "postedAt": "2026-11-21",
+          "location": "Winterthur ZH",
+          "url": "https://ch.linkedin.com/jobs/view/mitarbeiterin-mitarbeiter-room-service-at-kantonsspital-winterthur-4492569709",
           "englishOk": false
         },
         {
@@ -2592,11 +2737,13 @@
       "lastSeen": "2026-11-20",
       "searchIds": [
         "umzug",
-        "reinigung-flughafen"
+        "reinigung-flughafen",
+        "lager"
       ],
       "locations": [
         "Winterthur und Umgebung",
-        "Zürich (y Winterthur, Flughafen Zürich, otros)"
+        "Zürich (y Winterthur, Flughafen Zürich, otros)",
+        "Zürich (también Vals GR y Olten)"
       ],
       "jobs": [
         {
@@ -2606,6 +2753,15 @@
           "postedAt": "2026-11-20",
           "location": "Zürich (y Winterthur, Flughafen Zürich, otros)",
           "url": "https://www.jobs.ch/de/stellenangebote/detail/64f78344-7056-4aad-9496-d77c18f8de70",
+          "englishOk": false
+        },
+        {
+          "id": "e6cd8947665c",
+          "title": "Logístico/a / carretillero/a (m/f/d)",
+          "searchId": "lager",
+          "postedAt": "2026-11-20",
+          "location": "Zürich (también Vals GR y Olten)",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/8e99f6a8-9a4d-4cb6-b1a7-5ee15915d2b4",
           "englishOk": false
         },
         {
@@ -4042,6 +4198,30 @@
       ]
     },
     {
+      "key": "klinik hirslanden",
+      "name": "Klinik Hirslanden",
+      "agency": false,
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "searchIds": [
+        "hotel"
+      ],
+      "locations": [
+        "Zürich"
+      ],
+      "jobs": [
+        {
+          "id": "1325bd714715",
+          "title": "Personal de limpieza de plantas 50%",
+          "searchId": "hotel",
+          "postedAt": "2026-11-19",
+          "location": "Zürich",
+          "url": "https://www.myjob.ch/job/mitarbeiterin-mitarbeiter-etagenreinigung-a-50/3681682",
+          "englishOk": false
+        }
+      ]
+    },
+    {
       "key": "lidl",
       "name": "Lidl Schweiz AG",
       "agency": false,
@@ -4998,29 +5178,6 @@
           "location": "Zürich",
           "url": "https://www.jobs.ch/de/stellenangebote/detail/decea83e-eba0-4b4d-a6ef-34d501345eff",
           "englishOk": false
-        }
-      ]
-    },
-    {
-      "key": "flexsis filiale schaffhausen",
-      "name": "Flexsis AG, Filiale Schaffhausen",
-      "agency": false,
-      "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-18",
-      "searchIds": [
-        "lager"
-      ],
-      "locations": [
-        "Urdorf"
-      ],
-      "jobs": [
-        {
-          "id": "601853894d1b",
-          "title": "Mozo de almacén 80 % (18:00–03:00), temporal hasta enero 2027",
-          "searchId": "lager",
-          "postedAt": "2026-11-18",
-          "location": "Urdorf",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/59ff80a5-4b01-4311-90fc-f6f201feddd6"
         }
       ]
     },
@@ -8002,13 +8159,14 @@
       "key": "crs management & service",
       "name": "CRS Management & Service AG",
       "agency": false,
-      "firstSeen": "2026-11-14",
+      "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-14",
       "searchIds": [
         "hotel"
       ],
       "locations": [
-        "Zürich ZH"
+        "Zürich ZH",
+        "Zürich"
       ],
       "jobs": [
         {
@@ -8028,6 +8186,15 @@
           "location": "Zürich ZH",
           "url": "https://ch.linkedin.com/jobs/view/gouvernante-stellvertretende-teamleitung-at-crs-management-service-ag-4488940596",
           "englishOk": true
+        },
+        {
+          "id": "ab68a6bed724",
+          "title": "Jefe/a de equipo de Housekeeping en hotel (100 %)",
+          "searchId": "hotel",
+          "postedAt": "2026-11-10",
+          "location": "Zürich",
+          "url": "https://join.com/companies/crsms/16933538-teamleiter-teamleiterin-housekeeping-bereich-hotel-100",
+          "englishOk": false
         }
       ]
     },
@@ -9269,38 +9436,6 @@
           "postedAt": "2026-11-12",
           "location": "Zürich",
           "url": "https://ch.linkedin.com/jobs/view/cloud-software-engineer-at-snap-inc-4482095482"
-        }
-      ]
-    },
-    {
-      "key": "tschuggen collection",
-      "name": "Tschuggen Collection AG",
-      "agency": false,
-      "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-12",
-      "searchIds": [
-        "temporada-invierno"
-      ],
-      "locations": [
-        "Arosa GR"
-      ],
-      "jobs": [
-        {
-          "id": "9af8245b20fe",
-          "title": "Conserje / relevo de night audit, temporada de invierno 2026/2027",
-          "searchId": "temporada-invierno",
-          "postedAt": "2026-11-12",
-          "location": "Arosa GR",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/d59dba57-af15-400b-a69c-7db13e65ea2c"
-        },
-        {
-          "id": "4f749f61a38b",
-          "title": "Cocinero/a de desayunos, temporada de invierno 2026/2027",
-          "searchId": "temporada-invierno",
-          "postedAt": "2026-11-10",
-          "location": "Arosa GR",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/8402cb92-8931-4e48-9f70-f05651c9b1b8",
-          "englishOk": true
         }
       ]
     },
