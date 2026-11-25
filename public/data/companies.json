@@ -1,6 +1,404 @@
 {
-  "updatedAt": "2026-11-24T07:18:34.081Z",
+  "updatedAt": "2026-11-25T06:23:43.457Z",
   "companies": [
+    {
+      "key": "rocken",
+      "name": "Rocken®",
+      "agency": true,
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-25",
+      "searchIds": [
+        "junior-it",
+        "qa-test",
+        "fullstack-ts"
+      ],
+      "locations": [
+        "Regensdorf ZH",
+        "Winterthur ZH",
+        "Zürich",
+        "Andelfingen ZH",
+        "Zug",
+        "Wohlen AG",
+        "Baar ZG",
+        "Birmensdorf ZH",
+        "Dietlikon ZH",
+        "Baden AG",
+        "Elsau ZH",
+        "Winterthur",
+        "Dietikon ZH",
+        "Schlieren ZH",
+        "Frauenfeld TG",
+        "Urdorf ZH",
+        "Thalwil",
+        "Zürich ZH"
+      ],
+      "jobs": [
+        {
+          "id": "2597d1a10f26",
+          "title": "Ingeniero/a Full Stack (Next.js / React / Python)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-25",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/full-stack-software-engineer-m-w-d-at-rocken%C2%AE-4494720529",
+          "englishOk": false
+        },
+        {
+          "id": "49bfd514324b",
+          "title": "Ingeniero/a de soporte ICT",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-25",
+          "location": "Zürich ZH",
+          "url": "https://ch.linkedin.com/jobs/view/ict-support-engineer-m-w-d-at-rocken%C2%AE-4494707977",
+          "englishOk": false
+        },
+        {
+          "id": "7e25322e1bd7",
+          "title": "Especialista de soporte de sistemas ICT",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-25",
+          "location": "Zürich ZH",
+          "url": "https://ch.linkedin.com/jobs/view/ict-system-support-specialist-m-w-d-at-rocken%C2%AE-4494719594",
+          "englishOk": false
+        },
+        {
+          "id": "98bb753d44dd",
+          "title": "Ingeniero/a Fullstack Senior (C#/.NET y Angular)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-24",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/senior-fullstack-software-engineer-m-w-d-at-rocken%C2%AE-4494044319",
+          "englishOk": false
+        },
+        {
+          "id": "98e605447078",
+          "title": "Arquitecto/a de software .NET",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-24",
+          "location": "Winterthur ZH",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/137d83a1-6500-4bc1-856b-59dd8af5a0bc",
+          "englishOk": false
+        },
+        {
+          "id": "7dbe9c1dc553",
+          "title": "Desarrollador/a de software",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-24",
+          "location": "Zürich ZH",
+          "url": "https://ch.linkedin.com/jobs/view/softwareentwickler-m-w-d-at-rocken%C2%AE-4494029945"
+        },
+        {
+          "id": "fc3246aadcc3",
+          "title": "Ingeniero/a junior de soporte Modern Workplace y Cloud",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-24",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/junior-modern-workplace-cloud-support-engineer-m-w-d-at-rocken%C2%AE-4494036668"
+        },
+        {
+          "id": "dbfa9f8c3ee7",
+          "title": "Especialista de Service Desk IT",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-24",
+          "location": "Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/0601663d-dd30-4084-a6df-93e0f420c064"
+        },
+        {
+          "id": "d9edaab490e3",
+          "title": "Especialista de soporte IT",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-24",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/it-support-spezialist-m-w-d-at-rocken%C2%AE-4494028963"
+        },
+        {
+          "id": "5381cfe4f409",
+          "title": "Supporter/a IT de puestos de trabajo",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-24",
+          "location": "Zürich ZH",
+          "url": "https://ch.linkedin.com/jobs/view/it-workplace-supporter-in-m-w-d-at-rocken%C2%AE-4494363514",
+          "englishOk": false
+        },
+        {
+          "id": "6864a7132574",
+          "title": "Ingeniero/a de microservicios Java/Kotlin senior",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-22",
+          "location": "Thalwil",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/7b4d6d83-6d55-4f05-b97a-a4905d111b00",
+          "englishOk": false
+        },
+        {
+          "id": "6c05f9121962",
+          "title": "Arquitecto/a de software (C#/.NET)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-22",
+          "location": "Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/190e3cbf-8ff7-4300-9efb-c436f2a1b54d",
+          "englishOk": false
+        },
+        {
+          "id": "699a0c073837",
+          "title": "Ingeniero/a de software DevOps (C#/.NET, Azure)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-21",
+          "location": "Winterthur ZH",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/a1d6a761-4af5-44d1-b714-9c27eb0438ea",
+          "englishOk": false
+        },
+        {
+          "id": "ce0fbb035bed",
+          "title": "Arquitecto/a de software senior .NET",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-21",
+          "location": "Urdorf ZH",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/006cbd37-fcef-4635-b0d7-f0ba5851958e",
+          "englishOk": false
+        },
+        {
+          "id": "d8742d3fd9d4",
+          "title": "Workplace Engineer junior",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-21",
+          "location": "Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/39352a3a-5060-40d5-addb-8663aef3bf91",
+          "englishOk": false
+        },
+        {
+          "id": "753e74a18499",
+          "title": "Ingeniero/a backend Java/Kotlin senior",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-21",
+          "location": "Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/d39ddaf3-9ed4-4380-acc3-a16f798db98f",
+          "englishOk": false
+        },
+        {
+          "id": "503828f76b1e",
+          "title": "Ingeniero/a de software senior C#/.NET y Azure",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-21",
+          "location": "Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/b1523e84-3ba3-44bd-aff6-302252eb4055",
+          "englishOk": false
+        },
+        {
+          "id": "153a0e5f1c92",
+          "title": "Desarrollador/a de software C# / .NET",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-20",
+          "location": "Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/0e208531-f1de-45ff-b217-8e16032b5045"
+        },
+        {
+          "id": "81d6cb9380e1",
+          "title": "Ingeniero/a de software y DevOps senior",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-20",
+          "location": "Schlieren ZH",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/cbcb1750-07c5-4ac6-b1c9-bdb6b4fd2c92"
+        },
+        {
+          "id": "f03e58ff212a",
+          "title": "Soporte de aplicaciones (1er y 2º nivel)",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-20",
+          "location": "Dietikon ZH",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/f8402dd2-9443-4307-8c8c-afb05204cd10"
+        },
+        {
+          "id": "549eed9026ce",
+          "title": "Desarrollador/a Fullstack (C# / .NET)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-19",
+          "location": "Zug",
+          "url": "https://ch.linkedin.com/jobs/view/fullstack-entwickler-c%23-net-m-w-d-at-rocken%C2%AE-4492191758"
+        },
+        {
+          "id": "8850c8f8df96",
+          "title": "Ingeniero/a de software backend C++",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-19",
+          "location": "Frauenfeld TG",
+          "url": "https://ch.linkedin.com/jobs/view/c%2B%2B-software-engineer-backend-m-w-d-at-rocken%C2%AE-4492191752"
+        },
+        {
+          "id": "67639ead27aa",
+          "title": "Ingeniero/a de software senior C#/Angular",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-18",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/senior-software-engineer-c%23-angular-m-w-d-at-rocken%C2%AE-4491405506",
+          "englishOk": false
+        },
+        {
+          "id": "dbc95760cf98",
+          "title": "Technical Support Engineer Workplace (m/w/d)",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-18",
+          "location": "Dietikon ZH",
+          "url": "https://ch.linkedin.com/jobs/view/technical-support-engineer-workplace-m-w-d-at-rocken%C2%AE-4491876550"
+        },
+        {
+          "id": "4f8944485300",
+          "title": "ICT Support & Modern Workplace Specialist (m/w/d)",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-18",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/ict-support-modern-workplace-specialist-m-w-d-at-rocken%C2%AE-4491852026"
+        },
+        {
+          "id": "6a0e160dc578",
+          "title": "Ingeniero/a de soporte IT",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-14",
+          "location": "Dietlikon ZH",
+          "url": "https://ch.linkedin.com/jobs/view/it-support-engineer-m-w-d-at-rocken%C2%AE-4487950498"
+        },
+        {
+          "id": "12a8f517534c",
+          "title": "Especialista de soporte IT",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-14",
+          "location": "Baden AG",
+          "url": "https://ch.linkedin.com/jobs/view/spezialist-it-support-m-w-d-at-rocken%C2%AE-4487943637"
+        },
+        {
+          "id": "bbfcf7e3e558",
+          "title": "Soporte ICT – Windows, Microsoft 365 y puestos de trabajo",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-14",
+          "location": "Elsau ZH",
+          "url": "https://ch.linkedin.com/jobs/view/ict-supporter-%E2%80%93-windows-microsoft-365-it-arbeitspl%C3%A4tze-m-w-d-at-rocken%C2%AE-4489820262"
+        },
+        {
+          "id": "594cc62378ee",
+          "title": "Workplace Engineer y soporte de infraestructura IT",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-14",
+          "location": "Winterthur",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/2edbf8cf-46cf-4500-a272-64f38ad0cad7",
+          "englishOk": false
+        },
+        {
+          "id": "e653e04cdfd3",
+          "title": "Senior .NET Developer (m/w/d)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-13",
+          "location": "Baar ZG",
+          "url": "https://ch.linkedin.com/jobs/view/senior-net-developer-m-w-d-at-rocken%C2%AE-4489239885"
+        },
+        {
+          "id": "8a37f3505a43",
+          "title": "Ingeniero/a de software JavaEE senior",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-13",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/4489555919"
+        },
+        {
+          "id": "24d68d63e309",
+          "title": "Ingeniero/a de automatización de pruebas",
+          "searchId": "qa-test",
+          "postedAt": "2026-11-13",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/4489564709"
+        },
+        {
+          "id": "46e56d08a306",
+          "title": "Administrador/a IT junior",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-12",
+          "location": "Regensdorf ZH",
+          "url": "https://ch.linkedin.com/jobs/view/4489015965",
+          "englishOk": false
+        },
+        {
+          "id": "bbc047d638c9",
+          "title": "IT Supporter",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-12",
+          "location": "Winterthur ZH",
+          "url": "https://ch.linkedin.com/jobs/view/4489020846",
+          "englishOk": false
+        },
+        {
+          "id": "3353916ad24d",
+          "title": "Ingeniero/a de soporte IT – Microsoft 365 y puesto de trabajo",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-12",
+          "location": "Zug",
+          "url": "https://ch.linkedin.com/jobs/view/it-support-engineer-%E2%80%93-microsoft-365-workplace-100-%25-m-w-d-at-rocken%C2%AE-4489297093",
+          "englishOk": false
+        },
+        {
+          "id": "b2dd557fae17",
+          "title": "Software Engineer - ASP.NET (m/w/d)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-12",
+          "location": "Birmensdorf ZH",
+          "url": "https://ch.linkedin.com/jobs/view/software-engineer-asp-net-m-w-d-at-rocken%C2%AE-4489030304"
+        },
+        {
+          "id": "3f274c59bdf0",
+          "title": "Ingeniero/a de pruebas de software",
+          "searchId": "qa-test",
+          "postedAt": "2026-11-11",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/software-test-engineer-m-w-d-at-rocken%C2%AE-4488680973",
+          "englishOk": false
+        },
+        {
+          "id": "322622744c1f",
+          "title": "Ingeniero/a de pruebas de software senior",
+          "searchId": "qa-test",
+          "postedAt": "2026-11-11",
+          "location": "Andelfingen ZH",
+          "url": "https://ch.linkedin.com/jobs/view/senior-software-test-engineer-m-w-d-at-rocken%C2%AE-4488698431",
+          "englishOk": false
+        },
+        {
+          "id": "3ae72a22080f",
+          "title": "Desarrollador/a de software Full Stack (Angular)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-11",
+          "location": "Zug",
+          "url": "https://ch.linkedin.com/jobs/view/full-stack-softwareentwickler-m-w-d-at-rocken%C2%AE-4489037048",
+          "englishOk": false
+        },
+        {
+          "id": "981a35d5d163",
+          "title": "Soporte IT profesional",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-11",
+          "location": "Wohlen AG",
+          "url": "https://ch.linkedin.com/jobs/view/professional-it-supporter-m-w-d-at-rocken%C2%AE-4489026594"
+        }
+      ]
+    },
+    {
+      "key": "accelleron",
+      "name": "Accelleron",
+      "agency": false,
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24",
+      "searchIds": [
+        "junior-it"
+      ],
+      "locations": [
+        "Baden AG"
+      ],
+      "jobs": [
+        {
+          "id": "288f7e5cddd1",
+          "title": "Prácticas I+D herramientas de procesamiento de datos de ensayo (60-100 %)",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-24",
+          "location": "Baden AG",
+          "url": "https://ch.linkedin.com/jobs/view/internship-r-d-test-data-processing-tools-60-100%25-m-f-d-at-accelleron-4493636158"
+        }
+      ]
+    },
     {
       "key": "arztekasse genossenschaft",
       "name": "Ärztekasse Genossenschaft",
@@ -274,341 +672,267 @@
       ]
     },
     {
-      "key": "rocken",
-      "name": "Rocken®",
-      "agency": true,
-      "firstSeen": "2026-11-11",
+      "key": "couponplus",
+      "name": "CouponPlus AG",
+      "agency": false,
+      "firstSeen": "2026-11-24",
       "lastSeen": "2026-11-24",
       "searchIds": [
-        "junior-it",
-        "qa-test",
-        "fullstack-ts"
+        "frontend-react"
       ],
       "locations": [
-        "Regensdorf ZH",
-        "Winterthur ZH",
+        "Zürich"
+      ],
+      "jobs": [
+        {
+          "id": "e2fec80f86a9",
+          "title": "Desarrollador/a Web 40-100 %",
+          "searchId": "frontend-react",
+          "postedAt": "2026-11-24",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/software-developer-web-40%25-100%25-at-couponplus-ag-4494109246",
+          "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "deloitte",
+      "name": "Deloitte",
+      "agency": false,
+      "firstSeen": "2026-11-02",
+      "lastSeen": "2026-11-24",
+      "searchIds": [
+        "junior-it"
+      ],
+      "locations": [
         "Zürich",
-        "Andelfingen ZH",
-        "Zug",
-        "Wohlen AG",
-        "Baar ZG",
-        "Birmensdorf ZH",
-        "Dietlikon ZH",
-        "Baden AG",
-        "Elsau ZH",
-        "Winterthur",
-        "Dietikon ZH",
-        "Schlieren ZH",
-        "Frauenfeld TG",
-        "Urdorf ZH",
-        "Thalwil",
         "Zürich ZH"
       ],
       "jobs": [
         {
-          "id": "98bb753d44dd",
-          "title": "Ingeniero/a Fullstack Senior (C#/.NET y Angular)",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-24",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/senior-fullstack-software-engineer-m-w-d-at-rocken%C2%AE-4494044319",
-          "englishOk": false
-        },
-        {
-          "id": "98e605447078",
-          "title": "Arquitecto/a de software .NET",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-24",
-          "location": "Winterthur ZH",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/137d83a1-6500-4bc1-856b-59dd8af5a0bc",
-          "englishOk": false
-        },
-        {
-          "id": "7dbe9c1dc553",
-          "title": "Desarrollador/a de software",
-          "searchId": "fullstack-ts",
+          "id": "d5f6c1079c68",
+          "title": "AI Agent Builder | Oportunidad para recién graduados en Tecnología y Transformación",
+          "searchId": "junior-it",
           "postedAt": "2026-11-24",
           "location": "Zürich ZH",
-          "url": "https://ch.linkedin.com/jobs/view/softwareentwickler-m-w-d-at-rocken%C2%AE-4494029945"
+          "url": "https://ch.linkedin.com/jobs/view/ai-agent-builder-graduate-opportunity-in-technology-transformation-at-deloitte-4486424274",
+          "englishOk": true
         },
         {
-          "id": "fc3246aadcc3",
-          "title": "Ingeniero/a junior de soporte Modern Workplace y Cloud",
+          "id": "fd7c9fabf0c3",
+          "title": "AI Agent Builder | Oportunidad para graduados en Tecnología y Transformación",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-02",
+          "location": "Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/cf6744e5-b0fe-4009-94e6-521faca88828"
+        }
+      ]
+    },
+    {
+      "key": "detecon",
+      "name": "Detecon",
+      "agency": false,
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24",
+      "searchIds": [
+        "junior-it"
+      ],
+      "locations": [
+        "Zürich ZH"
+      ],
+      "jobs": [
+        {
+          "id": "e2beaa971494",
+          "title": "Prácticas - Desarrollo GenAI y Agentic AI",
           "searchId": "junior-it",
           "postedAt": "2026-11-24",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/junior-modern-workplace-cloud-support-engineer-m-w-d-at-rocken%C2%AE-4494036668"
-        },
+          "location": "Zürich ZH",
+          "url": "https://ch.linkedin.com/jobs/view/praktikum-genai-agentic-ai-entwicklung-all-genders-at-detecon-4471331484",
+          "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "ipt innovation process technology",
+      "name": "ipt Innovation Process Technology",
+      "agency": false,
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-24",
+      "searchIds": [
+        "frontend-react",
+        "junior-it"
+      ],
+      "locations": [
+        "Zürich"
+      ],
+      "jobs": [
         {
-          "id": "dbfa9f8c3ee7",
-          "title": "Especialista de Service Desk IT",
-          "searchId": "junior-it",
+          "id": "7ef3f9084816",
+          "title": "Ingeniero/a Frontend con afinidad UX en consultoría IT",
+          "searchId": "frontend-react",
           "postedAt": "2026-11-24",
           "location": "Zürich",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/0601663d-dd30-4084-a6df-93e0f420c064"
-        },
-        {
-          "id": "d9edaab490e3",
-          "title": "Especialista de soporte IT",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-24",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/it-support-spezialist-m-w-d-at-rocken%C2%AE-4494028963"
-        },
-        {
-          "id": "6864a7132574",
-          "title": "Ingeniero/a de microservicios Java/Kotlin senior",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-22",
-          "location": "Thalwil",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/7b4d6d83-6d55-4f05-b97a-a4905d111b00",
+          "url": "https://ch.linkedin.com/jobs/view/frontend-engineer-mit-ux-affinit%C3%A4t-im-it-consulting-at-ipt-innovation-process-technology-4492641974",
           "englishOk": false
         },
         {
-          "id": "6c05f9121962",
-          "title": "Arquitecto/a de software (C#/.NET)",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-22",
+          "id": "29d7aef34ec2",
+          "title": "Frontend Engineer con afinidad UX en consultoría IT",
+          "searchId": "frontend-react",
+          "postedAt": "2026-11-10",
           "location": "Zürich",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/190e3cbf-8ff7-4300-9efb-c436f2a1b54d",
+          "url": "https://ch.linkedin.com/jobs/view/4487415360"
+        },
+        {
+          "id": "9ba4a3a04d86",
+          "title": "Graduate Engineer en IT-Consulting (100 %)",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-10",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/graduate-engineer-im-it-consulting-100%25-at-ipt-innovation-process-technology-4487405744",
           "englishOk": false
         },
         {
-          "id": "699a0c073837",
-          "title": "Ingeniero/a de software DevOps (C#/.NET, Azure)",
+          "id": "6d6174dacc0e",
+          "title": "Ingeniero/a técnico en consultoría IT (germanohablante)",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-10",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/technical-engineer-im-it-consulting-german-speaking-at-ipt-innovation-process-technology-4487424021"
+        }
+      ]
+    },
+    {
+      "key": "moe & company",
+      "name": "moe & company",
+      "agency": false,
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-24",
+      "searchIds": [
+        "fullstack-ts"
+      ],
+      "locations": [
+        "Winterthur ZH",
+        "Winterthur / Zürich"
+      ],
+      "jobs": [
+        {
+          "id": "ccee3e65845b",
+          "title": "Data Engineer y desarrollador/a de software (80-100 %)",
           "searchId": "fullstack-ts",
-          "postedAt": "2026-11-21",
+          "postedAt": "2026-11-24",
+          "location": "Winterthur / Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/data-engineer-software-developer-80%E2%80%93100-%25-at-moe-company-4494122988",
+          "englishOk": false
+        },
+        {
+          "id": "6c4a18fd42e9",
+          "title": "Data Engineer y desarrollador/a de software",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-11",
           "location": "Winterthur ZH",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/a1d6a761-4af5-44d1-b714-9c27eb0438ea",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/6debd89a-b870-4fad-b9bd-61219c8e5ddf",
           "englishOk": false
-        },
+        }
+      ]
+    },
+    {
+      "key": "olymp",
+      "name": "Olymp AG",
+      "agency": false,
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-24",
+      "searchIds": [
+        "fullstack-ts",
+        "junior-it"
+      ],
+      "locations": [
+        "Zürich",
+        "Zürich ZH"
+      ],
+      "jobs": [
         {
-          "id": "ce0fbb035bed",
-          "title": "Arquitecto/a de software senior .NET",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-21",
-          "location": "Urdorf ZH",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/006cbd37-fcef-4635-b0d7-f0ba5851958e",
-          "englishOk": false
-        },
-        {
-          "id": "d8742d3fd9d4",
-          "title": "Workplace Engineer junior",
+          "id": "a4088fc4d4dc",
+          "title": "Forward Deployed Engineer (alemán y francés, prácticas)",
           "searchId": "junior-it",
-          "postedAt": "2026-11-21",
-          "location": "Zürich",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/39352a3a-5060-40d5-addb-8663aef3bf91",
+          "postedAt": "2026-11-24",
+          "location": "Zürich ZH",
+          "url": "https://ch.linkedin.com/jobs/view/forward-deployed-engineer-deutsch-franz%C3%B6sisch-internship-at-olymp-ag-4494151470",
           "englishOk": false
         },
         {
-          "id": "753e74a18499",
-          "title": "Ingeniero/a backend Java/Kotlin senior",
+          "id": "9af522de3ab4",
+          "title": "Ingeniero/a de Software Full-Stack – Prácticas",
           "searchId": "fullstack-ts",
-          "postedAt": "2026-11-21",
+          "postedAt": "2026-11-11",
           "location": "Zürich",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/d39ddaf3-9ed4-4380-acc3-a16f798db98f",
-          "englishOk": false
-        },
+          "url": "https://ch.linkedin.com/jobs/view/full-stack-software-engineer-%E2%80%93-internship-at-olymp-ag-4489942884"
+        }
+      ]
+    },
+    {
+      "key": "sgi",
+      "name": "SGI",
+      "agency": false,
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-24",
+      "searchIds": [
+        "qa-test",
+        "frontend-react"
+      ],
+      "locations": [
+        "Zürich",
+        "Zug"
+      ],
+      "jobs": [
         {
-          "id": "503828f76b1e",
-          "title": "Ingeniero/a de software senior C#/.NET y Azure",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-21",
-          "location": "Zürich",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/b1523e84-3ba3-44bd-aff6-302252eb4055",
-          "englishOk": false
-        },
-        {
-          "id": "153a0e5f1c92",
-          "title": "Desarrollador/a de software C# / .NET",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-20",
-          "location": "Zürich",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/0e208531-f1de-45ff-b217-8e16032b5045"
-        },
-        {
-          "id": "81d6cb9380e1",
-          "title": "Ingeniero/a de software y DevOps senior",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-20",
-          "location": "Schlieren ZH",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/cbcb1750-07c5-4ac6-b1c9-bdb6b4fd2c92"
-        },
-        {
-          "id": "f03e58ff212a",
-          "title": "Soporte de aplicaciones (1er y 2º nivel)",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-20",
-          "location": "Dietikon ZH",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/f8402dd2-9443-4307-8c8c-afb05204cd10"
-        },
-        {
-          "id": "549eed9026ce",
-          "title": "Desarrollador/a Fullstack (C# / .NET)",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-19",
+          "id": "e0b3d46575e3",
+          "title": "Ingeniero/a UX/UI (React / Next.js)",
+          "searchId": "frontend-react",
+          "postedAt": "2026-11-24",
           "location": "Zug",
-          "url": "https://ch.linkedin.com/jobs/view/fullstack-entwickler-c%23-net-m-w-d-at-rocken%C2%AE-4492191758"
-        },
-        {
-          "id": "8850c8f8df96",
-          "title": "Ingeniero/a de software backend C++",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-19",
-          "location": "Frauenfeld TG",
-          "url": "https://ch.linkedin.com/jobs/view/c%2B%2B-software-engineer-backend-m-w-d-at-rocken%C2%AE-4492191752"
-        },
-        {
-          "id": "67639ead27aa",
-          "title": "Ingeniero/a de software senior C#/Angular",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-18",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/senior-software-engineer-c%23-angular-m-w-d-at-rocken%C2%AE-4491405506",
+          "url": "https://ch.linkedin.com/jobs/view/ux-ui-engineer-at-sgi-4494154107",
           "englishOk": false
         },
         {
-          "id": "dbc95760cf98",
-          "title": "Technical Support Engineer Workplace (m/w/d)",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-18",
-          "location": "Dietikon ZH",
-          "url": "https://ch.linkedin.com/jobs/view/technical-support-engineer-workplace-m-w-d-at-rocken%C2%AE-4491876550"
-        },
-        {
-          "id": "4f8944485300",
-          "title": "ICT Support & Modern Workplace Specialist (m/w/d)",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-18",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/ict-support-modern-workplace-specialist-m-w-d-at-rocken%C2%AE-4491852026"
-        },
-        {
-          "id": "6a0e160dc578",
-          "title": "Ingeniero/a de soporte IT",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-14",
-          "location": "Dietlikon ZH",
-          "url": "https://ch.linkedin.com/jobs/view/it-support-engineer-m-w-d-at-rocken%C2%AE-4487950498"
-        },
-        {
-          "id": "12a8f517534c",
-          "title": "Especialista de soporte IT",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-14",
-          "location": "Baden AG",
-          "url": "https://ch.linkedin.com/jobs/view/spezialist-it-support-m-w-d-at-rocken%C2%AE-4487943637"
-        },
-        {
-          "id": "bbfcf7e3e558",
-          "title": "Soporte ICT – Windows, Microsoft 365 y puestos de trabajo",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-14",
-          "location": "Elsau ZH",
-          "url": "https://ch.linkedin.com/jobs/view/ict-supporter-%E2%80%93-windows-microsoft-365-it-arbeitspl%C3%A4tze-m-w-d-at-rocken%C2%AE-4489820262"
-        },
-        {
-          "id": "594cc62378ee",
-          "title": "Workplace Engineer y soporte de infraestructura IT",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-14",
-          "location": "Winterthur",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/2edbf8cf-46cf-4500-a272-64f38ad0cad7",
-          "englishOk": false
-        },
-        {
-          "id": "e653e04cdfd3",
-          "title": "Senior .NET Developer (m/w/d)",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-13",
-          "location": "Baar ZG",
-          "url": "https://ch.linkedin.com/jobs/view/senior-net-developer-m-w-d-at-rocken%C2%AE-4489239885"
-        },
-        {
-          "id": "8a37f3505a43",
-          "title": "Ingeniero/a de software JavaEE senior",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-13",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/4489555919"
-        },
-        {
-          "id": "24d68d63e309",
-          "title": "Ingeniero/a de automatización de pruebas",
+          "id": "d4ad7b0ae0cc",
+          "title": "Ingeniero/a de pruebas no funcionales (NFT)",
           "searchId": "qa-test",
-          "postedAt": "2026-11-13",
+          "postedAt": "2026-11-12",
           "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/4489564709"
-        },
+          "url": "https://ch.linkedin.com/jobs/view/non-functional-test-engineer-at-sgi-4490358433"
+        }
+      ]
+    },
+    {
+      "key": "stadler",
+      "name": "Stadler",
+      "agency": false,
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-24",
+      "searchIds": [
+        "qa-test"
+      ],
+      "locations": [
+        "Wallisellen ZH"
+      ],
+      "jobs": [
         {
-          "id": "46e56d08a306",
-          "title": "Administrador/a IT junior",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-12",
-          "location": "Regensdorf ZH",
-          "url": "https://ch.linkedin.com/jobs/view/4489015965",
-          "englishOk": false
-        },
-        {
-          "id": "bbc047d638c9",
-          "title": "IT Supporter",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-12",
-          "location": "Winterthur ZH",
-          "url": "https://ch.linkedin.com/jobs/view/4489020846",
-          "englishOk": false
-        },
-        {
-          "id": "3353916ad24d",
-          "title": "Ingeniero/a de soporte IT – Microsoft 365 y puesto de trabajo",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-12",
-          "location": "Zug",
-          "url": "https://ch.linkedin.com/jobs/view/it-support-engineer-%E2%80%93-microsoft-365-workplace-100-%25-m-w-d-at-rocken%C2%AE-4489297093",
-          "englishOk": false
-        },
-        {
-          "id": "b2dd557fae17",
-          "title": "Software Engineer - ASP.NET (m/w/d)",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-12",
-          "location": "Birmensdorf ZH",
-          "url": "https://ch.linkedin.com/jobs/view/software-engineer-asp-net-m-w-d-at-rocken%C2%AE-4489030304"
-        },
-        {
-          "id": "3f274c59bdf0",
-          "title": "Ingeniero/a de pruebas de software",
+          "id": "5e7848cc34f2",
+          "title": "Ingeniero/a de pruebas de sistemas – Wallisellen",
           "searchId": "qa-test",
-          "postedAt": "2026-11-11",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/software-test-engineer-m-w-d-at-rocken%C2%AE-4488680973",
-          "englishOk": false
+          "postedAt": "2026-11-24",
+          "location": "Wallisellen ZH",
+          "url": "https://ch.linkedin.com/jobs/view/system-test-engineer-%E2%80%93-wallisellen-at-stadler-4494340194"
         },
         {
-          "id": "322622744c1f",
-          "title": "Ingeniero/a de pruebas de software senior",
+          "id": "98f3f0daaa4a",
+          "title": "Ingeniero/a de pruebas de sistemas (Wallisellen)",
           "searchId": "qa-test",
-          "postedAt": "2026-11-11",
-          "location": "Andelfingen ZH",
-          "url": "https://ch.linkedin.com/jobs/view/senior-software-test-engineer-m-w-d-at-rocken%C2%AE-4488698431",
-          "englishOk": false
-        },
-        {
-          "id": "3ae72a22080f",
-          "title": "Desarrollador/a de software Full Stack (Angular)",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-11",
-          "location": "Zug",
-          "url": "https://ch.linkedin.com/jobs/view/full-stack-softwareentwickler-m-w-d-at-rocken%C2%AE-4489037048",
-          "englishOk": false
-        },
-        {
-          "id": "981a35d5d163",
-          "title": "Soporte IT profesional",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-11",
-          "location": "Wohlen AG",
-          "url": "https://ch.linkedin.com/jobs/view/professional-it-supporter-m-w-d-at-rocken%C2%AE-4489026594"
+          "postedAt": "2026-11-05",
+          "location": "Wallisellen ZH",
+          "url": "https://ch.linkedin.com/jobs/view/system-test-engineer-%E2%80%93-wallisellen-at-stadler-4482942476",
+          "englishOk": true
         }
       ]
     },
@@ -654,6 +978,205 @@
       ]
     },
     {
+      "key": "vontobel",
+      "name": "Vontobel",
+      "agency": false,
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-24",
+      "searchIds": [
+        "fullstack-ts",
+        "junior-it"
+      ],
+      "locations": [
+        "Zürich",
+        "Zürich ZH"
+      ],
+      "jobs": [
+        {
+          "id": "8080d3b576a9",
+          "title": "Ingeniero/a de software junior (Python)",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-24",
+          "location": "Zürich ZH",
+          "url": "https://ch.linkedin.com/jobs/view/junior-software-engineer-python-at-vontobel-4493002484",
+          "englishOk": true
+        },
+        {
+          "id": "a539a5c5973a",
+          "title": "Senior Full-Stack SW Engineer E-Banking",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-23",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/4466693712"
+        },
+        {
+          "id": "1089b9a8f01e",
+          "title": "Senior Full-Stack SW Engineer E-Banking",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-06",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/senior-full-stack-sw-engineer-e-banking-at-vontobel-4466693712"
+        }
+      ]
+    },
+    {
+      "key": "yellowshark",
+      "name": "yellowshark® AG",
+      "agency": true,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-24",
+      "searchIds": [
+        "junior-it"
+      ],
+      "locations": [
+        "Lenzburg AG",
+        "Uetikon am See ZH",
+        "Urdorf",
+        "Baar ZG",
+        "Wohlen AG",
+        "Schlieren ZH",
+        "Zürich ZH"
+      ],
+      "jobs": [
+        {
+          "id": "54dbc8ee717a",
+          "title": "Supporter/a IT",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-24",
+          "location": "Schlieren ZH",
+          "url": "https://ch.linkedin.com/jobs/view/it-supporter-m-w-80-100%25-at-yellowshark%C2%AE-ag-4484381208",
+          "englishOk": false
+        },
+        {
+          "id": "ef94448ef105",
+          "title": "Supporter/a ICT",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-24",
+          "location": "Zürich ZH",
+          "url": "https://ch.linkedin.com/jobs/view/ict-supporter-in-50-100-%25-at-yellowshark%C2%AE-ag-4484379285",
+          "englishOk": false
+        },
+        {
+          "id": "14225717cd31",
+          "title": "Soporte IT (1.º y 2.º nivel)",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-16",
+          "location": "Urdorf",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/7bcda914-5b59-47eb-a025-20d6c7f16cdc",
+          "englishOk": false
+        },
+        {
+          "id": "7579f9c449db",
+          "title": "IT Supporter / Service Desk Agent (80–100 %)",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-16",
+          "location": "Baar ZG",
+          "url": "https://ch.linkedin.com/jobs/view/it-supporter-it-service-desk-agent-m-w-80-100%E2%80%AF%25-at-yellowshark%C2%AE-ag-4489395934"
+        },
+        {
+          "id": "0cf983cd0206",
+          "title": "Soporte IT 80–100%",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-14",
+          "location": "Uetikon am See ZH",
+          "url": "https://ch.linkedin.com/jobs/view/it-supporter-80-100%25-m-w-at-yellowshark%C2%AE-ag-4488982754"
+        },
+        {
+          "id": "813d3ccb8a27",
+          "title": "IT Supporter (80–100 %)",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-14",
+          "location": "Wohlen AG",
+          "url": "https://ch.linkedin.com/jobs/view/it-supporter-m-w-80-100%25-at-yellowshark%C2%AE-ag-4489300014"
+        },
+        {
+          "id": "e5db5c894191",
+          "title": "Soporte IT",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-09",
+          "location": "Lenzburg AG",
+          "url": "https://ch.linkedin.com/jobs/view/it-supporter-m-w-80-100%25-at-yellowshark%C2%AE-ag-4487167814"
+        }
+      ]
+    },
+    {
+      "key": "zuger kantonalbank",
+      "name": "Zuger Kantonalbank",
+      "agency": false,
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24",
+      "searchIds": [
+        "junior-it"
+      ],
+      "locations": [
+        "Baar ZG"
+      ],
+      "jobs": [
+        {
+          "id": "c448f7f2aea5",
+          "title": "ICT-Supporter junior",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-24",
+          "location": "Baar ZG",
+          "url": "https://ch.linkedin.com/jobs/view/jr-ict-supporter-in-at-zuger-kantonalbank-4493930469",
+          "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "ashby",
+      "name": "Ashby",
+      "agency": false,
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-23",
+      "searchIds": [
+        "frontend-react",
+        "fullstack-ts"
+      ],
+      "locations": [
+        "Schweiz (remoto)",
+        "Remoto (Suiza / UE)",
+        "Remote (Schweiz)"
+      ],
+      "jobs": [
+        {
+          "id": "b77d77fddca4",
+          "title": "Staff Design Engineer (UE, remoto)",
+          "searchId": "frontend-react",
+          "postedAt": "2026-11-23",
+          "location": "Remote (Schweiz)",
+          "url": "https://ch.linkedin.com/jobs/view/staff-design-engineer-eu-at-ashby-4403399917",
+          "englishOk": true
+        },
+        {
+          "id": "abd80262d256",
+          "title": "Ingeniero/a de software senior, Product Engineering (UE)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-21",
+          "location": "Remoto (Suiza / UE)",
+          "url": "https://ch.linkedin.com/jobs/view/senior-software-engineer-product-engineering-eu-at-ashby-4403339538",
+          "englishOk": true
+        },
+        {
+          "id": "538798c0e3b4",
+          "title": "Ingeniero/a de software Staff, Product Engineering (UE)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-21",
+          "location": "Remoto (Suiza / UE)",
+          "url": "https://ch.linkedin.com/jobs/view/staff-software-engineer-product-engineering-eu-at-ashby-4403610723",
+          "englishOk": true
+        },
+        {
+          "id": "392b7ed48227",
+          "title": "Design Engineer - EU",
+          "searchId": "frontend-react",
+          "postedAt": "2026-11-10",
+          "location": "Schweiz (remoto)",
+          "url": "https://ch.linkedin.com/jobs/view/design-engineer-eu-at-ashby-4427232288"
+        }
+      ]
+    },
+    {
       "key": "axept business software",
       "name": "Axept Business Software AG",
       "agency": false,
@@ -673,6 +1196,110 @@
           "postedAt": "2026-11-23",
           "location": "Kemptthal",
           "url": "https://www.jobs.ch/de/stellenangebote/detail/7afec157-3c05-440a-9e98-16ee317c8d9e",
+          "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "consult & pepper",
+      "name": "Consult & Pepper AG",
+      "agency": true,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-23",
+      "searchIds": [
+        "fullstack-ts",
+        "frontend-react"
+      ],
+      "locations": [
+        "Zürich",
+        "Zürich ZH",
+        "Stadt Zürich"
+      ],
+      "jobs": [
+        {
+          "id": "6270232fdc9b",
+          "title": "Tech Lead / Ingeniero/a de software Java Fullstack - eBanking",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-23",
+          "location": "Stadt Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/9df033fd-50a7-41f1-bd72-e69e8af251f8",
+          "englishOk": false
+        },
+        {
+          "id": "aa1f4bf9e327",
+          "title": "Senior Fullstack Software Engineer con foco en frontend",
+          "searchId": "frontend-react",
+          "postedAt": "2026-11-16",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/senior-fullstack-software-engineer-mit-fokus-frontend-a-80-%E2%80%93-100%25-at-consult-pepper-ag-4471434272",
+          "englishOk": false
+        },
+        {
+          "id": "a5376f07c9f1",
+          "title": "Ingeniero/a Java DevOps senior",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-16",
+          "location": "Zürich ZH",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/8c27fc5d-7117-47ce-aaec-ad285bd2cedf",
+          "englishOk": false
+        },
+        {
+          "id": "09913a8d2098",
+          "title": "Ingeniero/a de software full-stack con mentalidad DevOps",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-10",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/fullstack-software-engineer-mit-devops-mindset-a-80-%E2%80%93-100%25-at-consult-pepper-ag-4467098880"
+        },
+        {
+          "id": "6eca88f02f6d",
+          "title": "Ingeniero/a de Software Fullstack con mentalidad DevOps (80–100%)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-09",
+          "location": "Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/4bf49022-613d-4dc4-ab2a-0034f14b1952",
+          "englishOk": false
+        },
+        {
+          "id": "2ca89ba9d72d",
+          "title": "Tech Lead / Ingeniero/a de software Java Fullstack - eBanking",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-09",
+          "location": "Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/5516c71b-65a5-4f5c-bf3a-f3e0afc3e6ff",
+          "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "dormakaba",
+      "name": "dormakaba Schweiz AG",
+      "agency": false,
+      "firstSeen": "2026-11-04",
+      "lastSeen": "2026-11-23",
+      "searchIds": [
+        "junior-it"
+      ],
+      "locations": [
+        "Rümlang ZH"
+      ],
+      "jobs": [
+        {
+          "id": "1ee19c0b47c6",
+          "title": "Soporte de 2.º nivel EAD",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-23",
+          "location": "Rümlang ZH",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/0ad4e956-fcbc-402d-b4e2-3e24ceb540fd",
+          "englishOk": false
+        },
+        {
+          "id": "b76fc14c8bd5",
+          "title": "Helpdesk (atención técnica a clientes)",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-04",
+          "location": "Rümlang ZH",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/f76d45cc-ec79-4f43-b5b9-2305616a03e4",
           "englishOk": false
         }
       ]
@@ -1205,37 +1832,6 @@
           "postedAt": "2026-11-09",
           "location": "Zürich ZH",
           "url": "https://www.jobs.ch/de/stellenangebote/detail/c1832826-0b6b-4044-8b4f-d57c05f71cbd"
-        }
-      ]
-    },
-    {
-      "key": "vontobel",
-      "name": "Vontobel",
-      "agency": false,
-      "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-23",
-      "searchIds": [
-        "fullstack-ts"
-      ],
-      "locations": [
-        "Zürich"
-      ],
-      "jobs": [
-        {
-          "id": "a539a5c5973a",
-          "title": "Senior Full-Stack SW Engineer E-Banking",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-23",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/4466693712"
-        },
-        {
-          "id": "1089b9a8f01e",
-          "title": "Senior Full-Stack SW Engineer E-Banking",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-06",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/senior-full-stack-sw-engineer-e-banking-at-vontobel-4466693712"
         }
       ]
     },
@@ -1795,49 +2391,6 @@
       ]
     },
     {
-      "key": "ashby",
-      "name": "Ashby",
-      "agency": false,
-      "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-21",
-      "searchIds": [
-        "frontend-react",
-        "fullstack-ts"
-      ],
-      "locations": [
-        "Schweiz (remoto)",
-        "Remoto (Suiza / UE)"
-      ],
-      "jobs": [
-        {
-          "id": "abd80262d256",
-          "title": "Ingeniero/a de software senior, Product Engineering (UE)",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-21",
-          "location": "Remoto (Suiza / UE)",
-          "url": "https://ch.linkedin.com/jobs/view/senior-software-engineer-product-engineering-eu-at-ashby-4403339538",
-          "englishOk": true
-        },
-        {
-          "id": "538798c0e3b4",
-          "title": "Ingeniero/a de software Staff, Product Engineering (UE)",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-21",
-          "location": "Remoto (Suiza / UE)",
-          "url": "https://ch.linkedin.com/jobs/view/staff-software-engineer-product-engineering-eu-at-ashby-4403610723",
-          "englishOk": true
-        },
-        {
-          "id": "392b7ed48227",
-          "title": "Design Engineer - EU",
-          "searchId": "frontend-react",
-          "postedAt": "2026-11-10",
-          "location": "Schweiz (remoto)",
-          "url": "https://ch.linkedin.com/jobs/view/design-engineer-eu-at-ashby-4427232288"
-        }
-      ]
-    },
-    {
       "key": "bank julius bar &",
       "name": "Bank Julius Bär & Co. AG",
       "agency": false,
@@ -1999,6 +2552,40 @@
       ]
     },
     {
+      "key": "google",
+      "name": "Google",
+      "agency": false,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-21",
+      "searchIds": [
+        "fullstack-ts"
+      ],
+      "locations": [
+        "Zürich ZH",
+        "Zürich"
+      ],
+      "jobs": [
+        {
+          "id": "ed133709dc67",
+          "title": "Ingeniero/a de software III, Full Stack",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-21",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/software-engineer-iii-full-stack-at-google-4492598856",
+          "englishOk": true
+        },
+        {
+          "id": "272492f6b054",
+          "title": "Ingeniero/a de software III, infraestructura de feeds de Shopping Graph",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-09",
+          "location": "Zürich ZH",
+          "url": "https://ch.linkedin.com/jobs/view/software-engineer-iii-shopping-graph-feeds-infrastructure-at-google-4478117883",
+          "englishOk": true
+        }
+      ]
+    },
+    {
       "key": "import parfumerie",
       "name": "Import Parfumerie",
       "agency": false,
@@ -2028,6 +2615,163 @@
           "postedAt": "2026-11-12",
           "location": "Zürich",
           "url": "https://ch.linkedin.com/jobs/view/4481168814"
+        }
+      ]
+    },
+    {
+      "key": "jobgether",
+      "name": "Jobgether",
+      "agency": true,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-21",
+      "searchIds": [
+        "frontend-react",
+        "fullstack-ts",
+        "qa-test",
+        "junior-it"
+      ],
+      "locations": [
+        "Remoto (Suiza)",
+        "Remoto (Suiza, CET ±1 h)",
+        "Suiza (remoto)",
+        "Remoto (Europa / Suiza)",
+        "Schweiz (remoto)",
+        "Remoto (Suiza/Europa)"
+      ],
+      "jobs": [
+        {
+          "id": "4b2fe55a4c07",
+          "title": "Staff Full Stack Engineer – equipo de producción (remoto)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-21",
+          "location": "Remoto (Suiza/Europa)",
+          "url": "https://ch.linkedin.com/jobs/view/staff-full-stack-engineer-%E2%80%93-production-team-at-jobgether-4492564494",
+          "englishOk": true
+        },
+        {
+          "id": "728457646ffb",
+          "title": "Design Engineer (ingeniería de diseño web / frontend)",
+          "searchId": "frontend-react",
+          "postedAt": "2026-11-20",
+          "location": "Remoto (Suiza)",
+          "url": "https://ch.linkedin.com/jobs/view/design-engineer-at-jobgether-4492156395",
+          "englishOk": true
+        },
+        {
+          "id": "d1b9ee264c90",
+          "title": "Ingeniero/a QA manual nivel medio (remoto/híbrido)",
+          "searchId": "qa-test",
+          "postedAt": "2026-11-20",
+          "location": "Remoto (Suiza)",
+          "url": "https://ch.linkedin.com/jobs/view/middle-manual-qa-engineer-at-jobgether-4492173002",
+          "englishOk": true
+        },
+        {
+          "id": "0b3495e34c11",
+          "title": "Lead Full-stack Engineer (remoto)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-20",
+          "location": "Remoto (Suiza)",
+          "url": "https://ch.linkedin.com/jobs/view/lead-full-stack-engineer-at-jobgether-4492120996",
+          "englishOk": true
+        },
+        {
+          "id": "6bf3be420d35",
+          "title": "Ingeniero/a QA nivel medio (remoto/híbrido)",
+          "searchId": "qa-test",
+          "postedAt": "2026-11-19",
+          "location": "Remoto (Suiza)",
+          "url": "https://ch.linkedin.com/jobs/view/middle-qa-engineer-at-jobgether-4492134051",
+          "englishOk": true
+        },
+        {
+          "id": "3492d8f65dbd",
+          "title": "Ingeniero/a de software graduado/a, Open Source y Linux (Canonical Ubuntu)",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-18",
+          "location": "Suiza (remoto)",
+          "url": "https://ch.linkedin.com/jobs/view/graduate-software-engineer-open-source-and-linux-canonical-ubuntu-at-jobgether-4490197967"
+        },
+        {
+          "id": "6a46b96915fd",
+          "title": "Ingeniero/a QA backend (remoto)",
+          "searchId": "qa-test",
+          "postedAt": "2026-11-18",
+          "location": "Remoto (Suiza)",
+          "url": "https://ch.linkedin.com/jobs/view/backend-qa-engineer-at-jobgether-4490836311",
+          "englishOk": true
+        },
+        {
+          "id": "94d31bffc0cb",
+          "title": "Ingeniero/a QA senior (remoto, QA móvil manual)",
+          "searchId": "qa-test",
+          "postedAt": "2026-11-18",
+          "location": "Remoto (Suiza)",
+          "url": "https://ch.linkedin.com/jobs/view/senior-qa-engineer-at-jobgether-4490834940",
+          "englishOk": true
+        },
+        {
+          "id": "f09c271a7f0d",
+          "title": "Staff Frontend Engineer - Plataforma de trading",
+          "searchId": "frontend-react",
+          "postedAt": "2026-11-16",
+          "location": "Remoto (Europa / Suiza)",
+          "url": "https://ch.linkedin.com/jobs/view/staff-frontend-engineer-trading-platform-at-jobgether-4490277966",
+          "englishOk": true
+        },
+        {
+          "id": "f38fc5227d90",
+          "title": "Ingeniero/a Full-Stack (foco frontend y móvil)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-13",
+          "location": "Suiza (remoto)",
+          "url": "https://ch.linkedin.com/jobs/view/full-stack-software-engineer-frontend-mobile-focus-at-jobgether-4489551627",
+          "englishOk": true
+        },
+        {
+          "id": "b8a1f33716a7",
+          "title": "Ingeniero/a QA de datos",
+          "searchId": "qa-test",
+          "postedAt": "2026-11-13",
+          "location": "Schweiz (remoto)",
+          "url": "https://ch.linkedin.com/jobs/view/data-qa-engineer-at-jobgether-4489561241",
+          "englishOk": true
+        },
+        {
+          "id": "bf80fd081620",
+          "title": "Ingeniero/a Fullstack senior (React/TypeScript, Rails)",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-12",
+          "location": "Suiza (remoto)",
+          "url": "https://ch.linkedin.com/jobs/view/senior-fullstack-engineer-at-jobgether-4489086318",
+          "englishOk": true
+        },
+        {
+          "id": "38712d339d82",
+          "title": "Desarrollador/a Fullstack – Taplio & TweetHunter",
+          "searchId": "fullstack-ts",
+          "postedAt": "2026-11-12",
+          "location": "Suiza (remoto)",
+          "url": "https://ch.linkedin.com/jobs/view/fullstack-developer-%E2%80%93-taplio-tweethunter-at-jobgether-4489088599",
+          "englishOk": true
+        },
+        {
+          "id": "7b348200f866",
+          "title": "Desarrollador/a Frontend senior",
+          "searchId": "frontend-react",
+          "postedAt": "2026-11-11",
+          "location": "Remoto (Suiza)",
+          "url": "https://ch.linkedin.com/jobs/view/senior-frontend-developer-at-jobgether-4488663615",
+          "englishOk": true
+        },
+        {
+          "id": "5230c02d97c4",
+          "title": "Desarrollador/a Frontend (React)",
+          "searchId": "frontend-react",
+          "postedAt": "2026-11-09",
+          "location": "Remoto (Suiza, CET ±1 h)",
+          "url": "https://ch.linkedin.com/jobs/view/frontend-developer-react-at-jobgether-4487687394",
+          "englishOk": true
         }
       ]
     },
@@ -3078,144 +3822,6 @@
       ]
     },
     {
-      "key": "jobgether",
-      "name": "Jobgether",
-      "agency": true,
-      "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-20",
-      "searchIds": [
-        "frontend-react",
-        "fullstack-ts",
-        "qa-test",
-        "junior-it"
-      ],
-      "locations": [
-        "Remoto (Suiza)",
-        "Remoto (Suiza, CET ±1 h)",
-        "Suiza (remoto)",
-        "Remoto (Europa / Suiza)",
-        "Schweiz (remoto)"
-      ],
-      "jobs": [
-        {
-          "id": "728457646ffb",
-          "title": "Design Engineer (ingeniería de diseño web / frontend)",
-          "searchId": "frontend-react",
-          "postedAt": "2026-11-20",
-          "location": "Remoto (Suiza)",
-          "url": "https://ch.linkedin.com/jobs/view/design-engineer-at-jobgether-4492156395",
-          "englishOk": true
-        },
-        {
-          "id": "d1b9ee264c90",
-          "title": "Ingeniero/a QA manual nivel medio (remoto/híbrido)",
-          "searchId": "qa-test",
-          "postedAt": "2026-11-20",
-          "location": "Remoto (Suiza)",
-          "url": "https://ch.linkedin.com/jobs/view/middle-manual-qa-engineer-at-jobgether-4492173002",
-          "englishOk": true
-        },
-        {
-          "id": "6bf3be420d35",
-          "title": "Ingeniero/a QA nivel medio (remoto/híbrido)",
-          "searchId": "qa-test",
-          "postedAt": "2026-11-19",
-          "location": "Remoto (Suiza)",
-          "url": "https://ch.linkedin.com/jobs/view/middle-qa-engineer-at-jobgether-4492134051",
-          "englishOk": true
-        },
-        {
-          "id": "3492d8f65dbd",
-          "title": "Ingeniero/a de software graduado/a, Open Source y Linux (Canonical Ubuntu)",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-18",
-          "location": "Suiza (remoto)",
-          "url": "https://ch.linkedin.com/jobs/view/graduate-software-engineer-open-source-and-linux-canonical-ubuntu-at-jobgether-4490197967"
-        },
-        {
-          "id": "6a46b96915fd",
-          "title": "Ingeniero/a QA backend (remoto)",
-          "searchId": "qa-test",
-          "postedAt": "2026-11-18",
-          "location": "Remoto (Suiza)",
-          "url": "https://ch.linkedin.com/jobs/view/backend-qa-engineer-at-jobgether-4490836311",
-          "englishOk": true
-        },
-        {
-          "id": "94d31bffc0cb",
-          "title": "Ingeniero/a QA senior (remoto, QA móvil manual)",
-          "searchId": "qa-test",
-          "postedAt": "2026-11-18",
-          "location": "Remoto (Suiza)",
-          "url": "https://ch.linkedin.com/jobs/view/senior-qa-engineer-at-jobgether-4490834940",
-          "englishOk": true
-        },
-        {
-          "id": "f09c271a7f0d",
-          "title": "Staff Frontend Engineer - Plataforma de trading",
-          "searchId": "frontend-react",
-          "postedAt": "2026-11-16",
-          "location": "Remoto (Europa / Suiza)",
-          "url": "https://ch.linkedin.com/jobs/view/staff-frontend-engineer-trading-platform-at-jobgether-4490277966",
-          "englishOk": true
-        },
-        {
-          "id": "f38fc5227d90",
-          "title": "Ingeniero/a Full-Stack (foco frontend y móvil)",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-13",
-          "location": "Suiza (remoto)",
-          "url": "https://ch.linkedin.com/jobs/view/full-stack-software-engineer-frontend-mobile-focus-at-jobgether-4489551627",
-          "englishOk": true
-        },
-        {
-          "id": "b8a1f33716a7",
-          "title": "Ingeniero/a QA de datos",
-          "searchId": "qa-test",
-          "postedAt": "2026-11-13",
-          "location": "Schweiz (remoto)",
-          "url": "https://ch.linkedin.com/jobs/view/data-qa-engineer-at-jobgether-4489561241",
-          "englishOk": true
-        },
-        {
-          "id": "bf80fd081620",
-          "title": "Ingeniero/a Fullstack senior (React/TypeScript, Rails)",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-12",
-          "location": "Suiza (remoto)",
-          "url": "https://ch.linkedin.com/jobs/view/senior-fullstack-engineer-at-jobgether-4489086318",
-          "englishOk": true
-        },
-        {
-          "id": "38712d339d82",
-          "title": "Desarrollador/a Fullstack – Taplio & TweetHunter",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-12",
-          "location": "Suiza (remoto)",
-          "url": "https://ch.linkedin.com/jobs/view/fullstack-developer-%E2%80%93-taplio-tweethunter-at-jobgether-4489088599",
-          "englishOk": true
-        },
-        {
-          "id": "7b348200f866",
-          "title": "Desarrollador/a Frontend senior",
-          "searchId": "frontend-react",
-          "postedAt": "2026-11-11",
-          "location": "Remoto (Suiza)",
-          "url": "https://ch.linkedin.com/jobs/view/senior-frontend-developer-at-jobgether-4488663615",
-          "englishOk": true
-        },
-        {
-          "id": "5230c02d97c4",
-          "title": "Desarrollador/a Frontend (React)",
-          "searchId": "frontend-react",
-          "postedAt": "2026-11-09",
-          "location": "Remoto (Suiza, CET ±1 h)",
-          "url": "https://ch.linkedin.com/jobs/view/frontend-developer-react-at-jobgether-4487687394",
-          "englishOk": true
-        }
-      ]
-    },
-    {
       "key": "kantonale verwaltung zurich",
       "name": "Kantonale Verwaltung Zürich",
       "agency": false,
@@ -3579,6 +4185,30 @@
       ]
     },
     {
+      "key": "sidler system",
+      "name": "Sidler System AG",
+      "agency": false,
+      "firstSeen": "2026-11-20",
+      "lastSeen": "2026-11-20",
+      "searchIds": [
+        "junior-it"
+      ],
+      "locations": [
+        "Elsau ZH"
+      ],
+      "jobs": [
+        {
+          "id": "86cae6055e9b",
+          "title": "Ingeniero/a de sistemas ICT",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-20",
+          "location": "Elsau ZH",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/a0b03c3f-c883-4e90-9939-0ed031869eee",
+          "englishOk": false
+        }
+      ]
+    },
+    {
       "key": "swiss life",
       "name": "Swiss Life AG",
       "agency": false,
@@ -3838,6 +4468,39 @@
           "location": "Zürich",
           "url": "https://ch.linkedin.com/jobs/view/intern-software-engineering-at-baseline-robotics-4492067281",
           "englishOk": true
+        }
+      ]
+    },
+    {
+      "key": "bison",
+      "name": "Bison Schweiz AG",
+      "agency": false,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-19",
+      "searchIds": [
+        "junior-it"
+      ],
+      "locations": [
+        "Winterthur ZH"
+      ],
+      "jobs": [
+        {
+          "id": "835880948ba0",
+          "title": "Supporter/a IT",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-19",
+          "location": "Winterthur ZH",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/4194003f-e2dc-46c4-b9e1-88ad049e38c8",
+          "englishOk": false
+        },
+        {
+          "id": "f5a5cb0f8c07",
+          "title": "Soporte IT (2.º nivel, entorno Microsoft)",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-09",
+          "location": "Winterthur ZH",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/40977cf9-3953-42ff-9e3e-bfc2c52c135a",
+          "englishOk": false
         }
       ]
     },
@@ -6468,6 +7131,30 @@
       ]
     },
     {
+      "key": "mettler toledo",
+      "name": "Mettler Toledo",
+      "agency": false,
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17",
+      "searchIds": [
+        "junior-it"
+      ],
+      "locations": [
+        "Nänikon ZH"
+      ],
+      "jobs": [
+        {
+          "id": "a7db15bf2585",
+          "title": "Supporter/a IT/OT (producción)",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-17",
+          "location": "Nänikon ZH",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/047e60a0-560b-4ede-a884-a7082c6cbb02",
+          "englishOk": false
+        }
+      ]
+    },
+    {
       "key": "mettler toledo international",
       "name": "Mettler-Toledo International Inc.",
       "agency": false,
@@ -7118,67 +7805,6 @@
       ]
     },
     {
-      "key": "consult & pepper",
-      "name": "Consult & Pepper AG",
-      "agency": true,
-      "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-16",
-      "searchIds": [
-        "fullstack-ts",
-        "frontend-react"
-      ],
-      "locations": [
-        "Zürich",
-        "Zürich ZH"
-      ],
-      "jobs": [
-        {
-          "id": "aa1f4bf9e327",
-          "title": "Senior Fullstack Software Engineer con foco en frontend",
-          "searchId": "frontend-react",
-          "postedAt": "2026-11-16",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/senior-fullstack-software-engineer-mit-fokus-frontend-a-80-%E2%80%93-100%25-at-consult-pepper-ag-4471434272",
-          "englishOk": false
-        },
-        {
-          "id": "a5376f07c9f1",
-          "title": "Ingeniero/a Java DevOps senior",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-16",
-          "location": "Zürich ZH",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/8c27fc5d-7117-47ce-aaec-ad285bd2cedf",
-          "englishOk": false
-        },
-        {
-          "id": "09913a8d2098",
-          "title": "Ingeniero/a de software full-stack con mentalidad DevOps",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-10",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/fullstack-software-engineer-mit-devops-mindset-a-80-%E2%80%93-100%25-at-consult-pepper-ag-4467098880"
-        },
-        {
-          "id": "6eca88f02f6d",
-          "title": "Ingeniero/a de Software Fullstack con mentalidad DevOps (80–100%)",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-09",
-          "location": "Zürich",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/4bf49022-613d-4dc4-ab2a-0034f14b1952",
-          "englishOk": false
-        },
-        {
-          "id": "2ca89ba9d72d",
-          "title": "Tech Lead / Ingeniero/a de software Java Fullstack - eBanking",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-09",
-          "location": "Zürich",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/5516c71b-65a5-4f5c-bf3a-f3e0afc3e6ff",
-          "englishOk": false
-        }
-      ]
-    },
-    {
       "key": "coresystems",
       "name": "Coresystems AG",
       "agency": false,
@@ -7688,66 +8314,6 @@
       ]
     },
     {
-      "key": "yellowshark",
-      "name": "yellowshark® AG",
-      "agency": true,
-      "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-16",
-      "searchIds": [
-        "junior-it"
-      ],
-      "locations": [
-        "Lenzburg AG",
-        "Uetikon am See ZH",
-        "Urdorf",
-        "Baar ZG",
-        "Wohlen AG"
-      ],
-      "jobs": [
-        {
-          "id": "14225717cd31",
-          "title": "Soporte IT (1.º y 2.º nivel)",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-16",
-          "location": "Urdorf",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/7bcda914-5b59-47eb-a025-20d6c7f16cdc",
-          "englishOk": false
-        },
-        {
-          "id": "7579f9c449db",
-          "title": "IT Supporter / Service Desk Agent (80–100 %)",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-16",
-          "location": "Baar ZG",
-          "url": "https://ch.linkedin.com/jobs/view/it-supporter-it-service-desk-agent-m-w-80-100%E2%80%AF%25-at-yellowshark%C2%AE-ag-4489395934"
-        },
-        {
-          "id": "0cf983cd0206",
-          "title": "Soporte IT 80–100%",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-14",
-          "location": "Uetikon am See ZH",
-          "url": "https://ch.linkedin.com/jobs/view/it-supporter-80-100%25-m-w-at-yellowshark%C2%AE-ag-4488982754"
-        },
-        {
-          "id": "813d3ccb8a27",
-          "title": "IT Supporter (80–100 %)",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-14",
-          "location": "Wohlen AG",
-          "url": "https://ch.linkedin.com/jobs/view/it-supporter-m-w-80-100%25-at-yellowshark%C2%AE-ag-4489300014"
-        },
-        {
-          "id": "e5db5c894191",
-          "title": "Soporte IT",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-09",
-          "location": "Lenzburg AG",
-          "url": "https://ch.linkedin.com/jobs/view/it-supporter-m-w-80-100%25-at-yellowshark%C2%AE-ag-4487167814"
-        }
-      ]
-    },
-    {
       "key": "autogrill",
       "name": "Autogrill Schweiz-AG",
       "agency": false,
@@ -7902,6 +8468,58 @@
           "postedAt": "2026-11-15",
           "location": "Dällikon ZH",
           "url": "https://ch.linkedin.com/jobs/view/leiter-abteilung-reinigung-100%25-at-eisberg-4482873997",
+          "englishOk": false
+        }
+      ]
+    },
+    {
+      "key": "freestar informatik",
+      "name": "Freestar-Informatik AG",
+      "agency": false,
+      "firstSeen": "2026-11-08",
+      "lastSeen": "2026-11-15",
+      "searchIds": [
+        "junior-it"
+      ],
+      "locations": [
+        "Zürich",
+        "Zürich ZH"
+      ],
+      "jobs": [
+        {
+          "id": "3f1d8a4b863a",
+          "title": "Supporter/a IT de 1.er y 2.º nivel",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-15",
+          "location": "Zürich ZH",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/66c9e5df-5cf5-4388-94fd-255102249585",
+          "englishOk": false
+        },
+        {
+          "id": "5c2ed4981204",
+          "title": "Soporte de 1.er nivel",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-12",
+          "location": "Zürich",
+          "url": "https://ch.linkedin.com/jobs/view/1st-level-supporter-in-a-100%25-ref-2712-at-freestar-informatik-ag-4488285950",
+          "englishOk": false
+        },
+        {
+          "id": "1f9264bdd405",
+          "title": "Especialista IT (soporte y automatización)",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-09",
+          "location": "Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/d3009967-b7d0-4721-8e95-407a539d240c",
+          "englishOk": false
+        },
+        {
+          "id": "050e5b9dd064",
+          "title": "Soporte IT (1.er y 2.º nivel)",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-08",
+          "location": "Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/14061092-1391-4af2-a13c-41263ee5c06b",
           "englishOk": false
         }
       ]
@@ -9151,48 +9769,6 @@
       ]
     },
     {
-      "key": "freestar informatik",
-      "name": "Freestar-Informatik AG",
-      "agency": false,
-      "firstSeen": "2026-11-08",
-      "lastSeen": "2026-11-12",
-      "searchIds": [
-        "junior-it"
-      ],
-      "locations": [
-        "Zürich"
-      ],
-      "jobs": [
-        {
-          "id": "5c2ed4981204",
-          "title": "Soporte de 1.er nivel",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-12",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/1st-level-supporter-in-a-100%25-ref-2712-at-freestar-informatik-ag-4488285950",
-          "englishOk": false
-        },
-        {
-          "id": "1f9264bdd405",
-          "title": "Especialista IT (soporte y automatización)",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-09",
-          "location": "Zürich",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/d3009967-b7d0-4721-8e95-407a539d240c",
-          "englishOk": false
-        },
-        {
-          "id": "050e5b9dd064",
-          "title": "Soporte IT (1.er y 2.º nivel)",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-08",
-          "location": "Zürich",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/14061092-1391-4af2-a13c-41263ee5c06b",
-          "englishOk": false
-        }
-      ]
-    },
-    {
       "key": "hpc liegenschaften",
       "name": "HPC Liegenschaften GmbH",
       "agency": false,
@@ -9370,29 +9946,6 @@
       ]
     },
     {
-      "key": "sgi",
-      "name": "SGI",
-      "agency": false,
-      "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-12",
-      "searchIds": [
-        "qa-test"
-      ],
-      "locations": [
-        "Zürich"
-      ],
-      "jobs": [
-        {
-          "id": "d4ad7b0ae0cc",
-          "title": "Ingeniero/a de pruebas no funcionales (NFT)",
-          "searchId": "qa-test",
-          "postedAt": "2026-11-12",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/non-functional-test-engineer-at-sgi-4490358433"
-        }
-      ]
-    },
-    {
       "key": "sizeless",
       "name": "sizeless",
       "agency": false,
@@ -9516,6 +10069,30 @@
           "postedAt": "2026-11-12",
           "location": "Zürich",
           "url": "https://ch.linkedin.com/jobs/view/quality-assurance-qa-engineer-m-w-d-mit-schwerpunkt-testautomation-und-ki-systeme-at-university-of-zurich-4482924763"
+        }
+      ]
+    },
+    {
+      "key": "vision inside",
+      "name": "Vision-Inside AG",
+      "agency": false,
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-12",
+      "searchIds": [
+        "junior-it"
+      ],
+      "locations": [
+        "Wetzikon ZH"
+      ],
+      "jobs": [
+        {
+          "id": "029cb06b24d5",
+          "title": "Ingeniero/a de sistemas ICT Operations (Azure e Intune)",
+          "searchId": "junior-it",
+          "postedAt": "2026-11-12",
+          "location": "Wetzikon ZH",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/1fec144e-ce04-4965-b0e3-1ce9357e913f",
+          "englishOk": false
         }
       ]
     },
@@ -9789,25 +10366,25 @@
       ]
     },
     {
-      "key": "moe & company",
-      "name": "Moe & Company AG",
-      "agency": false,
+      "key": "myitjob",
+      "name": "myitjob GmbH",
+      "agency": true,
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-11",
       "searchIds": [
-        "fullstack-ts"
+        "qa-test"
       ],
       "locations": [
         "Winterthur ZH"
       ],
       "jobs": [
         {
-          "id": "6c4a18fd42e9",
-          "title": "Data Engineer y desarrollador/a de software",
-          "searchId": "fullstack-ts",
+          "id": "370f27024d44",
+          "title": "Ingeniero/a de pruebas de software 80-100%",
+          "searchId": "qa-test",
           "postedAt": "2026-11-11",
           "location": "Winterthur ZH",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/6debd89a-b870-4fad-b9bd-61219c8e5ddf",
+          "url": "https://www.jobscout24.ch/de/job/72e4f74d-ba17-4e1a-bd36-e8b60a23db0c",
           "englishOk": false
         }
       ]
@@ -9832,29 +10409,6 @@
           "postedAt": "2026-11-11",
           "location": "Horgen",
           "url": "https://ch.linkedin.com/jobs/view/4478687704"
-        }
-      ]
-    },
-    {
-      "key": "olymp",
-      "name": "Olymp AG",
-      "agency": false,
-      "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-11",
-      "searchIds": [
-        "fullstack-ts"
-      ],
-      "locations": [
-        "Zürich"
-      ],
-      "jobs": [
-        {
-          "id": "9af522de3ab4",
-          "title": "Ingeniero/a de Software Full-Stack – Prácticas",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-11",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/full-stack-software-engineer-%E2%80%93-internship-at-olymp-ag-4489942884"
         }
       ]
     },
@@ -10028,47 +10582,6 @@
           "location": "Zürich",
           "url": "https://ch.linkedin.com/jobs/view/full-stack-software-engineer-at-felfel-switzerland-4487161970",
           "englishOk": true
-        }
-      ]
-    },
-    {
-      "key": "ipt innovation process technology",
-      "name": "ipt Innovation Process Technology",
-      "agency": false,
-      "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
-      "searchIds": [
-        "frontend-react",
-        "junior-it"
-      ],
-      "locations": [
-        "Zürich"
-      ],
-      "jobs": [
-        {
-          "id": "29d7aef34ec2",
-          "title": "Frontend Engineer con afinidad UX en consultoría IT",
-          "searchId": "frontend-react",
-          "postedAt": "2026-11-10",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/4487415360"
-        },
-        {
-          "id": "9ba4a3a04d86",
-          "title": "Graduate Engineer en IT-Consulting (100 %)",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-10",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/graduate-engineer-im-it-consulting-100%25-at-ipt-innovation-process-technology-4487405744",
-          "englishOk": false
-        },
-        {
-          "id": "6d6174dacc0e",
-          "title": "Ingeniero/a técnico en consultoría IT (germanohablante)",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-10",
-          "location": "Zürich",
-          "url": "https://ch.linkedin.com/jobs/view/technical-engineer-im-it-consulting-german-speaking-at-ipt-innovation-process-technology-4487424021"
         }
       ]
     },
@@ -10507,30 +11020,6 @@
       ]
     },
     {
-      "key": "bison",
-      "name": "Bison Schweiz AG",
-      "agency": false,
-      "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-09",
-      "searchIds": [
-        "junior-it"
-      ],
-      "locations": [
-        "Winterthur ZH"
-      ],
-      "jobs": [
-        {
-          "id": "f5a5cb0f8c07",
-          "title": "Soporte IT (2.º nivel, entorno Microsoft)",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-09",
-          "location": "Winterthur ZH",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/40977cf9-3953-42ff-9e3e-bfc2c52c135a",
-          "englishOk": false
-        }
-      ]
-    },
-    {
       "key": "clienia schlossli",
       "name": "Clienia Schlössli AG",
       "agency": false,
@@ -10551,30 +11040,6 @@
           "location": "Oetwil am See ZH",
           "url": "https://www.jobs.ch/de/stellenangebote/detail/9c50327a-fa2e-43b1-829e-bcde9f9562bb",
           "englishOk": false
-        }
-      ]
-    },
-    {
-      "key": "google",
-      "name": "Google",
-      "agency": false,
-      "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-09",
-      "searchIds": [
-        "fullstack-ts"
-      ],
-      "locations": [
-        "Zürich ZH"
-      ],
-      "jobs": [
-        {
-          "id": "272492f6b054",
-          "title": "Ingeniero/a de software III, infraestructura de feeds de Shopping Graph",
-          "searchId": "fullstack-ts",
-          "postedAt": "2026-11-09",
-          "location": "Zürich ZH",
-          "url": "https://ch.linkedin.com/jobs/view/software-engineer-iii-shopping-graph-feeds-infrastructure-at-google-4478117883",
-          "englishOk": true
         }
       ]
     },
@@ -11967,30 +12432,6 @@
       ]
     },
     {
-      "key": "stadler",
-      "name": "Stadler",
-      "agency": false,
-      "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-05",
-      "searchIds": [
-        "qa-test"
-      ],
-      "locations": [
-        "Wallisellen ZH"
-      ],
-      "jobs": [
-        {
-          "id": "98f3f0daaa4a",
-          "title": "Ingeniero/a de pruebas de sistemas (Wallisellen)",
-          "searchId": "qa-test",
-          "postedAt": "2026-11-05",
-          "location": "Wallisellen ZH",
-          "url": "https://ch.linkedin.com/jobs/view/system-test-engineer-%E2%80%93-wallisellen-at-stadler-4482942476",
-          "englishOk": true
-        }
-      ]
-    },
-    {
       "key": "stiftung buechweid",
       "name": "Stiftung Buechweid",
       "agency": false,
@@ -12020,30 +12461,6 @@
           "postedAt": "2026-11-05",
           "location": "Russikon",
           "url": "https://www.jobs.ch/de/stellenangebote/detail/6a97a89c-f651-4cd6-9800-28a226656498"
-        }
-      ]
-    },
-    {
-      "key": "dormakaba",
-      "name": "dormakaba Schweiz AG",
-      "agency": false,
-      "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-04",
-      "searchIds": [
-        "junior-it"
-      ],
-      "locations": [
-        "Rümlang ZH"
-      ],
-      "jobs": [
-        {
-          "id": "b76fc14c8bd5",
-          "title": "Helpdesk (atención técnica a clientes)",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-04",
-          "location": "Rümlang ZH",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/f76d45cc-ec79-4f43-b5b9-2305616a03e4",
-          "englishOk": false
         }
       ]
     },
@@ -12244,29 +12661,6 @@
           "location": "Basel, Zürich, Bern",
           "url": "https://www.jobs.ch/de/stellenangebote/detail/51330a22-e2e1-4b18-8436-9f63836789f5",
           "englishOk": false
-        }
-      ]
-    },
-    {
-      "key": "deloitte",
-      "name": "Deloitte",
-      "agency": false,
-      "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-02",
-      "searchIds": [
-        "junior-it"
-      ],
-      "locations": [
-        "Zürich"
-      ],
-      "jobs": [
-        {
-          "id": "fd7c9fabf0c3",
-          "title": "AI Agent Builder | Oportunidad para graduados en Tecnología y Transformación",
-          "searchId": "junior-it",
-          "postedAt": "2026-11-02",
-          "location": "Zürich",
-          "url": "https://www.jobs.ch/de/stellenangebote/detail/cf6744e5-b0fe-4009-94e6-521faca88828"
         }
       ]
     },
