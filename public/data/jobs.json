@@ -1,6 +1,165 @@
 {
-  "updatedAt": "2026-11-25T06:23:43.457Z",
+  "updatedAt": "2026-11-25T07:17:34.056Z",
   "jobs": [
+    {
+      "searchId": "kueche",
+      "title": "Küchen Allrounder (m/w/d) im Stundenlohn auf Abruf",
+      "titleEs": "Allrounder de cocina por horas, a demanda",
+      "company": "Compass Group Schweiz",
+      "location": "Zürich",
+      "postedAt": "2026-11-25",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4494436892",
+      "summary": "Puesto de apoyo en cocina a demanda y pago por horas en Compass Group (Zürich): preparación sencilla de platos, eventos de catering, limpieza de vajilla y utensilios y suplencias en distintos centros de la región.",
+      "description": "Apoyo al equipo de cocina en la preparación y producción de comidas y platos sencillos, tareas variadas en eventos de catering y grandes actos (parrilla, puestos de comida, servicio), limpieza de vajilla, utensilios y equipos, orden en la cocina y suplencias flexibles en distintos centros de la región en vacaciones, faltas de personal o ausencias de última hora.",
+      "requirements": [
+        "Experiencia práctica en cocina, gastronomía o producción de alimentos (el aprendizaje de cocinero es una ventaja, no obligatorio)",
+        "Disponibilidad para turnos de corto aviso, incluidas tardes y fines de semana",
+        "Buen alemán para comunicarse con el equipo",
+        "Resistencia física, fiabilidad y trabajo en equipo"
+      ],
+      "workload": "Por horas, a demanda (auf Abruf)",
+      "employmentType": "Por horas, a demanda",
+      "language": "Alemán bueno",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Küchen Allrounder (m/w/d) im Stundenlohn auf Abruf",
+        "summary": "Küchenaushilfe im Stundenlohn auf Abruf bei Compass Group in Zürich: einfache Speisenzubereitung, Catering-Events, Reinigung von Geschirr und Küchenutensilien sowie flexible Einsätze in der Region.",
+        "description": "Unterstützung der Küchenteams bei Zubereitung, Produktion und Kochen von Speisen und einfachen Gerichten, vielseitige Aufgaben bei Catering-Events und Grossanlässen (Grillstation, Foodstände, Verpflegung), Reinigung von Geschirr, Küchenutensilien und Geräten, Ordnung in der Küche und flexible Einsätze an verschiedenen Standorten bei Ferien, Personalengpässen oder kurzfristigen Ausfällen.",
+        "requirements": [
+          "Praktische Erfahrung in Küche, Gastronomie oder Lebensmittelproduktion (abgeschlossene Kochlehre von Vorteil, nicht Bedingung)",
+          "Verfügbarkeit für kurzfristige Einsätze, auch abends und am Wochenende",
+          "Gute Deutschkenntnisse für die Kommunikation im Team",
+          "Belastbar, zuverlässig und teamfähig"
+        ],
+        "workload": "Im Stundenlohn auf Abruf",
+        "employmentType": "Stundenlohn auf Abruf",
+        "language": "Gute Deutschkenntnisse"
+      },
+      "id": "6b75339a98ab",
+      "foundAt": "2026-11-25T07:17:34.056Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Warehouse Agent",
+      "titleEs": "Operario/a de almacén (Warehouse Agent)",
+      "company": "Coople (cliente no nombrado)",
+      "location": "Bassersdorf ZH",
+      "postedAt": "2026-11-25",
+      "source": "Coople",
+      "url": "https://www.coople.com/ch/jobs/de/6d3c31dc-7be1-44a7-9f8b-e4bde847420e",
+      "summary": "Trabajo físico de almacén en Bassersdorf: descarga de contenedores, paletizado y carga de camiones; 30 turnos desde el 25 de noviembre, sin experiencia obligatoria.",
+      "description": "Descargar contenedores, apilar y paletizar mercancía, preparar palés para el transporte, cargar camiones y tareas generales de almacén y logística.",
+      "requirements": [
+        "Buena forma física y motivación",
+        "Fiable, autónomo y cuidadoso",
+        "Experiencia en almacén útil pero no obligatoria",
+        "Certificado de antecedentes penales (control previo)",
+        "Buen alemán (ventaja)"
+      ],
+      "employmentType": "Temporal por turnos (30 turnos)",
+      "language": "Alemán bueno (ventaja)",
+      "de": {
+        "title": "Warehouse Agent",
+        "summary": "Körperlich anspruchsvolle Lagerarbeit in Bassersdorf: Container entladen, Paletten bilden und Lastwagen beladen; 30 Einsätze ab 25. November, keine Erfahrung zwingend.",
+        "description": "Container entladen, Waren stapeln und palettieren, Paletten für den Transport vorbereiten, Lastwagen beladen sowie allgemeine Lager- und Logistikarbeiten.",
+        "requirements": [
+          "Körperlich fit und motiviert",
+          "Zuverlässig, selbständig und sorgfältig",
+          "Lager- oder Logistikerfahrung hilfreich, aber nicht zwingend",
+          "Strafregisterauszug (Prüfung vor Arbeitsbeginn)",
+          "Gute Deutschkenntnisse von Vorteil"
+        ],
+        "employmentType": "Temporär im Einsatz (30 Einsätze)",
+        "language": "Gute Deutschkenntnisse von Vorteil"
+      },
+      "id": "90833127c70e",
+      "foundAt": "2026-11-25T07:17:34.056Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Reiniger:in",
+      "titleEs": "Limpiador/a de la estación (SBB, Zürich HB)",
+      "company": "SBB CFF FFS",
+      "location": "Zürich",
+      "postedAt": "2026-11-25",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/reiniger-in-at-sbb-cff-ffs-4494455294",
+      "summary": "Limpieza de la estación principal de Zürich y sus alrededores en turnos (24 h), con inicio el 1 de marzo de 2027 o según acuerdo.",
+      "description": "Mantener limpia la estación (vaciar papeleras, retirar basura, cristales, vías), limpieza especializada bajo supervisión (superficies, ventanas, alta presión, chicles), reparar pequeños defectos o avisar, atender a viajeros y manejar vehículos y máquinas de limpieza.",
+      "requirements": [
+        "Alemán mínimo B1",
+        "Carné de conducir cat. B",
+        "Experiencia en limpieza, facility services u hostelería",
+        "Buena forma física y disposición a turnos irregulares",
+        "Orientación al cliente"
+      ],
+      "workload": "60–100 %",
+      "employmentType": "Tiempo completo",
+      "language": "Alemán B1; carné cat. B",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Reiniger:in",
+        "summary": "Reinigung des Hauptbahnhofs Zürich und seiner Umgebung im Schichtbetrieb (24 Stunden), Eintritt 1. März 2027 oder nach Vereinbarung.",
+        "description": "Bahnhof sauber halten (Abfallbehälter leeren, Abfall entfernen, Glasflächen und Gleise reinigen), Spezialreinigungen unter Anleitung (Flächen, Fenster, Hochdruck, Kaugummientfernung), kleine Mängel beheben oder melden, Reisende beraten und Fahrzeuge und Reinigungsmaschinen bedienen.",
+        "requirements": [
+          "Deutsch mindestens B1",
+          "Führerausweis mindestens Kat. B",
+          "Erfahrung in Reinigung, Facility Services oder Gastgewerbe",
+          "Körperlich fit und bereit für unregelmässige Schichten",
+          "Kundenorientiertes Auftreten"
+        ],
+        "workload": "60–100 %",
+        "employmentType": "Vollzeit",
+        "language": "Deutsch B1; Führerausweis Kat. B"
+      },
+      "id": "9701384f3956",
+      "foundAt": "2026-11-25T07:17:34.056Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Mitarbeiter:in Hauswirtschaft",
+      "titleEs": "Empleado/a de housekeeping (Hauswirtschaft) en hotel",
+      "company": "Genossenschaft ZFV-Unternehmungen (Hotel Seidenhof)",
+      "location": "Zürich ZH",
+      "postedAt": "2026-11-25",
+      "source": "myjob.ch",
+      "url": "https://www.myjob.ch/job/mitarbeiterin-hauswirtschaft/3699059",
+      "summary": "Puesto a jornada completa de housekeeping en el Hotel Seidenhof (4 estrellas superior, junto a la Bahnhofstrasse) en Zürich: limpieza de habitaciones, lencería y zonas del hotel.",
+      "description": "Limpieza y mantenimiento de habitaciones de estancia y de salida, preparación del mise en place, gestión de la oficina de planta (Etagenoffice), servicio de cobertura, apoyo en limpiezas a fondo, limpieza de todas las zonas del hotel, tareas de porter y trabajo en la lencería. Se cumplen los estándares de calidad, higiene y seguridad de Sorell y ZFV. Horario 07:00-16:00 u 08:00-17:00, 5 días a la semana entre lunes y domingo. Incorporación inmediata o a convenir.",
+      "requirements": [
+        "Experiencia en el sector de la limpieza",
+        "Conocimientos básicos de alemán hablado y escrito",
+        "Ganas de aprender y resistencia",
+        "Conciencia de higiene",
+        "Forma de trabajar estructurada e independiente"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "salary": "CHF 52'000–55'000 al año (incl. 13.º sueldo)",
+      "language": "Alemán básico",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Mitarbeiter:in Hauswirtschaft",
+        "summary": "Vollzeitstelle im Housekeeping des Hotels Seidenhof (4-Sterne Superior, direkt bei der Bahnhofstrasse) in Zürich: Zimmer-, Lingerie- und Allgemeinreinigung.",
+        "description": "Reinigung und Pflege von Restant- und Départzimmern, Vorbereitung der Mise en place, Führen des Etagenoffice, Couverture-Service, Unterstützung bei Grundreinigungen, Reinigung und Pflege aller Hotelbereiche, Portierdienste und Arbeit in der Lingerie. Einhaltung der Qualitätsstandards sowie der Hygiene- und Sicherheitsvorgaben von Sorell und ZFV. Arbeitszeiten 07:00-16:00 oder 08:00-17:00 Uhr, 5 Tage pro Woche zwischen Montag und Sonntag. Eintritt sofort oder nach Vereinbarung.",
+        "requirements": [
+          "Erfahrung in der Reinigungsbranche",
+          "Mündliche und schriftliche Grundkenntnisse der deutschen Sprache",
+          "Lernbereit und belastbar",
+          "Hygienebewusst",
+          "Strukturierte und selbstständige Arbeitsweise"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch Grundkenntnisse"
+      },
+      "id": "a50be4ca63fb",
+      "foundAt": "2026-11-25T07:17:34.056Z"
+    },
     {
       "searchId": "fullstack-ts",
       "title": "Full Stack Software Engineer (m/w/d)",
@@ -107,6 +266,332 @@
       },
       "id": "7e25322e1bd7",
       "foundAt": "2026-11-25T06:23:43.457Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Hilfskoch Patisserie / Kitchenhelp pastry 50% (m/w/d)",
+      "titleEs": "Ayudante de cocina de pastelería 50%",
+      "company": "Compass Group (Suisse) S.A.",
+      "location": "Zürich",
+      "postedAt": "2026-11-24",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/d9ed1216-cfb1-4815-95fd-f51b3380c803",
+      "summary": "Ayudante de cocina al 50% por las mañanas (lunes a viernes) en un restaurante de empresa de Compass en Zürich: mise en place, apoyo en producción y atención al cliente en una estación de front cooking.",
+      "description": "Ayuda en la producción de diversos platos, trabajos generales de mise en place según indicaciones, atención a los clientes en la estación de front cooking durante el servicio, corresponsabilidad en seguridad laboral, higiene y calidad, y apoyo general en cocina y servicio incluida la limpieza.",
+      "requirements": [
+        "Varios años de experiencia en gastronomía como ayudante de cocina (la pastelería es una ventaja)",
+        "Forma de trabajar eficiente, cuidadosa y limpia",
+        "Personalidad positiva y orientada al equipo",
+        "Rápida comprensión y flexibilidad"
+      ],
+      "workload": "50 % (mañanas, lunes a viernes)",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán oral bueno e inglés; comprensión lectora",
+      "englishOk": false,
+      "de": {
+        "title": "Hilfskoch Patisserie / Kitchenhelp pastry 50% (m/w/d)",
+        "summary": "Hilfskoch-Stelle zu 50 % am Vormittag (Montag bis Freitag) in einem Compass-Personalrestaurant in Zürich: Mise en place, Mithilfe in der Produktion und Gästebetreuung an der Front Cooking Station.",
+        "description": "Mithilfe bei der Produktion verschiedener Gerichte, allgemeine Mise-en-place-Arbeiten gemäss Vorgaben, Gästebetreuung an der Front Cooking Station während der Servicezeiten, Mitverantwortung für Arbeitssicherheit, Hygiene und Qualitätsvorschriften sowie allgemeine Unterstützung in Küche und Service inklusive Reinigungsarbeiten.",
+        "requirements": [
+          "Mehrjährige Berufserfahrung in der Gastronomie als Küchenhilfe (Erfahrung in der Patisserie von Vorteil)",
+          "Effiziente, sorgfältige und saubere Arbeitsweise",
+          "Teamorientierte, positive Persönlichkeit",
+          "Schnelle Auffassungsgabe, Spontanität und Flexibilität"
+        ],
+        "workload": "50 % (vormittags, Montag bis Freitag)",
+        "employmentType": "Festanstellung",
+        "language": "Gute mündliche Deutsch- und Englischkenntnisse, Leseverständnis"
+      },
+      "id": "c3d2975a1418",
+      "foundAt": "2026-11-25T07:17:34.056Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Küchen Angestelle",
+      "titleEs": "Empleado/a de cocina (bioladen altstetten)",
+      "company": "der bioladen altstetten",
+      "location": "Zürich (Altstetten)",
+      "postedAt": "2026-11-24",
+      "source": "linkedin.com/jobs",
+      "url": "https://ch.linkedin.com/jobs/view/4493998986",
+      "summary": "Puesto en la cocina de un comercio ecológico en Zürich-Altstetten: preparar y emplatar platos y snacks sencillos y frescos (ecológicos y regionales), respetar la higiene y ayudar en recepción de mercancía. Se pide buen alemán.",
+      "description": "Preparar ingredientes, cocinar y emplatar platos y snacks sencillos y frescos, mayormente ecológicos y regionales; cumplir estándares de higiene y calidad y mantener la cocina limpia; ayudar en la recepción y almacenamiento de mercancía, controlar fechas de caducidad y reducir el desperdicio; colaborar con el equipo de ventas atendiendo a clientes. La oferta indica tipo Teilzeit pero habla de Vollzeitstelle.",
+      "requirements": [
+        "Experiencia en cocina, idealmente con comida fresca o catering",
+        "Buenos conocimientos de higiene alimentaria (HACCP o equivalente)",
+        "Interés por productos ecológicos y sostenibles",
+        "Trabajo en equipo, fiabilidad y trato amable con los clientes",
+        "Flexibilidad horaria; buen alemán"
+      ],
+      "workload": "No claro (la oferta indica a la vez tiempo parcial y completo)",
+      "language": "Alemán bueno",
+      "englishOk": false,
+      "de": {
+        "title": "Küchen Angestelle",
+        "summary": "Stelle in der Küche eines Bioladens in Zürich-Altstetten: einfache, frische Speisen und Snacks (bio und regional) zubereiten und anrichten, Hygiene einhalten und beim Warenempfang helfen. Gute Deutschkenntnisse verlangt.",
+        "description": "Zutaten vorbereiten, einfache frische Gerichte und Snacks kochen und anrichten, überwiegend bio und regional; Hygiene- und Qualitätsstandards einhalten und die Küche sauber halten; beim Wareneingang und bei der Lagerung helfen, Mindesthaltbarkeitsdaten prüfen und Food Waste reduzieren; mit dem Verkaufsteam Kundschaft bedienen. Die Anzeige nennt Teilzeit, spricht aber von einer Vollzeitstelle.",
+        "requirements": [
+          "Küchenerfahrung, idealerweise mit frischer Zubereitung oder Catering",
+          "Gute Kenntnisse der Lebensmittelhygiene (HACCP oder gleichwertig)",
+          "Interesse an Bio- und nachhaltigen Produkten",
+          "Teamfähigkeit, Zuverlässigkeit und freundliches Auftreten",
+          "Flexible Arbeitszeiten; gute Deutschkenntnisse"
+        ],
+        "workload": "Unklar (Anzeige nennt Teilzeit und Vollzeit)",
+        "language": "Gute Deutschkenntnisse"
+      },
+      "id": "c5f146fe5b14",
+      "foundAt": "2026-11-25T07:17:34.056Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Küchenangestellte/r (m/w/d) 40-60%",
+      "titleEs": "Empleado/a de cocina 40-60% (lounges del aeropuerto)",
+      "company": "Adecco (cliente: lounges del Aeropuerto de Zúrich)",
+      "location": "Zürich Flughafen (8058)",
+      "postedAt": "2026-11-24",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/1aa23fa6-687f-4a13-9cae-7434cde482b2",
+      "summary": "Puesto temporal vía Adecco en cocinas de lounges del aeropuerto de Zúrich: lavar vajilla y equipos, ayudar en cocina y preparar. Turnos entre 05:30 y 23:00, también fines de semana, sin Zimmerstunde.",
+      "description": "Lavar vajilla y limpiar equipos de cocina, cumplir HACCP e higiene, ayudar en la cocina trasera y delantera incluida preparación de alimentos, reponer ingredientes y material, ayudar en control de existencias y apoyar al equipo en preparación diaria y cierre. Turnos entre 05:30 y 23:00 en una operación de 365 días.",
+      "requirements": [
+        "Experiencia en cocina, restauración colectiva u hostelería (ventaja)",
+        "Experiencia como ayudante de cocina o limpieza de cocina (ventaja)",
+        "Buen alemán; otros idiomas bienvenidos",
+        "Persona cuidada, amable, fiable y de equipo",
+        "Resistente y flexible con horarios y fines de semana"
+      ],
+      "workload": "40–60 % (sin Zimmerstunde)",
+      "employmentType": "Vía agencia (Adecco)",
+      "language": "Alemán bueno, otros idiomas bienvenidos",
+      "englishOk": false,
+      "de": {
+        "title": "Küchenangestellte/r (m/w/d) 40-60%",
+        "summary": "Stelle über Adecco in Küchen von Lounges am Flughafen Zürich: Geschirr und Geräte reinigen, in der Küche helfen und vorbereiten. Schichten zwischen 05:30 und 23:00 Uhr, auch am Wochenende, ohne Zimmerstunde.",
+        "description": "Geschirr abwaschen und Küchengeräte reinigen, HACCP- und Hygienestandards einhalten, in der hinteren und vorderen Küche inklusive Food-Vorbereitung mithelfen, Zutaten und Material auffüllen, bei Lager- und Warenkontrollen unterstützen und das Küchenteam bei der täglichen Vorbereitung und beim Abschluss unterstützen. Schichten zwischen 05:30 und 23:00 Uhr im 365-Tage-Betrieb.",
+        "requirements": [
+          "Erfahrung in Küche, Personalrestauration oder Gastronomie (von Vorteil)",
+          "Erfahrung als Küchenhilfe oder in der Küchenreinigung (von Vorteil)",
+          "Gute Deutschkenntnisse; weitere Sprachen willkommen",
+          "Gepflegt, freundlich, zuverlässig und teamorientiert",
+          "Belastbar sowie flexibel bei Arbeitszeiten und Wochenenden"
+        ],
+        "workload": "40–60 % (ohne Zimmerstunden)",
+        "employmentType": "Über Personaldienstleister (Adecco)",
+        "language": "Gute Deutschkenntnisse, weitere Sprachen willkommen"
+      },
+      "id": "75faff8b3ddd",
+      "foundAt": "2026-11-25T07:17:34.056Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Magazinmitarbeiter*in Werkhof",
+      "titleEs": "Almacenero/a del Werkhof (construcción)",
+      "company": "Marti AG, Bauunternehmung",
+      "location": "Zürich (Werkhof Regensdorf)",
+      "postedAt": "2026-11-24",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/85c98306-ebf0-4916-98a8-11556235ff44",
+      "summary": "Almacén de material de obra en el Werkhof de Regensdorf: recepción, almacenaje y preparación de material y herramientas.",
+      "description": "Recibir, controlar y almacenar entregas y devoluciones, preparar material de construcción, herramientas y máquinas, cargar vehículos de transporte, revisar el material devuelto y hacer inventarios.",
+      "requirements": [
+        "Formación en construcción o experiencia equivalente",
+        "Carné de carretillero, de grúa (cat. B) y de conducir cat. B",
+        "Alemán hablado y escrito bueno",
+        "Persona autónoma, precisa y físicamente en forma"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán bueno (avanzado); carné cat. B requerido",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Magazinmitarbeiter*in Werkhof",
+        "summary": "Materiallager im Werkhof Regensdorf: Annahme, Lagerung und Bereitstellung von Baumaterial und Werkzeug.",
+        "description": "Anlieferungen und Retouren annehmen, kontrollieren und einlagern, Baumaterial, Werkzeuge und Maschinen bereitstellen, Transportfahrzeuge beladen, retourniertes Material prüfen und Inventuren durchführen.",
+        "requirements": [
+          "Ausbildung im Baugewerbe oder gleichwertige Erfahrung",
+          "Staplerausweis, Kranführerausweis (Kat. B) und Führerausweis Kat. B",
+          "Gute Deutschkenntnisse in Wort und Schrift",
+          "Selbständige, präzise und körperlich fitte Arbeitsweise"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Gute Deutschkenntnisse; Führerausweis Kat. B"
+      },
+      "id": "2ba42ea6e96f",
+      "foundAt": "2026-11-25T07:17:34.056Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Lagermitarbeiter (m/w/d)",
+      "titleEs": "Mozo/a de almacén (m/f/d)",
+      "company": "Adecco",
+      "location": "Dällikon ZH",
+      "postedAt": "2026-11-24",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/338ffaed-475a-40e2-9fb3-33b82f78345c",
+      "summary": "Puesto de mozo/a de almacén en Dällikon publicado por Adecco; la ficha de detalle no se pudo abrir, datos tomados de la lista de jobscout24.",
+      "de": {
+        "title": "Lagermitarbeiter (m/w/d)",
+        "summary": "Stelle als Lagermitarbeiter in Dällikon, ausgeschrieben von Adecco; die Detailseite liess sich nicht öffnen, Angaben stammen aus der Trefferliste von jobscout24."
+      },
+      "id": "1cd3587246b3",
+      "foundAt": "2026-11-25T07:17:34.056Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Lagermitarbeiter / Logistiker für diverse Abteilungen (m/w/d) 100%",
+      "titleEs": "Mozo de almacén / logístico para varios departamentos",
+      "company": "Manpower (cliente no nombrado)",
+      "location": "Kloten ZH",
+      "postedAt": "2026-11-24",
+      "source": "manpower.ch",
+      "url": "https://www.manpower.ch/de/job/kloten/lagermitarbeiter-logistiker-fur-diverse-abteilungen/634835",
+      "summary": "Puesto temporal a tiempo completo de almacén y logística en Kloten para un cliente de Manpower; piden tarjeta de acceso al aeropuerto vigente.",
+      "description": "Recibir, controlar y almacenar mercancía, preparar pedidos, embalar para el envío, controlar y documentar existencias, mover y cargar mercancía con carretilla y mantener limpio el puesto de trabajo.",
+      "requirements": [
+        "Experiencia en logística o ganas de aprender",
+        "Tarjeta de acceso al aeropuerto vigente (imprescindible)",
+        "Carné de carretillero (ventaja)",
+        "Alemán básico oral y escrito",
+        "Fiabilidad y puntualidad"
+      ],
+      "workload": "100 %",
+      "employmentType": "Temporal (Manpower)",
+      "language": "Alemán básico; tarjeta de aeropuerto",
+      "englishOk": false,
+      "de": {
+        "title": "Lagermitarbeiter / Logistiker für diverse Abteilungen (m/w/d) 100%",
+        "summary": "Temporäre Vollzeitstelle im Lager und in der Logistik in Kloten für einen Kunden von Manpower; gültiger Flughafenausweis erforderlich.",
+        "description": "Waren annehmen, kontrollieren und einlagern, Aufträge kommissionieren, Produkte verpacken und versandbereit machen, Lagerbestände prüfen und dokumentieren, Waren mit dem Stapler bewegen und verladen sowie den Arbeitsplatz sauber halten.",
+        "requirements": [
+          "Logistikerfahrung oder Lernbereitschaft",
+          "Gültiger Flughafenausweis (Muss)",
+          "Staplerausweis (von Vorteil)",
+          "Grundkenntnisse Deutsch in Wort und Schrift",
+          "Zuverlässigkeit und Pünktlichkeit"
+        ],
+        "workload": "100 %",
+        "employmentType": "Temporär (Manpower)",
+        "language": "Grundkenntnisse Deutsch; Flughafenausweis"
+      },
+      "id": "0fe045ede1ff",
+      "foundAt": "2026-11-25T07:17:34.056Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Reinigungskraft (w) für unser Schulhaus in der Stadt Zürich (50%, täglich 15.30-19.45 Uhr)",
+      "titleEs": "Limpiadora para un colegio en la ciudad de Zürich (50 %, diario 15:30-19:45)",
+      "company": "Kantonsschule Freudenberg",
+      "location": "Zürich Enge",
+      "postedAt": "2026-11-24",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/7e631b68-58d0-446d-a39c-e94642395f86",
+      "summary": "Limpieza de un instituto en Zürich-Enge de lunes a viernes por la tarde, a partir del 1 de enero de 2027.",
+      "description": "Limpiar aulas, pasillos, escaleras y suelos, limpiar baños y hacer limpieza a fondo en vacaciones escolares.",
+      "requirements": [
+        "Muy buen alemán hablado",
+        "Experiencia en limpieza",
+        "Buena forma física",
+        "Autonomía, fiabilidad y puntualidad"
+      ],
+      "workload": "50 % (lun-vie 15:30-19:45)",
+      "employmentType": "Contrato fijo / temporal",
+      "language": "Alemán avanzado, muy buen oral",
+      "englishOk": false,
+      "de": {
+        "title": "Reinigungskraft (w) für unser Schulhaus in der Stadt Zürich (50%, täglich 15.30-19.45 Uhr)",
+        "summary": "Reinigung einer Kantonsschule in Zürich-Enge, Montag bis Freitag am Nachmittag, ab 1. Januar 2027.",
+        "description": "Schulzimmer, Gänge, Treppen und Böden reinigen, Toiletten reinigen und in den Schulferien Grundreinigungen durchführen.",
+        "requirements": [
+          "Sehr gute mündliche Deutschkenntnisse",
+          "Reinigungserfahrung",
+          "Sehr gute körperliche Verfassung",
+          "Selbständige, zuverlässige und pünktliche Arbeitsweise"
+        ],
+        "workload": "50 % (Mo-Fr 15.30-19.45 Uhr)",
+        "employmentType": "Festanstellung / Temporär",
+        "language": "Deutsch fortgeschritten, sehr gut mündlich"
+      },
+      "id": "934215ae3dcf",
+      "foundAt": "2026-11-25T07:17:34.056Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Mitarbeiter:innen Unterhaltsreinigung (Zürich, Kreis 5)",
+      "titleEs": "Personal de limpieza de mantenimiento (Zürich, Kreis 5)",
+      "company": "sd Gebäudeunterhalt AG",
+      "location": "Zürich (Kreis 5)",
+      "postedAt": "2026-11-24",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/7d8ae7d5-8bd8-49c7-880f-ade39261fd42",
+      "summary": "Limpieza de escaleras y oficinas en Zürich Kreis 5 por la tarde (unas 4 horas por semana), 20 %.",
+      "description": "Limpiar escaleras, oficinas y sanitarios, y gestionar y eliminar residuos. Aproximadamente 1 hora los martes por la tarde y 3 horas los viernes por la tarde.",
+      "requirements": [
+        "Experiencia similar o ganas de aprender",
+        "Buen alemán para entender instrucciones",
+        "Disponibilidad por las tardes",
+        "Fiable, flexible y autónomo/a"
+      ],
+      "workload": "20 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán bueno",
+      "englishOk": false,
+      "de": {
+        "title": "Mitarbeiter:innen Unterhaltsreinigung (Zürich, Kreis 5)",
+        "summary": "Reinigung von Treppenhäusern und Büros in Zürich Kreis 5 am Abend (rund 4 Stunden pro Woche), 20 %.",
+        "description": "Treppenhäuser, Büroräume und Sanitäranlagen reinigen sowie Abfall bewirtschaften und entsorgen. Rund 1 Stunde am Dienstagabend und rund 3 Stunden am Freitagabend.",
+        "requirements": [
+          "Erfahrung in ähnlicher Funktion oder Lernbereitschaft",
+          "Gute Deutschkenntnisse zum Verstehen von Arbeitsanweisungen",
+          "Abendeinsätze möglich",
+          "Zuverlässig, flexibel und selbständig"
+        ],
+        "workload": "20 %",
+        "employmentType": "Festanstellung",
+        "language": "Gute Deutschkenntnisse"
+      },
+      "id": "89e460a59130",
+      "foundAt": "2026-11-25T07:17:34.056Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Mitarbeiter:in Spezialreinigung und Entsorgung, 100%",
+      "titleEs": "Operario/a de limpieza especial y eliminación de residuos, 100 %",
+      "company": "Spital Limmattal",
+      "location": "Schlieren ZH",
+      "postedAt": "2026-11-24",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/6326b4cd-e861-4d4b-8053-faaf7a5e233a",
+      "summary": "Limpieza (mantenimiento, intermedia y a fondo) y eliminación de residuos en el hospital de Schlieren, turnos de lunes a domingo entre 06:00 y 21:00.",
+      "description": "Limpieza de mantenimiento, intermedia y a fondo, limpieza y mantenimiento de equipos y máquinas, eliminación de residuos y residuos especiales, apoyo en traslados internos y montaje de salas de reuniones.",
+      "requirements": [
+        "Preferible formación como limpiador/a de edificios EFZ, Hauswirtschaft EFZ o similar",
+        "Ventaja: experiencia en limpieza sanitaria",
+        "Trabajo exacto y organizado",
+        "Buen alemán oral y escrito"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán bueno oral y escrito",
+      "englishOk": false,
+      "de": {
+        "title": "Mitarbeiter:in Spezialreinigung und Entsorgung, 100%",
+        "summary": "Unterhalts-, Zwischen- und Grundreinigung sowie Entsorgung im Spital Schlieren, Einsätze Montag bis Sonntag zwischen 06.00 und 21.00 Uhr.",
+        "description": "Unterhalts-, Zwischen- und Grundreinigung, Reinigung und Wartung von Arbeitsgeräten und Maschinen, Entsorgungen und Spezialentsorgungen, Unterstützung bei internen Umzügen und beim Einrichten von Sitzungszimmern.",
+        "requirements": [
+          "Möglichst Ausbildung als Gebäudereiniger EFZ, Hauswirtschaft EFZ oder Fachperson Betriebsunterhalt EFZ",
+          "Von Vorteil: Reinigungserfahrung im Gesundheitswesen",
+          "Exakte, organisierte Arbeitsweise",
+          "Gute mündliche und schriftliche Deutschkenntnisse"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Gute Deutschkenntnisse in Wort und Schrift"
+      },
+      "id": "2d4cf0730123",
+      "foundAt": "2026-11-25T07:17:34.056Z"
     },
     {
       "searchId": "frontend-react",
@@ -931,6 +1416,86 @@
       },
       "id": "d7abea90d767",
       "foundAt": "2026-11-24T06:22:05.574Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Kommissionierer/-in 80-100% (m/w/d)",
+      "titleEs": "Preparador/a de pedidos (picker) 80-100 %",
+      "company": "Manpower (cliente no nombrado)",
+      "location": "Kloten ZH",
+      "postedAt": "2026-11-23",
+      "source": "manpower.ch",
+      "url": "https://www.manpower.ch/de/job/kloten/kommissionierer-in-80-100-m-w-d-/625999",
+      "summary": "Preparación de pedidos en todas las zonas de temperatura para un cliente de Manpower en Kloten, puesto temporal.",
+      "description": "Preparar pedidos de clientes con puntualidad y precisión en todas las zonas de temperatura, cargar las unidades de transporte, asignarlas a la ruta de entrega, reponer artículos, ayudar en el inventario y eliminar residuos correctamente.",
+      "requirements": [
+        "Experiencia en entrada de mercancía y preparación de pedidos",
+        "Carné de carretillero reconocido por la Suva",
+        "Buen conocimiento de sistemas de gestión de almacén",
+        "Buena forma física",
+        "Alemán bueno"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Temporal (Manpower)",
+      "language": "Alemán bueno; carné de carretillero",
+      "englishOk": false,
+      "de": {
+        "title": "Kommissionierer/-in 80-100% (m/w/d)",
+        "summary": "Kommissionierung in allen Temperaturbereichen für einen Kunden von Manpower in Kloten, temporäre Stelle.",
+        "description": "Kundenaufträge termingerecht, genau und qualitativ einwandfrei in allen Temperaturbereichen kommissionieren, Transporteinheiten korrekt beladen, der richtigen Tour zuordnen, Nachschub auslösen, bei Inventuren helfen und Abfall fachgerecht entsorgen.",
+        "requirements": [
+          "Erfahrung im Wareneingang und in der Kommissionierung",
+          "Staplerausweis (SUVA-anerkannt)",
+          "Gute Kenntnisse von Lagerverwaltungssystemen",
+          "Gute körperliche Verfassung",
+          "Gute Deutschkenntnisse"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Temporär (Manpower)",
+        "language": "Gute Deutschkenntnisse; Staplerausweis"
+      },
+      "id": "3cb9692be183",
+      "foundAt": "2026-11-25T07:17:34.056Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Mitarbeiter:in Flächenreinigung (Chauffeur:in Kat. C)",
+      "titleEs": "Operario/a de limpieza de superficies del aeropuerto (conductor/a cat. C)",
+      "company": "Flughafen Zürich AG",
+      "location": "Flughafen Zürich",
+      "postedAt": "2026-11-23",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/e951e389-3ed9-412e-a8d7-fc31dd8c6775",
+      "summary": "Limpieza de calles y zonas del aeropuerto con barredoras y vehículos especiales; exige carné cat. C (el del usuario está en trámite) y muy buen alemán hablado.",
+      "description": "Limpiar zonas operativas con barredoras y herramientas manuales, mantener aparcamientos y escaleras de emergencia, apoyar a los equipos de residuos y alcantarillado, servicio de invierno (octubre a abril, 24/7, con disponibilidad en una hora) y mantenimiento de la flota.",
+      "requirements": [
+        "Carné de conducir cat. C (obligatorio)",
+        "Formación básica profesional o técnica e interés por la limpieza",
+        "Muy buen alemán hablado (radio)",
+        "Conocimientos básicos de MS Office",
+        "Trabajo en equipo"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán muy bueno hablado; carné cat. C obligatorio",
+      "englishOk": false,
+      "de": {
+        "title": "Mitarbeiter:in Flächenreinigung (Chauffeur:in Kat. C)",
+        "summary": "Reinigung von Strassen und Flächen auf dem Flughafen mit Kehrmaschinen und Spezialfahrzeugen; Führerausweis Kat. C erforderlich und sehr gutes mündliches Deutsch.",
+        "description": "Betriebsflächen mit Grossreinigungsmaschinen, Kehrmaschinen und Handbesen reinigen, Parkhäuser und Notausgangstreppen unterhalten, Entsorgungs- und Kanalunterhaltsteams unterstützen, Winterdienst von Oktober bis April (24/7, Einsatzbereitschaft innert einer Stunde) und Fahrzeugflotte instand halten.",
+        "requirements": [
+          "Führerausweis Kat. C (zwingend)",
+          "Berufliche Grundbildung oder technische Ausbildung und Interesse an Sauberkeit",
+          "Sehr gutes mündliches Deutsch (Funk)",
+          "Grundkenntnisse MS Office",
+          "Teamfähigkeit"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Sehr gutes mündliches Deutsch; Führerausweis Kat. C zwingend"
+      },
+      "id": "9793f82a9f93",
+      "foundAt": "2026-11-25T07:17:34.056Z"
     },
     {
       "searchId": "frontend-react",
@@ -12008,6 +12573,47 @@
       },
       "id": "dabc85ad87ba",
       "foundAt": "2026-11-15T06:20:08.663Z"
+    },
+    {
+      "searchId": "hotel",
+      "title": "Mitarbeiterin / Mitarbeiter Hausdienst",
+      "titleEs": "Empleado/a de servicio doméstico (Hausdienst)",
+      "company": "Atlas Stiftung",
+      "location": "Uster ZH",
+      "postedAt": "2026-11-13",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/85a67c38-e046-4a4d-9e9c-3ceb4a298be9",
+      "summary": "Puesto al 90 % de limpieza de viviendas, habitaciones de cuidados y zonas comunes en la Residenz Stadtpark de Uster; piden titulación EFZ (Hotellerie-Hauswirtschaft o Reinigungstechnik).",
+      "description": "Limpieza de viviendas, habitaciones de cuidados y zonas comunes según el plan establecido, transmisión de las peticiones de los residentes y ejecución de las indicaciones del equipo de Hausdienst. Incorporación el 1 de febrero de 2027.",
+      "requirements": [
+        "Titulación EFZ como Fachfrau/Fachmann Hotellerie-Hauswirtschaft o Reinigungstechnik EFZ",
+        "Experiencia práctica en limpieza",
+        "Forma de trabajar autónoma y cuidadosa",
+        "Buen alemán",
+        "Disponibilidad para fines de semana"
+      ],
+      "workload": "90 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán avanzado",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Mitarbeiterin / Mitarbeiter Hausdienst",
+        "summary": "90-%-Stelle für die Reinigung von Wohnungen, Pflegezimmern und Gemeinschaftsräumen in der Residenz Stadtpark in Uster; EFZ-Abschluss erforderlich.",
+        "description": "Reinigung von Wohnungen, Pflegezimmern und Gemeinschaftsräumen nach Zeitplan, Weiterleitung von Anliegen der Bewohnenden und Umsetzung der Vorgaben der Teamleitung Hausdienst. Eintritt per 1. Februar 2027.",
+        "requirements": [
+          "Abschluss als Fachfrau/Fachmann Hotellerie-Hauswirtschaft EFZ oder Reinigungstechnik EFZ",
+          "Praktische Reinigungserfahrung",
+          "Selbstständige und sorgfältige Arbeitsweise",
+          "Gute Deutschkenntnisse",
+          "Bereitschaft zu Wochenenddiensten"
+        ],
+        "workload": "90 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch fortgeschritten"
+      },
+      "id": "2ac12b8a44b8",
+      "foundAt": "2026-11-25T07:17:34.056Z"
     },
     {
       "searchId": "kueche",
