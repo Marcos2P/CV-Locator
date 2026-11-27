@@ -1,6 +1,110 @@
 {
-  "updatedAt": "2026-11-27T06:22:30.789Z",
+  "updatedAt": "2026-11-27T07:17:01.552Z",
   "jobs": [
+    {
+      "searchId": "kueche",
+      "title": "Hilfskoch (m/w/d) 80% - 100%",
+      "titleEs": "Ayudante de cocina 80-100%",
+      "company": "Westhive Coworking Ecosystem",
+      "location": "Zürich",
+      "postedAt": "2026-11-27",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/4495550933",
+      "summary": "Ayuda en la preparación y el servicio de menú diario, ensaladas, sándwiches y take-away en un espacio de coworking, además de limpieza de cocina y lavado de vajilla. Fines de semana y festivos libres; algunos eventos entre semana por la tarde.",
+      "description": "Apoyo en la preparación de comidas y servicio, limpieza de cocina y vajilla, gestión de residuos, cumplimiento de higiene (HACCP), apoyo en eventos y catering y en la gestión de existencias.",
+      "requirements": [
+        "Experiencia con cocina de temporada",
+        "Conocimientos sólidos de HACCP",
+        "Orientación al servicio",
+        "Resistencia y flexibilidad",
+        "Muy buen alemán, inglés valorado"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Jornada completa",
+      "language": "Alemán muy bueno, inglés una ventaja",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Hilfskoch (m/w/d) 80% - 100%",
+        "summary": "Unterstützung bei Zubereitung und Service von Tagesmenü, Salaten, Sandwiches und Take-away in einem Coworking-Betrieb sowie Küchenreinigung und Abwasch. Wochenenden und Feiertage frei; teils Events unter der Woche am Abend.",
+        "description": "Mithilfe bei Zubereitung und Service, Küchenreinigung und Abwasch, Entsorgung, Einhaltung der Hygienevorschriften (HACCP), Unterstützung bei Events und Catering sowie bei der Lagerbewirtschaftung.",
+        "requirements": [
+          "Erfahrung mit saisonaler Küche",
+          "Fundierte HACCP-Kenntnisse",
+          "Serviceorientierung",
+          "Belastbarkeit und Flexibilität",
+          "Sehr gutes Deutsch, Englisch von Vorteil"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Vollzeit",
+        "language": "Sehr gutes Deutsch, Englisch von Vorteil"
+      },
+      "id": "a9a07631c6ff",
+      "foundAt": "2026-11-27T07:17:01.552Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Mitarbeiterin / Mitarbeiter Küche, 100%",
+      "titleEs": "Empleado/a de cocina 100%",
+      "company": "Pflegezentrum Gorwiden AG",
+      "location": "Zürich",
+      "postedAt": "2026-11-27",
+      "source": "myjob.ch",
+      "url": "https://www.myjob.ch/job/mitarbeiterin-mitarbeiter-kueche-100/3704061",
+      "summary": "Puesto de empleado/a de cocina al 100 % en el centro de cuidados Gorwiden (Zúrich), contrato fijo. Los detalles de tareas y requisitos están en un PDF externo.",
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "seniority": "junior",
+      "de": {
+        "title": "Mitarbeiterin / Mitarbeiter Küche, 100%",
+        "summary": "Stelle als Küchenmitarbeiter:in zu 100 % im Pflegezentrum Gorwiden (Zürich), Festanstellung. Details zu Aufgaben und Anforderungen stehen in einem externen PDF.",
+        "workload": "100 %",
+        "employmentType": "Festanstellung"
+      },
+      "id": "8683b1ce1df8",
+      "foundAt": "2026-11-27T07:17:01.552Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Kommissionierer 100 % (m/w/d)",
+      "titleEs": "Preparador/a de pedidos (picker) 100 %",
+      "company": "Stellenwerk AG (cliente: comercio de alimentación)",
+      "location": "Zürich",
+      "postedAt": "2026-11-27",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/9dd7e578-e8fe-44b5-b3fa-de6906a43f02",
+      "summary": "Preparación de pedidos de almacén con escáner MDE y SAP EWM para un cliente de comercio de alimentación (fruta y verdura); turnos de noche regulares, aprox. 17:00-03:00.",
+      "description": "Preparar pedidos con escáneres MDE y SAP HANA EWM, consolidar mercancía, comprobar frescura y calidad de fruta y verdura y mantener el puesto limpio y seguro según normas de higiene.",
+      "requirements": [
+        "Formación básica, idealmente Logistiker EFZ o equivalente",
+        "Experiencia práctica en almacén, sobre todo picking",
+        "Manejo de dispositivos móviles",
+        "Buena condición física",
+        "Disponibilidad para tardes y noches"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán bueno",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Kommissionierer 100 % (m/w/d)",
+        "summary": "Kommissionierung von Lageraufträgen mit MDE-Scannern und SAP EWM für einen Kunden aus dem Lebensmittelhandel (Früchte und Gemüse); regelmässige Nachtschichten, ca. 17:00-03:00.",
+        "description": "Lageraufträge mit MDE-Scannern und SAP HANA EWM kommissionieren, Ware konsolidieren, Frische und Qualität von Obst und Gemüse prüfen und den Arbeitsbereich nach Hygiene- und Sicherheitsvorschriften sauber halten.",
+        "requirements": [
+          "Grundbildung, idealerweise Logistiker EFZ oder gleichwertig",
+          "Praktische Lagererfahrung, v.a. Kommissionierung",
+          "Umgang mit mobilen Datengeräten",
+          "Gute körperliche Fitness",
+          "Bereitschaft für Abend- und Nachtarbeit"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Gute Deutschkenntnisse"
+      },
+      "id": "7a833a511465",
+      "foundAt": "2026-11-27T07:17:01.552Z"
+    },
     {
       "searchId": "junior-it",
       "title": "Service Desk Engineer 80-100 % (m/w/d)",
@@ -51,6 +155,165 @@
       },
       "id": "c4b3c528b4c2",
       "foundAt": "2026-11-27T06:22:26.674Z"
+    },
+    {
+      "searchId": "kueche",
+      "title": "Hilfskoch 100% (m/w) - FLOATING SPOON",
+      "titleEs": "Ayudante de cocina 100% - Floating Spoon (barcos del lago de Zúrich)",
+      "company": "Floating Spoon (Candrian)",
+      "location": "Zürich",
+      "postedAt": "2026-11-26",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/0723a475-23e1-49f4-989d-f963d7b420ff",
+      "summary": "Apoyo al equipo de cocina en barcos de línea del lago de Zúrich y en el astillero de Wollishofen. Contrato fijo desde enero 2027 o a convenir; algunos turnos partidos (Zimmerstunde).",
+      "description": "Apoyar al equipo de cocina, preparar y elaborar platos y garantizar limpieza y orden según los estándares de higiene y calidad.",
+      "requirements": [
+        "Experiencia laboral en cocina",
+        "Trabajo rápido, fiable y resistente",
+        "Forma de trabajar cuidadosa y trabajo en equipo",
+        "Buen alemán y presencia cuidada",
+        "Flexibilidad para distintos turnos, también con pausa intermedia"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán fluido, inglés avanzado",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Hilfskoch 100% (m/w) - FLOATING SPOON",
+        "summary": "Unterstützung des Küchenteams auf den Kursschiffen auf dem Zürichsee und in der Werft Wollishofen. Festanstellung ab Januar 2027 oder nach Vereinbarung; teils Dienste mit Zimmerstunde.",
+        "description": "Unterstützung des Küchenteams, Vor- und Zubereitung von Speisen und Sauberkeit und Ordnung gemäss Hygiene- und Qualitätsstandards sicherstellen.",
+        "requirements": [
+          "Berufserfahrung in der Küche",
+          "Schnelles, zuverlässiges und belastbares Arbeiten",
+          "Sorgfältige Arbeitsweise und Teamfähigkeit",
+          "Gute Deutschkenntnisse und gepflegtes Erscheinungsbild",
+          "Flexibilität für verschiedene Dienste, auch mit Zimmerstunde"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch fliessend, Englisch fortgeschritten"
+      },
+      "id": "1c9d7dc7b8b8",
+      "foundAt": "2026-11-27T07:17:01.552Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Lagerist:in/-in",
+      "titleEs": "Almacenero/a",
+      "company": "Emil Frey Gruppe Schweiz (Emil Frey AG Volketswil)",
+      "location": "Volketswil ZH",
+      "postedAt": "2026-11-26",
+      "source": "LinkedIn",
+      "url": "https://ch.linkedin.com/jobs/view/lagerist-in-at-emil-frey-gruppe-schweiz-4495268935",
+      "summary": "Almacenero/a en el almacén de recambios de Emil Frey en Volketswil: recepción de mercancía, preparación de pedidos para taller y reparto a clientes con furgoneta. Requiere carné B.",
+      "description": "Controlar entregas y reponer el almacén, preparar piezas para pedidos del taller, entregar pedidos a clientes con vehículo comercial, apoyo general en el almacén de recambios y en el taller; dos veces al año, unas 8 semanas, transporte de neumáticos entre Uster y Volketswil.",
+      "requirements": [
+        "Experiencia en almacén, logística o automoción (ventaja)",
+        "Forma de trabajar fiable y cuidadosa",
+        "Resistencia física",
+        "Carné de conducir categoría B",
+        "Orientación al cliente"
+      ],
+      "workload": "100 %",
+      "employmentType": "Jornada completa",
+      "language": "Alemán muy bueno",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Lagerist:in/-in",
+        "summary": "Lagerist:in im Ersatzteillager von Emil Frey in Volketswil: Wareneingang, Bereitstellung von Teilen für die Werkstatt und Auslieferung an Kunden mit Nutzfahrzeug. Führerausweis Kat. B erforderlich.",
+        "description": "Anlieferungen prüfen und Lager auffüllen, Teile für Werkstattaufträge bereitstellen, Bestellungen mit dem Nutzfahrzeug an Kunden ausliefern, allgemeine Unterstützung im Ersatzteillager und in der Werkstatt; zweimal jährlich ca. 8 Wochen Reifentransporte zwischen Uster und Volketswil.",
+        "requirements": [
+          "Erfahrung im Lager, in der Logistik oder Automobilbranche von Vorteil",
+          "Zuverlässige und sorgfältige Arbeitsweise",
+          "Körperliche Belastbarkeit",
+          "Führerausweis Kat. B",
+          "Kundenorientierte Art"
+        ],
+        "workload": "100 %",
+        "employmentType": "Vollzeit",
+        "language": "Sehr gute Deutschkenntnisse in Wort und Schrift"
+      },
+      "id": "af15363de86f",
+      "foundAt": "2026-11-27T07:17:01.552Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Teamleiter:in Cleaning 100%",
+      "titleEs": "Jefe/a de equipo de limpieza 100 %",
+      "company": "ISS Schweiz AG",
+      "location": "Affoltern am Albis ZH",
+      "postedAt": "2026-11-26",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/0d90cc39-e9a8-4f53-a51b-3f0a9852e1b3",
+      "summary": "Dirigir un equipo de limpieza de 6 personas, planificar el trabajo diario y controlar la calidad. Inicio 01.01.2027.",
+      "description": "Dirigir un equipo de limpieza de 6 personas, planificar y coordinar el trabajo diario de limpieza, realizar tareas operativas, controles de calidad regulares, incorporar y formar a nuevo personal y ser persona de contacto para empleados, clientes y departamentos internos.",
+      "requirements": [
+        "Formación en limpieza, idealmente Unterhaltsreiniger/in II o equivalente",
+        "Al menos 3 años de experiencia de liderazgo en limpieza o sector similar",
+        "Experiencia en sanidad o cuidados es una ventaja",
+        "Alemán B2 oral y escrito"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán B2",
+      "seniority": "mid",
+      "de": {
+        "title": "Teamleiter:in Cleaning 100%",
+        "summary": "Führung eines Reinigungsteams mit 6 Personen, Planung der täglichen Arbeiten und Qualitätskontrollen. Eintritt 01.01.2027.",
+        "description": "Führung eines Reinigungsteams von 6 Personen, Planung und Koordination der täglichen Reinigungsarbeiten, operative Mitarbeit, regelmässige Qualitätskontrollen, Einarbeitung neuer Mitarbeitender und Ansprechperson für Mitarbeitende, Kunden und interne Stellen.",
+        "requirements": [
+          "Reinigungsausbildung, idealerweise Unterhaltsreiniger/in II oder gleichwertig",
+          "Mindestens 3 Jahre Führungserfahrung in der Reinigung oder einem ähnlichen Bereich",
+          "Erfahrung im Gesundheits- oder Pflegebereich von Vorteil",
+          "Deutsch B2 mündlich und schriftlich"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch B2"
+      },
+      "id": "9d81c1ce0289",
+      "foundAt": "2026-11-27T07:17:01.552Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Mitarbeiter*in Reinigung, Standort Käferberg",
+      "titleEs": "Empleado/a de limpieza, sede Käferberg",
+      "company": "Stadt Zürich Gesundheitszentren für das Alter",
+      "location": "Zürich",
+      "postedAt": "2026-11-26",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/b5fd0acc-6f76-42d5-b45e-128681e18517",
+      "summary": "Limpieza de habitaciones de residentes y zonas comunes en un centro de mayores en Zürich. 100 %, contrato fijo, inicio 1.12.2026 o a convenir.",
+      "description": "Limpieza de las habitaciones de los residentes y de las zonas públicas, tareas de transporte interno y cumplimiento de las normas de seguridad, higiene y limpieza.",
+      "requirements": [
+        "Varios años de experiencia en limpieza, idealmente en el ámbito sanitario",
+        "Contacto agradable con residentes, orientación al servicio",
+        "Disposición para horarios irregulares y fines de semana",
+        "Buen alemán hablado"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "salary": "CHF 57'490–66'306 al año (100 %)",
+      "language": "Alemán hablado bueno",
+      "seniority": "junior",
+      "de": {
+        "title": "Mitarbeiter*in Reinigung, Standort Käferberg",
+        "summary": "Reinigung der Bewohnerzimmer und öffentlichen Bereiche in einem Zürcher Alterszentrum. 100 %, Festanstellung, Eintritt 1.12.2026 oder nach Vereinbarung.",
+        "description": "Reinigung der Bewohnerzimmer und der öffentlichen Bereiche, interne Transportaufgaben sowie Einhaltung der Sicherheits-, Hygiene- und Reinigungsvorschriften.",
+        "requirements": [
+          "Mehrjährige Reinigungserfahrung, idealerweise im Gesundheitswesen",
+          "Freude am Kontakt mit Bewohnenden, Serviceorientierung",
+          "Bereitschaft zu unregelmässigen Arbeitszeiten und Wochenenden",
+          "Gute mündliche Deutschkenntnisse"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Gute mündliche Deutschkenntnisse"
+      },
+      "id": "b9e191e41c56",
+      "foundAt": "2026-11-27T07:17:01.552Z"
     },
     {
       "searchId": "fullstack-ts",
@@ -247,6 +510,86 @@
       "seniority": "junior",
       "id": "4af2ec53aa4f",
       "foundAt": "2026-11-26T06:20:19.190Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Magaziner:in Verkauf",
+      "titleEs": "Almacenero/a y venta (supermercado)",
+      "company": "COOP",
+      "location": "Zürich Sihlcity Supermarkt",
+      "postedAt": "2026-11-25",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/bffa8d6d-fb2b-4656-95ec-08c048dc93ff",
+      "summary": "Puesto en el supermercado Coop de Sihlcity: control de mercancía entrante en el almacén, mantenimiento del almacén, reposición de bebidas y atención al cliente; apoyo en caja.",
+      "description": "Controlar la mercancía recibida en el almacén, mantener el almacén ordenado y limpio, reponer y presentar bebidas, atender y asesorar a clientes y apoyar en otras áreas, incluida la caja.",
+      "requirements": [
+        "Experiencia en venta o logística (ventaja)",
+        "Alto compromiso y orientación al servicio",
+        "Hablar y escribir alemán",
+        "Buena condición física"
+      ],
+      "workload": "80–100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Magaziner:in Verkauf",
+        "summary": "Stelle im Coop Supermarkt Sihlcity: Wareneingangskontrolle im Lager, Lagerpflege, Getränke auffüllen und präsentieren sowie Kundenberatung; Unterstützung an der Kasse.",
+        "description": "Eingehende Ware im Lager kontrollieren, Lager sauber und ordentlich halten, Getränke auffüllen und präsentieren, Kunden bedienen und beraten und Kolleg:innen in anderen Bereichen unterstützen, auch an der Kasse.",
+        "requirements": [
+          "Verkaufs- oder Logistikerfahrung von Vorteil",
+          "Hohes Engagement und Serviceorientierung",
+          "Deutsch sprechen und schreiben",
+          "Gute körperliche Fitness"
+        ],
+        "workload": "80–100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch"
+      },
+      "id": "8bb961d76d17",
+      "foundAt": "2026-11-27T07:17:01.552Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Mitarbeiter*in Logistik im Bereich Haustechnik",
+      "titleEs": "Empleado/a de logística en el área de técnica del edificio (instalaciones)",
+      "company": "Briner AG Winterthur",
+      "location": "Winterthur ZH",
+      "postedAt": "2026-11-25",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/7aa83b6e-fcf7-48b8-9dfc-aa305f088e6b",
+      "summary": "Logística y almacén en Briner AG (Arthur Weber AG): recepción y almacenaje, picking de pedidos de clientes y carga de vehículos. Se pide Logistiker EFZ o instalador sanitario EFZ y carné de carretillero.",
+      "description": "Recibir, controlar y almacenar mercancías, preparar pedidos de clientes con puntualidad y calidad, administrar el almacén y ayudar en inventarios, aportar ideas de optimización y cargar vehículos según la planificación de rutas asegurando la carga.",
+      "requirements": [
+        "Titulación de Logistiker EFZ o instalador sanitario EFZ",
+        "Carné de carretillero válido",
+        "Conocimientos de técnica del edificio y tuberías (ventaja)",
+        "Forma de trabajar independiente, estructurada y fiable",
+        "Espíritu de equipo y flexibilidad"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán",
+      "englishOk": false,
+      "seniority": "mid",
+      "de": {
+        "title": "Mitarbeiter*in Logistik im Bereich Haustechnik",
+        "summary": "Logistik und Lager bei Briner AG (Arthur Weber AG): Wareneingang und Einlagerung, Kommissionierung von Kundenaufträgen und Fahrzeuge beladen. Verlangt wird Logistiker EFZ oder Sanitärinstallateur EFZ und Staplerausweis.",
+        "description": "Waren entgegennehmen, prüfen und fachgerecht einlagern, Kundenaufträge termingerecht und qualitativ kommissionieren, Lager verwalten und bei Inventuren und Bestandskontrollen helfen, Ideen zur Optimierung einbringen und Fahrzeuge gemäss Tourenplanung beladen und die Ladung sichern.",
+        "requirements": [
+          "Abschluss als Logistiker EFZ oder Sanitärinstallateur EFZ",
+          "Gültiger Staplerausweis",
+          "Kenntnisse in Haustechnik und Versorgungsleitungen von Vorteil",
+          "Selbstständige, strukturierte und zuverlässige Arbeitsweise",
+          "Teamgeist und Flexibilität"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Deutsch"
+      },
+      "id": "0fb2d08c838b",
+      "foundAt": "2026-11-27T07:17:01.552Z"
     },
     {
       "searchId": "fullstack-ts",
@@ -874,6 +1217,47 @@
       },
       "id": "7e25322e1bd7",
       "foundAt": "2026-11-25T06:23:43.457Z"
+    },
+    {
+      "searchId": "lager",
+      "title": "Lagerist:in",
+      "titleEs": "Almacenero/a",
+      "company": "Jumbo",
+      "location": "Thalwil ZH",
+      "postedAt": "2026-11-24",
+      "source": "jobscout24.ch",
+      "url": "https://www.jobscout24.ch/de/job/51d5759f-4164-4d5b-a793-e2a90a115a13",
+      "summary": "Almacenero/a a tiempo parcial (20-50 %) en Jumbo Thalwil: recepción de mercancía, descarga de contenedores, recuento y control de calidad, almacenaje y picking. Se pide carné de carretillero.",
+      "description": "Responsable de la recepción de mercancías, descarga eficiente de contenedores, desembalaje, recuentos y controles de calidad, almacenaje y preparación de pedidos.",
+      "requirements": [
+        "Experiencia previa en logística (ventaja)",
+        "Conocimiento del sector",
+        "Carné de carretilla elevadora (Staplerschein)",
+        "Buen alemán hablado y escrito",
+        "Flexibilidad horaria"
+      ],
+      "workload": "20–50 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán bueno",
+      "englishOk": false,
+      "seniority": "junior",
+      "de": {
+        "title": "Lagerist:in",
+        "summary": "Lagerist:in im Teilzeitpensum (20-50 %) bei Jumbo Thalwil: Wareneingang, Container entladen, Zählen und Qualitätskontrolle, Lagerung und Kommissionierung. Staplerschein erforderlich.",
+        "description": "Verantwortung für den Wareneingang, effizientes Entladen von Containern, Auspacken sowie Zählungen und Qualitätskontrollen, Lagerung und Kommissionierung.",
+        "requirements": [
+          "Logistikerfahrung von Vorteil",
+          "Branchenkenntnis",
+          "Staplerschein",
+          "Gute Deutschkenntnisse in Wort und Schrift",
+          "Flexibilität bei den Arbeitszeiten"
+        ],
+        "workload": "20–50 %",
+        "employmentType": "Festanstellung",
+        "language": "Gute Deutschkenntnisse"
+      },
+      "id": "ccad4f234d59",
+      "foundAt": "2026-11-27T07:17:01.552Z"
     },
     {
       "searchId": "fullstack-ts",
@@ -2364,6 +2748,82 @@
       },
       "id": "d7abea90d767",
       "foundAt": "2026-11-24T06:22:05.574Z"
+    },
+    {
+      "searchId": "temporada-invierno",
+      "title": "Buffet- & Service-Allrounder*in für die Wintersaison 26/27",
+      "titleEs": "Allrounder de buffet y servicio para la temporada de invierno 26/27",
+      "company": "Restaurant Bergführer",
+      "location": "Davos (Sertigtal) GR",
+      "postedAt": "2026-11-23",
+      "source": "myjob.ch",
+      "url": "https://www.myjob.ch/job/buffet-service-allrounderin-fuer-die-wintersaison-26-27/3692123",
+      "summary": "Puesto de buffet y servicio en un restaurante del valle de Sertig (Davos) durante el invierno 2026/27. Alojamiento disponible; la experiencia en gastronomía es una ventaja pero no obligatoria.",
+      "description": "Preparar bebidas frías y calientes, especialidades de café y postres; atender a los clientes y servir; montar y recoger el buffet y la zona de servicio (mise en place); cumplir con la higiene (HACCP); ayudar con reposición, retirada de nieve y lencería; trabajar con cocina y servicio.",
+      "requirements": [
+        "Actitud amable y positiva, trabajo fiable y eficiente",
+        "Resistencia y disposición a ayudar en varias áreas",
+        "Experiencia en gastronomía o servicio: ventaja, no obligatoria",
+        "Alemán obligatorio"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato de temporada (invierno 26/27)",
+      "language": "Alemán (obligatorio)",
+      "englishOk": false,
+      "de": {
+        "title": "Buffet- & Service-Allrounder*in für die Wintersaison 26/27",
+        "summary": "Buffet- und Servicestelle in einem Restaurant im Sertigtal (Davos) für den Winter 2026/27. Unterkunft vorhanden; Gastro- oder Serviceerfahrung ist von Vorteil, aber nicht zwingend.",
+        "description": "Zubereitung von kalten und warmen Getränken, Kaffeespezialitäten und Desserts; Gäste bedienen; Buffet- und Servicebereich auf- und abbauen (Mise en place); Hygienevorgaben (HACCP) einhalten; Mithilfe bei Auffüllen, Schneeräumen und Wäsche; Zusammenarbeit mit Küche und Service.",
+        "requirements": [
+          "Freundliche, positive Einstellung, zuverlässige und effiziente Arbeitsweise",
+          "Belastbarkeit und Bereitschaft, bereichsübergreifend zu helfen",
+          "Gastro- oder Serviceerfahrung von Vorteil, nicht Bedingung",
+          "Deutschkenntnisse zwingend"
+        ],
+        "workload": "100 %",
+        "employmentType": "Saisonstelle (Winter 26/27)",
+        "language": "Deutsch (zwingend)"
+      },
+      "id": "538eaae822d9",
+      "foundAt": "2026-11-27T07:17:01.552Z"
+    },
+    {
+      "searchId": "reinigung-flughafen",
+      "title": "Einsatzleiter/In / Projektleiter/In in der Reinigung (m/w)",
+      "titleEs": "Jefe/a de operaciones / proyectos de limpieza",
+      "company": "Alphaplan AG (Region Mitte)",
+      "location": "Volketswil ZH",
+      "postedAt": "2026-11-23",
+      "source": "jobs.ch",
+      "url": "https://www.jobs.ch/de/stellenangebote/detail/5346afbd-ebbd-4e57-ae71-42ac1779f88e",
+      "summary": "Dirigir a varios empleados de limpieza, planificar turnos, vender limpiezas especiales y de mantenimiento y hacer ofertas y controles. 100 %.",
+      "description": "Dirección de varios empleados a tiempo completo y parcial, planificación semanal y de intervenciones, venta de limpiezas especiales y de mantenimiento y atención de clientes, elaboración de ofertas, control de pedidos y horas, facturación, controles de objetos y trabajo administrativo.",
+      "requirements": [
+        "Formación como limpiador/a de edificios o experiencia en el sector",
+        "Experiencia de liderazgo o primera experiencia dirigiendo personal",
+        "Buen manejo de programas de oficina",
+        "Buen alemán para correspondencia general"
+      ],
+      "workload": "100 %",
+      "employmentType": "Contrato fijo",
+      "language": "Alemán bueno",
+      "seniority": "mid",
+      "de": {
+        "title": "Einsatzleiter/In / Projektleiter/In in der Reinigung (m/w)",
+        "summary": "Führung mehrerer Reinigungsmitarbeitender, Einsatzplanung, Verkauf von Spezial- und Unterhaltsreinigungen, Offerten und Kontrollen. 100 %.",
+        "description": "Führung mehrerer Voll- und Teilzeitmitarbeitender, Wochen- und Einsatzplanung, Verkauf von Spezial- und Unterhaltsreinigungen und Pflege der Kundenbeziehungen, Offerterstellung, Auftrags- und Stundenkontrollen, Verrechnung, Objektkontrollen und administrative Arbeiten.",
+        "requirements": [
+          "Ausbildung als Gebäudereiniger oder einschlägige Branchenerfahrung",
+          "Führungserfahrung oder erste Erfahrung im Führen von Mitarbeitenden",
+          "Gute Kenntnisse gängiger Office-Programme",
+          "Gute Deutschkenntnisse für allgemeine Korrespondenz"
+        ],
+        "workload": "100 %",
+        "employmentType": "Festanstellung",
+        "language": "Gute Deutschkenntnisse"
+      },
+      "id": "b5e03cc908e7",
+      "foundAt": "2026-11-27T07:17:01.552Z"
     },
     {
       "searchId": "fullstack-ts",
@@ -3966,6 +4426,27 @@
       },
       "id": "6c05f9121962",
       "foundAt": "2026-11-22T06:23:22.992Z"
+    },
+    {
+      "searchId": "temporada-invierno",
+      "title": "Hilfskoch (m/w/d) 100% im Tagesbetrieb, Wintersaison 26/27, Unterkünfte vorhanden",
+      "titleEs": "Ayudante de cocina (m/f/d) 100 % en turno de día, temporada de invierno 26/27, alojamiento disponible",
+      "company": "AlpinTrend AG",
+      "location": "Parpan GR",
+      "postedAt": "2026-11-21",
+      "source": "myjob.ch",
+      "url": "https://www.myjob.ch/job/hilfskoch-m-w-d-100-im-tagesbetrieb-wintersaison-26-27-unterkuenfte-vorhanden/3686462",
+      "summary": "Puesto de ayudante de cocina a jornada completa en turno de día para la temporada de invierno 2026/27 en Parpan (Lenzerheide). El anuncio indica que hay alojamiento disponible.",
+      "workload": "100 %",
+      "employmentType": "Contrato de temporada (invierno 26/27)",
+      "de": {
+        "title": "Hilfskoch (m/w/d) 100% im Tagesbetrieb, Wintersaison 26/27, Unterkünfte vorhanden",
+        "summary": "Hilfskoch-Stelle in Vollzeit im Tagesbetrieb für die Wintersaison 2026/27 in Parpan (Lenzerheide). Laut Inserat sind Unterkünfte vorhanden.",
+        "workload": "100 %",
+        "employmentType": "Saisonstelle (Winter 26/27)"
+      },
+      "id": "960add3616fb",
+      "foundAt": "2026-11-27T07:17:01.552Z"
     },
     {
       "searchId": "reinigung-flughafen",
