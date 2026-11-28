@@ -1,121 +1,121 @@
 {
-  "updatedAt": "2026-11-27T06:22:30.789Z",
+  "updatedAt": "2026-11-28T06:17:39.493Z",
   "searches": {
     "frontend-react": {
       "sources": {
         "jobs.ch": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?sort-by=date",
-          "offersReviewed": 20,
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=&location=Zürich&sort-by=date",
+          "offersReviewed": 60,
           "offersAdded": 0,
-          "note": "jobs.ch: cada keyword, Zürich/Winterthur/Zug, páginas 1-3, 14 días"
+          "note": "Keywords buscadas (Frontend/React/Web/Software Engineer/QA/Tester/Test Automation/Junior/IT Support/Praktikum) en Zürich y Winterthur, 1-2 páginas; no se cubrieron todas las keywords ni páginas 3-5 ni todas las localidades. Fechas relativas: solo se añadieron ofertas con fecha de hace ≤5 días."
         },
         "linkedin.com/jobs": {
-          "status": "ok",
-          "url": "https://ch.linkedin.com/jobs/frontend-developer-stellen-z%C3%BCrich",
-          "offersReviewed": 20,
-          "offersAdded": 4,
-          "note": "LinkedIn: solo se revisó 1 página (60 de 297) de \"Frontend Developer\" Zürich vía WebFetch; fechas de oferta leídas en la ficha. Otras keywords no revisadas (429 en la API)"
+          "status": "blocked",
+          "url": "",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "Redirección a ch.linkedin.com y HTTP 429 Too Many Requests; no se insiste."
         },
         "swissdevjobs.ch": {
           "status": "ok",
-          "url": "https://swissdevjobs.ch/api/jobsLight",
+          "url": "https://swissdevjobs.ch/jobs/Frontend/Zurich",
           "offersReviewed": 20,
-          "offersAdded": 4,
-          "note": "API completa filtrada por zona y fecha"
+          "offersAdded": 0,
+          "note": "Listados leídos (Frontend y QA Zürich) pero sin fecha de publicación (ni en la ficha), por lo que no se añadieron."
         },
         "jobscout24.ch": {
           "status": "ok",
-          "url": "https://www.jobscout24.ch/de/jobs/frontend-developer/",
+          "url": "https://www.jobscout24.ch/de/jobs/frontend-developer/zuerich/",
           "offersReviewed": 20,
           "offersAdded": 0,
-          "note": "jobscout24: búsquedas frontend-developer y software-tester + página de Experis; jobs.ch y jobscout24 comparten anuncios"
+          "note": "La página devolvió resultados no relacionados con el término (ofertas genéricas); sin ofertas IT aprovechables. Revisión parcial vía empresa Experis."
         },
         "wearedevelopers.com": {
-          "status": "blocked",
-          "url": "https://www.wearedevelopers.com/en/jobs/search",
-          "offersReviewed": 20,
+          "status": "error",
+          "url": "https://www.wearedevelopers.com/en/jobs?search=frontend&location=Zurich",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "410 Gone en WebFetch"
+          "note": "El filtro de país solo ofrecía EE. UU.; sin ofertas de Suiza visibles."
         },
         "join.com": {
           "status": "ok",
           "url": "https://join.com/companies/paretolabs",
-          "offersReviewed": 20,
+          "offersReviewed": 10,
           "offersAdded": 0,
-          "note": "WebSearch site:join.com; páginas de empresa: paretolabs, benetics, decentriq, optiml, transcality (sin ofertas dentro de 14 días)"
+          "note": "Búsqueda WebSearch de empresas (decentriq, optiml, paretolabs, benetics, transcality); páginas de empresa abiertas sin fechas ni ofertas IT adecuadas (Frontend Intern de Pareto sin fecha)."
         },
         "Startup-Plattformen (homerun.co, greenhouse.io, lever.co, ashbyhq.com, personio, recruitee, workable)": {
           "status": "ok",
           "url": "https://jobs.lever.co/anybotics",
-          "offersReviewed": 20,
+          "offersReviewed": 8,
           "offersAdded": 0,
-          "note": "WebSearch lever/greenhouse/ashby (frontend y QA) + API Lever anybotics; sin ofertas nuevas válidas"
+          "note": "WebSearch en lever/greenhouse/ashby: DeepJudge, ANYbotics, Jua, Comparis (Personio); sin fecha de publicación fiable, no se añadieron."
         }
       },
       "companies": {
         "Art of Work Personalberatung AG": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Art",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "https://www.art-of-work.ch/bewerber/offene-stellen",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "HTTP 307 sin seguir redirección."
         },
         "Rockstar Recruiting AG": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Rockstar",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "https://rockstar.jobs",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "La página no listaba ofertas (solo navegación). En swissdevjobs aparecen sus ofertas Frontend Banking/Java Fullstack sin fecha."
         },
         "Experis (ManpowerGroup)": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Experis",
-          "offersReviewed": 10,
+          "url": "https://jobscout24.ch/de/company/experis-ag/61186/",
+          "offersReviewed": 20,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "Página 1 de 101; sin ofertas IT de web en zona con fecha clara (Senior Full-Stack Angular 'Letzte Woche', sin fecha exacta)."
         },
         "Digitec Galaxus AG": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Digitec",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "https://www.galaxus.ch/en/jobs",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "HTTP 503. Vía jobs.ch aparece Teamleader Software Engineering Last Mile (11-27)."
         },
         "Pareto Labs": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Pareto",
-          "offersReviewed": 10,
+          "url": "https://join.com/companies/paretolabs",
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "3 ofertas (AI Engineer, AI PM, Frontend Developer Intern) sin fecha de publicación."
         },
         "Andeo AG": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Andeo",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "No revisada a fondo en esta ejecución: límite de alcance; no se abrió su página de empleo."
         },
         "ELCA Informatique SA": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=ELCA",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "https://elca-careers.com/",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "careers.elca.ch redirige a elca-careers.com, que enlaza a un portal Oracle (iaaras.fa.ocs.oraclecloud.com) no abierto."
         },
         "Prime21": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Prime21",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "No revisada a fondo en esta ejecución: límite de alcance; no se abrió su página de empleo."
         },
         "Impact Recruitment": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Impact",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "No revisada a fondo en esta ejecución: límite de alcance; no se abrió su página de empleo."
         }
       }
     },
@@ -123,215 +123,215 @@
       "sources": {
         "jobs.ch": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?sort-by=date",
-          "offersReviewed": 20,
-          "offersAdded": 20,
-          "note": "jobs.ch: cada keyword, Zürich/Winterthur/Zug, páginas 1-3, 14 días"
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=&location=Zürich&sort-by=date",
+          "offersReviewed": 60,
+          "offersAdded": 0,
+          "note": "Keywords buscadas (Frontend/React/Web/Software Engineer/QA/Tester/Test Automation/Junior/IT Support/Praktikum) en Zürich y Winterthur, 1-2 páginas; no se cubrieron todas las keywords ni páginas 3-5 ni todas las localidades. Fechas relativas: solo se añadieron ofertas con fecha de hace ≤5 días."
         },
         "linkedin.com/jobs": {
-          "status": "ok",
-          "url": "https://ch.linkedin.com/jobs/frontend-developer-stellen-z%C3%BCrich",
-          "offersReviewed": 20,
-          "offersAdded": 4,
-          "note": "LinkedIn: solo se revisó 1 página (60 de 297) de \"Frontend Developer\" Zürich vía WebFetch; fechas de oferta leídas en la ficha. Otras keywords no revisadas (429 en la API)"
+          "status": "blocked",
+          "url": "",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "Redirección a ch.linkedin.com y HTTP 429 Too Many Requests; no se insiste."
         },
         "swissdevjobs.ch": {
           "status": "ok",
-          "url": "https://swissdevjobs.ch/api/jobsLight",
+          "url": "https://swissdevjobs.ch/jobs/Frontend/Zurich",
           "offersReviewed": 20,
-          "offersAdded": 6,
-          "note": "API completa filtrada por zona y fecha"
+          "offersAdded": 0,
+          "note": "Listados leídos (Frontend y QA Zürich) pero sin fecha de publicación (ni en la ficha), por lo que no se añadieron."
         },
         "jobscout24.ch": {
           "status": "ok",
-          "url": "https://www.jobscout24.ch/de/jobs/frontend-developer/",
-          "offersReviewed": 20,
-          "offersAdded": 1,
-          "note": "jobscout24: búsquedas frontend-developer y software-tester + página de Experis; jobs.ch y jobscout24 comparten anuncios"
-        },
-        "wearedevelopers.com": {
-          "status": "blocked",
-          "url": "https://www.wearedevelopers.com/en/jobs/search",
+          "url": "https://www.jobscout24.ch/de/jobs/frontend-developer/zuerich/",
           "offersReviewed": 20,
           "offersAdded": 0,
-          "note": "410 Gone en WebFetch"
+          "note": "La página devolvió resultados no relacionados con el término (ofertas genéricas); sin ofertas IT aprovechables. Revisión parcial vía empresa Experis."
+        },
+        "wearedevelopers.com": {
+          "status": "error",
+          "url": "https://www.wearedevelopers.com/en/jobs?search=frontend&location=Zurich",
+          "offersReviewed": 0,
+          "offersAdded": 0,
+          "note": "El filtro de país solo ofrecía EE. UU.; sin ofertas de Suiza visibles."
         },
         "join.com": {
           "status": "ok",
           "url": "https://join.com/companies/paretolabs",
-          "offersReviewed": 20,
+          "offersReviewed": 10,
           "offersAdded": 0,
-          "note": "WebSearch site:join.com; páginas de empresa: paretolabs, benetics, decentriq, optiml, transcality (sin ofertas dentro de 14 días)"
+          "note": "Búsqueda WebSearch de empresas (decentriq, optiml, paretolabs, benetics, transcality); páginas de empresa abiertas sin fechas ni ofertas IT adecuadas (Frontend Intern de Pareto sin fecha)."
         },
         "Startup-Plattformen (homerun.co, greenhouse.io, lever.co, ashbyhq.com, personio, recruitee, workable)": {
           "status": "ok",
           "url": "https://jobs.lever.co/anybotics",
-          "offersReviewed": 20,
+          "offersReviewed": 8,
           "offersAdded": 0,
-          "note": "WebSearch lever/greenhouse/ashby (frontend y QA) + API Lever anybotics; sin ofertas nuevas válidas"
+          "note": "WebSearch en lever/greenhouse/ashby: DeepJudge, ANYbotics, Jua, Comparis (Personio); sin fecha de publicación fiable, no se añadieron."
         }
       },
       "companies": {
         "Liip": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Liip",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "https://jobs.liip.ch/",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "Solo se vio una Lehrstelle (aprendizaje EFZ), sin fecha."
         },
         "Unic": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Unic",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "No revisada a fondo en esta ejecución: límite de alcance; no se abrió su página de empleo."
         },
         "Merkle Schweiz": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Merkle",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "No revisada a fondo en esta ejecución: límite de alcance; no se abrió su página de empleo."
         },
         "Zühlke": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Zühlke",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "https://www.zuehlke.com/en/careers/jobs",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "HTTP 404. Vía jobs.ch: Test Manager IoT/Actuators (Schlieren) no añadidos."
         },
         "AdNovum": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=AdNovum",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "https://www.adnovum.com/careers",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "Página sin listado; careers.adnovum.com/search/ no abierta."
         },
         "Netcetera": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Netcetera",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "https://www.netcetera.com/careers.html",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "Sin listado; /careers/open-positions.html dio 404."
         },
         "Ergon Informatik": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Ergon",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "https://www.ergon.ch/en/career/jobs",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "HTTP 404. En swissdevjobs: Senior Fullstack Software Engineer sin fecha."
         },
         "Swisscom": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Swisscom",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "No revisada a fondo en esta ejecución: límite de alcance; no se abrió su página de empleo."
         },
         "SBB": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=SBB",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "No revisada a fondo en esta ejecución: límite de alcance; no se abrió su página de empleo."
         },
         "On": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=On",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "No revisada a fondo en esta ejecución: límite de alcance; no se abrió su página de empleo."
         },
         "Beekeeper": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Beekeeper",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "No revisada a fondo en esta ejecución: límite de alcance; no se abrió su página de empleo."
         },
         "Scandit": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Scandit",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "No revisada a fondo en esta ejecución: límite de alcance; no se abrió su página de empleo."
         },
         "Smallpdf": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Smallpdf",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "No revisada a fondo en esta ejecución: límite de alcance; no se abrió su página de empleo."
         },
         "Yokoy": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Yokoy",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "No revisada a fondo en esta ejecución: límite de alcance; no se abrió su página de empleo."
         },
         "Sherpany": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Sherpany",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "No revisada a fondo en esta ejecución: límite de alcance; no se abrió su página de empleo."
         },
         "SMG Swiss Marketplace Group": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=SMG",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "https://careers.smg.ch",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "Dominio no resuelto (fuera de la red permitida)."
         },
         "Ringier": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Ringier",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "No revisada a fondo en esta ejecución: límite de alcance; no se abrió su página de empleo."
         },
         "TX Group": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=TX",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "No revisada a fondo en esta ejecución: límite de alcance; no se abrió su página de empleo."
         },
         "Migros-Genossenschafts-Bund (IT)": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Migros-Genossenschafts-Bund",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "No revisada a fondo en esta ejecución: límite de alcance; no se abrió su página de empleo."
         },
         "Zurich Insurance": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Zurich",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "No revisada a fondo en esta ejecución: límite de alcance; no se abrió su página de empleo."
         },
         "Swiss Re": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Swiss",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "No revisada a fondo en esta ejecución: límite de alcance; no se abrió su página de empleo."
         },
         "UBS": {
-          "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=UBS",
-          "offersReviewed": 10,
+          "status": "error",
+          "url": "",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "No revisada a fondo en esta ejecución: límite de alcance; no se abrió su página de empleo."
         },
         "Benetics AI": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?term=Benetics",
-          "offersReviewed": 10,
+          "url": "https://join.com/companies/benetics",
+          "offersReviewed": 3,
           "offersAdded": 0,
-          "note": "Revisado vía listado de la empresa en jobs.ch/jobscout24 (no se pudo cargar su web propia o requiere JS); sin ofertas IT nuevas en zona salvo las indicadas"
+          "note": "3 ofertas (ventas/marketing/operaciones), ninguna IT."
         }
       }
     },
@@ -339,52 +339,52 @@
       "sources": {
         "jobs.ch": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?sort-by=date",
-          "offersReviewed": 20,
-          "offersAdded": 7,
-          "note": "jobs.ch: cada keyword, Zürich/Winterthur/Zug, páginas 1-3, 14 días"
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=&location=Zürich&sort-by=date",
+          "offersReviewed": 60,
+          "offersAdded": 0,
+          "note": "Keywords buscadas (Frontend/React/Web/Software Engineer/QA/Tester/Test Automation/Junior/IT Support/Praktikum) en Zürich y Winterthur, 1-2 páginas; no se cubrieron todas las keywords ni páginas 3-5 ni todas las localidades. Fechas relativas: solo se añadieron ofertas con fecha de hace ≤5 días."
         },
         "linkedin.com/jobs": {
-          "status": "ok",
-          "url": "https://ch.linkedin.com/jobs/frontend-developer-stellen-z%C3%BCrich",
-          "offersReviewed": 20,
+          "status": "blocked",
+          "url": "",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "LinkedIn: solo se revisó 1 página (60 de 297) de \"Frontend Developer\" Zürich vía WebFetch; fechas de oferta leídas en la ficha. Otras keywords no revisadas (429 en la API)"
+          "note": "Redirección a ch.linkedin.com y HTTP 429 Too Many Requests; no se insiste."
         },
         "swissdevjobs.ch": {
           "status": "ok",
-          "url": "https://swissdevjobs.ch/api/jobsLight",
+          "url": "https://swissdevjobs.ch/jobs/Frontend/Zurich",
           "offersReviewed": 20,
           "offersAdded": 0,
-          "note": "API completa filtrada por zona y fecha"
+          "note": "Listados leídos (Frontend y QA Zürich) pero sin fecha de publicación (ni en la ficha), por lo que no se añadieron."
         },
         "jobscout24.ch": {
           "status": "ok",
-          "url": "https://www.jobscout24.ch/de/jobs/frontend-developer/",
+          "url": "https://www.jobscout24.ch/de/jobs/frontend-developer/zuerich/",
           "offersReviewed": 20,
           "offersAdded": 0,
-          "note": "jobscout24: búsquedas frontend-developer y software-tester + página de Experis; jobs.ch y jobscout24 comparten anuncios"
+          "note": "La página devolvió resultados no relacionados con el término (ofertas genéricas); sin ofertas IT aprovechables. Revisión parcial vía empresa Experis."
         },
         "wearedevelopers.com": {
-          "status": "blocked",
-          "url": "https://www.wearedevelopers.com/en/jobs/search",
-          "offersReviewed": 20,
+          "status": "error",
+          "url": "https://www.wearedevelopers.com/en/jobs?search=frontend&location=Zurich",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "410 Gone en WebFetch"
+          "note": "El filtro de país solo ofrecía EE. UU.; sin ofertas de Suiza visibles."
         },
         "join.com": {
           "status": "ok",
           "url": "https://join.com/companies/paretolabs",
-          "offersReviewed": 20,
+          "offersReviewed": 10,
           "offersAdded": 0,
-          "note": "WebSearch site:join.com; páginas de empresa: paretolabs, benetics, decentriq, optiml, transcality (sin ofertas dentro de 14 días)"
+          "note": "Búsqueda WebSearch de empresas (decentriq, optiml, paretolabs, benetics, transcality); páginas de empresa abiertas sin fechas ni ofertas IT adecuadas (Frontend Intern de Pareto sin fecha)."
         },
         "Startup-Plattformen (homerun.co, greenhouse.io, lever.co, ashbyhq.com, personio, recruitee, workable)": {
           "status": "ok",
           "url": "https://jobs.lever.co/anybotics",
-          "offersReviewed": 20,
+          "offersReviewed": 8,
           "offersAdded": 0,
-          "note": "WebSearch lever/greenhouse/ashby (frontend y QA) + API Lever anybotics; sin ofertas nuevas válidas"
+          "note": "WebSearch en lever/greenhouse/ashby: DeepJudge, ANYbotics, Jua, Comparis (Personio); sin fecha de publicación fiable, no se añadieron."
         }
       },
       "companies": {}
@@ -393,52 +393,52 @@
       "sources": {
         "jobs.ch": {
           "status": "ok",
-          "url": "https://www.jobs.ch/de/stellenangebote/?sort-by=date",
-          "offersReviewed": 20,
-          "offersAdded": 12,
-          "note": "jobs.ch: cada keyword, Zürich/Winterthur/Zug, páginas 1-3, 14 días"
+          "url": "https://www.jobs.ch/de/stellenangebote/?term=&location=Zürich&sort-by=date",
+          "offersReviewed": 60,
+          "offersAdded": 0,
+          "note": "Keywords buscadas (Frontend/React/Web/Software Engineer/QA/Tester/Test Automation/Junior/IT Support/Praktikum) en Zürich y Winterthur, 1-2 páginas; no se cubrieron todas las keywords ni páginas 3-5 ni todas las localidades. Fechas relativas: solo se añadieron ofertas con fecha de hace ≤5 días."
         },
         "linkedin.com/jobs": {
-          "status": "ok",
-          "url": "https://ch.linkedin.com/jobs/frontend-developer-stellen-z%C3%BCrich",
-          "offersReviewed": 20,
+          "status": "blocked",
+          "url": "",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "LinkedIn: solo se revisó 1 página (60 de 297) de \"Frontend Developer\" Zürich vía WebFetch; fechas de oferta leídas en la ficha. Otras keywords no revisadas (429 en la API)"
+          "note": "Redirección a ch.linkedin.com y HTTP 429 Too Many Requests; no se insiste."
         },
         "swissdevjobs.ch": {
           "status": "ok",
-          "url": "https://swissdevjobs.ch/api/jobsLight",
+          "url": "https://swissdevjobs.ch/jobs/Frontend/Zurich",
           "offersReviewed": 20,
-          "offersAdded": 1,
-          "note": "API completa filtrada por zona y fecha"
+          "offersAdded": 0,
+          "note": "Listados leídos (Frontend y QA Zürich) pero sin fecha de publicación (ni en la ficha), por lo que no se añadieron."
         },
         "jobscout24.ch": {
           "status": "ok",
-          "url": "https://www.jobscout24.ch/de/jobs/frontend-developer/",
+          "url": "https://www.jobscout24.ch/de/jobs/frontend-developer/zuerich/",
           "offersReviewed": 20,
           "offersAdded": 0,
-          "note": "jobscout24: búsquedas frontend-developer y software-tester + página de Experis; jobs.ch y jobscout24 comparten anuncios"
+          "note": "La página devolvió resultados no relacionados con el término (ofertas genéricas); sin ofertas IT aprovechables. Revisión parcial vía empresa Experis."
         },
         "wearedevelopers.com": {
-          "status": "blocked",
-          "url": "https://www.wearedevelopers.com/en/jobs/search",
-          "offersReviewed": 20,
+          "status": "error",
+          "url": "https://www.wearedevelopers.com/en/jobs?search=frontend&location=Zurich",
+          "offersReviewed": 0,
           "offersAdded": 0,
-          "note": "410 Gone en WebFetch"
+          "note": "El filtro de país solo ofrecía EE. UU.; sin ofertas de Suiza visibles."
         },
         "join.com": {
           "status": "ok",
           "url": "https://join.com/companies/paretolabs",
-          "offersReviewed": 20,
+          "offersReviewed": 10,
           "offersAdded": 0,
-          "note": "WebSearch site:join.com; páginas de empresa: paretolabs, benetics, decentriq, optiml, transcality (sin ofertas dentro de 14 días)"
+          "note": "Búsqueda WebSearch de empresas (decentriq, optiml, paretolabs, benetics, transcality); páginas de empresa abiertas sin fechas ni ofertas IT adecuadas (Frontend Intern de Pareto sin fecha)."
         },
         "Startup-Plattformen (homerun.co, greenhouse.io, lever.co, ashbyhq.com, personio, recruitee, workable)": {
           "status": "ok",
           "url": "https://jobs.lever.co/anybotics",
-          "offersReviewed": 20,
+          "offersReviewed": 8,
           "offersAdded": 0,
-          "note": "WebSearch lever/greenhouse/ashby (frontend y QA) + API Lever anybotics; sin ofertas nuevas válidas"
+          "note": "WebSearch en lever/greenhouse/ashby: DeepJudge, ANYbotics, Jua, Comparis (Personio); sin fecha de publicación fiable, no se añadieron."
         }
       },
       "companies": {}
